@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <item id="54201" name="Vesper(Noble) Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">78</stat>
+            <stat type="maxMp">415</stat>
+        </stats>
+    </item>
+    <item id="54202" name="Vesper(Noble) Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">101</stat>
+        </stats>
+    </item>
+    <item id="54203" name="Vesper(Noble) Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">68</stat>
+        </stats>
+    </item>
+    <item id="54204" name="Vesper(Noble) Shoes" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">68</stat>
+        </stats>
+    </item>
+    <item id="54210" name="Vesper(Noble) Breastplate" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">250</stat>
+        </stats>
+    </item>
+    <item id="54211" name="Vesper(Noble) Gaiter" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">156</stat>
+        </stats>
+    </item>
+    <item id="54212" name="Vesper(Noble) Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">101</stat>
+        </stats>
+    </item>
+    <item id="54213" name="Vesper(Noble) Gauntlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">68</stat>
+        </stats>
+    </item>
+    <item id="54214" name="Vesper(Noble) Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">68</stat>
+        </stats>
+    </item>
+    <item id="54220" name="Vesper(Noble) Leather Chest" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">187</stat>
+        </stats>
+    </item>
+    <item id="54221" name="Vesper(Noble) Leather Leggings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_l_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">117</stat>
+        </stats>
+    </item>
+    <item id="54222" name="Vesper(Noble) Leather Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">101</stat>
+        </stats>
+    </item>
+    <item id="54223" name="Vesper(Noble) Leather Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">68</stat>
+        </stats>
+    </item>
+    <item id="54224" name="Vesper(Noble) Leather Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">68</stat>
+        </stats>
+    </item>
+    <item id="54230" name="Vesper(Noble) Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">125</stat>
+            <stat type="maxMp">637</stat>
+        </stats>
+    </item>
+    <item id="54231" name="Vesper(Noble) Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">78</stat>
+            <stat type="maxMp">415</stat>
+        </stats>
+    </item>
+    <item id="54232" name="Vesper(Noble) Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">101</stat>
+        </stats>
+    </item>
+    <item id="54233" name="Vesper(Noble) Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">68</stat>
+        </stats>
+    </item>
+    <item id="54234" name="Vesper(Noble) Shoes" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">68</stat>
+        </stats>
+    </item>
+</list>

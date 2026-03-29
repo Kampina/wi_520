@@ -1,0 +1,168 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/spawns.xsd">
+	<spawn name="TanorFortressFarm" spawnByDefault="false">
+		<group name="tanor_farm_fortress_siege_commanders">
+			<npc id="36129" x="61864" y="139257" z="-1726" heading="-18640" respawnTime="1200sec" />
+			<npc id="36132" x="59436" y="140834" z="-1724" heading="-18240" respawnTime="1200sec" />
+			<npc id="36135" x="58480" y="139648" z="-1472" heading="0" respawnTime="1200sec" />
+		</group>
+		<group name="tanor_farm_fortress_mercenary">
+			<npc id="36138" x="61597" y="142130" z="-1840" heading="-15820" respawnTime="600sec" />
+		</group>
+		<group name="tanor_farm_fortress_default_guards">
+			<npc id="36125" x="61498" y="140779" z="-1757" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="61531" y="140772" z="-1757" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="61565" y="140766" z="-1757" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="61596" y="140760" z="-1757" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="58929" y="138124" z="-1757" heading="-18664" respawnTime="600sec" />
+			<npc id="36125" x="58963" y="138116" z="-1757" heading="-18664" respawnTime="600sec" />
+			<npc id="36125" x="58996" y="138109" z="-1757" heading="-18664" respawnTime="600sec" />
+			<npc id="36125" x="59028" y="138102" z="-1757" heading="-18664" respawnTime="600sec" />
+			<npc id="36125" x="60449" y="140033" z="-1757" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="60415" y="140040" z="-1757" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="60383" y="140046" z="-1757" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="60349" y="140053" z="-1757" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="60207" y="138815" z="-1757" heading="-18664" respawnTime="600sec" />
+			<npc id="36125" x="60175" y="138822" z="-1757" heading="-18664" respawnTime="600sec" />
+			<npc id="36125" x="60143" y="138829" z="-1754" heading="-18664" respawnTime="600sec" />
+			<npc id="36125" x="60110" y="138835" z="-1757" heading="-18664" respawnTime="600sec" />
+			<npc id="36126" x="60368" y="141024" z="-1379" heading="14540" respawnTime="600sec" />
+			<npc id="36126" x="60416" y="141024" z="-1379" heading="14540" respawnTime="600sec" />
+			<npc id="36126" x="58944" y="141312" z="-1379" heading="14540" respawnTime="600sec" />
+			<npc id="36126" x="58896" y="141328" z="-1379" heading="14540" respawnTime="600sec" />
+			<npc id="36126" x="62368" y="140624" z="-1379" heading="14540" respawnTime="600sec" />
+			<npc id="36126" x="62400" y="140624" z="-1379" heading="14540" respawnTime="600sec" />
+			<npc id="36126" x="62880" y="139280" z="-1379" heading="0" respawnTime="600sec" />
+			<npc id="36126" x="62864" y="139232" z="-1379" heading="0" respawnTime="600sec" />
+			<npc id="36126" x="62688" y="138288" z="-1379" heading="0" respawnTime="600sec" />
+			<npc id="36126" x="62672" y="138256" z="-1379" heading="0" respawnTime="600sec" />
+			<npc id="36126" x="61616" y="137552" z="-1379" heading="-17588" respawnTime="600sec" />
+			<npc id="36126" x="61584" y="137568" z="-1379" heading="-17588" respawnTime="600sec" />
+			<npc id="36126" x="60144" y="137856" z="-1379" heading="-17588" respawnTime="600sec" />
+			<npc id="36126" x="60112" y="137856" z="-1379" heading="-17588" respawnTime="600sec" />
+			<npc id="36126" x="58160" y="138256" z="-1379" heading="-17588" respawnTime="600sec" />
+			<npc id="36126" x="58112" y="138256" z="-1379" heading="-17588" respawnTime="600sec" />
+			<npc id="36126" x="57552" y="139120" z="-1379" heading="30856" respawnTime="600sec" />
+			<npc id="36126" x="57568" y="139152" z="-1379" heading="30856" respawnTime="600sec" />
+			<npc id="36126" x="57808" y="140416" z="-1379" heading="30692" respawnTime="600sec" />
+			<npc id="36126" x="57824" y="140448" z="-1379" heading="30692" respawnTime="600sec" />
+			<npc id="36126" x="61034" y="140240" z="-1757" heading="7020" respawnTime="600sec" />
+			<npc id="36126" x="60928" y="140272" z="-1757" heading="7020" respawnTime="600sec" />
+			<npc id="36126" x="60960" y="140224" z="-1757" heading="7020" respawnTime="600sec" />
+			<npc id="36126" x="60992" y="140176" z="-1757" heading="7020" respawnTime="600sec" />
+			<npc id="36126" x="61024" y="140144" z="-1757" heading="7020" respawnTime="600sec" />
+			<npc id="36126" x="59461" y="138686" z="-1757" heading="-25856" respawnTime="600sec" />
+			<npc id="36126" x="59456" y="138784" z="-1757" heading="-25856" respawnTime="600sec" />
+			<npc id="36126" x="59489" y="138738" z="-1757" heading="-25856" respawnTime="600sec" />
+			<npc id="36126" x="59521" y="138698" z="-1757" heading="-25856" respawnTime="600sec" />
+			<npc id="36126" x="59552" y="138658" z="-1757" heading="-25856" respawnTime="600sec" />
+			<npc id="36126" x="61897" y="140473" z="-1307" heading="30684" respawnTime="600sec" />
+			<npc id="36126" x="61891" y="140444" z="-1307" heading="30684" respawnTime="600sec" />
+			<npc id="36126" x="61903" y="140503" z="-1307" heading="30684" respawnTime="600sec" />
+			<npc id="36126" x="61933" y="140466" z="-1307" heading="30684" respawnTime="600sec" />
+			<npc id="36126" x="61111" y="140630" z="-1312" heading="-2180" respawnTime="600sec" />
+			<npc id="36126" x="61118" y="140660" z="-1312" heading="-2180" respawnTime="600sec" />
+			<npc id="36126" x="61105" y="140600" z="-1312" heading="-2180" respawnTime="600sec" />
+			<npc id="36126" x="61072" y="140639" z="-1312" heading="-2180" respawnTime="600sec" />
+			<npc id="36126" x="58634" y="138406" z="-1307" heading="-2384" respawnTime="600sec" />
+			<npc id="36126" x="58640" y="138435" z="-1307" heading="-2384" respawnTime="600sec" />
+			<npc id="36126" x="58628" y="138378" z="-1307" heading="-2384" respawnTime="600sec" />
+			<npc id="36126" x="58602" y="138414" z="-1307" heading="-2384" respawnTime="600sec" />
+			<npc id="36126" x="59422" y="138249" z="-1312" heading="30576" respawnTime="600sec" />
+			<npc id="36126" x="59416" y="138219" z="-1312" heading="30576" respawnTime="600sec" />
+			<npc id="36126" x="59429" y="138278" z="-1312" heading="30576" respawnTime="600sec" />
+			<npc id="36126" x="59453" y="138242" z="-1312" heading="30576" respawnTime="600sec" />
+		</group>
+		<group name="tanor_farm_fortress_live_with_c_center">
+			<npc id="36133" x="62134" y="140145" z="-1397" heading="14420" respawnTime="600sec" />
+			<npc id="36134" x="62103" y="140151" z="-1397" heading="14420" respawnTime="600sec" />
+			<npc id="36126" x="62139" y="140170" z="-1397" heading="14420" respawnTime="600sec" />
+			<npc id="36126" x="62108" y="140176" z="-1397" heading="14420" respawnTime="600sec" />
+			<npc id="36133" x="61840" y="140652" z="-1574" heading="-18600" respawnTime="600sec" />
+			<npc id="36134" x="61870" y="140645" z="-1574" heading="-18600" respawnTime="600sec" />
+			<npc id="36126" x="61835" y="140628" z="-1574" heading="-18600" respawnTime="600sec" />
+			<npc id="36126" x="61865" y="140621" z="-1574" heading="-18600" respawnTime="600sec" />
+			<npc id="36133" x="60798" y="140414" z="-1399" heading="14196" respawnTime="600sec" />
+			<npc id="36134" x="60769" y="140420" z="-1399" heading="14196" respawnTime="600sec" />
+			<npc id="36126" x="60804" y="140438" z="-1399" heading="14196" respawnTime="600sec" />
+			<npc id="36126" x="60774" y="140444" z="-1399" heading="14196" respawnTime="600sec" />
+			<npc id="36133" x="61232" y="140774" z="-1576" heading="-18404" respawnTime="600sec" />
+			<npc id="36134" x="61204" y="140780" z="-1576" heading="-18404" respawnTime="600sec" />
+			<npc id="36126" x="61227" y="140749" z="-1576" heading="-18404" respawnTime="600sec" />
+			<npc id="36126" x="61198" y="140754" z="-1576" heading="-18404" respawnTime="600sec" />
+			<npc id="36133" x="58396" y="138732" z="-1397" heading="-18596" respawnTime="600sec" />
+			<npc id="36134" x="58425" y="138726" z="-1397" heading="-18596" respawnTime="600sec" />
+			<npc id="36126" x="58392" y="138707" z="-1397" heading="-18596" respawnTime="600sec" />
+			<npc id="36126" x="58421" y="138702" z="-1397" heading="-18596" respawnTime="600sec" />
+			<npc id="36133" x="58691" y="138229" z="-1574" heading="13984" respawnTime="600sec" />
+			<npc id="36134" x="58663" y="138235" z="-1574" heading="13984" respawnTime="600sec" />
+			<npc id="36126" x="58697" y="138254" z="-1574" heading="13984" respawnTime="600sec" />
+			<npc id="36126" x="58669" y="138260" z="-1574" heading="13984" respawnTime="600sec" />
+			<npc id="36133" x="59768" y="138457" z="-1399" heading="-18780" respawnTime="600sec" />
+			<npc id="36134" x="59738" y="138463" z="-1399" heading="-18780" respawnTime="600sec" />
+			<npc id="36126" x="59763" y="138432" z="-1399" heading="-18780" respawnTime="600sec" />
+			<npc id="36126" x="59733" y="138438" z="-1399" heading="-18780" respawnTime="600sec" />
+			<npc id="36133" x="59302" y="138107" z="-1576" heading="14120" respawnTime="600sec" />
+			<npc id="36134" x="59331" y="138101" z="-1576" heading="14120" respawnTime="600sec" />
+			<npc id="36126" x="59307" y="138131" z="-1576" heading="14120" respawnTime="600sec" />
+			<npc id="36126" x="59336" y="138125" z="-1576" heading="14120" respawnTime="600sec" />
+			<npc id="36133" x="59590" y="140849" z="-1724" heading="-30192" respawnTime="600sec" />
+			<npc id="36133" x="59677" y="140648" z="-1724" heading="27056" respawnTime="600sec" />
+			<npc id="36134" x="59502" y="140575" z="-1724" heading="19184" respawnTime="600sec" />
+			<npc id="36133" x="59283" y="140618" z="-1724" heading="9912" respawnTime="600sec" />
+			<npc id="36133" x="59138" y="140756" z="-1724" heading="2480" respawnTime="600sec" />
+			<npc id="36134" x="59280" y="140903" z="-1724" heading="-7536" respawnTime="600sec" />
+			<npc id="36136" x="58607" y="139881" z="-1571" heading="-18664" respawnTime="600sec" />
+			<npc id="36136" x="58574" y="139888" z="-1571" heading="-18664" respawnTime="600sec" />
+			<npc id="36136" x="58374" y="139402" z="-1571" heading="14480" respawnTime="600sec" />
+			<npc id="36136" x="58410" y="139394" z="-1571" heading="14480" respawnTime="600sec" />
+			<npc id="36136" x="58496" y="139649" z="-1680" heading="0" respawnTime="600sec" />
+			<npc id="36136" x="58752" y="139825" z="-1675" heading="14480" respawnTime="600sec" />
+			<npc id="36136" x="58320" y="139904" z="-1680" heading="14480" respawnTime="600sec" />
+			<npc id="36136" x="58275" y="139866" z="-1675" heading="30776" respawnTime="600sec" />
+			<npc id="36136" x="58205" y="139512" z="-1675" heading="30776" respawnTime="600sec" />
+			<npc id="36136" x="58240" y="139457" z="-1680" heading="-18664" respawnTime="600sec" />
+			<npc id="36136" x="58656" y="139377" z="-1680" heading="-18664" respawnTime="600sec" />
+			<npc id="36136" x="58707" y="139408" z="-1680" heading="-2000" respawnTime="600sec" />
+			<npc id="36136" x="58783" y="139771" z="-1680" heading="-2000" respawnTime="600sec" />
+			<npc id="36130" x="61923" y="139186" z="-1726" heading="14280" respawnTime="600sec" />
+			<npc id="36130" x="61886" y="139193" z="-1726" heading="14280" respawnTime="600sec" />
+			<npc id="36130" x="61851" y="139200" z="-1726" heading="14280" respawnTime="600sec" />
+			<npc id="36130" x="61815" y="139207" z="-1726" heading="14280" respawnTime="600sec" />
+			<npc id="36130" x="61778" y="139215" z="-1726" heading="14280" respawnTime="600sec" />
+			<npc id="36131" x="61916" y="139151" z="-1726" heading="14280" respawnTime="600sec" />
+			<npc id="36131" x="61879" y="139157" z="-1726" heading="14280" respawnTime="600sec" />
+			<npc id="36131" x="61844" y="139164" z="-1726" heading="14280" respawnTime="600sec" />
+			<npc id="36131" x="61808" y="139170" z="-1726" heading="14280" respawnTime="600sec" />
+			<npc id="36131" x="61771" y="139177" z="-1726" heading="14280" respawnTime="600sec" />
+		</group>
+		<group name="tanor_farm_fortress_owner_flagdef">
+			<npc id="36126" x="60254" y="139545" z="-832" heading="14480" respawnTime="600sec" />
+			<npc id="36126" x="60287" y="139539" z="-832" heading="14480" respawnTime="600sec" />
+			<npc id="36126" x="60317" y="139534" z="-832" heading="14480" respawnTime="600sec" />
+			<npc id="36126" x="60348" y="139528" z="-832" heading="14480" respawnTime="600sec" />
+			<npc id="36126" x="60213" y="139341" z="-832" heading="-18664" respawnTime="600sec" />
+			<npc id="36126" x="60243" y="139334" z="-832" heading="-18664" respawnTime="600sec" />
+			<npc id="36126" x="60272" y="139328" z="-832" heading="-18664" respawnTime="600sec" />
+			<npc id="36126" x="60303" y="139321" z="-832" heading="-18664" respawnTime="600sec" />
+			<npc id="36125" x="60582" y="139674" z="-862" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="60551" y="139680" z="-862" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="60520" y="139685" z="-862" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="60488" y="139691" z="-862" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="60456" y="139697" z="-862" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="60425" y="139703" z="-862" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="60394" y="139708" z="-862" heading="14480" respawnTime="600sec" />
+			<npc id="36125" x="60362" y="139714" z="-863" heading="14480" respawnTime="600sec" />
+		</group>
+		<group name="tanor_farm_fortress_reinforce_1">
+			<npc id="36126" x="60880" y="140240" z="-1757" heading="7020" respawnTime="600sec" />
+			<npc id="36126" x="60912" y="140192" z="-1757" heading="7020" respawnTime="600sec" />
+			<npc id="36126" x="60944" y="140144" z="-1757" heading="7020" respawnTime="600sec" />
+			<npc id="36126" x="60976" y="140112" z="-1757" heading="7020" respawnTime="600sec" />
+			<npc id="36126" x="59587" y="138686" z="-1757" heading="-25856" respawnTime="600sec" />
+			<npc id="36126" x="59558" y="138727" z="-1757" heading="-25856" respawnTime="600sec" />
+			<npc id="36126" x="59527" y="138768" z="-1757" heading="-25856" respawnTime="600sec" />
+			<npc id="36126" x="59491" y="138812" z="-1757" heading="-25856" respawnTime="600sec" />
+		</group>
+	</spawn>
+</list>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../../xsd/spawns.xsd">
+	<spawn name="Innadril_Heine">
+		<group>
+		<npc id="30891" x="115957" y="217807" z="-3576" heading="29320" respawnTime="60sec" /> <!-- Verona, Merchant -->
+		<npc id="30899" x="111386" y="219413" z="-3544" heading="49756" respawnTime="60sec" /> <!-- Flauen, Merchant -->
+		<npc id="30516" x="115799" y="217684" z="-3576" heading="16416" respawnTime="60sec" /> <!-- Reep, Merchant -->
+		<npc id="30517" x="115957" y="217807" z="-3576" heading="29320" respawnTime="60sec" /> <!-- Shari, Merchant -->
+		<npc id="31444" x="107082" y="216673" z="-3592" heading="13168" respawnTime="60sec" /> <!-- Cona, Merchant -->
+		<npc id="32877" x="107141" y="216674" z="-3592" heading="19624" respawnTime="60sec" /> <!-- Plani, Merchant -->
+		<npc id="30894" x="109627" y="220168" z="-3520" heading="0" respawnTime="60sec" /> <!-- Natools, VillageMaster -->
+		<npc id="30895" x="109623" y="220091" z="-3520" heading="2088" respawnTime="60sec" /> <!-- Kluck, Warehouse -->
+		<npc id="30896" x="109625" y="220238" z="-3520" heading="62216" respawnTime="60sec" /> <!-- Mia, Warehouse -->
+		<npc id="30897" x="108003" y="218963" z="-3648" heading="43208" respawnTime="60sec" /> <!-- Roman, VillageMaster -->
+		<npc id="30898" x="107763" y="218725" z="-3656" heading="12192" respawnTime="60sec" /> <!-- Morning, Trainer -->
+		<npc id="30905" x="111385" y="216821" z="-3456" heading="16264" respawnTime="60sec" /> <!-- Squillari, VillageMaster -->
+		<npc id="30913" x="108683" y="218942" z="-3674" heading="32500" respawnTime="60sec" /> <!-- Tushku, VillageMaster -->
+		<npc id="30914" x="108656" y="219056" z="-3676" heading="48500" respawnTime="60sec" /> <!-- Sorbo, Trainer -->
+		<npc id="30915" x="108652" y="218856" z="-3672" heading="32500" respawnTime="60sec" /> <!-- Takina, Trainer -->
+		<npc id="31036" x="106938" y="218283" z="-3664" heading="0" respawnTime="60sec" /> <!-- Centurion, Guard -->
+		<npc id="31036" x="115737" y="219156" z="-3659" heading="32768" respawnTime="60sec" /> <!-- Centurion, Guard -->
+		<npc id="31036" x="115735" y="219407" z="-3659" heading="32768" respawnTime="60sec" /> <!-- Centurion, Guard -->
+		<npc id="31036" x="118944" y="219120" z="-3568" heading="0" respawnTime="60sec" /> <!-- Centurion, Guard -->
+		<npc id="31036" x="118944" y="219437" z="-3568" heading="0" respawnTime="60sec" /> <!-- Centurion, Guard -->
+		<npc id="30924" x="112050" y="225462" z="-3624" heading="40960" respawnTime="60sec" /> <!-- Nedy, Npc -->
+		<npc id="30969" x="109695" y="220028" z="-3512" heading="7656" respawnTime="60sec" /> <!-- Iason Heine, Npc -->
+		<npc id="31042" x="106955" y="216987" z="-3592" heading="0" respawnTime="60sec" /> <!-- Kantabilon, Npc -->
+		<npc id="31050" x="107253" y="217252" z="-3592" heading="39408" respawnTime="60sec" /> <!-- Thora, SymbolMaker -->
+		<npc id="31082" x="111386" y="220908" z="-3544" heading="16000" respawnTime="60sec" /> <!-- Priest of Dawn, SignsPriest -->
+		<npc id="31089" x="112486" y="220173" z="-3592" heading="33000" respawnTime="60sec" /> <!-- Dusk Priestess, SignsPriest -->
+		<npc id="31092" x="113481" y="218450" z="-3624" heading="33000" respawnTime="60sec" /> <!-- Black Marketeer of Mammon, SignsPriest -->
+		<npc id="31575" x="107025" y="217312" z="-3592" heading="49000" respawnTime="60sec" /> <!-- Litulon, Fisherman -->
+		<npc id="31688" x="112336" y="220128" z="-3599" heading="33000" respawnTime="60sec" /> <!-- Grand Olympiad Manager, OlympiadManager -->
+		<npc id="31690" x="112336" y="220208" z="-3599" heading="33000" respawnTime="60sec" /> <!-- Monument of Heroes , OlympiadObelisk -->
+		<npc id="31036" x="118920" y="219448" z="-3599" heading="60699" respawnTime="60sec" /> <!-- Centurion, Guard -->
+		<npc id="31036" x="118920" y="219080" z="-3594" heading="60699" respawnTime="60sec" /> <!-- Centurion, Guard -->
+		<npc id="31032" x="118920" y="219448" z="-3599" heading="60699" respawnTime="60sec" /> <!-- Guard, Guard -->
+		<npc id="31032" x="118920" y="219080" z="-3594" heading="60699" respawnTime="60sec" /> <!-- Guard, Guard -->
+		<npc id="31034" x="118920" y="219448" z="-3599" heading="60699" respawnTime="60sec" /> <!-- Sentry, Guard -->
+		<npc id="31034" x="118920" y="219080" z="-3594" heading="60699" respawnTime="60sec" /> <!-- Sentry, Guard -->
+		</group>
+	</spawn>
+</list>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="119" name="Aaru Fortress">
+	<doors>
+		<door id="22230001" />
+		<door id="22230008" />
+		<door id="22230004" group="commander_doors" />
+		<door id="22230005" group="commander_doors" />
+		<door id="22230006" group="commander_doors" />
+		<door id="22230007" group="commander_doors" />
+		<door id="22230002" group="captain_doors" />
+		<door id="22230003" group="captain_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

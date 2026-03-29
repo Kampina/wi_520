@@ -1,0 +1,199 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/spawns.xsd">
+	<spawn name="SouthernFortressFarm" spawnByDefault="false">
+		<group name="southern_farm_fortress_siege_commanders">
+			<npc id="35713" x="-22992" y="218160" z="-3208" heading="0" respawnTime="1200sec" />
+			<npc id="35716" x="-21520" y="221504" z="-3210" heading="-20208" respawnTime="1200sec" />
+			<npc id="35719" x="-21328" y="218864" z="-2960" heading="0" respawnTime="1200sec" />
+			<npc id="35721" x="-22728" y="221746" z="-3200" heading="-32368" respawnTime="1200sec" />
+		</group>
+		<group name="southern_farm_fortress_mercenary">
+			<npc id="35724" x="-18864" y="218592" z="-3424" heading="19244" respawnTime="600sec" />
+		</group>
+		<group name="southern_farm_fortress_out_power_units">
+			<npc id="35708" x="-24394" y="219179" z="-3239" heading="24964" respawnTime="600sec" />
+			<npc id="35708" x="-23765" y="219176" z="-3239" heading="8152" respawnTime="600sec" />
+			<npc id="35708" x="-23764" y="218552" z="-3239" heading="-7500" respawnTime="600sec" />
+			<npc id="35708" x="-24397" y="218548" z="-3239" heading="-25356" respawnTime="600sec" />
+			<npc id="35709" x="-23490" y="218863" z="-3239" heading="0" respawnTime="600sec" />
+		</group>
+		<group name="southern_farm_fortress_in_power_units">
+			<npc id="35710" x="-24096" y="219296" z="-3174" heading="-13776" respawnTime="600sec" />
+			<npc id="35710" x="-24528" y="218864" z="-3142" heading="0" respawnTime="600sec" />
+			<npc id="35710" x="-24080" y="218416" z="-3110" heading="17068" respawnTime="600sec" />
+		</group>
+		<group name="southern_farm_fortress_default_guards">
+			<npc id="35705" x="-20208" y="219936" z="-3239" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-20208" y="219904" z="-3240" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-20208" y="219872" z="-3240" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-20207" y="219839" z="-3239" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-25156" y="219923" z="-3239" heading="32716" respawnTime="600sec" />
+			<npc id="35705" x="-25156" y="219891" z="-3240" heading="32716" respawnTime="600sec" />
+			<npc id="35705" x="-25156" y="219859" z="-3240" heading="32716" respawnTime="600sec" />
+			<npc id="35705" x="-25156" y="219826" z="-3239" heading="32716" respawnTime="600sec" />
+			<npc id="35705" x="-22081" y="219853" z="-3239" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-22081" y="219821" z="-3240" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-22081" y="219789" z="-3240" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-22081" y="219756" z="-3239" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-23327" y="219850" z="-3223" heading="32716" respawnTime="600sec" />
+			<npc id="35705" x="-23327" y="219818" z="-3224" heading="32716" respawnTime="600sec" />
+			<npc id="35705" x="-23327" y="219786" z="-3224" heading="32716" respawnTime="600sec" />
+			<npc id="35705" x="-23327" y="219753" z="-3223" heading="32716" respawnTime="600sec" />
+			<npc id="35706" x="-20304" y="219024" z="-2859" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-20304" y="218992" z="-2859" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-21008" y="217984" z="-2859" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-20992" y="218000" z="-2859" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-22256" y="217472" z="-2859" heading="-17512" respawnTime="600sec" />
+			<npc id="35706" x="-22288" y="217472" z="-2859" heading="-17512" respawnTime="600sec" />
+			<npc id="35706" x="-23280" y="217472" z="-2859" heading="-15540" respawnTime="600sec" />
+			<npc id="35706" x="-23248" y="217472" z="-2859" heading="-15540" respawnTime="600sec" />
+			<npc id="35706" x="-24656" y="218288" z="-2859" heading="-30116" respawnTime="600sec" />
+			<npc id="35706" x="-24640" y="218272" z="-2859" heading="-30116" respawnTime="600sec" />
+			<npc id="35706" x="-25072" y="219008" z="-2859" heading="-31940" respawnTime="600sec" />
+			<npc id="35706" x="-25056" y="218992" z="-2859" heading="-31940" respawnTime="600sec" />
+			<npc id="35706" x="-25072" y="220752" z="-2859" heading="30696" respawnTime="600sec" />
+			<npc id="35706" x="-25056" y="220784" z="-2859" heading="30696" respawnTime="600sec" />
+			<npc id="35706" x="-24656" y="221472" z="-2859" heading="27176" respawnTime="600sec" />
+			<npc id="35706" x="-24640" y="221504" z="-2859" heading="27176" respawnTime="600sec" />
+			<npc id="35706" x="-23280" y="222288" z="-2859" heading="18436" respawnTime="600sec" />
+			<npc id="35706" x="-23248" y="222288" z="-2859" heading="18436" respawnTime="600sec" />
+			<npc id="35706" x="-22288" y="222288" z="-2859" heading="17072" respawnTime="600sec" />
+			<npc id="35706" x="-22256" y="222288" z="-2859" heading="17072" respawnTime="600sec" />
+			<npc id="35706" x="-21744" y="222208" z="-2859" heading="8936" respawnTime="600sec" />
+			<npc id="35706" x="-21712" y="222176" z="-2859" heading="8936" respawnTime="600sec" />
+			<npc id="35706" x="-20400" y="220928" z="-2859" heading="6864" respawnTime="600sec" />
+			<npc id="35706" x="-20384" y="220896" z="-2859" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-21297" y="219688" z="-3239" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-21347" y="219734" z="-3236" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-21347" y="219702" z="-3237" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-21347" y="219670" z="-3237" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-21347" y="219638" z="-3236" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-24144" y="219936" z="-3239" heading="32716" respawnTime="600sec" />
+			<npc id="35706" x="-24104" y="219982" z="-3235" heading="32716" respawnTime="600sec" />
+			<npc id="35706" x="-24104" y="219950" z="-3236" heading="32716" respawnTime="600sec" />
+			<npc id="35706" x="-24104" y="219918" z="-3236" heading="32716" respawnTime="600sec" />
+			<npc id="35706" x="-24104" y="219886" z="-3235" heading="32716" respawnTime="600sec" />
+			<npc id="35706" x="-20416" y="219552" z="-2793" heading="16836" respawnTime="600sec" />
+			<npc id="35706" x="-20383" y="219552" z="-2793" heading="16836" respawnTime="600sec" />
+			<npc id="35706" x="-20448" y="219552" z="-2777" heading="16836" respawnTime="600sec" />
+			<npc id="35706" x="-20413" y="219506" z="-2793" heading="16836" respawnTime="600sec" />
+			<npc id="35706" x="-20432" y="220240" z="-2793" heading="-15632" respawnTime="600sec" />
+			<npc id="35706" x="-20464" y="220240" z="-2793" heading="-15632" respawnTime="600sec" />
+			<npc id="35706" x="-20400" y="220240" z="-2793" heading="-15632" respawnTime="600sec" />
+			<npc id="35706" x="-20432" y="220272" z="-2793" heading="-15632" respawnTime="600sec" />
+			<npc id="35706" x="-24944" y="220224" z="-2794" heading="-16416" respawnTime="600sec" />
+			<npc id="35706" x="-24976" y="220224" z="-2794" heading="-16416" respawnTime="600sec" />
+			<npc id="35706" x="-24906" y="220224" z="-2794" heading="-16416" respawnTime="600sec" />
+			<npc id="35706" x="-24944" y="220272" z="-2794" heading="-16416" respawnTime="600sec" />
+			<npc id="35706" x="-24928" y="219520" z="-2794" heading="16552" respawnTime="600sec" />
+			<npc id="35706" x="-24960" y="219520" z="-2794" heading="16552" respawnTime="600sec" />
+			<npc id="35706" x="-24896" y="219520" z="-2794" heading="16552" respawnTime="600sec" />
+			<npc id="35706" x="-24928" y="219472" z="-2794" heading="16552" respawnTime="600sec" />
+			<npc id="35706" x="-24016" y="220288" z="-2794" heading="-24252" respawnTime="600sec" />
+			<npc id="35706" x="-24016" y="220352" z="-2794" heading="-24252" respawnTime="600sec" />
+			<npc id="35706" x="-23984" y="220320" z="-2794" heading="-24252" respawnTime="600sec" />
+			<npc id="35706" x="-23968" y="220288" z="-2794" heading="-24252" respawnTime="600sec" />
+			<npc id="35706" x="-21296" y="220176" z="-2794" heading="-8656" respawnTime="600sec" />
+			<npc id="35706" x="-21296" y="220240" z="-2794" heading="-8656" respawnTime="600sec" />
+			<npc id="35706" x="-21328" y="220208" z="-2794" heading="-8656" respawnTime="600sec" />
+			<npc id="35706" x="-21360" y="220160" z="-2794" heading="-8656" respawnTime="600sec" />
+		</group>
+		<group name="southern_farm_fortress_live_with_c_center">
+			<npc id="35717" x="-20686" y="219235" z="-2883" heading="0" respawnTime="600sec" />
+			<npc id="35718" x="-20686" y="219267" z="-2883" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-20654" y="219235" z="-2883" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-20654" y="219267" z="-2883" heading="0" respawnTime="600sec" />
+			<npc id="35717" x="-20351" y="219568" z="-3060" heading="-32148" respawnTime="600sec" />
+			<npc id="35718" x="-20352" y="219601" z="-3060" heading="-32148" respawnTime="600sec" />
+			<npc id="35706" x="-20384" y="219566" z="-3072" heading="-32148" respawnTime="600sec" />
+			<npc id="35706" x="-20385" y="219598" z="-3072" heading="-32148" respawnTime="600sec" />
+			<npc id="35717" x="-20690" y="220540" z="-2883" heading="0" respawnTime="600sec" />
+			<npc id="35718" x="-20690" y="220508" z="-2883" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-20658" y="220540" z="-2883" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-20658" y="220508" z="-2883" heading="0" respawnTime="600sec" />
+			<npc id="35717" x="-20368" y="220171" z="-3060" heading="0" respawnTime="600sec" />
+			<npc id="35718" x="-20368" y="220208" z="-3060" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-20411" y="220171" z="-3076" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-20412" y="220204" z="-3083" heading="0" respawnTime="600sec" />
+			<npc id="35717" x="-24667" y="220493" z="-2884" heading="32768" respawnTime="600sec" />
+			<npc id="35718" x="-24667" y="220525" z="-2884" heading="32768" respawnTime="600sec" />
+			<npc id="35706" x="-24699" y="220493" z="-2884" heading="32768" respawnTime="600sec" />
+			<npc id="35706" x="-24699" y="220525" z="-2884" heading="32768" respawnTime="600sec" />
+			<npc id="35717" x="-25008" y="220192" z="-3061" heading="0" respawnTime="600sec" />
+			<npc id="35718" x="-25008" y="220160" z="-3061" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-24960" y="220192" z="-3072" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-24960" y="220160" z="-3073" heading="0" respawnTime="600sec" />
+			<npc id="35717" x="-24669" y="219226" z="-2884" heading="32768" respawnTime="600sec" />
+			<npc id="35718" x="-24669" y="219258" z="-2884" heading="32768" respawnTime="600sec" />
+			<npc id="35706" x="-24701" y="219226" z="-2884" heading="32768" respawnTime="600sec" />
+			<npc id="35706" x="-24701" y="219258" z="-2884" heading="32768" respawnTime="600sec" />
+			<npc id="35717" x="-25008" y="219600" z="-3061" heading="0" respawnTime="600sec" />
+			<npc id="35718" x="-25008" y="219568" z="-3061" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-24972" y="219602" z="-3072" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-24972" y="219567" z="-3079" heading="0" respawnTime="600sec" />
+			<npc id="35717" x="-23758" y="220704" z="-2884" heading="49151" respawnTime="600sec" />
+			<npc id="35718" x="-23726" y="220704" z="-2884" heading="49151" respawnTime="600sec" />
+			<npc id="35706" x="-23758" y="220672" z="-2884" heading="49151" respawnTime="600sec" />
+			<npc id="35706" x="-23726" y="220672" z="-2884" heading="49151" respawnTime="600sec" />
+			<npc id="35717" x="-24059" y="220414" z="-3067" heading="16040" respawnTime="600sec" />
+			<npc id="35718" x="-24096" y="220416" z="-3072" heading="16040" respawnTime="600sec" />
+			<npc id="35706" x="-24058" y="220447" z="-3088" heading="16040" respawnTime="600sec" />
+			<npc id="35706" x="-24095" y="220448" z="-3095" heading="16040" respawnTime="600sec" />
+			<npc id="35717" x="-21594" y="220037" z="-2884" heading="16384" respawnTime="600sec" />
+			<npc id="35718" x="-21562" y="220037" z="-2884" heading="16384" respawnTime="600sec" />
+			<npc id="35706" x="-21594" y="220067" z="-2884" heading="16384" respawnTime="600sec" />
+			<npc id="35706" x="-21562" y="220067" z="-2884" heading="16384" respawnTime="600sec" />
+			<npc id="35717" x="-21264" y="220368" z="-3061" heading="-16092" respawnTime="600sec" />
+			<npc id="35718" x="-21232" y="220368" z="-3061" heading="-16092" respawnTime="600sec" />
+			<npc id="35706" x="-21266" y="220328" z="-3074" heading="-16092" respawnTime="600sec" />
+			<npc id="35706" x="-21231" y="220329" z="-3077" heading="-16092" respawnTime="600sec" />
+			<npc id="35717" x="-21776" y="221504" z="-3210" heading="6672" respawnTime="600sec" />
+			<npc id="35717" x="-21648" y="221408" z="-3210" heading="10732" respawnTime="600sec" />
+			<npc id="35717" x="-21568" y="221360" z="-3210" heading="20132" respawnTime="600sec" />
+			<npc id="35717" x="-21312" y="221456" z="-3210" heading="-28032" respawnTime="600sec" />
+			<npc id="35718" x="-21632" y="221680" z="-3210" heading="-16968" respawnTime="600sec" />
+			<npc id="35718" x="-21360" y="221344" z="-3210" heading="22236" respawnTime="600sec" />
+			<npc id="35720" x="-21280" y="219088" z="-3057" heading="-16792" respawnTime="600sec" />
+			<npc id="35720" x="-21248" y="219088" z="-3057" heading="-16792" respawnTime="600sec" />
+			<npc id="35720" x="-21376" y="218592" z="-3057" heading="16448" respawnTime="600sec" />
+			<npc id="35720" x="-21344" y="218592" z="-3057" heading="16448" respawnTime="600sec" />
+			<npc id="35720" x="-21312" y="218832" z="-3163" heading="0" respawnTime="600sec" />
+			<npc id="35720" x="-21104" y="219056" z="-3163" heading="17016" respawnTime="600sec" />
+			<npc id="35720" x="-21504" y="219056" z="-3163" heading="17016" respawnTime="600sec" />
+			<npc id="35720" x="-21552" y="219008" z="-3163" heading="-32664" respawnTime="600sec" />
+			<npc id="35720" x="-21568" y="218672" z="-3163" heading="-32664" respawnTime="600sec" />
+			<npc id="35720" x="-21522" y="218629" z="-3163" heading="-17928" respawnTime="600sec" />
+			<npc id="35720" x="-21104" y="218631" z="-3163" heading="-17928" respawnTime="600sec" />
+			<npc id="35720" x="-21060" y="218677" z="-3163" heading="0" respawnTime="600sec" />
+			<npc id="35720" x="-21056" y="219024" z="-3163" heading="0" respawnTime="600sec" />
+		</group>
+		<group name="southern_farm_fortress_owner_flagdef">
+			<npc id="35706" x="-22591" y="219813" z="-2313" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-22591" y="219785" z="-2313" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-22591" y="219840" z="-2316" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-22592" y="219760" z="-2314" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-22815" y="219813" z="-2314" heading="32672" respawnTime="600sec" />
+			<npc id="35706" x="-22815" y="219785" z="-2314" heading="32672" respawnTime="600sec" />
+			<npc id="35706" x="-22814" y="219841" z="-2316" heading="32672" respawnTime="600sec" />
+			<npc id="35706" x="-22815" y="219759" z="-2314" heading="32672" respawnTime="600sec" />
+			<npc id="35705" x="-22400" y="219673" z="-2345" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-22400" y="219705" z="-2345" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-22400" y="219641" z="-2345" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-22400" y="219609" z="-2345" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-22400" y="219737" z="-2345" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-22400" y="219769" z="-2345" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-22400" y="219577" z="-2345" heading="0" respawnTime="600sec" />
+			<npc id="35705" x="-22400" y="219545" z="-2345" heading="0" respawnTime="600sec" />
+		</group>
+		<group name="southern_farm_fortress_reinforce_1">
+			<npc id="35706" x="-21413" y="219735" z="-3231" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-21413" y="219703" z="-3232" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-21413" y="219671" z="-3232" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-21413" y="219638" z="-3231" heading="0" respawnTime="600sec" />
+			<npc id="35706" x="-24045" y="219982" z="-3239" heading="32716" respawnTime="600sec" />
+			<npc id="35706" x="-24045" y="219950" z="-3240" heading="32716" respawnTime="600sec" />
+			<npc id="35706" x="-24045" y="219918" z="-3240" heading="32716" respawnTime="600sec" />
+			<npc id="35706" x="-24045" y="219885" z="-3239" heading="32716" respawnTime="600sec" />
+		</group>
+	</spawn>
+</list>

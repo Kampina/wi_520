@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="GoddardCastle">
+		<group>
+			<npc id="31283" x="146416" y="-52564" z="-2728" heading="49500" respawnTime="60sec" /> <!-- Alminas - Magister -->
+ 			<npc id="31585" x="146688" y="-52592" z="-2728" heading="16000" respawnTime="60sec" /> <!-- Sparky the Cat - Keats Servitor -->
+ 			<npc id="31587" x="146553" y="-52608" z="-2728" heading="49500" respawnTime="60sec" /> <!-- Halaster - Grand Magister -->
+			<npc id="35356" x="147264" y="-45632" z="-2083" heading="48500" respawnTime="10800sec" /> <!-- Outer Castle Gatekeeper - Goddard -->
+			<npc id="35356" x="147808" y="-45328" z="-2083" heading="16000" respawnTime="10800sec" /> <!-- Outer Castle Gatekeeper - Goddard -->
+			<npc id="35357" x="145640" y="-48096" z="-2382" heading="32000" respawnTime="10800sec" /> <!-- Inner Castle Gatekeeper - Goddard -->
+			<npc id="35357" x="145904" y="-48096" z="-2382" heading="0" respawnTime="10800sec" /> <!-- Inner Castle Gatekeeper - Goddard -->
+			<npc id="35358" x="149024" y="-48080" z="-2382" heading="33000" respawnTime="10800sec" /> <!-- Inner Castle Gatekeeper - Goddard -->
+			<npc id="35358" x="149272" y="-48088" z="-2382" heading="0" respawnTime="10800sec" /> <!-- Inner Castle Gatekeeper - Goddard -->
+			<npc id="35359" x="148612" y="-49004" z="-680" heading="16000" respawnTime="60sec" /> <!-- Gatekeeper - Goddard -->
+			<npc id="35359" x="148664" y="-49168" z="-680" heading="48000" respawnTime="60sec" /> <!-- Gatekeeper - Goddard -->
+			<npc id="35360" x="146280" y="-49180" z="-680" heading="48000" respawnTime="60sec" /> <!-- Gatekeeper - Goddard -->
+			<npc id="35360" x="146312" y="-49004" z="-680" heading="16000" respawnTime="60sec" /> <!-- Gatekeeper - Goddard -->
+			<npc id="35361" x="146992" y="-48896" z="-2640" heading="16000" respawnTime="60sec" /> <!-- Blacksmith - Goddard -->
+			<npc id="35364" x="147470" y="-49083" z="-503" heading="16500" respawnTime="60sec" /> <!-- Hadley - Wyvern Manager -->
+			<npc id="35367" x="154208" y="-51648" z="-2984" respawnTime="60sec" /> <!-- Daven - Herald from Goddard -->
+		</group>
+	</spawn>
+</list>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/spawns.xsd">
+	<spawn name="TownGuards_6" spawnByDefault="false">
+		<group name="TownGuards_6_0">
+			<npc id="31036" x="118920" y="219448" z="-3599" heading="60699" respawnTime="60sec" />
+			<npc id="31036" x="118920" y="219080" z="-3594" heading="60699" respawnTime="60sec" />
+		</group>
+		<group name="TownGuards_6_1">
+			<npc id="31032" x="118920" y="219448" z="-3599" heading="60699" respawnTime="60sec" />
+			<npc id="31032" x="118920" y="219080" z="-3594" heading="60699" respawnTime="60sec" />
+		</group>
+		<group name="TownGuards_6_2">
+			<npc id="31034" x="118920" y="219448" z="-3599" heading="60699" respawnTime="60sec" />
+			<npc id="31034" x="118920" y="219080" z="-3594" heading="60699" respawnTime="60sec" />
+		</group>
+	</spawn>
+</list>

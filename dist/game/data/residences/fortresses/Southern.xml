@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="102" name="Southern Fortress">
+	<doors>
+		<door id="19240005" />
+		<door id="19240010" />
+		<door id="19240001" />
+		<door id="19240002" />
+		<door id="19240006" group="commander_doors" />
+		<door id="19240007" group="commander_doors" />
+		<door id="19240009" group="captain_doors" />
+		<door id="19240008" group="captain_doors" />
+		<door id="19240011" group="general_doors" />
+		<door id="19240012" group="general_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

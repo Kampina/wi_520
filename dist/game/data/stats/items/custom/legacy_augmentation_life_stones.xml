@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/items.xsd">
+	<item id="8728" name="Life Stone - Level 61" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_general_i00" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="8732" name="Life Stone - Level 76" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_general_i00" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="8748" name="High-Grade Life Stone - Level 61" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_rare_i03" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="8752" name="High-Grade Life Stone - Level 76" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_rare_i03" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="8758" name="Top-Grade Life Stone - Level 61" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_unique_i03" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="8762" name="Top-Grade Life Stone - Level 76" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_unique_i03" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9573" name="Life Stone - Level 80" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_general_i00" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9575" name="High-Grade Life Stone - Level 80" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_rare_i03" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="9576" name="Top-Grade Life Stone - Level 80" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_unique_i03" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="12760" name="Accessory Life Stone - Level 64" type="EtcItem">
+		<set name="icon" val="icon.variation_mineral_acc" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="12763" name="Accessory Life Stone - Level 76" type="EtcItem">
+		<set name="icon" val="icon.variation_mineral_acc" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="12821" name="Accessory Life Stone - Level 80" type="EtcItem">
+		<set name="icon" val="icon.variation_mineral_acc" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="14008" name="Accessory Type Life Stone - Level 84" type="EtcItem">
+		<set name="icon" val="icon.variation_mineral_acc" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="14166" name="Life Stone - Level 84" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_general_i00" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="14168" name="High-Grade Life Stone - Level 84" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_rare_i03" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+	<item id="14169" name="Top-Grade Life Stone - Level 84" type="EtcItem">
+		<set name="icon" val="icon.etc_mineral_unique_i03" />
+		<set name="etcitem_type" val="MATERIAL" />
+		<set name="material" val="LIQUID" />
+		<set name="weight" val="2" />
+		<set name="is_sellable" val="false" />
+		<set name="is_stackable" val="true" />
+	</item>
+</list>

@@ -1,0 +1,4414 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/armorSets.xsd">
+    <set id="0" minimumPieces="3">
+        <requiredItems>
+            <item id="23"/>
+            <item id="2386"/>
+            <item id="43"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="3"/>
+            <skill id="3500" level="1" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="1" minimumPieces="2">
+        <requiredItems>
+            <item id="58"/>
+            <item id="59"/>
+            <item id="47"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="628"/>
+        </optionalItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3502" level="1" minimumPieces="2"/>
+            <skill id="3502" level="2" minimumPieces="3"/>
+            <skill id="3543" level="1" optional="true"/>
+            <skill id="13339" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13339" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13339" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13339" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13339" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="2" minimumPieces="2">
+        <requiredItems>
+            <item id="60"/>
+            <item id="517"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="107"/>
+        </optionalItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3512" level="1" minimumPieces="2"/>
+            <skill id="3546" level="1" optional="true"/>
+            <skill id="13339" level="1" minimumEnchant="6" minimumPieces="2"/>
+            <skill id="13339" level="2" minimumEnchant="7" minimumPieces="2"/>
+            <skill id="13339" level="3" minimumEnchant="8" minimumPieces="2"/>
+            <skill id="13339" level="4" minimumEnchant="9" minimumPieces="2"/>
+            <skill id="13339" level="5" minimumEnchant="10" minimumPieces="2"/>
+        </skills>
+    </set>
+    <set id="3" minimumPieces="2">
+        <requiredItems>
+            <item id="352"/>
+            <item id="2378"/>
+            <item id="2411"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="2493"/>
+        </optionalItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3506" level="1" minimumPieces="2"/>
+            <skill id="3506" level="2" minimumPieces="3"/>
+            <skill id="3544" level="1" optional="true"/>
+            <skill id="13339" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13339" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13339" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13339" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13339" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="4" minimumPieces="2">
+        <requiredItems>
+            <item id="354"/>
+            <item id="381"/>
+            <item id="2413"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="2495"/>
+        </optionalItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3509" level="1" minimumPieces="2"/>
+            <skill id="3509" level="2" minimumPieces="3"/>
+            <skill id="3545" level="1" optional="true"/>
+            <skill id="13339" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13339" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13339" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13339" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13339" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="5" minimumPieces="2">
+        <requiredItems>
+            <item id="358"/>
+            <item id="93502"/>
+            <item id="92367"/>
+            <item id="2380"/>
+            <item id="93506"/>
+            <item id="92368"/>
+            <item id="90461"/>
+            <item id="93550"/>
+            <item id="92369"/>
+            <item id="5718"/>
+            <item id="93526"/>
+            <item id="92370"/>
+            <item id="5734"/>
+            <item id="93538"/>
+            <item id="92371"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3524" level="1" minimumPieces="2"/>
+            <skill id="3524" level="2" minimumPieces="3"/>
+            <skill id="3524" level="3" minimumPieces="4"/>
+            <skill id="3524" level="4" minimumPieces="5"/>
+            <skill id="13339" level="1" minimumEnchant="6" minimumPieces="5"/>
+            <skill id="13339" level="2" minimumEnchant="7" minimumPieces="5"/>
+            <skill id="13339" level="3" minimumEnchant="8" minimumPieces="5"/>
+            <skill id="13339" level="4" minimumEnchant="9" minimumPieces="5"/>
+            <skill id="13339" level="5" minimumEnchant="10" minimumPieces="5"/>
+        </skills>
+    </set>
+    <set id="6" minimumPieces="2">
+        <requiredItems>
+            <item id="356"/>
+            <item id="93642"/>
+            <item id="2414"/>
+            <item id="93639"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="2497"/>
+        </optionalItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3516" level="1" minimumPieces="2"/>
+            <skill id="3547" level="1" optional="true"/>
+            <skill id="13339" level="1" minimumEnchant="6" minimumPieces="2"/>
+            <skill id="13339" level="2" minimumEnchant="7" minimumPieces="2"/>
+            <skill id="13339" level="3" minimumEnchant="8" minimumPieces="2"/>
+            <skill id="13339" level="4" minimumEnchant="9" minimumPieces="2"/>
+            <skill id="13339" level="5" minimumEnchant="10" minimumPieces="2"/>
+        </skills>
+    </set>
+    <set id="7" minimumPieces="2">
+        <requiredItems>
+            <item id="357"/>
+            <item id="93501"/>
+            <item id="383"/>
+            <item id="93503"/>
+            <item id="90458"/>
+            <item id="93547"/>
+            <item id="5710"/>
+            <item id="93520"/>
+            <item id="5726"/>
+            <item id="93532"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3518" level="1" minimumPieces="2"/>
+            <skill id="3518" level="2" minimumPieces="3"/>
+            <skill id="3518" level="3" minimumPieces="4"/>
+            <skill id="3518" level="4" minimumPieces="5"/>
+            <skill id="13339" level="1" minimumEnchant="6" minimumPieces="5"/>
+            <skill id="13339" level="2" minimumEnchant="7" minimumPieces="5"/>
+            <skill id="13339" level="3" minimumEnchant="8" minimumPieces="5"/>
+            <skill id="13339" level="4" minimumEnchant="9" minimumPieces="5"/>
+            <skill id="13339" level="5" minimumEnchant="10" minimumPieces="5"/>
+        </skills>
+    </set>
+    <set id="8" minimumPieces="2">
+        <requiredItems>
+            <item id="394"/>
+            <item id="416"/>
+            <item id="2422"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3503" level="1" minimumPieces="2"/>
+            <skill id="3503" level="2" minimumPieces="3"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="9" minimumPieces="2">
+        <requiredItems>
+            <item id="395"/>
+            <item id="417"/>
+            <item id="2424"/>
+            <item id="95079"/>
+            <item id="95089"/>
+            <item id="95152"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3505" level="1" minimumPieces="2"/>
+            <skill id="3505" level="2" minimumPieces="3"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="10" minimumPieces="2">
+        <requiredItems>
+            <item id="397"/>
+            <item id="2387"/>
+            <item id="62"/>
+            <item id="95081"/>
+            <item id="95144"/>
+            <item id="94906"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3508" level="1" minimumPieces="2"/>
+            <skill id="3508" level="2" minimumPieces="3"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="11" minimumPieces="2">
+        <requiredItems>
+            <item id="398"/>
+            <item id="95082"/>
+            <item id="418"/>
+            <item id="95090"/>
+            <item id="2431"/>
+            <item id="95158"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3511" level="1" minimumPieces="2"/>
+            <skill id="3511" level="2" minimumPieces="3"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="12" minimumPieces="2">
+        <requiredItems>
+            <item id="400"/>
+            <item id="420"/>
+            <item id="2436"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3514" level="1" minimumPieces="2"/>
+            <skill id="3514" level="2" minimumPieces="3"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="13" minimumPieces="2">
+        <requiredItems>
+            <item id="401"/>
+            <item id="93643"/>
+            <item id="2437"/>
+            <item id="93644"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3515" level="1" minimumPieces="2"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="2"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="2"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="2"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="2"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="2"/>
+        </skills>
+    </set>
+    <set id="14" minimumPieces="2">
+        <requiredItems>
+            <item id="436"/>
+            <item id="469"/>
+            <item id="2447"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3504" level="1" minimumPieces="2"/>
+            <skill id="3504" level="2" minimumPieces="3"/>
+            <skill id="13341" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13341" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13341" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13341" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13341" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="15" minimumPieces="2">
+        <requiredItems>
+            <item id="437"/>
+            <item id="470"/>
+            <item id="2450"/>
+            <item id="95098"/>
+            <item id="95108"/>
+            <item id="95168"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3507" level="1" minimumPieces="2"/>
+            <skill id="3507" level="2" minimumPieces="3"/>
+            <skill id="13341" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13341" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13341" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13341" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13341" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+        <stats>
+            <stat type="INT" val="-1"/>
+            <stat type="WIT" val="1"/>
+        </stats>
+    </set>
+    <set id="16" minimumPieces="2">
+        <requiredItems>
+            <item id="439"/>
+            <item id="93646"/>
+            <item id="471"/>
+            <item id="93647"/>
+            <item id="2454"/>
+            <item id="93649"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3510" level="1" minimumPieces="2"/>
+            <skill id="3510" level="2" minimumPieces="3"/>
+            <skill id="13341" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13341" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13341" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13341" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13341" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="17" minimumPieces="2">
+        <requiredItems>
+            <item id="441"/>
+            <item id="95101"/>
+            <item id="472"/>
+            <item id="95109"/>
+            <item id="2459"/>
+            <item id="95176"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3513" level="1" minimumPieces="2"/>
+            <skill id="3513" level="2" minimumPieces="3"/>
+            <skill id="13341" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13341" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13341" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13341" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13341" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="18" minimumPieces="2">
+        <requiredItems>
+            <item id="442"/>
+            <item id="473"/>
+            <item id="2463"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3517" level="1" minimumPieces="2"/>
+            <skill id="3517" level="2" minimumPieces="3"/>
+            <skill id="13341" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13341" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13341" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13341" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13341" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+        <stats>
+            <stat type="INT" val="-1"/>
+            <stat type="WIT" val="1"/>
+        </stats>
+    </set>
+    <set id="19" minimumPieces="3">
+        <requiredItems>
+            <item id="1101"/>
+            <item id="1104"/>
+            <item id="44"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="3"/>
+            <skill id="3501" level="1" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="20" minimumPieces="2">
+        <requiredItems>
+            <item id="2376"/>
+            <item id="93504"/>
+            <item id="2379"/>
+            <item id="93505"/>
+            <item id="90455"/>
+            <item id="93544"/>
+            <item id="5714"/>
+            <item id="93523"/>
+            <item id="5730"/>
+            <item id="93535"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="673"/>
+        </optionalItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3519" level="1" minimumPieces="2"/>
+            <skill id="3519" level="2" minimumPieces="3"/>
+            <skill id="3519" level="3" minimumPieces="4"/>
+            <skill id="3519" level="4" minimumPieces="5"/>
+            <skill id="3548" level="1" optional="true"/>
+            <skill id="13339" level="1" minimumEnchant="6" minimumPieces="5"/>
+            <skill id="13339" level="2" minimumEnchant="7" minimumPieces="5"/>
+            <skill id="13339" level="3" minimumEnchant="8" minimumPieces="5"/>
+            <skill id="13339" level="4" minimumEnchant="9" minimumPieces="5"/>
+            <skill id="13339" level="5" minimumEnchant="10" minimumPieces="5"/>
+        </skills>
+    </set>
+    <set id="21" minimumPieces="2">
+        <requiredItems>
+            <item id="2381"/>
+            <item id="93507"/>
+            <item id="90464"/>
+            <item id="93553"/>
+            <item id="5722"/>
+            <item id="93529"/>
+            <item id="5738"/>
+            <item id="93541"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="110"/>
+        </optionalItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3525" level="1" minimumPieces="2"/>
+            <skill id="3525" level="2" minimumPieces="3"/>
+            <skill id="3525" level="3" minimumPieces="4"/>
+            <skill id="3549" level="1" optional="true"/>
+            <skill id="13339" level="1" minimumEnchant="6" minimumPieces="4"/>
+            <skill id="13339" level="2" minimumEnchant="7" minimumPieces="4"/>
+            <skill id="13339" level="3" minimumEnchant="8" minimumPieces="4"/>
+            <skill id="13339" level="4" minimumEnchant="9" minimumPieces="4"/>
+            <skill id="13339" level="5" minimumEnchant="10" minimumPieces="4"/>
+        </skills>
+    </set>
+    <set id="22" minimumPieces="2">
+        <requiredItems>
+            <item id="2384"/>
+            <item id="93508"/>
+            <item id="2388"/>
+            <item id="93509"/>
+            <item id="90459"/>
+            <item id="93548"/>
+            <item id="5711"/>
+            <item id="93521"/>
+            <item id="5727"/>
+            <item id="93533"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3520" level="1" minimumPieces="2"/>
+            <skill id="3520" level="2" minimumPieces="3"/>
+            <skill id="3520" level="3" minimumPieces="4"/>
+            <skill id="3520" level="4" minimumPieces="5"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="5"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="5"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="5"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="5"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="5"/>
+        </skills>
+    </set>
+    <set id="23" minimumPieces="2">
+        <requiredItems>
+            <item id="2390"/>
+            <item id="93510"/>
+            <item id="90456"/>
+            <item id="93545"/>
+            <item id="5715"/>
+            <item id="93524"/>
+            <item id="5731"/>
+            <item id="93536"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3521" level="1" minimumPieces="2"/>
+            <skill id="3521" level="2" minimumPieces="3"/>
+            <skill id="3521" level="3" minimumPieces="4"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="4"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="4"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="4"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="4"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="4"/>
+        </skills>
+    </set>
+    <set id="24" minimumPieces="2">
+        <requiredItems>
+            <item id="2391"/>
+            <item id="93511"/>
+            <item id="92373"/>
+            <item id="90462"/>
+            <item id="93551"/>
+            <item id="92374"/>
+            <item id="5719"/>
+            <item id="93527"/>
+            <item id="92375"/>
+            <item id="5735"/>
+            <item id="93539"/>
+            <item id="92376"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3526" level="1" minimumPieces="2"/>
+            <skill id="3526" level="2" minimumPieces="3"/>
+            <skill id="3526" level="3" minimumPieces="4"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="4"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="4"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="4"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="4"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="4"/>
+        </skills>
+    </set>
+    <set id="25" minimumPieces="2">
+        <requiredItems>
+            <item id="2392"/>
+            <item id="93512"/>
+            <item id="90465"/>
+            <item id="93554"/>
+            <item id="5723"/>
+            <item id="93530"/>
+            <item id="5739"/>
+            <item id="93542"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3527" level="1" minimumPieces="2"/>
+            <skill id="3527" level="2" minimumPieces="3"/>
+            <skill id="3527" level="3" minimumPieces="4"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="4"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="4"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="4"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="4"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="4"/>
+        </skills>
+    </set>
+    <set id="26" minimumPieces="2">
+        <requiredItems>
+            <item id="2397"/>
+            <item id="93513"/>
+            <item id="2402"/>
+            <item id="93516"/>
+            <item id="90460"/>
+            <item id="93549"/>
+            <item id="5712"/>
+            <item id="93522"/>
+            <item id="5728"/>
+            <item id="93534"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3522" level="1" minimumPieces="2"/>
+            <skill id="3522" level="2" minimumPieces="3"/>
+            <skill id="3522" level="3" minimumPieces="4"/>
+            <skill id="3522" level="4" minimumPieces="5"/>
+            <skill id="13341" level="1" minimumEnchant="6" minimumPieces="5"/>
+            <skill id="13341" level="2" minimumEnchant="7" minimumPieces="5"/>
+            <skill id="13341" level="3" minimumEnchant="8" minimumPieces="5"/>
+            <skill id="13341" level="4" minimumEnchant="9" minimumPieces="5"/>
+            <skill id="13341" level="5" minimumEnchant="10" minimumPieces="5"/>
+        </skills>
+    </set>
+    <set id="27" minimumPieces="2">
+        <requiredItems>
+            <item id="2398"/>
+            <item id="93514"/>
+            <item id="92378"/>
+            <item id="2403"/>
+            <item id="93517"/>
+            <item id="92379"/>
+            <item id="90463"/>
+            <item id="93552"/>
+            <item id="92380"/>
+            <item id="5720"/>
+            <item id="93528"/>
+            <item id="92381"/>
+            <item id="5736"/>
+            <item id="93540"/>
+            <item id="92382"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3528" level="1" minimumPieces="2"/>
+            <skill id="3528" level="2" minimumPieces="3"/>
+            <skill id="3528" level="3" minimumPieces="4"/>
+            <skill id="3528" level="4" minimumPieces="5"/>
+            <skill id="13341" level="1" minimumEnchant="6" minimumPieces="5"/>
+            <skill id="13341" level="2" minimumEnchant="7" minimumPieces="5"/>
+            <skill id="13341" level="3" minimumEnchant="8" minimumPieces="5"/>
+            <skill id="13341" level="4" minimumEnchant="9" minimumPieces="5"/>
+            <skill id="13341" level="5" minimumEnchant="10" minimumPieces="5"/>
+        </skills>
+    </set>
+    <set id="28" minimumPieces="2">
+        <requiredItems>
+            <item id="2399"/>
+            <item id="93515"/>
+            <item id="2404"/>
+            <item id="93518"/>
+            <item id="90466"/>
+            <item id="93555"/>
+            <item id="5724"/>
+            <item id="93531"/>
+            <item id="5740"/>
+            <item id="93543"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3529" level="1" minimumPieces="2"/>
+            <skill id="3529" level="2" minimumPieces="3"/>
+            <skill id="3529" level="3" minimumPieces="4"/>
+            <skill id="3529" level="4" minimumPieces="5"/>
+            <skill id="13341" level="1" minimumEnchant="6" minimumPieces="5"/>
+            <skill id="13341" level="2" minimumEnchant="7" minimumPieces="5"/>
+            <skill id="13341" level="3" minimumEnchant="8" minimumPieces="5"/>
+            <skill id="13341" level="4" minimumEnchant="9" minimumPieces="5"/>
+            <skill id="13341" level="5" minimumEnchant="10" minimumPieces="5"/>
+        </skills>
+    </set>
+    <set id="29" minimumPieces="2">
+        <requiredItems>
+            <item id="2406"/>
+            <item id="93519"/>
+            <item id="90457"/>
+            <item id="93546"/>
+            <item id="5716"/>
+            <item id="93525"/>
+            <item id="5732"/>
+            <item id="93537"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="2"/>
+            <skill id="3523" level="1" minimumPieces="2"/>
+            <skill id="3523" level="2" minimumPieces="3"/>
+            <skill id="3523" level="3" minimumPieces="4"/>
+            <skill id="13341" level="1" minimumEnchant="6" minimumPieces="4"/>
+            <skill id="13341" level="2" minimumEnchant="7" minimumPieces="4"/>
+            <skill id="13341" level="3" minimumEnchant="8" minimumPieces="4"/>
+            <skill id="13341" level="4" minimumEnchant="9" minimumPieces="4"/>
+            <skill id="13341" level="5" minimumEnchant="10" minimumPieces="4"/>
+        </skills>
+    </set>
+    <set id="30" minimumPieces="2">
+        <requiredItems>
+            <item id="365"/>
+            <item id="92255"/>
+            <item id="388"/>
+            <item id="92257"/>
+            <item id="5765"/>
+            <item id="92277"/>
+            <item id="5777"/>
+            <item id="92289"/>
+            <item id="90470"/>
+            <item id="92304"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="641"/>
+            <item id="92260"/>
+        </optionalItems>
+    </set>
+    <set id="31" minimumPieces="2">
+        <requiredItems>
+            <item id="2382"/>
+            <item id="92261"/>
+            <item id="5768"/>
+            <item id="92280"/>
+            <item id="5780"/>
+            <item id="92292"/>
+            <item id="90467"/>
+            <item id="92301"/>
+        </requiredItems>
+    </set>
+    <set id="32" minimumPieces="2">
+        <requiredItems>
+            <item id="2385"/>
+            <item id="92263"/>
+            <item id="2389"/>
+            <item id="92264"/>
+            <item id="5766"/>
+            <item id="92278"/>
+            <item id="5778"/>
+            <item id="92290"/>
+            <item id="90471"/>
+            <item id="92305"/>
+        </requiredItems>
+    </set>
+    <set id="33" minimumPieces="2">
+        <requiredItems>
+            <item id="2393"/>
+            <item id="92265"/>
+            <item id="5769"/>
+            <item id="92281"/>
+            <item id="5781"/>
+            <item id="92293"/>
+            <item id="90468"/>
+            <item id="92302"/>
+        </requiredItems>
+    </set>
+    <set id="34" minimumPieces="2">
+        <requiredItems>
+            <item id="2400"/>
+            <item id="92268"/>
+            <item id="2405"/>
+            <item id="92269"/>
+            <item id="5770"/>
+            <item id="92282"/>
+            <item id="5782"/>
+            <item id="92294"/>
+            <item id="90469"/>
+            <item id="92303"/>
+        </requiredItems>
+    </set>
+    <set id="35" minimumPieces="2">
+        <requiredItems>
+            <item id="2407"/>
+            <item id="92270"/>
+            <item id="5767"/>
+            <item id="92279"/>
+            <item id="5779"/>
+            <item id="92291"/>
+            <item id="90472"/>
+            <item id="92306"/>
+        </requiredItems>
+    </set>
+    <set id="36" minimumPieces="2">
+        <requiredItems>
+            <item id="374"/>
+            <item id="92256"/>
+            <item id="5771"/>
+            <item id="92283"/>
+            <item id="5783"/>
+            <item id="92295"/>
+            <item id="90473"/>
+            <item id="92307"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="2498"/>
+            <item id="92276"/>
+        </optionalItems>
+    </set>
+    <set id="37" minimumPieces="2">
+        <requiredItems>
+            <item id="2383"/>
+            <item id="92262"/>
+            <item id="5774"/>
+            <item id="92286"/>
+            <item id="5786"/>
+            <item id="92298"/>
+            <item id="90476"/>
+            <item id="92310"/>
+        </requiredItems>
+    </set>
+    <set id="38" minimumPieces="2">
+        <requiredItems>
+            <item id="2394"/>
+            <item id="92266"/>
+            <item id="5772"/>
+            <item id="92284"/>
+            <item id="5784"/>
+            <item id="92296"/>
+            <item id="90474"/>
+            <item id="92308"/>
+        </requiredItems>
+    </set>
+    <set id="39" minimumPieces="2">
+        <requiredItems>
+            <item id="2395"/>
+            <item id="92267"/>
+            <item id="5775"/>
+            <item id="92287"/>
+            <item id="5787"/>
+            <item id="92299"/>
+            <item id="90477"/>
+            <item id="92311"/>
+        </requiredItems>
+    </set>
+    <set id="40" minimumPieces="2">
+        <requiredItems>
+            <item id="2408"/>
+            <item id="92271"/>
+            <item id="5773"/>
+            <item id="92285"/>
+            <item id="5785"/>
+            <item id="92297"/>
+            <item id="90475"/>
+            <item id="92309"/>
+        </requiredItems>
+    </set>
+    <set id="41" minimumPieces="2">
+        <requiredItems>
+            <item id="2409"/>
+            <item id="92272"/>
+            <item id="5776"/>
+            <item id="92288"/>
+            <item id="5788"/>
+            <item id="92300"/>
+            <item id="90478"/>
+            <item id="92312"/>
+        </requiredItems>
+    </set>
+    <set id="42" minimumPieces="4">
+        <requiredItems>
+            <item id="7851"/>
+            <item id="7850"/>
+            <item id="7852"/>
+            <item id="7853"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="4"/>
+            <skill id="3605" level="1" minimumPieces="4"/>
+        </skills>
+    </set>
+    <set id="43" minimumPieces="4">
+        <requiredItems>
+            <item id="7854"/>
+            <item id="7850"/>
+            <item id="7855"/>
+            <item id="7856"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="4"/>
+            <skill id="3606" level="1" minimumPieces="4"/>
+        </skills>
+    </set>
+    <set id="44" minimumPieces="4">
+        <requiredItems>
+            <item id="7857"/>
+            <item id="7850"/>
+            <item id="7858"/>
+            <item id="7859"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="4"/>
+            <skill id="3607" level="1" minimumPieces="4"/>
+        </skills>
+    </set>
+    <set id="45" minimumPieces="2">
+        <requiredItems>
+            <item id="353"/>
+            <item id="380"/>
+            <item id="2412"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="2494"/>
+        </optionalItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="3"/>
+            <skill id="6938" level="1" minimumPieces="2"/>
+            <skill id="6938" level="2" minimumPieces="3"/>
+            <skill id="6939" level="1" optional="true"/>
+            <skill id="13339" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13339" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13339" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13339" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13339" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="46" minimumPieces="2">
+        <requiredItems>
+            <item id="396"/>
+            <item id="607"/>
+            <item id="2427"/>
+            <item id="95080"/>
+            <item id="95121"/>
+            <item id="95155"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="3"/>
+            <skill id="6936" level="1" minimumPieces="2"/>
+            <skill id="6936" level="2" minimumPieces="3"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="47" minimumPieces="2">
+        <requiredItems>
+            <item id="2396"/>
+            <item id="2401"/>
+            <item id="606"/>
+            <item id="95145"/>
+            <item id="95146"/>
+            <item id="95120"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="3"/>
+            <skill id="6937" level="1" minimumPieces="2"/>
+            <skill id="6937" level="2" minimumPieces="3"/>
+            <skill id="13341" level="1" minimumEnchant="6" minimumPieces="3"/>
+            <skill id="13341" level="2" minimumEnchant="7" minimumPieces="3"/>
+            <skill id="13341" level="3" minimumEnchant="8" minimumPieces="3"/>
+            <skill id="13341" level="4" minimumEnchant="9" minimumPieces="3"/>
+            <skill id="13341" level="5" minimumEnchant="10" minimumPieces="3"/>
+        </skills>
+    </set>
+    <set id="53" minimumPieces="5">
+        <requiredItems>
+            <item id="6373"/>
+            <item id="6374"/>
+            <item id="6378"/>
+            <item id="6375"/>
+            <item id="6376"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="6377"/>
+        </optionalItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="5"/>
+            <skill id="3553" level="1" minimumPieces="2"/>
+            <skill id="3553" level="2" minimumPieces="3"/>
+            <skill id="3553" level="3" minimumPieces="4"/>
+            <skill id="3553" level="4" minimumPieces="5"/>
+            <skill id="3554" level="1" optional="true"/>
+            <skill id="13339" level="1" minimumEnchant="6" minimumPieces="5"/>
+            <skill id="13339" level="2" minimumEnchant="7" minimumPieces="5"/>
+            <skill id="13339" level="3" minimumEnchant="8" minimumPieces="5"/>
+            <skill id="13339" level="4" minimumEnchant="9" minimumPieces="5"/>
+            <skill id="13339" level="5" minimumEnchant="10" minimumPieces="5"/>
+        </skills>
+    </set>
+    <set id="54" minimumPieces="4">
+        <requiredItems>
+            <item id="6379"/>
+            <item id="6382"/>
+            <item id="6380"/>
+            <item id="6381"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="4"/>
+            <skill id="3555" level="1" minimumPieces="2"/>
+            <skill id="3555" level="2" minimumPieces="3"/>
+            <skill id="3555" level="3" minimumPieces="4"/>
+            <skill id="13340" level="1" minimumEnchant="6" minimumPieces="4"/>
+            <skill id="13340" level="2" minimumEnchant="7" minimumPieces="4"/>
+            <skill id="13340" level="3" minimumEnchant="8" minimumPieces="4"/>
+            <skill id="13340" level="4" minimumEnchant="9" minimumPieces="4"/>
+            <skill id="13340" level="5" minimumEnchant="10" minimumPieces="4"/>
+        </skills>
+    </set>
+    <set id="55" minimumPieces="4">
+        <requiredItems>
+            <item id="6383"/>
+            <item id="6386"/>
+            <item id="6384"/>
+            <item id="6385"/>
+        </requiredItems>
+        <skills>
+            <skill id="3006" level="1" minimumPieces="4"/>
+            <skill id="3556" level="1" minimumPieces="2"/>
+            <skill id="3556" level="2" minimumPieces="3"/>
+            <skill id="3556" level="3" minimumPieces="4"/>
+            <skill id="13341" level="1" minimumEnchant="6" minimumPieces="4"/>
+            <skill id="13341" level="2" minimumEnchant="7" minimumPieces="4"/>
+            <skill id="13341" level="3" minimumEnchant="8" minimumPieces="4"/>
+            <skill id="13341" level="4" minimumEnchant="9" minimumPieces="4"/>
+            <skill id="13341" level="5" minimumEnchant="10" minimumPieces="4"/>
+        </skills>
+    </set>
+    <set id="56" minimumPieces="5">
+        <requiredItems>
+            <item id="50010"/>
+            <item id="50011"/>
+            <item id="50012"/>
+            <item id="50013"/>
+            <item id="50014"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="50015"/>
+        </optionalItems>
+        <skills>
+            <skill id="50001" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="57" minimumPieces="5">
+        <requiredItems>
+            <item id="50020"/>
+            <item id="50021"/>
+            <item id="50022"/>
+            <item id="50023"/>
+            <item id="50024"/>
+        </requiredItems>
+        <skills>
+            <skill id="50002" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="58" minimumPieces="5">
+        <requiredItems>
+            <item id="50030"/>
+            <item id="50031"/>
+            <item id="50032"/>
+            <item id="50033"/>
+            <item id="50034"/>
+        </requiredItems>
+        <skills>
+            <skill id="50003" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="59" minimumPieces="5">
+        <requiredItems>
+            <item id="51010"/>
+            <item id="51011"/>
+            <item id="51012"/>
+            <item id="51013"/>
+            <item id="51014"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="51015"/>
+        </optionalItems>
+        <skills>
+            <skill id="50004" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="60" minimumPieces="5">
+        <requiredItems>
+            <item id="51020"/>
+            <item id="51021"/>
+            <item id="51022"/>
+            <item id="51023"/>
+            <item id="51024"/>
+        </requiredItems>
+        <skills>
+            <skill id="50005" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="61" minimumPieces="5">
+        <requiredItems>
+            <item id="51030"/>
+            <item id="51031"/>
+            <item id="51032"/>
+            <item id="51033"/>
+            <item id="51034"/>
+        </requiredItems>
+        <skills>
+            <skill id="50006" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="62" minimumPieces="5">
+        <requiredItems>
+            <item id="51040"/>
+            <item id="51041"/>
+            <item id="51042"/>
+            <item id="51043"/>
+            <item id="51044"/>
+        </requiredItems>
+        <skills>
+            <skill id="50007" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="63" minimumPieces="5">
+        <requiredItems>
+            <item id="51050"/>
+            <item id="51051"/>
+            <item id="51052"/>
+            <item id="51053"/>
+            <item id="51054"/>
+        </requiredItems>
+        <skills>
+            <skill id="50008" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="64" minimumPieces="5">
+        <requiredItems>
+            <item id="51060"/>
+            <item id="51061"/>
+            <item id="51062"/>
+            <item id="51063"/>
+            <item id="51064"/>
+        </requiredItems>
+        <skills>
+            <skill id="50009" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="65" minimumPieces="5">
+        <requiredItems>
+            <item id="51070"/>
+            <item id="51071"/>
+            <item id="51131"/>
+            <item id="51072"/>
+            <item id="51132"/>
+            <item id="51073"/>
+            <item id="51133"/>
+            <item id="51074"/>
+            <item id="51134"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="51075"/>
+            <item id="51135"/>
+        </optionalItems>
+        <skills>
+            <skill id="50010" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="66" minimumPieces="5">
+        <requiredItems>
+            <item id="51080"/>
+            <item id="51081"/>
+            <item id="51141"/>
+            <item id="51082"/>
+            <item id="51142"/>
+            <item id="51083"/>
+            <item id="51143"/>
+            <item id="51084"/>
+            <item id="51144"/>
+        </requiredItems>
+        <skills>
+            <skill id="50011" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="67" minimumPieces="5">
+        <requiredItems>
+            <item id="51090"/>
+            <item id="51091"/>
+            <item id="51151"/>
+            <item id="51092"/>
+            <item id="51152"/>
+            <item id="51093"/>
+            <item id="51153"/>
+            <item id="51094"/>
+            <item id="51154"/>
+        </requiredItems>
+        <skills>
+            <skill id="50012" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="68" minimumPieces="5">
+        <requiredItems>
+            <item id="51100"/>
+            <item id="51101"/>
+            <item id="51161"/>
+            <item id="51102"/>
+            <item id="51162"/>
+            <item id="51103"/>
+            <item id="51163"/>
+            <item id="51104"/>
+            <item id="51164"/>
+        </requiredItems>
+        <skills>
+            <skill id="50013" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="69" minimumPieces="5">
+        <requiredItems>
+            <item id="51110"/>
+            <item id="51111"/>
+            <item id="51171"/>
+            <item id="51112"/>
+            <item id="51172"/>
+            <item id="51113"/>
+            <item id="51173"/>
+            <item id="51114"/>
+            <item id="51174"/>
+        </requiredItems>
+        <skills>
+            <skill id="50014" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="70" minimumPieces="5">
+        <requiredItems>
+            <item id="51120"/>
+            <item id="51121"/>
+            <item id="51181"/>
+            <item id="51122"/>
+            <item id="51182"/>
+            <item id="51123"/>
+            <item id="51183"/>
+            <item id="51124"/>
+            <item id="51184"/>
+        </requiredItems>
+        <skills>
+            <skill id="50015" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="71" minimumPieces="5">
+        <requiredItems>
+            <item id="51130"/>
+            <item id="51131"/>
+            <item id="51071"/>
+            <item id="51132"/>
+            <item id="51072"/>
+            <item id="51133"/>
+            <item id="51073"/>
+            <item id="51134"/>
+            <item id="51074"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="51135"/>
+            <item id="51075"/>
+        </optionalItems>
+        <skills>
+            <skill id="50010" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="72" minimumPieces="5">
+        <requiredItems>
+            <item id="51140"/>
+            <item id="51141"/>
+            <item id="51081"/>
+            <item id="51142"/>
+            <item id="51082"/>
+            <item id="51143"/>
+            <item id="51083"/>
+            <item id="51144"/>
+            <item id="51084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50011" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="73" minimumPieces="5">
+        <requiredItems>
+            <item id="51150"/>
+            <item id="51151"/>
+            <item id="51091"/>
+            <item id="51152"/>
+            <item id="51092"/>
+            <item id="51153"/>
+            <item id="51093"/>
+            <item id="51154"/>
+            <item id="51094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50012" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="74" minimumPieces="5">
+        <requiredItems>
+            <item id="51160"/>
+            <item id="51161"/>
+            <item id="51101"/>
+            <item id="51162"/>
+            <item id="51102"/>
+            <item id="51163"/>
+            <item id="51103"/>
+            <item id="51164"/>
+            <item id="51104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50013" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="75" minimumPieces="5">
+        <requiredItems>
+            <item id="51170"/>
+            <item id="51171"/>
+            <item id="51111"/>
+            <item id="51172"/>
+            <item id="51112"/>
+            <item id="51173"/>
+            <item id="51113"/>
+            <item id="51174"/>
+            <item id="51114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50014" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="76" minimumPieces="5">
+        <requiredItems>
+            <item id="51180"/>
+            <item id="51181"/>
+            <item id="51121"/>
+            <item id="51182"/>
+            <item id="51122"/>
+            <item id="51183"/>
+            <item id="51123"/>
+            <item id="51184"/>
+            <item id="51124"/>
+        </requiredItems>
+        <skills>
+            <skill id="50015" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="77" minimumPieces="5">
+        <requiredItems>
+            <item id="52010"/>
+            <item id="52011"/>
+            <item id="52071"/>
+            <item id="52012"/>
+            <item id="52072"/>
+            <item id="52013"/>
+            <item id="52073"/>
+            <item id="52014"/>
+            <item id="52074"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="52015"/>
+            <item id="52075"/>
+        </optionalItems>
+        <skills>
+            <skill id="50016" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="78" minimumPieces="5">
+        <requiredItems>
+            <item id="52020"/>
+            <item id="52021"/>
+            <item id="52081"/>
+            <item id="52022"/>
+            <item id="52082"/>
+            <item id="52023"/>
+            <item id="52083"/>
+            <item id="52024"/>
+            <item id="52084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50017" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="79" minimumPieces="5">
+        <requiredItems>
+            <item id="52030"/>
+            <item id="52031"/>
+            <item id="52091"/>
+            <item id="52032"/>
+            <item id="52092"/>
+            <item id="52033"/>
+            <item id="52093"/>
+            <item id="52034"/>
+            <item id="52094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50018" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="80" minimumPieces="5">
+        <requiredItems>
+            <item id="52040"/>
+            <item id="52041"/>
+            <item id="52101"/>
+            <item id="52042"/>
+            <item id="52102"/>
+            <item id="52043"/>
+            <item id="52103"/>
+            <item id="52044"/>
+            <item id="52104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50019" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="81" minimumPieces="5">
+        <requiredItems>
+            <item id="52050"/>
+            <item id="52051"/>
+            <item id="52111"/>
+            <item id="52052"/>
+            <item id="52112"/>
+            <item id="52053"/>
+            <item id="52113"/>
+            <item id="52054"/>
+            <item id="52114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50020" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="82" minimumPieces="5">
+        <requiredItems>
+            <item id="52060"/>
+            <item id="52061"/>
+            <item id="52121"/>
+            <item id="52062"/>
+            <item id="52122"/>
+            <item id="52063"/>
+            <item id="52123"/>
+            <item id="52064"/>
+            <item id="52124"/>
+        </requiredItems>
+        <skills>
+            <skill id="50021" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="83" minimumPieces="5">
+        <requiredItems>
+            <item id="52070"/>
+            <item id="52071"/>
+            <item id="52011"/>
+            <item id="52072"/>
+            <item id="52012"/>
+            <item id="52073"/>
+            <item id="52013"/>
+            <item id="52074"/>
+            <item id="52014"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="52075"/>
+            <item id="52015"/>
+        </optionalItems>
+        <skills>
+            <skill id="50016" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="84" minimumPieces="5">
+        <requiredItems>
+            <item id="52080"/>
+            <item id="52081"/>
+            <item id="52021"/>
+            <item id="52082"/>
+            <item id="52022"/>
+            <item id="52083"/>
+            <item id="52023"/>
+            <item id="52084"/>
+            <item id="52024"/>
+        </requiredItems>
+        <skills>
+            <skill id="50017" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="85" minimumPieces="5">
+        <requiredItems>
+            <item id="52090"/>
+            <item id="52091"/>
+            <item id="52031"/>
+            <item id="52092"/>
+            <item id="52032"/>
+            <item id="52093"/>
+            <item id="52033"/>
+            <item id="52094"/>
+            <item id="52034"/>
+        </requiredItems>
+        <skills>
+            <skill id="50018" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="86" minimumPieces="5">
+        <requiredItems>
+            <item id="52100"/>
+            <item id="52101"/>
+            <item id="52041"/>
+            <item id="52102"/>
+            <item id="52042"/>
+            <item id="52103"/>
+            <item id="52043"/>
+            <item id="52104"/>
+            <item id="52044"/>
+        </requiredItems>
+        <skills>
+            <skill id="50019" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="87" minimumPieces="5">
+        <requiredItems>
+            <item id="52110"/>
+            <item id="52111"/>
+            <item id="52051"/>
+            <item id="52112"/>
+            <item id="52052"/>
+            <item id="52113"/>
+            <item id="52053"/>
+            <item id="52114"/>
+            <item id="52054"/>
+        </requiredItems>
+        <skills>
+            <skill id="50020" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="88" minimumPieces="5">
+        <requiredItems>
+            <item id="52120"/>
+            <item id="52121"/>
+            <item id="52061"/>
+            <item id="52122"/>
+            <item id="52062"/>
+            <item id="52123"/>
+            <item id="52063"/>
+            <item id="52124"/>
+            <item id="52064"/>
+        </requiredItems>
+        <skills>
+            <skill id="50021" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="89" minimumPieces="5">
+        <requiredItems>
+            <item id="52070"/>
+            <item id="52071"/>
+            <item id="52131"/>
+            <item id="52072"/>
+            <item id="52132"/>
+            <item id="52073"/>
+            <item id="52133"/>
+            <item id="52074"/>
+            <item id="52134"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="52075"/>
+            <item id="52135"/>
+        </optionalItems>
+        <skills>
+            <skill id="50016" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="90" minimumPieces="5">
+        <requiredItems>
+            <item id="52080"/>
+            <item id="52081"/>
+            <item id="52141"/>
+            <item id="52082"/>
+            <item id="52142"/>
+            <item id="52083"/>
+            <item id="52143"/>
+            <item id="52084"/>
+            <item id="52144"/>
+        </requiredItems>
+        <skills>
+            <skill id="50017" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="91" minimumPieces="5">
+        <requiredItems>
+            <item id="52090"/>
+            <item id="52091"/>
+            <item id="52151"/>
+            <item id="52092"/>
+            <item id="52152"/>
+            <item id="52093"/>
+            <item id="52153"/>
+            <item id="52094"/>
+            <item id="52154"/>
+        </requiredItems>
+        <skills>
+            <skill id="50018" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="92" minimumPieces="5">
+        <requiredItems>
+            <item id="52100"/>
+            <item id="52101"/>
+            <item id="52161"/>
+            <item id="52102"/>
+            <item id="52162"/>
+            <item id="52103"/>
+            <item id="52163"/>
+            <item id="52104"/>
+            <item id="52164"/>
+        </requiredItems>
+        <skills>
+            <skill id="50019" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="93" minimumPieces="5">
+        <requiredItems>
+            <item id="52110"/>
+            <item id="52111"/>
+            <item id="52171"/>
+            <item id="52112"/>
+            <item id="52172"/>
+            <item id="52113"/>
+            <item id="52173"/>
+            <item id="52114"/>
+            <item id="52174"/>
+        </requiredItems>
+        <skills>
+            <skill id="50020" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="94" minimumPieces="5">
+        <requiredItems>
+            <item id="52120"/>
+            <item id="52121"/>
+            <item id="52181"/>
+            <item id="52122"/>
+            <item id="52182"/>
+            <item id="52123"/>
+            <item id="52183"/>
+            <item id="52124"/>
+            <item id="52184"/>
+        </requiredItems>
+        <skills>
+            <skill id="50021" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="95" minimumPieces="5">
+        <requiredItems>
+            <item id="52130"/>
+            <item id="52131"/>
+            <item id="52071"/>
+            <item id="52132"/>
+            <item id="52072"/>
+            <item id="52133"/>
+            <item id="52073"/>
+            <item id="52134"/>
+            <item id="52074"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="52135"/>
+            <item id="52075"/>
+        </optionalItems>
+        <skills>
+            <skill id="50022" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="96" minimumPieces="5">
+        <requiredItems>
+            <item id="52140"/>
+            <item id="52141"/>
+            <item id="52081"/>
+            <item id="52142"/>
+            <item id="52082"/>
+            <item id="52143"/>
+            <item id="52083"/>
+            <item id="52144"/>
+            <item id="52084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50023" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="97" minimumPieces="5">
+        <requiredItems>
+            <item id="52150"/>
+            <item id="52151"/>
+            <item id="52091"/>
+            <item id="52152"/>
+            <item id="52092"/>
+            <item id="52153"/>
+            <item id="52093"/>
+            <item id="52154"/>
+            <item id="52094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50024" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="98" minimumPieces="5">
+        <requiredItems>
+            <item id="52160"/>
+            <item id="52161"/>
+            <item id="52101"/>
+            <item id="52162"/>
+            <item id="52102"/>
+            <item id="52163"/>
+            <item id="52103"/>
+            <item id="52164"/>
+            <item id="52104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50025" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="99" minimumPieces="5">
+        <requiredItems>
+            <item id="52170"/>
+            <item id="52171"/>
+            <item id="52111"/>
+            <item id="52172"/>
+            <item id="52112"/>
+            <item id="52173"/>
+            <item id="52113"/>
+            <item id="52174"/>
+            <item id="52114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50026" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="100" minimumPieces="5">
+        <requiredItems>
+            <item id="52180"/>
+            <item id="52181"/>
+            <item id="52121"/>
+            <item id="52182"/>
+            <item id="52122"/>
+            <item id="52183"/>
+            <item id="52123"/>
+            <item id="52184"/>
+            <item id="52124"/>
+        </requiredItems>
+        <skills>
+            <skill id="50027" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="101" minimumPieces="5">
+        <requiredItems>
+            <item id="53000"/>
+            <item id="53001"/>
+            <item id="53061"/>
+            <item id="53002"/>
+            <item id="53062"/>
+            <item id="53003"/>
+            <item id="53063"/>
+            <item id="53004"/>
+            <item id="53064"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="53005"/>
+            <item id="53065"/>
+        </optionalItems>
+        <skills>
+            <skill id="50028" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="102" minimumPieces="5">
+        <requiredItems>
+            <item id="53010"/>
+            <item id="53011"/>
+            <item id="53071"/>
+            <item id="53012"/>
+            <item id="53072"/>
+            <item id="53013"/>
+            <item id="53073"/>
+            <item id="53014"/>
+            <item id="53074"/>
+        </requiredItems>
+        <skills>
+            <skill id="50029" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="103" minimumPieces="5">
+        <requiredItems>
+            <item id="53020"/>
+            <item id="53021"/>
+            <item id="53081"/>
+            <item id="53022"/>
+            <item id="53082"/>
+            <item id="53023"/>
+            <item id="53083"/>
+            <item id="53024"/>
+            <item id="53084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50030" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="104" minimumPieces="5">
+        <requiredItems>
+            <item id="53030"/>
+            <item id="53031"/>
+            <item id="53091"/>
+            <item id="53032"/>
+            <item id="53092"/>
+            <item id="53033"/>
+            <item id="53093"/>
+            <item id="53034"/>
+            <item id="53094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50031" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="105" minimumPieces="5">
+        <requiredItems>
+            <item id="53040"/>
+            <item id="53041"/>
+            <item id="53101"/>
+            <item id="53042"/>
+            <item id="53102"/>
+            <item id="53043"/>
+            <item id="53103"/>
+            <item id="53044"/>
+            <item id="53104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50032" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="106" minimumPieces="5">
+        <requiredItems>
+            <item id="53050"/>
+            <item id="53051"/>
+            <item id="53111"/>
+            <item id="53052"/>
+            <item id="53112"/>
+            <item id="53053"/>
+            <item id="53113"/>
+            <item id="53054"/>
+            <item id="53114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50033" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="107" minimumPieces="5">
+        <requiredItems>
+            <item id="53060"/>
+            <item id="53061"/>
+            <item id="53001"/>
+            <item id="53062"/>
+            <item id="53002"/>
+            <item id="53063"/>
+            <item id="53003"/>
+            <item id="53064"/>
+            <item id="53004"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="53065"/>
+            <item id="53005"/>
+        </optionalItems>
+        <skills>
+            <skill id="50028" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="108" minimumPieces="5">
+        <requiredItems>
+            <item id="53070"/>
+            <item id="53071"/>
+            <item id="53011"/>
+            <item id="53072"/>
+            <item id="53012"/>
+            <item id="53073"/>
+            <item id="53013"/>
+            <item id="53074"/>
+            <item id="53014"/>
+        </requiredItems>
+        <skills>
+            <skill id="50029" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="109" minimumPieces="5">
+        <requiredItems>
+            <item id="53080"/>
+            <item id="53081"/>
+            <item id="53021"/>
+            <item id="53082"/>
+            <item id="53022"/>
+            <item id="53083"/>
+            <item id="53023"/>
+            <item id="53084"/>
+            <item id="53024"/>
+        </requiredItems>
+        <skills>
+            <skill id="50030" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="110" minimumPieces="5">
+        <requiredItems>
+            <item id="53090"/>
+            <item id="53091"/>
+            <item id="53031"/>
+            <item id="53092"/>
+            <item id="53032"/>
+            <item id="53093"/>
+            <item id="53033"/>
+            <item id="53094"/>
+            <item id="53034"/>
+        </requiredItems>
+        <skills>
+            <skill id="50031" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="111" minimumPieces="5">
+        <requiredItems>
+            <item id="53100"/>
+            <item id="53101"/>
+            <item id="53041"/>
+            <item id="53102"/>
+            <item id="53042"/>
+            <item id="53103"/>
+            <item id="53043"/>
+            <item id="53104"/>
+            <item id="53044"/>
+        </requiredItems>
+        <skills>
+            <skill id="50032" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="112" minimumPieces="5">
+        <requiredItems>
+            <item id="53110"/>
+            <item id="53111"/>
+            <item id="53051"/>
+            <item id="53112"/>
+            <item id="53052"/>
+            <item id="53113"/>
+            <item id="53053"/>
+            <item id="53114"/>
+            <item id="53054"/>
+        </requiredItems>
+        <skills>
+            <skill id="50033" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="113" minimumPieces="5">
+        <requiredItems>
+            <item id="53060"/>
+            <item id="53061"/>
+            <item id="53121"/>
+            <item id="53062"/>
+            <item id="53122"/>
+            <item id="53063"/>
+            <item id="53123"/>
+            <item id="53064"/>
+            <item id="53124"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="53065"/>
+            <item id="53125"/>
+        </optionalItems>
+        <skills>
+            <skill id="50028" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="114" minimumPieces="5">
+        <requiredItems>
+            <item id="53070"/>
+            <item id="53071"/>
+            <item id="53131"/>
+            <item id="53072"/>
+            <item id="53132"/>
+            <item id="53073"/>
+            <item id="53133"/>
+            <item id="53074"/>
+            <item id="53134"/>
+        </requiredItems>
+        <skills>
+            <skill id="50029" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="115" minimumPieces="5">
+        <requiredItems>
+            <item id="53080"/>
+            <item id="53081"/>
+            <item id="53141"/>
+            <item id="53082"/>
+            <item id="53142"/>
+            <item id="53083"/>
+            <item id="53143"/>
+            <item id="53084"/>
+            <item id="53144"/>
+        </requiredItems>
+        <skills>
+            <skill id="50030" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="116" minimumPieces="5">
+        <requiredItems>
+            <item id="53090"/>
+            <item id="53091"/>
+            <item id="53151"/>
+            <item id="53092"/>
+            <item id="53152"/>
+            <item id="53093"/>
+            <item id="53153"/>
+            <item id="53094"/>
+            <item id="53154"/>
+        </requiredItems>
+        <skills>
+            <skill id="50031" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="117" minimumPieces="5">
+        <requiredItems>
+            <item id="53100"/>
+            <item id="53101"/>
+            <item id="53161"/>
+            <item id="53102"/>
+            <item id="53162"/>
+            <item id="53103"/>
+            <item id="53163"/>
+            <item id="53104"/>
+            <item id="53164"/>
+        </requiredItems>
+        <skills>
+            <skill id="50032" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="118" minimumPieces="5">
+        <requiredItems>
+            <item id="53110"/>
+            <item id="53111"/>
+            <item id="53171"/>
+            <item id="53112"/>
+            <item id="53172"/>
+            <item id="53113"/>
+            <item id="53173"/>
+            <item id="53114"/>
+            <item id="53174"/>
+        </requiredItems>
+        <skills>
+            <skill id="50033" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="119" minimumPieces="5">
+        <requiredItems>
+            <item id="53120"/>
+            <item id="53121"/>
+            <item id="53061"/>
+            <item id="53122"/>
+            <item id="53062"/>
+            <item id="53123"/>
+            <item id="53063"/>
+            <item id="53124"/>
+            <item id="53064"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="53125"/>
+            <item id="53065"/>
+        </optionalItems>
+        <skills>
+            <skill id="50034" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="120" minimumPieces="5">
+        <requiredItems>
+            <item id="53130"/>
+            <item id="53131"/>
+            <item id="53071"/>
+            <item id="53132"/>
+            <item id="53072"/>
+            <item id="53133"/>
+            <item id="53073"/>
+            <item id="53134"/>
+            <item id="53074"/>
+        </requiredItems>
+        <skills>
+            <skill id="50035" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="121" minimumPieces="5">
+        <requiredItems>
+            <item id="53140"/>
+            <item id="53141"/>
+            <item id="53081"/>
+            <item id="53142"/>
+            <item id="53082"/>
+            <item id="53143"/>
+            <item id="53083"/>
+            <item id="53144"/>
+            <item id="53084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50036" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="122" minimumPieces="5">
+        <requiredItems>
+            <item id="53150"/>
+            <item id="53151"/>
+            <item id="53091"/>
+            <item id="53152"/>
+            <item id="53092"/>
+            <item id="53153"/>
+            <item id="53093"/>
+            <item id="53154"/>
+            <item id="53094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50037" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="123" minimumPieces="5">
+        <requiredItems>
+            <item id="53160"/>
+            <item id="53161"/>
+            <item id="53101"/>
+            <item id="53162"/>
+            <item id="53102"/>
+            <item id="53163"/>
+            <item id="53103"/>
+            <item id="53164"/>
+            <item id="53104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50038" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="124" minimumPieces="5">
+        <requiredItems>
+            <item id="53170"/>
+            <item id="53171"/>
+            <item id="53111"/>
+            <item id="53172"/>
+            <item id="53112"/>
+            <item id="53173"/>
+            <item id="53113"/>
+            <item id="53174"/>
+            <item id="53114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50039" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="125" minimumPieces="5">
+        <requiredItems>
+            <item id="54000"/>
+            <item id="54001"/>
+            <item id="54061"/>
+            <item id="54002"/>
+            <item id="54062"/>
+            <item id="54003"/>
+            <item id="54063"/>
+            <item id="54004"/>
+            <item id="54064"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="54005"/>
+            <item id="54065"/>
+        </optionalItems>
+        <skills>
+            <skill id="50040" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="126" minimumPieces="5">
+        <requiredItems>
+            <item id="54010"/>
+            <item id="54011"/>
+            <item id="54071"/>
+            <item id="54012"/>
+            <item id="54072"/>
+            <item id="54013"/>
+            <item id="54073"/>
+            <item id="54014"/>
+            <item id="54074"/>
+        </requiredItems>
+        <skills>
+            <skill id="50041" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="127" minimumPieces="5">
+        <requiredItems>
+            <item id="54020"/>
+            <item id="54021"/>
+            <item id="54081"/>
+            <item id="54022"/>
+            <item id="54082"/>
+            <item id="54023"/>
+            <item id="54083"/>
+            <item id="54024"/>
+            <item id="54084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50042" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="128" minimumPieces="5">
+        <requiredItems>
+            <item id="54030"/>
+            <item id="54031"/>
+            <item id="54091"/>
+            <item id="54032"/>
+            <item id="54092"/>
+            <item id="54033"/>
+            <item id="54093"/>
+            <item id="54034"/>
+            <item id="54094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50043" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="129" minimumPieces="5">
+        <requiredItems>
+            <item id="54040"/>
+            <item id="54041"/>
+            <item id="54101"/>
+            <item id="54042"/>
+            <item id="54102"/>
+            <item id="54043"/>
+            <item id="54103"/>
+            <item id="54044"/>
+            <item id="54104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50044" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="130" minimumPieces="5">
+        <requiredItems>
+            <item id="54050"/>
+            <item id="54051"/>
+            <item id="54111"/>
+            <item id="54052"/>
+            <item id="54112"/>
+            <item id="54053"/>
+            <item id="54113"/>
+            <item id="54054"/>
+            <item id="54114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50045" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="131" minimumPieces="5">
+        <requiredItems>
+            <item id="54060"/>
+            <item id="54061"/>
+            <item id="54001"/>
+            <item id="54062"/>
+            <item id="54002"/>
+            <item id="54063"/>
+            <item id="54003"/>
+            <item id="54064"/>
+            <item id="54004"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="54065"/>
+            <item id="54005"/>
+        </optionalItems>
+        <skills>
+            <skill id="50040" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="132" minimumPieces="5">
+        <requiredItems>
+            <item id="54070"/>
+            <item id="54071"/>
+            <item id="54011"/>
+            <item id="54072"/>
+            <item id="54012"/>
+            <item id="54073"/>
+            <item id="54013"/>
+            <item id="54074"/>
+            <item id="54014"/>
+        </requiredItems>
+        <skills>
+            <skill id="50041" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="133" minimumPieces="5">
+        <requiredItems>
+            <item id="54080"/>
+            <item id="54081"/>
+            <item id="54021"/>
+            <item id="54082"/>
+            <item id="54022"/>
+            <item id="54083"/>
+            <item id="54023"/>
+            <item id="54084"/>
+            <item id="54024"/>
+        </requiredItems>
+        <skills>
+            <skill id="50042" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="134" minimumPieces="5">
+        <requiredItems>
+            <item id="54090"/>
+            <item id="54091"/>
+            <item id="54031"/>
+            <item id="54092"/>
+            <item id="54032"/>
+            <item id="54093"/>
+            <item id="54033"/>
+            <item id="54094"/>
+            <item id="54034"/>
+        </requiredItems>
+        <skills>
+            <skill id="50043" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="135" minimumPieces="5">
+        <requiredItems>
+            <item id="54100"/>
+            <item id="54101"/>
+            <item id="54041"/>
+            <item id="54102"/>
+            <item id="54042"/>
+            <item id="54103"/>
+            <item id="54043"/>
+            <item id="54104"/>
+            <item id="54044"/>
+        </requiredItems>
+        <skills>
+            <skill id="50044" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="136" minimumPieces="5">
+        <requiredItems>
+            <item id="54110"/>
+            <item id="54111"/>
+            <item id="54051"/>
+            <item id="54112"/>
+            <item id="54052"/>
+            <item id="54113"/>
+            <item id="54053"/>
+            <item id="54114"/>
+            <item id="54054"/>
+        </requiredItems>
+        <skills>
+            <skill id="50045" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="137" minimumPieces="5">
+        <requiredItems>
+            <item id="54060"/>
+            <item id="54061"/>
+            <item id="54121"/>
+            <item id="54062"/>
+            <item id="54122"/>
+            <item id="54063"/>
+            <item id="54123"/>
+            <item id="54064"/>
+            <item id="54124"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="54065"/>
+            <item id="54125"/>
+        </optionalItems>
+        <skills>
+            <skill id="50040" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="138" minimumPieces="5">
+        <requiredItems>
+            <item id="54070"/>
+            <item id="54071"/>
+            <item id="54131"/>
+            <item id="54072"/>
+            <item id="54132"/>
+            <item id="54073"/>
+            <item id="54133"/>
+            <item id="54074"/>
+            <item id="54134"/>
+        </requiredItems>
+        <skills>
+            <skill id="50041" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="139" minimumPieces="5">
+        <requiredItems>
+            <item id="54080"/>
+            <item id="54081"/>
+            <item id="54141"/>
+            <item id="54082"/>
+            <item id="54142"/>
+            <item id="54083"/>
+            <item id="54143"/>
+            <item id="54084"/>
+            <item id="54144"/>
+        </requiredItems>
+        <skills>
+            <skill id="50042" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="140" minimumPieces="5">
+        <requiredItems>
+            <item id="54090"/>
+            <item id="54091"/>
+            <item id="54151"/>
+            <item id="54092"/>
+            <item id="54152"/>
+            <item id="54093"/>
+            <item id="54153"/>
+            <item id="54094"/>
+            <item id="54154"/>
+        </requiredItems>
+        <skills>
+            <skill id="50043" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="141" minimumPieces="5">
+        <requiredItems>
+            <item id="54100"/>
+            <item id="54101"/>
+            <item id="54161"/>
+            <item id="54102"/>
+            <item id="54162"/>
+            <item id="54103"/>
+            <item id="54163"/>
+            <item id="54104"/>
+            <item id="54164"/>
+        </requiredItems>
+        <skills>
+            <skill id="50044" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="142" minimumPieces="5">
+        <requiredItems>
+            <item id="54110"/>
+            <item id="54111"/>
+            <item id="54171"/>
+            <item id="54112"/>
+            <item id="54172"/>
+            <item id="54113"/>
+            <item id="54173"/>
+            <item id="54114"/>
+            <item id="54174"/>
+        </requiredItems>
+        <skills>
+            <skill id="50045" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="143" minimumPieces="5">
+        <requiredItems>
+            <item id="54120"/>
+            <item id="54121"/>
+            <item id="54061"/>
+            <item id="54122"/>
+            <item id="54062"/>
+            <item id="54123"/>
+            <item id="54063"/>
+            <item id="54124"/>
+            <item id="54064"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="54125"/>
+            <item id="54065"/>
+        </optionalItems>
+        <skills>
+            <skill id="50046" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="144" minimumPieces="5">
+        <requiredItems>
+            <item id="54130"/>
+            <item id="54131"/>
+            <item id="54071"/>
+            <item id="54132"/>
+            <item id="54072"/>
+            <item id="54133"/>
+            <item id="54073"/>
+            <item id="54134"/>
+            <item id="54074"/>
+        </requiredItems>
+        <skills>
+            <skill id="50047" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="145" minimumPieces="5">
+        <requiredItems>
+            <item id="54140"/>
+            <item id="54141"/>
+            <item id="54081"/>
+            <item id="54142"/>
+            <item id="54082"/>
+            <item id="54143"/>
+            <item id="54083"/>
+            <item id="54144"/>
+            <item id="54084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50048" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="146" minimumPieces="5">
+        <requiredItems>
+            <item id="54150"/>
+            <item id="54151"/>
+            <item id="54091"/>
+            <item id="54152"/>
+            <item id="54092"/>
+            <item id="54153"/>
+            <item id="54093"/>
+            <item id="54154"/>
+            <item id="54094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50049" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="147" minimumPieces="5">
+        <requiredItems>
+            <item id="54160"/>
+            <item id="54161"/>
+            <item id="54101"/>
+            <item id="54162"/>
+            <item id="54102"/>
+            <item id="54163"/>
+            <item id="54103"/>
+            <item id="54164"/>
+            <item id="54104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50050" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="148" minimumPieces="5">
+        <requiredItems>
+            <item id="54170"/>
+            <item id="54171"/>
+            <item id="54111"/>
+            <item id="54172"/>
+            <item id="54112"/>
+            <item id="54173"/>
+            <item id="54113"/>
+            <item id="54174"/>
+            <item id="54114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50051" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="149" minimumPieces="5">
+        <requiredItems>
+            <item id="54180"/>
+            <item id="54181"/>
+            <item id="54182"/>
+            <item id="54183"/>
+            <item id="54184"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="54185"/>
+        </optionalItems>
+        <skills>
+            <skill id="50071" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="150" minimumPieces="5">
+        <requiredItems>
+            <item id="54190"/>
+            <item id="54191"/>
+            <item id="54192"/>
+            <item id="54193"/>
+            <item id="54194"/>
+        </requiredItems>
+        <skills>
+            <skill id="50072" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="151" minimumPieces="5">
+        <requiredItems>
+            <item id="54200"/>
+            <item id="54201"/>
+            <item id="54202"/>
+            <item id="54203"/>
+            <item id="54204"/>
+        </requiredItems>
+        <skills>
+            <skill id="50073" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="152" minimumPieces="5">
+        <requiredItems>
+            <item id="54210"/>
+            <item id="54211"/>
+            <item id="54212"/>
+            <item id="54213"/>
+            <item id="54214"/>
+        </requiredItems>
+        <skills>
+            <skill id="50074" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="153" minimumPieces="5">
+        <requiredItems>
+            <item id="54220"/>
+            <item id="54221"/>
+            <item id="54222"/>
+            <item id="54223"/>
+            <item id="54224"/>
+        </requiredItems>
+        <skills>
+            <skill id="50075" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="154" minimumPieces="5">
+        <requiredItems>
+            <item id="54230"/>
+            <item id="54231"/>
+            <item id="54232"/>
+            <item id="54233"/>
+            <item id="54234"/>
+        </requiredItems>
+        <skills>
+            <skill id="50076" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="155" minimumPieces="5">
+        <requiredItems>
+            <item id="358"/>
+            <item id="2380"/>
+            <item id="2416"/>
+            <item id="5718"/>
+            <item id="5734"/>
+        </requiredItems>
+        <skills>
+            <skill id="50078" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="156" minimumPieces="5">
+        <requiredItems>
+            <item id="50010"/>
+            <item id="50011"/>
+            <item id="50012"/>
+            <item id="50013"/>
+            <item id="50014"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="50015"/>
+        </optionalItems>
+        <skills>
+            <skill id="50001" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="157" minimumPieces="5">
+        <requiredItems>
+            <item id="50020"/>
+            <item id="50021"/>
+            <item id="50022"/>
+            <item id="50023"/>
+            <item id="50024"/>
+        </requiredItems>
+        <skills>
+            <skill id="50002" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="158" minimumPieces="5">
+        <requiredItems>
+            <item id="50030"/>
+            <item id="50031"/>
+            <item id="50032"/>
+            <item id="50033"/>
+            <item id="50034"/>
+        </requiredItems>
+        <skills>
+            <skill id="50003" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="159" minimumPieces="5">
+        <requiredItems>
+            <item id="51010"/>
+            <item id="51011"/>
+            <item id="51012"/>
+            <item id="51013"/>
+            <item id="51014"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="51015"/>
+        </optionalItems>
+        <skills>
+            <skill id="50004" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="160" minimumPieces="5">
+        <requiredItems>
+            <item id="51020"/>
+            <item id="51021"/>
+            <item id="51022"/>
+            <item id="51023"/>
+            <item id="51024"/>
+        </requiredItems>
+        <skills>
+            <skill id="50005" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="161" minimumPieces="5">
+        <requiredItems>
+            <item id="51030"/>
+            <item id="51031"/>
+            <item id="51032"/>
+            <item id="51033"/>
+            <item id="51034"/>
+        </requiredItems>
+        <skills>
+            <skill id="50006" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="162" minimumPieces="5">
+        <requiredItems>
+            <item id="51040"/>
+            <item id="51041"/>
+            <item id="51042"/>
+            <item id="51043"/>
+            <item id="51044"/>
+        </requiredItems>
+        <skills>
+            <skill id="50007" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="163" minimumPieces="5">
+        <requiredItems>
+            <item id="51050"/>
+            <item id="51051"/>
+            <item id="51052"/>
+            <item id="51053"/>
+            <item id="51054"/>
+        </requiredItems>
+        <skills>
+            <skill id="50008" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="164" minimumPieces="5">
+        <requiredItems>
+            <item id="51060"/>
+            <item id="51061"/>
+            <item id="51062"/>
+            <item id="51063"/>
+            <item id="51064"/>
+        </requiredItems>
+        <skills>
+            <skill id="50009" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="165" minimumPieces="5">
+        <requiredItems>
+            <item id="51070"/>
+            <item id="51071"/>
+            <item id="51131"/>
+            <item id="51072"/>
+            <item id="51132"/>
+            <item id="51073"/>
+            <item id="51133"/>
+            <item id="51074"/>
+            <item id="51134"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="51075"/>
+            <item id="51135"/>
+        </optionalItems>
+        <skills>
+            <skill id="50010" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="166" minimumPieces="5">
+        <requiredItems>
+            <item id="51080"/>
+            <item id="51081"/>
+            <item id="51141"/>
+            <item id="51082"/>
+            <item id="51142"/>
+            <item id="51083"/>
+            <item id="51143"/>
+            <item id="51084"/>
+            <item id="51144"/>
+        </requiredItems>
+        <skills>
+            <skill id="50011" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="167" minimumPieces="5">
+        <requiredItems>
+            <item id="51090"/>
+            <item id="51091"/>
+            <item id="51151"/>
+            <item id="51092"/>
+            <item id="51152"/>
+            <item id="51093"/>
+            <item id="51153"/>
+            <item id="51094"/>
+            <item id="51154"/>
+        </requiredItems>
+        <skills>
+            <skill id="50012" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="168" minimumPieces="5">
+        <requiredItems>
+            <item id="51100"/>
+            <item id="51101"/>
+            <item id="51161"/>
+            <item id="51102"/>
+            <item id="51162"/>
+            <item id="51103"/>
+            <item id="51163"/>
+            <item id="51104"/>
+            <item id="51164"/>
+        </requiredItems>
+        <skills>
+            <skill id="50013" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="169" minimumPieces="5">
+        <requiredItems>
+            <item id="51110"/>
+            <item id="51111"/>
+            <item id="51171"/>
+            <item id="51112"/>
+            <item id="51172"/>
+            <item id="51113"/>
+            <item id="51173"/>
+            <item id="51114"/>
+            <item id="51174"/>
+        </requiredItems>
+        <skills>
+            <skill id="50014" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="170" minimumPieces="5">
+        <requiredItems>
+            <item id="51120"/>
+            <item id="51121"/>
+            <item id="51181"/>
+            <item id="51122"/>
+            <item id="51182"/>
+            <item id="51123"/>
+            <item id="51183"/>
+            <item id="51124"/>
+            <item id="51184"/>
+        </requiredItems>
+        <skills>
+            <skill id="50015" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="171" minimumPieces="5">
+        <requiredItems>
+            <item id="51130"/>
+            <item id="51131"/>
+            <item id="51071"/>
+            <item id="51132"/>
+            <item id="51072"/>
+            <item id="51133"/>
+            <item id="51073"/>
+            <item id="51134"/>
+            <item id="51074"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="51135"/>
+            <item id="51075"/>
+        </optionalItems>
+        <skills>
+            <skill id="50010" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="172" minimumPieces="5">
+        <requiredItems>
+            <item id="51140"/>
+            <item id="51141"/>
+            <item id="51081"/>
+            <item id="51142"/>
+            <item id="51082"/>
+            <item id="51143"/>
+            <item id="51083"/>
+            <item id="51144"/>
+            <item id="51084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50011" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="173" minimumPieces="5">
+        <requiredItems>
+            <item id="51150"/>
+            <item id="51151"/>
+            <item id="51091"/>
+            <item id="51152"/>
+            <item id="51092"/>
+            <item id="51153"/>
+            <item id="51093"/>
+            <item id="51154"/>
+            <item id="51094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50012" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="174" minimumPieces="5">
+        <requiredItems>
+            <item id="51160"/>
+            <item id="51161"/>
+            <item id="51101"/>
+            <item id="51162"/>
+            <item id="51102"/>
+            <item id="51163"/>
+            <item id="51103"/>
+            <item id="51164"/>
+            <item id="51104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50013" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="175" minimumPieces="5">
+        <requiredItems>
+            <item id="51170"/>
+            <item id="51171"/>
+            <item id="51111"/>
+            <item id="51172"/>
+            <item id="51112"/>
+            <item id="51173"/>
+            <item id="51113"/>
+            <item id="51174"/>
+            <item id="51114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50014" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="176" minimumPieces="5">
+        <requiredItems>
+            <item id="51180"/>
+            <item id="51181"/>
+            <item id="51121"/>
+            <item id="51182"/>
+            <item id="51122"/>
+            <item id="51183"/>
+            <item id="51123"/>
+            <item id="51184"/>
+            <item id="51124"/>
+        </requiredItems>
+        <skills>
+            <skill id="50015" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="177" minimumPieces="5">
+        <requiredItems>
+            <item id="52010"/>
+            <item id="52011"/>
+            <item id="52071"/>
+            <item id="52012"/>
+            <item id="52072"/>
+            <item id="52013"/>
+            <item id="52073"/>
+            <item id="52014"/>
+            <item id="52074"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="52015"/>
+            <item id="52075"/>
+        </optionalItems>
+        <skills>
+            <skill id="50016" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="178" minimumPieces="5">
+        <requiredItems>
+            <item id="52020"/>
+            <item id="52021"/>
+            <item id="52081"/>
+            <item id="52022"/>
+            <item id="52082"/>
+            <item id="52023"/>
+            <item id="52083"/>
+            <item id="52024"/>
+            <item id="52084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50017" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="179" minimumPieces="5">
+        <requiredItems>
+            <item id="52030"/>
+            <item id="52031"/>
+            <item id="52091"/>
+            <item id="52032"/>
+            <item id="52092"/>
+            <item id="52033"/>
+            <item id="52093"/>
+            <item id="52034"/>
+            <item id="52094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50018" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="180" minimumPieces="5">
+        <requiredItems>
+            <item id="52040"/>
+            <item id="52041"/>
+            <item id="52101"/>
+            <item id="52042"/>
+            <item id="52102"/>
+            <item id="52043"/>
+            <item id="52103"/>
+            <item id="52044"/>
+            <item id="52104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50019" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="181" minimumPieces="5">
+        <requiredItems>
+            <item id="52050"/>
+            <item id="52051"/>
+            <item id="52111"/>
+            <item id="52052"/>
+            <item id="52112"/>
+            <item id="52053"/>
+            <item id="52113"/>
+            <item id="52054"/>
+            <item id="52114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50020" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="182" minimumPieces="5">
+        <requiredItems>
+            <item id="52060"/>
+            <item id="52061"/>
+            <item id="52121"/>
+            <item id="52062"/>
+            <item id="52122"/>
+            <item id="52063"/>
+            <item id="52123"/>
+            <item id="52064"/>
+            <item id="52124"/>
+        </requiredItems>
+        <skills>
+            <skill id="50021" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="183" minimumPieces="5">
+        <requiredItems>
+            <item id="52070"/>
+            <item id="52071"/>
+            <item id="52011"/>
+            <item id="52072"/>
+            <item id="52012"/>
+            <item id="52073"/>
+            <item id="52013"/>
+            <item id="52074"/>
+            <item id="52014"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="52075"/>
+            <item id="52015"/>
+        </optionalItems>
+        <skills>
+            <skill id="50016" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="184" minimumPieces="5">
+        <requiredItems>
+            <item id="52080"/>
+            <item id="52081"/>
+            <item id="52021"/>
+            <item id="52082"/>
+            <item id="52022"/>
+            <item id="52083"/>
+            <item id="52023"/>
+            <item id="52084"/>
+            <item id="52024"/>
+        </requiredItems>
+        <skills>
+            <skill id="50017" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="185" minimumPieces="5">
+        <requiredItems>
+            <item id="52090"/>
+            <item id="52091"/>
+            <item id="52031"/>
+            <item id="52092"/>
+            <item id="52032"/>
+            <item id="52093"/>
+            <item id="52033"/>
+            <item id="52094"/>
+            <item id="52034"/>
+        </requiredItems>
+        <skills>
+            <skill id="50018" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="186" minimumPieces="5">
+        <requiredItems>
+            <item id="52100"/>
+            <item id="52101"/>
+            <item id="52041"/>
+            <item id="52102"/>
+            <item id="52042"/>
+            <item id="52103"/>
+            <item id="52043"/>
+            <item id="52104"/>
+            <item id="52044"/>
+        </requiredItems>
+        <skills>
+            <skill id="50019" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="187" minimumPieces="5">
+        <requiredItems>
+            <item id="52110"/>
+            <item id="52111"/>
+            <item id="52051"/>
+            <item id="52112"/>
+            <item id="52052"/>
+            <item id="52113"/>
+            <item id="52053"/>
+            <item id="52114"/>
+            <item id="52054"/>
+        </requiredItems>
+        <skills>
+            <skill id="50020" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="188" minimumPieces="5">
+        <requiredItems>
+            <item id="52120"/>
+            <item id="52121"/>
+            <item id="52061"/>
+            <item id="52122"/>
+            <item id="52062"/>
+            <item id="52123"/>
+            <item id="52063"/>
+            <item id="52124"/>
+            <item id="52064"/>
+        </requiredItems>
+        <skills>
+            <skill id="50021" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="189" minimumPieces="5">
+        <requiredItems>
+            <item id="52070"/>
+            <item id="52071"/>
+            <item id="52131"/>
+            <item id="52072"/>
+            <item id="52132"/>
+            <item id="52073"/>
+            <item id="52133"/>
+            <item id="52074"/>
+            <item id="52134"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="52075"/>
+            <item id="52135"/>
+        </optionalItems>
+        <skills>
+            <skill id="50016" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="190" minimumPieces="5">
+        <requiredItems>
+            <item id="52080"/>
+            <item id="52081"/>
+            <item id="52141"/>
+            <item id="52082"/>
+            <item id="52142"/>
+            <item id="52083"/>
+            <item id="52143"/>
+            <item id="52084"/>
+            <item id="52144"/>
+        </requiredItems>
+        <skills>
+            <skill id="50017" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="191" minimumPieces="5">
+        <requiredItems>
+            <item id="52090"/>
+            <item id="52091"/>
+            <item id="52151"/>
+            <item id="52092"/>
+            <item id="52152"/>
+            <item id="52093"/>
+            <item id="52153"/>
+            <item id="52094"/>
+            <item id="52154"/>
+        </requiredItems>
+        <skills>
+            <skill id="50018" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="192" minimumPieces="5">
+        <requiredItems>
+            <item id="52100"/>
+            <item id="52101"/>
+            <item id="52161"/>
+            <item id="52102"/>
+            <item id="52162"/>
+            <item id="52103"/>
+            <item id="52163"/>
+            <item id="52104"/>
+            <item id="52164"/>
+        </requiredItems>
+        <skills>
+            <skill id="50019" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="193" minimumPieces="5">
+        <requiredItems>
+            <item id="52110"/>
+            <item id="52111"/>
+            <item id="52171"/>
+            <item id="52112"/>
+            <item id="52172"/>
+            <item id="52113"/>
+            <item id="52173"/>
+            <item id="52114"/>
+            <item id="52174"/>
+        </requiredItems>
+        <skills>
+            <skill id="50020" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="194" minimumPieces="5">
+        <requiredItems>
+            <item id="52120"/>
+            <item id="52121"/>
+            <item id="52181"/>
+            <item id="52122"/>
+            <item id="52182"/>
+            <item id="52123"/>
+            <item id="52183"/>
+            <item id="52124"/>
+            <item id="52184"/>
+        </requiredItems>
+        <skills>
+            <skill id="50021" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="195" minimumPieces="5">
+        <requiredItems>
+            <item id="52130"/>
+            <item id="52131"/>
+            <item id="52071"/>
+            <item id="52132"/>
+            <item id="52072"/>
+            <item id="52133"/>
+            <item id="52073"/>
+            <item id="52134"/>
+            <item id="52074"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="52135"/>
+            <item id="52075"/>
+        </optionalItems>
+        <skills>
+            <skill id="50022" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="196" minimumPieces="5">
+        <requiredItems>
+            <item id="52140"/>
+            <item id="52141"/>
+            <item id="52081"/>
+            <item id="52142"/>
+            <item id="52082"/>
+            <item id="52143"/>
+            <item id="52083"/>
+            <item id="52144"/>
+            <item id="52084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50023" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="197" minimumPieces="5">
+        <requiredItems>
+            <item id="52150"/>
+            <item id="52151"/>
+            <item id="52091"/>
+            <item id="52152"/>
+            <item id="52092"/>
+            <item id="52153"/>
+            <item id="52093"/>
+            <item id="52154"/>
+            <item id="52094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50024" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="198" minimumPieces="5">
+        <requiredItems>
+            <item id="52160"/>
+            <item id="52161"/>
+            <item id="52101"/>
+            <item id="52162"/>
+            <item id="52102"/>
+            <item id="52163"/>
+            <item id="52103"/>
+            <item id="52164"/>
+            <item id="52104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50025" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="199" minimumPieces="5">
+        <requiredItems>
+            <item id="52170"/>
+            <item id="52171"/>
+            <item id="52111"/>
+            <item id="52172"/>
+            <item id="52112"/>
+            <item id="52173"/>
+            <item id="52113"/>
+            <item id="52174"/>
+            <item id="52114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50026" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="200" minimumPieces="5">
+        <requiredItems>
+            <item id="52180"/>
+            <item id="52181"/>
+            <item id="52121"/>
+            <item id="52182"/>
+            <item id="52122"/>
+            <item id="52183"/>
+            <item id="52123"/>
+            <item id="52184"/>
+            <item id="52124"/>
+        </requiredItems>
+        <skills>
+            <skill id="50027" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="201" minimumPieces="5">
+        <requiredItems>
+            <item id="53000"/>
+            <item id="53001"/>
+            <item id="53061"/>
+            <item id="53002"/>
+            <item id="53062"/>
+            <item id="53003"/>
+            <item id="53063"/>
+            <item id="53004"/>
+            <item id="53064"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="53005"/>
+            <item id="53065"/>
+        </optionalItems>
+        <skills>
+            <skill id="50028" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="202" minimumPieces="5">
+        <requiredItems>
+            <item id="53010"/>
+            <item id="53011"/>
+            <item id="53071"/>
+            <item id="53012"/>
+            <item id="53072"/>
+            <item id="53013"/>
+            <item id="53073"/>
+            <item id="53014"/>
+            <item id="53074"/>
+        </requiredItems>
+        <skills>
+            <skill id="50029" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="203" minimumPieces="5">
+        <requiredItems>
+            <item id="53020"/>
+            <item id="53021"/>
+            <item id="53081"/>
+            <item id="53022"/>
+            <item id="53082"/>
+            <item id="53023"/>
+            <item id="53083"/>
+            <item id="53024"/>
+            <item id="53084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50030" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="204" minimumPieces="5">
+        <requiredItems>
+            <item id="53030"/>
+            <item id="53031"/>
+            <item id="53091"/>
+            <item id="53032"/>
+            <item id="53092"/>
+            <item id="53033"/>
+            <item id="53093"/>
+            <item id="53034"/>
+            <item id="53094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50031" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="205" minimumPieces="5">
+        <requiredItems>
+            <item id="53040"/>
+            <item id="53041"/>
+            <item id="53101"/>
+            <item id="53042"/>
+            <item id="53102"/>
+            <item id="53043"/>
+            <item id="53103"/>
+            <item id="53044"/>
+            <item id="53104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50032" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="206" minimumPieces="5">
+        <requiredItems>
+            <item id="53050"/>
+            <item id="53051"/>
+            <item id="53111"/>
+            <item id="53052"/>
+            <item id="53112"/>
+            <item id="53053"/>
+            <item id="53113"/>
+            <item id="53054"/>
+            <item id="53114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50033" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="207" minimumPieces="5">
+        <requiredItems>
+            <item id="53060"/>
+            <item id="53061"/>
+            <item id="53001"/>
+            <item id="53062"/>
+            <item id="53002"/>
+            <item id="53063"/>
+            <item id="53003"/>
+            <item id="53064"/>
+            <item id="53004"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="53065"/>
+            <item id="53005"/>
+        </optionalItems>
+        <skills>
+            <skill id="50028" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="208" minimumPieces="5">
+        <requiredItems>
+            <item id="53070"/>
+            <item id="53071"/>
+            <item id="53011"/>
+            <item id="53072"/>
+            <item id="53012"/>
+            <item id="53073"/>
+            <item id="53013"/>
+            <item id="53074"/>
+            <item id="53014"/>
+        </requiredItems>
+        <skills>
+            <skill id="50029" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="209" minimumPieces="5">
+        <requiredItems>
+            <item id="53080"/>
+            <item id="53081"/>
+            <item id="53021"/>
+            <item id="53082"/>
+            <item id="53022"/>
+            <item id="53083"/>
+            <item id="53023"/>
+            <item id="53084"/>
+            <item id="53024"/>
+        </requiredItems>
+        <skills>
+            <skill id="50030" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="210" minimumPieces="5">
+        <requiredItems>
+            <item id="53090"/>
+            <item id="53091"/>
+            <item id="53031"/>
+            <item id="53092"/>
+            <item id="53032"/>
+            <item id="53093"/>
+            <item id="53033"/>
+            <item id="53094"/>
+            <item id="53034"/>
+        </requiredItems>
+        <skills>
+            <skill id="50031" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="211" minimumPieces="5">
+        <requiredItems>
+            <item id="53100"/>
+            <item id="53101"/>
+            <item id="53041"/>
+            <item id="53102"/>
+            <item id="53042"/>
+            <item id="53103"/>
+            <item id="53043"/>
+            <item id="53104"/>
+            <item id="53044"/>
+        </requiredItems>
+        <skills>
+            <skill id="50032" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="212" minimumPieces="5">
+        <requiredItems>
+            <item id="53110"/>
+            <item id="53111"/>
+            <item id="53051"/>
+            <item id="53112"/>
+            <item id="53052"/>
+            <item id="53113"/>
+            <item id="53053"/>
+            <item id="53114"/>
+            <item id="53054"/>
+        </requiredItems>
+        <skills>
+            <skill id="50033" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="213" minimumPieces="5">
+        <requiredItems>
+            <item id="53060"/>
+            <item id="53061"/>
+            <item id="53121"/>
+            <item id="53062"/>
+            <item id="53122"/>
+            <item id="53063"/>
+            <item id="53123"/>
+            <item id="53064"/>
+            <item id="53124"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="53065"/>
+            <item id="53125"/>
+        </optionalItems>
+        <skills>
+            <skill id="50028" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="214" minimumPieces="5">
+        <requiredItems>
+            <item id="53070"/>
+            <item id="53071"/>
+            <item id="53131"/>
+            <item id="53072"/>
+            <item id="53132"/>
+            <item id="53073"/>
+            <item id="53133"/>
+            <item id="53074"/>
+            <item id="53134"/>
+        </requiredItems>
+        <skills>
+            <skill id="50029" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="215" minimumPieces="5">
+        <requiredItems>
+            <item id="53080"/>
+            <item id="53081"/>
+            <item id="53141"/>
+            <item id="53082"/>
+            <item id="53142"/>
+            <item id="53083"/>
+            <item id="53143"/>
+            <item id="53084"/>
+            <item id="53144"/>
+        </requiredItems>
+        <skills>
+            <skill id="50030" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="216" minimumPieces="5">
+        <requiredItems>
+            <item id="53090"/>
+            <item id="53091"/>
+            <item id="53151"/>
+            <item id="53092"/>
+            <item id="53152"/>
+            <item id="53093"/>
+            <item id="53153"/>
+            <item id="53094"/>
+            <item id="53154"/>
+        </requiredItems>
+        <skills>
+            <skill id="50031" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="217" minimumPieces="5">
+        <requiredItems>
+            <item id="53100"/>
+            <item id="53101"/>
+            <item id="53161"/>
+            <item id="53102"/>
+            <item id="53162"/>
+            <item id="53103"/>
+            <item id="53163"/>
+            <item id="53104"/>
+            <item id="53164"/>
+        </requiredItems>
+        <skills>
+            <skill id="50032" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="218" minimumPieces="5">
+        <requiredItems>
+            <item id="53110"/>
+            <item id="53111"/>
+            <item id="53171"/>
+            <item id="53112"/>
+            <item id="53172"/>
+            <item id="53113"/>
+            <item id="53173"/>
+            <item id="53114"/>
+            <item id="53174"/>
+        </requiredItems>
+        <skills>
+            <skill id="50033" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="219" minimumPieces="5">
+        <requiredItems>
+            <item id="53120"/>
+            <item id="53121"/>
+            <item id="53061"/>
+            <item id="53122"/>
+            <item id="53062"/>
+            <item id="53123"/>
+            <item id="53063"/>
+            <item id="53124"/>
+            <item id="53064"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="53125"/>
+            <item id="53065"/>
+        </optionalItems>
+        <skills>
+            <skill id="50034" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="220" minimumPieces="5">
+        <requiredItems>
+            <item id="53130"/>
+            <item id="53131"/>
+            <item id="53071"/>
+            <item id="53132"/>
+            <item id="53072"/>
+            <item id="53133"/>
+            <item id="53073"/>
+            <item id="53134"/>
+            <item id="53074"/>
+        </requiredItems>
+        <skills>
+            <skill id="50035" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="221" minimumPieces="5">
+        <requiredItems>
+            <item id="53140"/>
+            <item id="53141"/>
+            <item id="53081"/>
+            <item id="53142"/>
+            <item id="53082"/>
+            <item id="53143"/>
+            <item id="53083"/>
+            <item id="53144"/>
+            <item id="53084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50036" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="222" minimumPieces="5">
+        <requiredItems>
+            <item id="53150"/>
+            <item id="53151"/>
+            <item id="53091"/>
+            <item id="53152"/>
+            <item id="53092"/>
+            <item id="53153"/>
+            <item id="53093"/>
+            <item id="53154"/>
+            <item id="53094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50037" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="223" minimumPieces="5">
+        <requiredItems>
+            <item id="53160"/>
+            <item id="53161"/>
+            <item id="53101"/>
+            <item id="53162"/>
+            <item id="53102"/>
+            <item id="53163"/>
+            <item id="53103"/>
+            <item id="53164"/>
+            <item id="53104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50038" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="224" minimumPieces="5">
+        <requiredItems>
+            <item id="53170"/>
+            <item id="53171"/>
+            <item id="53111"/>
+            <item id="53172"/>
+            <item id="53112"/>
+            <item id="53173"/>
+            <item id="53113"/>
+            <item id="53174"/>
+            <item id="53114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50039" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="225" minimumPieces="5">
+        <requiredItems>
+            <item id="54000"/>
+            <item id="54001"/>
+            <item id="54061"/>
+            <item id="54002"/>
+            <item id="54062"/>
+            <item id="54003"/>
+            <item id="54063"/>
+            <item id="54004"/>
+            <item id="54064"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="54005"/>
+            <item id="54065"/>
+        </optionalItems>
+        <skills>
+            <skill id="50040" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="226" minimumPieces="5">
+        <requiredItems>
+            <item id="54010"/>
+            <item id="54011"/>
+            <item id="54071"/>
+            <item id="54012"/>
+            <item id="54072"/>
+            <item id="54013"/>
+            <item id="54073"/>
+            <item id="54014"/>
+            <item id="54074"/>
+        </requiredItems>
+        <skills>
+            <skill id="50041" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="227" minimumPieces="5">
+        <requiredItems>
+            <item id="54020"/>
+            <item id="54021"/>
+            <item id="54081"/>
+            <item id="54022"/>
+            <item id="54082"/>
+            <item id="54023"/>
+            <item id="54083"/>
+            <item id="54024"/>
+            <item id="54084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50042" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="228" minimumPieces="5">
+        <requiredItems>
+            <item id="54030"/>
+            <item id="54031"/>
+            <item id="54091"/>
+            <item id="54032"/>
+            <item id="54092"/>
+            <item id="54033"/>
+            <item id="54093"/>
+            <item id="54034"/>
+            <item id="54094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50043" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="229" minimumPieces="5">
+        <requiredItems>
+            <item id="54040"/>
+            <item id="54041"/>
+            <item id="54101"/>
+            <item id="54042"/>
+            <item id="54102"/>
+            <item id="54043"/>
+            <item id="54103"/>
+            <item id="54044"/>
+            <item id="54104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50044" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="230" minimumPieces="5">
+        <requiredItems>
+            <item id="54050"/>
+            <item id="54051"/>
+            <item id="54111"/>
+            <item id="54052"/>
+            <item id="54112"/>
+            <item id="54053"/>
+            <item id="54113"/>
+            <item id="54054"/>
+            <item id="54114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50045" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="231" minimumPieces="5">
+        <requiredItems>
+            <item id="54060"/>
+            <item id="54061"/>
+            <item id="54001"/>
+            <item id="54062"/>
+            <item id="54002"/>
+            <item id="54063"/>
+            <item id="54003"/>
+            <item id="54064"/>
+            <item id="54004"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="54065"/>
+            <item id="54005"/>
+        </optionalItems>
+        <skills>
+            <skill id="50040" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="232" minimumPieces="5">
+        <requiredItems>
+            <item id="54070"/>
+            <item id="54071"/>
+            <item id="54011"/>
+            <item id="54072"/>
+            <item id="54012"/>
+            <item id="54073"/>
+            <item id="54013"/>
+            <item id="54074"/>
+            <item id="54014"/>
+        </requiredItems>
+        <skills>
+            <skill id="50041" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="233" minimumPieces="5">
+        <requiredItems>
+            <item id="54080"/>
+            <item id="54081"/>
+            <item id="54021"/>
+            <item id="54082"/>
+            <item id="54022"/>
+            <item id="54083"/>
+            <item id="54023"/>
+            <item id="54084"/>
+            <item id="54024"/>
+        </requiredItems>
+        <skills>
+            <skill id="50042" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="234" minimumPieces="5">
+        <requiredItems>
+            <item id="54090"/>
+            <item id="54091"/>
+            <item id="54031"/>
+            <item id="54092"/>
+            <item id="54032"/>
+            <item id="54093"/>
+            <item id="54033"/>
+            <item id="54094"/>
+            <item id="54034"/>
+        </requiredItems>
+        <skills>
+            <skill id="50043" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="235" minimumPieces="5">
+        <requiredItems>
+            <item id="54100"/>
+            <item id="54101"/>
+            <item id="54041"/>
+            <item id="54102"/>
+            <item id="54042"/>
+            <item id="54103"/>
+            <item id="54043"/>
+            <item id="54104"/>
+            <item id="54044"/>
+        </requiredItems>
+        <skills>
+            <skill id="50044" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="236" minimumPieces="5">
+        <requiredItems>
+            <item id="54110"/>
+            <item id="54111"/>
+            <item id="54051"/>
+            <item id="54112"/>
+            <item id="54052"/>
+            <item id="54113"/>
+            <item id="54053"/>
+            <item id="54114"/>
+            <item id="54054"/>
+        </requiredItems>
+        <skills>
+            <skill id="50045" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="237" minimumPieces="5">
+        <requiredItems>
+            <item id="54060"/>
+            <item id="54061"/>
+            <item id="54121"/>
+            <item id="54062"/>
+            <item id="54122"/>
+            <item id="54063"/>
+            <item id="54123"/>
+            <item id="54064"/>
+            <item id="54124"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="54065"/>
+            <item id="54125"/>
+        </optionalItems>
+        <skills>
+            <skill id="50040" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="238" minimumPieces="5">
+        <requiredItems>
+            <item id="54070"/>
+            <item id="54071"/>
+            <item id="54131"/>
+            <item id="54072"/>
+            <item id="54132"/>
+            <item id="54073"/>
+            <item id="54133"/>
+            <item id="54074"/>
+            <item id="54134"/>
+        </requiredItems>
+        <skills>
+            <skill id="50041" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="239" minimumPieces="5">
+        <requiredItems>
+            <item id="54080"/>
+            <item id="54081"/>
+            <item id="54141"/>
+            <item id="54082"/>
+            <item id="54142"/>
+            <item id="54083"/>
+            <item id="54143"/>
+            <item id="54084"/>
+            <item id="54144"/>
+        </requiredItems>
+        <skills>
+            <skill id="50042" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="240" minimumPieces="5">
+        <requiredItems>
+            <item id="54090"/>
+            <item id="54091"/>
+            <item id="54151"/>
+            <item id="54092"/>
+            <item id="54152"/>
+            <item id="54093"/>
+            <item id="54153"/>
+            <item id="54094"/>
+            <item id="54154"/>
+        </requiredItems>
+        <skills>
+            <skill id="50043" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="241" minimumPieces="5">
+        <requiredItems>
+            <item id="54100"/>
+            <item id="54101"/>
+            <item id="54161"/>
+            <item id="54102"/>
+            <item id="54162"/>
+            <item id="54103"/>
+            <item id="54163"/>
+            <item id="54104"/>
+            <item id="54164"/>
+        </requiredItems>
+        <skills>
+            <skill id="50044" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="242" minimumPieces="5">
+        <requiredItems>
+            <item id="54110"/>
+            <item id="54111"/>
+            <item id="54171"/>
+            <item id="54112"/>
+            <item id="54172"/>
+            <item id="54113"/>
+            <item id="54173"/>
+            <item id="54114"/>
+            <item id="54174"/>
+        </requiredItems>
+        <skills>
+            <skill id="50045" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="243" minimumPieces="5">
+        <requiredItems>
+            <item id="54120"/>
+            <item id="54121"/>
+            <item id="54061"/>
+            <item id="54122"/>
+            <item id="54062"/>
+            <item id="54123"/>
+            <item id="54063"/>
+            <item id="54124"/>
+            <item id="54064"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="54125"/>
+            <item id="54065"/>
+        </optionalItems>
+        <skills>
+            <skill id="50046" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="244" minimumPieces="5">
+        <requiredItems>
+            <item id="54130"/>
+            <item id="54131"/>
+            <item id="54071"/>
+            <item id="54132"/>
+            <item id="54072"/>
+            <item id="54133"/>
+            <item id="54073"/>
+            <item id="54134"/>
+            <item id="54074"/>
+        </requiredItems>
+        <skills>
+            <skill id="50047" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="245" minimumPieces="5">
+        <requiredItems>
+            <item id="54140"/>
+            <item id="54141"/>
+            <item id="54081"/>
+            <item id="54142"/>
+            <item id="54082"/>
+            <item id="54143"/>
+            <item id="54083"/>
+            <item id="54144"/>
+            <item id="54084"/>
+        </requiredItems>
+        <skills>
+            <skill id="50048" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="246" minimumPieces="5">
+        <requiredItems>
+            <item id="54150"/>
+            <item id="54151"/>
+            <item id="54091"/>
+            <item id="54152"/>
+            <item id="54092"/>
+            <item id="54153"/>
+            <item id="54093"/>
+            <item id="54154"/>
+            <item id="54094"/>
+        </requiredItems>
+        <skills>
+            <skill id="50049" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="247" minimumPieces="5">
+        <requiredItems>
+            <item id="54160"/>
+            <item id="54161"/>
+            <item id="54101"/>
+            <item id="54162"/>
+            <item id="54102"/>
+            <item id="54163"/>
+            <item id="54103"/>
+            <item id="54164"/>
+            <item id="54104"/>
+        </requiredItems>
+        <skills>
+            <skill id="50050" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="248" minimumPieces="5">
+        <requiredItems>
+            <item id="54170"/>
+            <item id="54171"/>
+            <item id="54111"/>
+            <item id="54172"/>
+            <item id="54112"/>
+            <item id="54173"/>
+            <item id="54113"/>
+            <item id="54174"/>
+            <item id="54114"/>
+        </requiredItems>
+        <skills>
+            <skill id="50051" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="249" minimumPieces="5">
+        <requiredItems>
+            <item id="54180"/>
+            <item id="54181"/>
+            <item id="54182"/>
+            <item id="54183"/>
+            <item id="54184"/>
+        </requiredItems>
+        <optionalItems>
+            <item id="54185"/>
+        </optionalItems>
+        <skills>
+            <skill id="50071" level="1" minimumPieces="5"/>
+            <skill id="50052" level="1" minimumPieces="5" optional="true"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="250" minimumPieces="5">
+        <requiredItems>
+            <item id="54190"/>
+            <item id="54191"/>
+            <item id="54192"/>
+            <item id="54193"/>
+            <item id="54194"/>
+        </requiredItems>
+        <skills>
+            <skill id="50072" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="251" minimumPieces="5">
+        <requiredItems>
+            <item id="54200"/>
+            <item id="54201"/>
+            <item id="54202"/>
+            <item id="54203"/>
+            <item id="54204"/>
+        </requiredItems>
+        <skills>
+            <skill id="50073" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="252" minimumPieces="5">
+        <requiredItems>
+            <item id="54210"/>
+            <item id="54211"/>
+            <item id="54212"/>
+            <item id="54213"/>
+            <item id="54214"/>
+        </requiredItems>
+        <skills>
+            <skill id="50074" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="253" minimumPieces="5">
+        <requiredItems>
+            <item id="54220"/>
+            <item id="54221"/>
+            <item id="54222"/>
+            <item id="54223"/>
+            <item id="54224"/>
+        </requiredItems>
+        <skills>
+            <skill id="50075" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="254" minimumPieces="5">
+        <requiredItems>
+            <item id="54230"/>
+            <item id="54231"/>
+            <item id="54232"/>
+            <item id="54233"/>
+            <item id="54234"/>
+        </requiredItems>
+        <skills>
+            <skill id="50076" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+    <set id="255" minimumPieces="5">
+        <requiredItems>
+            <item id="358"/>
+            <item id="2380"/>
+            <item id="2416"/>
+            <item id="5718"/>
+            <item id="5734"/>
+        </requiredItems>
+        <skills>
+            <skill id="50078" level="1" minimumPieces="5"/>
+            <skill id="50053" level="1" minimumPieces="5" minimumEnchant="6"/>
+        </skills>
+    </set>
+</list>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="112" name="Floran Fortress">
+	<doors>
+		<door id="20220021" />
+		<door id="20220026" />
+		<door id="20220022" group="commander_doors" />
+		<door id="20220023" group="commander_doors" />
+		<door id="20220024" group="commander_doors" />
+		<door id="20220025" group="commander_doors" />
+		<door id="20220019" group="captain_doors" />
+		<door id="20220020" group="captain_doors" />
+		<door id="20220027" group="general_doors" />
+		<door id="20220028" group="general_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="1049601" toLevel="8" name="Shield Bonus">
+		<!-- P./ M. Skill Cooldown $s1 -->
+		<icon>icon.shield_of_revenge</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049602" toLevel="8" name="Shield Bonus">
+		<!-- P./ M. Skill Cooldown $s1 -->
+		<icon>icon.shield_of_protection</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049603" toLevel="8" name="Shield Bonus">
+		<!-- P./ M. Skill Cooldown $s1 -->
+		<icon>icon.shield_of_immortal</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049604" toLevel="8" name="Sigil Bonus">
+		<!-- P./ M. Skill Cooldown $s1 -->
+		<icon>icon.elos_i00</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049605" toLevel="8" name="Sigil Bonus">
+		<!-- P./ M. Skill Cooldown $s1 -->
+		<icon>icon.sigil_of_protection</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049606" toLevel="8" name="Sigil Bonus">
+		<!-- P./ M. Skill Cooldown $s1 -->
+		<icon>icon.sigil_of_immortal</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049607" toLevel="5" name="Pendant Bonus">
+		<!-- P./ M. Atk. $s1 -->
+		<icon>BranchIcon.Icon.bm_pendant_pve_white</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049608" toLevel="6" name="Pendant Bonus">
+		<!-- P./ M. Atk. $s1 -->
+		<icon>icon.bm_pendant_of_grankain_i00</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049609" toLevel="8" name="Circlet Bonus">
+		<!-- Skill Critical Rate $s1 -->
+		<icon>icon.accessory_barka_karm_i00</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049610" toLevel="7" name="Circlet Bonus">
+		<!-- Skill Critical Rate $s1 -->
+		<icon>icon.accessory_barka_karm_i00</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049611" toLevel="8" name="Mask Bonus">
+		<!-- Skill Critical Damage $s1 -->
+		<icon>icon.accessory_black_half_face_i00</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049612" toLevel="7" name="Mask Bonus">
+		<!-- Skill Critical Damage $s1 -->
+		<icon>icon.accessory_black_half_face_i00</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049613" toLevel="8" name="Mask Bonus">
+		<!-- Skill Critical Damage $s1 -->
+		<icon>icon.mask_of_phantom_i00</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049614" toLevel="7" name="Mask Bonus">
+		<!-- Skill Critical Damage $s1 -->
+		<icon>icon.mask_of_phantom_i00</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049615" toLevel="8" name="Cloak Bonus">
+		<!-- P./ M. Atk. $s1 -->
+		<icon>icon.bm_2018_sayha_cloak_back_i01</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049616" toLevel="9" name="Cloak Bonus">
+		<!-- P./ M. Atk. $s1 -->
+		<icon>icon.nobless_cloak_i00</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049617" toLevel="8" name="Belt Bonus">
+		<!-- Skill Power $s1 -->
+		<icon>icon.r2_belt_i01</icon>
+		<operateType>A2</operateType>
+	</skill>
+	<skill id="1049618" toLevel="7" name="Belt Bonus">
+		<!-- Skill Power $s1 -->
+		<icon>icon.r2_belt_i01</icon>
+		<operateType>A2</operateType>
+	</skill>
+</list>

@@ -1,0 +1,80 @@
+<html><body>
+
+<center>Настройки AutoFarm</center><br><br>
+
+<table>
+<tr>
+<td width=5></td>
+<td width=80>Состояние:</td>
+<td width=55>%state%</td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm on" value="On"></td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm off" value="Off"></td>
+</tr>
+<tr>
+<td width=5></td>
+<td width=80>Режим:</td>
+<td width=55>%mode%</td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm mode fighter" value="F"></td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm mode mage" value="M"></td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm mode support" value="S"></td>
+</tr>
+<tr>
+<td width=5></td>
+<td width=80>AutoSkills:</td>
+<td width=55>%skills%</td>
+<td width=40><edit var="sid" width=36 height=12></td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill add $sid" value="Add"></td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill del $sid" value="Del"></td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill clear" value="Clr"></td>
+</tr>
+<tr>
+<td width=5></td>
+<td width=80>Страница F:</td>
+<td width=55>%page%</td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill page prev" value="<"></td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill page next" value=">"></td>
+<td width=40><edit var="fpage" width=36 height=12></td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill page $fpage" value="Set"></td>
+</tr>
+<tr>
+<td width=5></td>
+<td width=80>No approach:</td>
+<td width=55>%noapproach%</td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill noapproach on" value="On"></td>
+<td width=40><button width=36 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill noapproach of" value="Of"></td>
+</tr>
+<tr>
+<td width=5></td>
+<td width=220>%noapproach_hint_ru%</td>
+</tr>
+<tr><td width=5></td><td width=95>skill F1:</td><td width=70>%f1%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F1 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F1 of" value="Of"></td></tr>
+<tr><td width=5></td><td width=95>skill F2:</td><td width=70>%f2%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F2 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F2 of" value="Of"></td></tr>
+<tr><td width=5></td><td width=95>skill F3:</td><td width=70>%f3%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F3 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F3 of" value="Of"></td></tr>
+<tr><td width=5></td><td width=95>skill F4:</td><td width=70>%f4%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F4 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F4 of" value="Of"></td></tr>
+<tr><td width=5></td><td width=95>skill F5:</td><td width=70>%f5%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F5 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F5 of" value="Of"></td></tr>
+<tr><td width=5></td><td width=95>skill F6:</td><td width=70>%f6%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F6 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F6 of" value="Of"></td></tr>
+<tr><td width=5></td><td width=95>skill F7:</td><td width=70>%f7%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F7 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F7 of" value="Of"></td></tr>
+<tr><td width=5></td><td width=95>skill F8:</td><td width=70>%f8%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F8 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F8 of" value="Of"></td></tr>
+<tr><td width=5></td><td width=95>skill F9:</td><td width=70>%f9%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F9 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F9 of" value="Of"></td></tr>
+<tr><td width=5></td><td width=95>skill F10:</td><td width=70>%f10%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F10 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F10 of" value="Of"></td></tr>
+<tr><td width=5></td><td width=95>skill F11:</td><td width=70>%f11%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F11 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F11 of" value="Of"></td></tr>
+<tr><td width=5></td><td width=95>skill F12:</td><td width=70>%f12%</td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F12 on" value="On"></td><td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm skill F12 of" value="Of"></td></tr>
+<tr>
+<td width=5></td>
+<td width=95>Возврат к spot:</td>
+<td width=70>%return%</td>
+<td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm spot on" value="On"></td>
+<td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm spot off" value="Off"></td>
+<td width=45><button width=40 height=15 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm spot set" value="Set"></td>
+</tr>
+</table>
+
+<br>
+Spot: %spot%<br>
+Причина блокировки: %reason%<br>
+
+<br>
+<button width=80 height=18 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm status" value="Статус">
+<button width=80 height=18 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF" action="bypass -h user_autofarm menu" value="Обновить">
+
+</body></html>

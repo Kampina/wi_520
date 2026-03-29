@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="109" name="Borderland Fortress">
+	<doors>
+		<door id="24150003" />
+		<door id="24150008" />
+		<door id="24150007" group="commander_doors" />
+		<door id="24150006" group="commander_doors" />
+		<door id="24150004" group="commander_doors" />
+		<door id="24150005" group="commander_doors" />
+		<door id="24150001" group="captain_doors" />
+		<door id="24150002" group="captain_doors" />
+		<door id="24150011" group="general_doors" />
+		<door id="24150012" group="general_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

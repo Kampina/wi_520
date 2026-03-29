@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/buylist.xsd">
+  <npcs>
+    <npc>31968</npc>
+  </npcs>
+  <item id="8594" />
+  <item id="8595" />
+  <item id="8596" />
+  <item id="8597" />
+  <item id="8598" />
+  <item id="8599" />
+  <item id="6652" />
+  <item id="6653" />
+  <item id="6654" />
+  <item id="6655" />
+  <item id="10650" />
+  <item id="10149" />
+  <item id="1538" />
+  <item id="5859" />
+  <item id="5858" />
+  <item id="10130" />
+  <item id="13258" />
+  <item id="12753" />
+  <item id="736" />
+  <item id="1830" />
+  <item id="1829" />
+  <item id="7118" />
+  <item id="7119" />
+  <item id="7120" />
+  <item id="7121" />
+  <item id="7122" />
+  <item id="7123" />
+  <item id="7124" />
+  <item id="7125" />
+  <item id="7126" />
+  <item id="7127" />
+  <item id="7128" />
+  <item id="7129" />
+  <item id="7130" />
+  <item id="7131" />
+  <item id="7132" />
+  <item id="7133" />
+  <item id="7134" />
+  <item id="7135" />
+  <item id="737" />
+  <item id="13259" />
+  <item id="3936" />
+  <item id="6387" />
+  <item id="5593" />
+  <item id="5594" />
+  <item id="5595" />
+  <item id="9898" />
+  <item id="8515" />
+  <item id="8516" />
+  <item id="8517" />
+  <item id="8518" />
+  <item id="8519" />
+  <item id="8520" />
+</list>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/spawns.xsd">
+	<spawn name="InnadrilCastleDominion">
+		<group name="innadrille_dominion_siege">
+			<npc id="36540" x="117226" y="204312" z="-3344" heading="36864" respawnTime="10800sec" />
+			<npc id="36543" x="117257" y="204247" z="-3344" heading="36864" respawnTime="10800sec" />
+			<npc id="36542" x="117262" y="204420" z="-3344" heading="36864" respawnTime="10800sec" />
+			<npc id="36542" x="117376" y="204224" z="-3344" heading="36864" respawnTime="10800sec" />
+			<npc id="36542" x="117307" y="204532" z="-3344" heading="36864" respawnTime="10800sec" />
+			<npc id="36542" x="117477" y="204204" z="-3344" heading="36864" respawnTime="10800sec" />
+			<npc id="36542" x="116321" y="246173" z="-788" heading="48668" respawnTime="10800sec" />
+			<npc id="36538" x="116261" y="246171" z="-788" heading="48668" respawnTime="10800sec" />
+			<npc id="36542" x="116202" y="246169" z="-787" heading="48668" respawnTime="10800sec" />
+			<npc id="36542" x="116551" y="246107" z="-786" heading="48668" respawnTime="10800sec" />
+			<npc id="36542" x="116521" y="246108" z="-787" heading="48668" respawnTime="10800sec" />
+			<npc id="36542" x="116492" y="246105" z="-786" heading="48668" respawnTime="10800sec" />
+			<npc id="36542" x="116462" y="246104" z="-786" heading="48668" respawnTime="10800sec" />
+			<npc id="36542" x="116018" y="245969" z="-787" heading="64432" respawnTime="10800sec" />
+			<npc id="36542" x="116017" y="245910" z="-787" heading="64432" respawnTime="10800sec" />
+			<npc id="36542" x="116015" y="245850" z="-786" heading="64432" respawnTime="10800sec" />
+			<npc id="36542" x="116015" y="245358" z="-663" heading="0" respawnTime="10800sec" />
+			<npc id="36542" x="116015" y="245246" z="-663" heading="0" respawnTime="10800sec" />
+			<npc id="36542" x="115968" y="245187" z="-663" heading="57344" respawnTime="10800sec" />
+			<npc id="36542" x="115901" y="245173" z="-663" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="116500" y="245319" z="-663" heading="32768" respawnTime="10800sec" />
+			<npc id="36542" x="116499" y="245239" z="-663" heading="32768" respawnTime="10800sec" />
+			<npc id="36542" x="116545" y="245182" z="-663" heading="40960" respawnTime="10800sec" />
+			<npc id="36542" x="116617" y="245170" z="-663" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="116500" y="245278" z="-662" heading="32768" respawnTime="10800sec" />
+			<npc id="36542" x="116511" y="245207" z="-662" heading="40960" respawnTime="10800sec" />
+			<npc id="36542" x="116005" y="245210" z="-662" heading="57344" respawnTime="10800sec" />
+			<npc id="36542" x="116015" y="245294" z="-663" heading="0" respawnTime="10800sec" />
+			<npc id="35297" x="116599" y="245209" z="-663" heading="40960" respawnTime="10800sec" />
+			<npc id="35297" x="115909" y="245217" z="-663" heading="57344" respawnTime="10800sec" />
+			<npc id="36596" x="115744" y="247311" z="-883" heading="49151" respawnTime="10800sec" />
+			<npc id="36542" x="116131" y="247989" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="116100" y="247989" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="116069" y="247989" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="116037" y="247989" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="116006" y="247989" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="115974" y="247989" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="115943" y="247989" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="115911" y="247989" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="116131" y="247969" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="35297" x="116100" y="247969" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="116069" y="247969" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="116037" y="247969" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="116006" y="247969" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="115974" y="247969" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="115943" y="247969" z="-790" heading="49152" respawnTime="10800sec" />
+			<npc id="36542" x="115911" y="247969" z="-790" heading="49152" respawnTime="10800sec" />
+		</group>
+	</spawn>
+</list>

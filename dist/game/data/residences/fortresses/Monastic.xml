@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="121" name="Monastic Fortress">
+	<doors>
+		<door id="22150001" />
+		<door id="22150008" />
+		<door id="22150003" group="commander_doors" />
+		<door id="22150002" group="commander_doors" />
+		<door id="22150006" group="commander_doors" />
+		<door id="22150007" group="commander_doors" />
+		<door id="22150004" group="captain_doors" />
+		<door id="22150005" group="captain_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

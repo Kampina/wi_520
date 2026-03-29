@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="107" name="Basin Fortress">
+	<doors>
+		<door id="25190001" />
+		<door id="25190012" />
+		<door id="25190008" group="commander_doors" />
+		<door id="25190009" group="commander_doors" />
+		<door id="25190007" group="commander_doors" />
+		<door id="25190006" group="commander_doors" />
+		<door id="25190004" group="captain_doors" />
+		<door id="25190005" group="captain_doors" />
+		<door id="25190010" group="general_doors" />
+		<door id="25190011" group="general_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

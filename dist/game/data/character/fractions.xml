@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/fractions.xsd">
+	<fraction race="HUMAN" side="LIGHT" />
+	<fraction race="ELF" side="LIGHT" />
+	<fraction race="HIGH_ELF" side="LIGHT" />
+	<fraction race="DARK_ELF" side="DARK" />
+	<fraction race="KAMAEL" side="DARK" />
+	<fraction race="ERTHEIA" side="DARK" />
+	<fraction race="ORC" side="NONE" />
+	<fraction race="DWARF" side="NONE" />
+</list>

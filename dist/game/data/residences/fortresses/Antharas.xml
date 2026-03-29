@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="116" name="Antharas Fortress">
+	<doors>
+		<door id="22200001" />
+		<door id="22200012" />
+		<door id="22200004" group="commander_doors" />
+		<door id="22200005" group="commander_doors" />
+		<door id="22200006" group="commander_doors" />
+		<door id="22200007" group="commander_doors" />
+		<door id="22200008" group="captain_doors" />
+		<door id="22200009" group="captain_doors" />
+		<door id="22200002" group="general_doors" />
+		<door id="22200003" group="general_doors" />
+		<door id="22200010" group="general_doors" />
+		<door id="22200011" group="general_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

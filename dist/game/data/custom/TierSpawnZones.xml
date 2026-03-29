@@ -1,0 +1,3475 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Auto-generated TierSpawnZones configuration.
+  Grouping: by race + spatial clustering.
+  Kill thresholds: normal=5000 / blue=2500 / red=1000
+-->
+<list>
+	<zone id="90001" name="BEAST_90001" locaId="90001">
+		<monster id="20250"/> <!-- Glass Jaguar -->
+		<monster id="20510"/> <!-- Puma -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90002" name="BEAST_90002" locaId="90002">
+		<monster id="20250"/> <!-- Glass Jaguar -->
+		<monster id="20510"/> <!-- Puma -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90003" name="BEAST_90003" locaId="90003">
+		<monster id="20250"/> <!-- Glass Jaguar -->
+		<monster id="20510"/> <!-- Puma -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90004" name="BEAST_90004" locaId="90004">
+		<monster id="20250"/> <!-- Glass Jaguar -->
+		<monster id="20510"/> <!-- Puma -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90005" name="BEAST_90005" locaId="90005">
+		<monster id="20250"/> <!-- Glass Jaguar -->
+		<monster id="20510"/> <!-- Puma -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90006" name="BEAST_90006" locaId="90006">
+		<monster id="20250"/> <!-- Glass Jaguar -->
+		<monster id="20510"/> <!-- Puma -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90007" name="BEAST_90007" locaId="90007">
+		<monster id="20250"/> <!-- Glass Jaguar -->
+		<monster id="20510"/> <!-- Puma -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90008" name="BEAST_90008" locaId="90008">
+		<monster id="20145"/> <!-- Harpy -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90009" name="BEAST_90009" locaId="90009">
+		<monster id="20145"/> <!-- Harpy -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90010" name="BEAST_90010" locaId="90010">
+		<monster id="20145"/> <!-- Harpy -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="99011" name="BEAST_90011" locaId="99011">
+		<monster id="20145"/> <!-- Harpy -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90012" name="BEAST_90012" locaId="90012">
+		<monster id="20145"/> <!-- Harpy -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90013" name="BEAST_90013" locaId="90013">
+		<monster id="20145"/> <!-- Harpy -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25057"/> <!-- Biconne of Blue Sky -->
+			<spawn x="94373" y="83153" z="-3560" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25125"/> <!-- Fierce Tiger King Angel -->
+			<spawn x="135519" y="-17294" z="-2576" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25146"/> <!-- Serpent Demon Bifrons -->
+			<spawn x="119277" y="20219" z="-5168" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="99014" name="DEMONIC_90014" locaId="99014">
+		<monster id="20819"/> <!-- Archer of Abyss -->
+		<monster id="21061"/> <!-- Hallate's Guardian -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="99015" name="DEMONIC_90015" locaId="99015">
+		<monster id="20819"/> <!-- Archer of Abyss -->
+		<monster id="21061"/> <!-- Hallate's Guardian -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="90016" name="DEMONIC_90016" locaId="90016">
+		<monster id="20819"/> <!-- Archer of Abyss -->
+		<monster id="21061"/> <!-- Hallate's Guardian -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="90017" name="DEMONIC_90017" locaId="90017">
+		<monster id="20819"/> <!-- Archer of Abyss -->
+		<monster id="21061"/> <!-- Hallate's Guardian -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="90018" name="DEMONIC_90018" locaId="90018">
+		<monster id="20819"/> <!-- Archer of Abyss -->
+		<monster id="21061"/> <!-- Hallate's Guardian -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="90019" name="DEMONIC_90019" locaId="90019">
+		<monster id="20819"/> <!-- Archer of Abyss -->
+		<monster id="21061"/> <!-- Hallate's Guardian -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="90020" name="DEMONIC_90020" locaId="90020">
+		<monster id="20819"/> <!-- Archer of Abyss -->
+		<monster id="21061"/> <!-- Hallate's Guardian -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="90021" name="DEMONIC_90021" locaId="90021">
+		<monster id="20819"/> <!-- Archer of Abyss -->
+		<monster id="21061"/> <!-- Hallate's Guardian -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="90022" name="DEMONIC_90022" locaId="90022">
+		<monster id="20819"/> <!-- Archer of Abyss -->
+		<monster id="21061"/> <!-- Hallate's Guardian -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="90023" name="DEMONIC_90023" locaId="90023">
+		<monster id="18001"/> <!-- Blood Queen -->
+		<monster id="20244"/> <!-- Malruk Succubus -->
+		<monster id="20245"/> <!-- Malruk Succubus Turen -->
+		<monster id="20618"/> <!-- Kanil Succubus -->
+		<monster id="20776"/> <!-- Dark Succubus -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="90024" name="DEMONIC_90024" locaId="90024">
+		<monster id="18001"/> <!-- Blood Queen -->
+		<monster id="20244"/> <!-- Malruk Succubus -->
+		<monster id="20245"/> <!-- Malruk Succubus Turen -->
+		<monster id="20618"/> <!-- Kanil Succubus -->
+		<monster id="20776"/> <!-- Dark Succubus -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="90025" name="DEMONIC_90025" locaId="90025">
+		<monster id="20944"/> <!-- Nightmare Lord -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25032"/> <!-- Eva's Guardian Millenu -->
+			<spawn x="88532" y="245798" z="-10376" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25051"/> <!-- Rahha -->
+			<spawn x="166972" y="-21210" z="-3416" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25073"/> <!-- Bloody Priest Rudelto -->
+			<spawn x="143955" y="110360" z="-3955" heading="32768"/>
+		</tier>
+	</zone>
+	<zone id="90026" name="DIVINE_90026" locaId="90026">
+		<monster id="27403"/> <!-- Trainee of Rest -->
+		<monster id="27404"/> <!-- Supplicant of Rest -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25205"/> <!-- Ocean Flame Ashakiel -->
+			<spawn x="123808" y="153408" z="-3671" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25286"/> <!-- Anakim -->
+			<spawn x="-6675" y="18505" z="-5488" heading="16550"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25701"/> <!-- Anais -->
+			<spawn x="112798" y="-76800" z="-10" heading="-15544"/>
+		</tier>
+	</zone>
+	<zone id="90027" name="DIVINE_90027" locaId="90027">
+		<monster id="20983"/> <!-- Binder -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25205"/> <!-- Ocean Flame Ashakiel -->
+			<spawn x="123808" y="153408" z="-3671" heading="0"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25286"/> <!-- Anakim -->
+			<spawn x="-6675" y="18505" z="-5488" heading="16550"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25701"/> <!-- Anais -->
+			<spawn x="112798" y="-76800" z="-10" heading="-15544"/>
+		</tier>
+	</zone>
+	<zone id="90028" name="DRAGON_90028" locaId="90028">
+		<monster id="22835"/> <!-- Magma Drake Mother -->
+		<monster id="22836"/> <!-- Magma Drake Hatchling -->
+		<monster id="22837"/> <!-- Gem Dragon Hatchling -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90029" name="DRAGON_90029" locaId="90029">
+		<monster id="22830"/> <!-- Gem Dragon -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90030" name="DRAGON_90030" locaId="90030">
+		<monster id="20176"/> <!-- Wyrm -->
+		<monster id="20557"/> <!-- Dire Wyrm -->
+		<monster id="21111"/> <!-- Lava Wyrm -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90031" name="DRAGON_90031" locaId="90031">
+		<monster id="20176"/> <!-- Wyrm -->
+		<monster id="20557"/> <!-- Dire Wyrm -->
+		<monster id="21111"/> <!-- Lava Wyrm -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90032" name="DRAGON_90032" locaId="90032">
+		<monster id="20176"/> <!-- Wyrm -->
+		<monster id="20557"/> <!-- Dire Wyrm -->
+		<monster id="21111"/> <!-- Lava Wyrm -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90033" name="DRAGON_90033" locaId="90033">
+		<monster id="20176"/> <!-- Wyrm -->
+		<monster id="20557"/> <!-- Dire Wyrm -->
+		<monster id="21111"/> <!-- Lava Wyrm -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90034" name="DRAGON_90034" locaId="90034">
+		<monster id="20670"/> <!-- Crimson Drake -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90035" name="DRAGON_90035" locaId="90035">
+		<monster id="20670"/> <!-- Crimson Drake -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90036" name="DRAGON_90036" locaId="90036">
+		<monster id="20670"/> <!-- Crimson Drake -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90037" name="DRAGON_90037" locaId="90037">
+		<monster id="20670"/> <!-- Crimson Drake -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90038" name="DRAGON_90038" locaId="90038">
+		<monster id="20670"/> <!-- Crimson Drake -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90039" name="DRAGON_90039" locaId="90039">
+		<monster id="20670"/> <!-- Crimson Drake -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90040" name="DRAGON_90040" locaId="90040">
+		<monster id="20670"/> <!-- Crimson Drake -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90041" name="DRAGON_90041" locaId="90041">
+		<monster id="20670"/> <!-- Crimson Drake -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25163"/> <!-- Roaring Skylancer -->
+			<spawn x="87669" y="108230" z="-3088" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25198"/> <!-- Fafurion's Herald Lokness -->
+			<spawn x="102656" y="157424" z="-3735" heading="0"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25234"/> <!-- Ancient Weird Drake -->
+			<spawn x="-58136" y="139832" z="-2589" heading="51808"/>
+		</tier>
+	</zone>
+	<zone id="90042" name="FAIRY_90042" locaId="90042">
+		<monster id="20592"/> <!-- Satyr -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90043" name="FAIRY_90043" locaId="90043">
+		<monster id="20592"/> <!-- Satyr -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90044" name="FAIRY_90044" locaId="90044">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90045" name="FAIRY_90045" locaId="90045">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90046" name="FAIRY_90046" locaId="90046">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90047" name="FAIRY_90047" locaId="90047">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90048" name="FAIRY_90048" locaId="90048">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90049" name="FAIRY_90049" locaId="90049">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90050" name="FAIRY_90050" locaId="90050">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90051" name="FAIRY_90051" locaId="90051">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90052" name="FAIRY_90052" locaId="90052">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90053" name="FAIRY_90053" locaId="90053">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90054" name="FAIRY_90054" locaId="90054">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90055" name="FAIRY_90055" locaId="90055">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90056" name="FAIRY_90056" locaId="90056">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90057" name="FAIRY_90057" locaId="90057">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90058" name="FAIRY_90058" locaId="90058">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90059" name="FAIRY_90059" locaId="90059">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90060" name="FAIRY_90060" locaId="90060">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90061" name="FAIRY_90061" locaId="90061">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90062" name="FAIRY_90062" locaId="90062">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90063" name="FAIRY_90063" locaId="90063">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90064" name="FAIRY_90064" locaId="90064">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90065" name="FAIRY_90065" locaId="90065">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90066" name="FAIRY_90066" locaId="90066">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90067" name="FAIRY_90067" locaId="90067">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90068" name="FAIRY_90068" locaId="90068">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90069" name="FAIRY_90069" locaId="90069">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90070" name="FAIRY_90070" locaId="90070">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90071" name="FAIRY_90071" locaId="90071">
+		<monster id="20019"/> <!-- Dryad Elder -->
+		<monster id="20336"/> <!-- Green Dryad -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25677"/> <!-- Water Spirit Lian -->
+			<spawn x="83544" y="183400" z="-3628" heading="43200"/>
+		</tier>
+	</zone>
+	<zone id="90072" name="GIANT_90072" locaId="90072">
+		<monster id="20568"/> <!-- Formor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25102"/> <!-- Shacram -->
+			<spawn x="-23702" y="74952" z="-3672" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25158"/> <!-- King Tarlk -->
+			<spawn x="128048" y="-5376" z="-3280" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90073" name="GIANT_90073" locaId="90073">
+		<monster id="20568"/> <!-- Formor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25102"/> <!-- Shacram -->
+			<spawn x="-23702" y="74952" z="-3672" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25158"/> <!-- King Tarlk -->
+			<spawn x="128048" y="-5376" z="-3280" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90074" name="HUMANOID_90074" locaId="90074">
+		<monster id="20003"/> <!-- Goblin -->
+		<monster id="22234"/> <!-- Green Goblin -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90075" name="HUMANOID_90075" locaId="90075">
+		<monster id="22017"/> <!-- Bandit Sweeper -->
+		<monster id="22021"/> <!-- Bandit Undertaker -->
+		<monster id="22024"/> <!-- Bandit Inspector -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90076" name="HUMANOID_90076" locaId="90076">
+		<monster id="22236"/> <!-- Muertos Archer -->
+		<monster id="22240"/> <!-- Muertos Scout -->
+		<monster id="22251"/> <!-- Shady Muertos Captain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90077" name="HUMANOID_90077" locaId="90077">
+		<monster id="20358"/> <!-- Ratman Hunter -->
+		<monster id="20359"/> <!-- Ratman Warrior -->
+		<monster id="21093"/> <!-- Ratman Sub Chieftain -->
+		<monster id="21094"/> <!-- Ratman Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90078" name="HUMANOID_90078" locaId="90078">
+		<monster id="20358"/> <!-- Ratman Hunter -->
+		<monster id="20359"/> <!-- Ratman Warrior -->
+		<monster id="21093"/> <!-- Ratman Sub Chieftain -->
+		<monster id="21094"/> <!-- Ratman Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90079" name="HUMANOID_90079" locaId="90079">
+		<monster id="20358"/> <!-- Ratman Hunter -->
+		<monster id="20359"/> <!-- Ratman Warrior -->
+		<monster id="21093"/> <!-- Ratman Sub Chieftain -->
+		<monster id="21094"/> <!-- Ratman Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90080" name="HUMANOID_90080" locaId="90080">
+		<monster id="20358"/> <!-- Ratman Hunter -->
+		<monster id="20359"/> <!-- Ratman Warrior -->
+		<monster id="21093"/> <!-- Ratman Sub Chieftain -->
+		<monster id="21094"/> <!-- Ratman Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90081" name="HUMANOID_90081" locaId="90081">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20447"/> <!-- Utuku Orc Archer -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90082" name="HUMANOID_90082" locaId="90082">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20447"/> <!-- Utuku Orc Archer -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90083" name="HUMANOID_90083" locaId="90083">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20447"/> <!-- Utuku Orc Archer -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90084" name="HUMANOID_90084" locaId="90084">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20447"/> <!-- Utuku Orc Archer -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90085" name="HUMANOID_90085" locaId="90085">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20447"/> <!-- Utuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90086" name="HUMANOID_90086" locaId="90086">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20447"/> <!-- Utuku Orc Archer -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90087" name="HUMANOID_90087" locaId="90087">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20447"/> <!-- Utuku Orc Archer -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90088" name="HUMANOID_90088" locaId="90088">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20447"/> <!-- Utuku Orc Archer -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90089" name="HUMANOID_90089" locaId="90089">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20447"/> <!-- Utuku Orc Archer -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90090" name="HUMANOID_90090" locaId="90090">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20447"/> <!-- Utuku Orc Archer -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90091" name="HUMANOID_90091" locaId="90091">
+		<monster id="20447"/> <!-- Utuku Orc Archer -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90092" name="HUMANOID_90092" locaId="90092">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90093" name="HUMANOID_90093" locaId="90093">
+		<monster id="20446"/> <!-- Utuku Orc -->
+		<monster id="20448"/> <!-- Utuku Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90094" name="HUMANOID_90094" locaId="90094">
+		<monster id="20006"/> <!-- Orc Archer -->
+		<monster id="20093"/> <!-- Orc Fighter -->
+		<monster id="20096"/> <!-- Orc Lieutenant -->
+		<monster id="20098"/> <!-- Orc Fighter Leader -->
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90095" name="HUMANOID_90095" locaId="90095">
+		<monster id="20006"/> <!-- Orc Archer -->
+		<monster id="20093"/> <!-- Orc Fighter -->
+		<monster id="20096"/> <!-- Orc Lieutenant -->
+		<monster id="20098"/> <!-- Orc Fighter Leader -->
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90096" name="HUMANOID_90096" locaId="90096">
+		<monster id="20006"/> <!-- Orc Archer -->
+		<monster id="20093"/> <!-- Orc Fighter -->
+		<monster id="20096"/> <!-- Orc Lieutenant -->
+		<monster id="20098"/> <!-- Orc Fighter Leader -->
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90097" name="HUMANOID_90097" locaId="90097">
+		<monster id="20006"/> <!-- Orc Archer -->
+		<monster id="20093"/> <!-- Orc Fighter -->
+		<monster id="20096"/> <!-- Orc Lieutenant -->
+		<monster id="20098"/> <!-- Orc Fighter Leader -->
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90098" name="HUMANOID_90098" locaId="90098">
+		<monster id="20006"/> <!-- Orc Archer -->
+		<monster id="20093"/> <!-- Orc Fighter -->
+		<monster id="20096"/> <!-- Orc Lieutenant -->
+		<monster id="20098"/> <!-- Orc Fighter Leader -->
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90099" name="HUMANOID_90099" locaId="90099">
+		<monster id="20006"/> <!-- Orc Archer -->
+		<monster id="20093"/> <!-- Orc Fighter -->
+		<monster id="20096"/> <!-- Orc Lieutenant -->
+		<monster id="20098"/> <!-- Orc Fighter Leader -->
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90100" name="HUMANOID_90100" locaId="90100">
+		<monster id="20006"/> <!-- Orc Archer -->
+		<monster id="20093"/> <!-- Orc Fighter -->
+		<monster id="20096"/> <!-- Orc Lieutenant -->
+		<monster id="20098"/> <!-- Orc Fighter Leader -->
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90101" name="HUMANOID_90101" locaId="90101">
+		<monster id="20006"/> <!-- Orc Archer -->
+		<monster id="20093"/> <!-- Orc Fighter -->
+		<monster id="20096"/> <!-- Orc Lieutenant -->
+		<monster id="20098"/> <!-- Orc Fighter Leader -->
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90102" name="HUMANOID_90102" locaId="90102">
+		<monster id="20006"/> <!-- Orc Archer -->
+		<monster id="20093"/> <!-- Orc Fighter -->
+		<monster id="20096"/> <!-- Orc Lieutenant -->
+		<monster id="20098"/> <!-- Orc Fighter Leader -->
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90103" name="HUMANOID_90103" locaId="90103">
+		<monster id="20006"/> <!-- Orc Archer -->
+		<monster id="20093"/> <!-- Orc Fighter -->
+		<monster id="20096"/> <!-- Orc Lieutenant -->
+		<monster id="20098"/> <!-- Orc Fighter Leader -->
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90104" name="HUMANOID_90104" locaId="90104">
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90105" name="HUMANOID_90105" locaId="90105">
+		<monster id="20131"/> <!-- Orc Grunt -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90106" name="HUMANOID_90106" locaId="90106">
+		<monster id="20210"/> <!-- Ol Mahum Sergeant -->
+		<monster id="22019"/> <!-- Bandit Watchman -->
+		<monster id="22023"/> <!-- Bandit Warrior -->
+		<monster id="22026"/> <!-- Bandit Captain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90107" name="HUMANOID_90107" locaId="90107">
+		<monster id="20210"/> <!-- Ol Mahum Sergeant -->
+		<monster id="22019"/> <!-- Bandit Watchman -->
+		<monster id="22023"/> <!-- Bandit Warrior -->
+		<monster id="22026"/> <!-- Bandit Captain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90108" name="HUMANOID_90108" locaId="90108">
+		<monster id="20210"/> <!-- Ol Mahum Sergeant -->
+		<monster id="22019"/> <!-- Bandit Watchman -->
+		<monster id="22023"/> <!-- Bandit Warrior -->
+		<monster id="22026"/> <!-- Bandit Captain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90109" name="HUMANOID_90109" locaId="90109">
+		<monster id="22019"/> <!-- Bandit Watchman -->
+		<monster id="22023"/> <!-- Bandit Warrior -->
+		<monster id="22026"/> <!-- Bandit Captain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90110" name="HUMANOID_90110" locaId="90110">
+		<monster id="20210"/> <!-- Ol Mahum Sergeant -->
+		<monster id="22023"/> <!-- Bandit Warrior -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90111" name="HUMANOID_90111" locaId="90111">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90112" name="HUMANOID_90112" locaId="90112">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90113" name="HUMANOID_90113" locaId="90113">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90114" name="HUMANOID_90114" locaId="90114">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90115" name="HUMANOID_90115" locaId="90115">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90116" name="HUMANOID_90116" locaId="90116">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90117" name="HUMANOID_90117" locaId="90117">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90118" name="HUMANOID_90118" locaId="90118">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90119" name="HUMANOID_90119" locaId="90119">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90120" name="HUMANOID_90120" locaId="90120">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90121" name="HUMANOID_90121" locaId="90121">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90122" name="HUMANOID_90122" locaId="90122">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90123" name="HUMANOID_90123" locaId="90123">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90124" name="HUMANOID_90124" locaId="90124">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90125" name="HUMANOID_90125" locaId="90125">
+		<monster id="20161"/> <!-- Oel Mahum -->
+		<monster id="20439"/> <!-- Ol Mahum Officer -->
+		<monster id="20575"/> <!-- Oel Mahum Warrior -->
+		<monster id="20576"/> <!-- Oel Mahum Witch Doctor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90126" name="HUMANOID_90126" locaId="90126">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90127" name="HUMANOID_90127" locaId="90127">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90128" name="HUMANOID_90128" locaId="90128">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90129" name="HUMANOID_90129" locaId="90129">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90130" name="HUMANOID_90130" locaId="90130">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90131" name="HUMANOID_90131" locaId="90131">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90132" name="HUMANOID_90132" locaId="90132">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90133" name="HUMANOID_90133" locaId="90133">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90134" name="HUMANOID_90134" locaId="90134">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90135" name="HUMANOID_90135" locaId="90135">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90136" name="HUMANOID_90136" locaId="90136">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90137" name="HUMANOID_90137" locaId="90137">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90138" name="HUMANOID_90138" locaId="90138">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90139" name="HUMANOID_90139" locaId="90139">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90140" name="HUMANOID_90140" locaId="90140">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90141" name="HUMANOID_90141" locaId="90141">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90142" name="HUMANOID_90142" locaId="90142">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90143" name="HUMANOID_90143" locaId="90143">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90144" name="HUMANOID_90144" locaId="90144">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90145" name="HUMANOID_90145" locaId="90145">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90146" name="HUMANOID_90146" locaId="90146">
+		<monster id="20049"/> <!-- Lycanthrope -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90147" name="HUMANOID_90147" locaId="90147">
+		<monster id="20168"/> <!-- Silenos -->
+		<monster id="20939"/> <!-- Tanor Silenos Warrior -->
+		<monster id="20941"/> <!-- Tanor Silenos Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90148" name="HUMANOID_90148" locaId="90148">
+		<monster id="20168"/> <!-- Silenos -->
+		<monster id="20939"/> <!-- Tanor Silenos Warrior -->
+		<monster id="20941"/> <!-- Tanor Silenos Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90149" name="HUMANOID_90149" locaId="90149">
+		<monster id="20168"/> <!-- Silenos -->
+		<monster id="20939"/> <!-- Tanor Silenos Warrior -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90150" name="HUMANOID_90150" locaId="90150">
+		<monster id="20168"/> <!-- Silenos -->
+		<monster id="20939"/> <!-- Tanor Silenos Warrior -->
+		<monster id="20941"/> <!-- Tanor Silenos Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90151" name="HUMANOID_90151" locaId="90151">
+		<monster id="20168"/> <!-- Silenos -->
+		<monster id="20939"/> <!-- Tanor Silenos Warrior -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90152" name="HUMANOID_90152" locaId="90152">
+		<monster id="20168"/> <!-- Silenos -->
+		<monster id="20939"/> <!-- Tanor Silenos Warrior -->
+		<monster id="20941"/> <!-- Tanor Silenos Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90153" name="HUMANOID_90153" locaId="90153">
+		<monster id="20168"/> <!-- Silenos -->
+		<monster id="20939"/> <!-- Tanor Silenos Warrior -->
+		<monster id="20941"/> <!-- Tanor Silenos Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90154" name="HUMANOID_90154" locaId="90154">
+		<monster id="20168"/> <!-- Silenos -->
+		<monster id="20939"/> <!-- Tanor Silenos Warrior -->
+		<monster id="20941"/> <!-- Tanor Silenos Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90155" name="HUMANOID_90155" locaId="90155">
+		<monster id="20168"/> <!-- Silenos -->
+		<monster id="20939"/> <!-- Tanor Silenos Warrior -->
+		<monster id="20941"/> <!-- Tanor Silenos Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90156" name="HUMANOID_90156" locaId="90156">
+		<monster id="20168"/> <!-- Silenos -->
+		<monster id="20941"/> <!-- Tanor Silenos Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90157" name="HUMANOID_90157" locaId="90157">
+		<monster id="20939"/> <!-- Tanor Silenos Warrior -->
+		<monster id="20941"/> <!-- Tanor Silenos Chieftain -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90158" name="HUMANOID_90158" locaId="90158">
+		<monster id="20920"/> <!-- Maille Lizardman Scout -->
+		<monster id="20921"/> <!-- Maille Lizardman Guard -->
+		<monster id="20922"/> <!-- Maille Lizardman Warrior -->
+		<monster id="20923"/> <!-- Maille Lizardman Shaman -->
+		<monster id="20924"/> <!-- Maille Lizardman Matriarch -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90159" name="HUMANOID_90159" locaId="90159">
+		<monster id="20919"/> <!-- Maille Lizardman -->
+		<monster id="20920"/> <!-- Maille Lizardman Scout -->
+		<monster id="20921"/> <!-- Maille Lizardman Guard -->
+		<monster id="20922"/> <!-- Maille Lizardman Warrior -->
+		<monster id="20923"/> <!-- Maille Lizardman Shaman -->
+		<monster id="20924"/> <!-- Maille Lizardman Matriarch -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90160" name="HUMANOID_90160" locaId="90160">
+		<monster id="20920"/> <!-- Maille Lizardman Scout -->
+		<monster id="20921"/> <!-- Maille Lizardman Guard -->
+		<monster id="20922"/> <!-- Maille Lizardman Warrior -->
+		<monster id="20923"/> <!-- Maille Lizardman Shaman -->
+		<monster id="20924"/> <!-- Maille Lizardman Matriarch -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90161" name="HUMANOID_90161" locaId="90161">
+		<monster id="20919"/> <!-- Maille Lizardman -->
+		<monster id="20920"/> <!-- Maille Lizardman Scout -->
+		<monster id="20921"/> <!-- Maille Lizardman Guard -->
+		<monster id="20922"/> <!-- Maille Lizardman Warrior -->
+		<monster id="20923"/> <!-- Maille Lizardman Shaman -->
+		<monster id="20924"/> <!-- Maille Lizardman Matriarch -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90162" name="HUMANOID_90162" locaId="90162">
+		<monster id="20919"/> <!-- Maille Lizardman -->
+		<monster id="20920"/> <!-- Maille Lizardman Scout -->
+		<monster id="20921"/> <!-- Maille Lizardman Guard -->
+		<monster id="20922"/> <!-- Maille Lizardman Warrior -->
+		<monster id="20923"/> <!-- Maille Lizardman Shaman -->
+		<monster id="20924"/> <!-- Maille Lizardman Matriarch -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90163" name="HUMANOID_90163" locaId="90163">
+		<monster id="20920"/> <!-- Maille Lizardman Scout -->
+		<monster id="20921"/> <!-- Maille Lizardman Guard -->
+		<monster id="20922"/> <!-- Maille Lizardman Warrior -->
+		<monster id="20923"/> <!-- Maille Lizardman Shaman -->
+		<monster id="20924"/> <!-- Maille Lizardman Matriarch -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90164" name="HUMANOID_90164" locaId="90164">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90165" name="HUMANOID_90165" locaId="90165">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90166" name="HUMANOID_90166" locaId="90166">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90167" name="HUMANOID_90167" locaId="90167">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90168" name="HUMANOID_90168" locaId="90168">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90169" name="HUMANOID_90169" locaId="90169">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90170" name="HUMANOID_90170" locaId="90170">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90171" name="HUMANOID_90171" locaId="90171">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90172" name="HUMANOID_90172" locaId="90172">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90173" name="HUMANOID_90173" locaId="90173">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90174" name="HUMANOID_90174" locaId="90174">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90175" name="HUMANOID_90175" locaId="90175">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90176" name="HUMANOID_90176" locaId="90176">
+		<monster id="20024"/> <!-- Langk Lizardman Warrior -->
+		<monster id="20027"/> <!-- Langk Lizardman Scout -->
+		<monster id="20356"/> <!-- Langk Lizardman Leader -->
+		<monster id="20357"/> <!-- Langk Lizardman Lieutenant -->
+		<monster id="21101"/> <!-- Langk Lizardman Shaman -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90177" name="HUMANOID_90177" locaId="90177">
+		<monster id="20157"/> <!-- Marsh Stakato -->
+		<monster id="20230"/> <!-- Marsh Stakato Worker -->
+		<monster id="20232"/> <!-- Marsh Stakato Soldier -->
+		<monster id="20234"/> <!-- Marsh Stakato Drone -->
+		<monster id="21035"/> <!-- Catherok -->
+		<monster id="22621"/> <!-- Male Spiked Stakato -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90178" name="HUMANOID_90178" locaId="90178">
+		<monster id="21035"/> <!-- Catherok -->
+		<monster id="22621"/> <!-- Male Spiked Stakato -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90179" name="HUMANOID_90179" locaId="90179">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90180" name="HUMANOID_90180" locaId="90180">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90181" name="HUMANOID_90181" locaId="90181">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90182" name="HUMANOID_90182" locaId="90182">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90183" name="HUMANOID_90183" locaId="90183">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90184" name="HUMANOID_90184" locaId="90184">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90185" name="HUMANOID_90185" locaId="90185">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90186" name="HUMANOID_90186" locaId="90186">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90187" name="HUMANOID_90187" locaId="90187">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90188" name="HUMANOID_90188" locaId="90188">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90189" name="HUMANOID_90189" locaId="90189">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90190" name="HUMANOID_90190" locaId="90190">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90191" name="HUMANOID_90191" locaId="90191">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90192" name="HUMANOID_90192" locaId="90192">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90193" name="HUMANOID_90193" locaId="90193">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90194" name="HUMANOID_90194" locaId="90194">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90195" name="HUMANOID_90195" locaId="90195">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90196" name="HUMANOID_90196" locaId="90196">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90197" name="HUMANOID_90197" locaId="90197">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90198" name="HUMANOID_90198" locaId="90198">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90199" name="HUMANOID_90199" locaId="90199">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90200" name="HUMANOID_90200" locaId="90200">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90201" name="HUMANOID_90201" locaId="90201">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90202" name="HUMANOID_90202" locaId="90202">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90203" name="HUMANOID_90203" locaId="90203">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90204" name="HUMANOID_90204" locaId="90204">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90205" name="HUMANOID_90205" locaId="90205">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90206" name="HUMANOID_90206" locaId="90206">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90207" name="HUMANOID_90207" locaId="90207">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90208" name="HUMANOID_90208" locaId="90208">
+		<monster id="20009"/> <!-- Vuku Orc -->
+		<monster id="20011"/> <!-- Vuku Orc Archer -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25004"/> <!-- Turek Mercenary Captain -->
+			<spawn x="-61466" y="79786" z="-3488" heading="46378"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25026"/> <!-- Katu Van Leader Atui -->
+			<spawn x="137772" y="78637" z="-3608" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25103"/> <!-- Sorcerer Isirr -->
+			<spawn x="86092" y="67675" z="-3328" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90209" name="PLANT_90209" locaId="90209">
+		<monster id="20220"/> <!-- Dicor -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90210" name="PLANT_90210" locaId="90210">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90211" name="PLANT_90211" locaId="90211">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90212" name="PLANT_90212" locaId="90212">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90213" name="PLANT_90213" locaId="90213">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90214" name="PLANT_90214" locaId="90214">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90215" name="PLANT_90215" locaId="90215">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90216" name="PLANT_90216" locaId="90216">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90217" name="PLANT_90217" locaId="90217">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90218" name="PLANT_90218" locaId="90218">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90219" name="PLANT_90219" locaId="90219">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90220" name="PLANT_90220" locaId="90220">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90221" name="PLANT_90221" locaId="90221">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90222" name="PLANT_90222" locaId="90222">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90223" name="PLANT_90223" locaId="90223">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90224" name="PLANT_90224" locaId="90224">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90225" name="PLANT_90225" locaId="90225">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90226" name="PLANT_90226" locaId="90226">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90227" name="PLANT_90227" locaId="90227">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90228" name="PLANT_90228" locaId="90228">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90229" name="PLANT_90229" locaId="90229">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90230" name="PLANT_90230" locaId="90230">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90231" name="PLANT_90231" locaId="90231">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90232" name="PLANT_90232" locaId="90232">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90233" name="PLANT_90233" locaId="90233">
+		<monster id="20220"/> <!-- Dicor -->
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90234" name="PLANT_90234" locaId="90234">
+		<monster id="20594"/> <!-- Forest Runner -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90235" name="PLANT_90235" locaId="90235">
+		<monster id="20154"/> <!-- Mandragora Sprout -->
+		<monster id="20155"/> <!-- Mandragora Sapling -->
+		<monster id="20156"/> <!-- Mandragora Blossom -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90236" name="PLANT_90236" locaId="90236">
+		<monster id="20154"/> <!-- Mandragora Sprout -->
+		<monster id="20156"/> <!-- Mandragora Blossom -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90237" name="PLANT_90237" locaId="90237">
+		<monster id="20154"/> <!-- Mandragora Sprout -->
+		<monster id="20155"/> <!-- Mandragora Sapling -->
+		<monster id="20156"/> <!-- Mandragora Blossom -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90238" name="PLANT_90238" locaId="90238">
+		<monster id="20155"/> <!-- Mandragora Sapling -->
+		<monster id="20156"/> <!-- Mandragora Blossom -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90239" name="PLANT_90239" locaId="90239">
+		<monster id="20156"/> <!-- Mandragora Blossom -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25099"/> <!-- Rotten Tree Repiro -->
+			<spawn x="167711" y="-19190" z="-3072" heading="46378"/>
+		</tier>
+	</zone>
+	<zone id="90240" name="UNDEAD_90240" locaId="90240">
+		<monster id="18634"/> <!-- Lematan's Follower -->
+		<tier level="1" killThreshold="5000">
+			<raidBoss id="25013"/> <!-- Ghost of Peasant Leader -->
+			<spawn x="-21352" y="12488" z="-3048" heading="16638"/>
+		</tier>
+		<tier level="2" killThreshold="2500">
+			<raidBoss id="25044"/> <!-- Barion -->
+			<spawn x="165646" y="-20861" z="-2912" heading="46378"/>
+		</tier>
+		<tier level="3" killThreshold="1000">
+			<raidBoss id="25095"/> <!-- Elf Renoa -->
+			<spawn x="168148" y="-20504" z="-3680" heading="46378"/>
+		</tier>
+	</zone>
+</list>
+

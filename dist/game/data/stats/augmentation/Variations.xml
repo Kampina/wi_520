@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/Variations.xsd">
+	<variations>
+		<!-- Logical groups are resolved in VariationData:
+		     1 = physical weapons, 2 = magic weapons, 3 = armor, 4 = accessories,
+		     5 = shield/sigil, 6 = circlets and head accessories. -->
+		<!-- Classic WI weapon minerals kept for backward compatibility. -->
+		<variation mineralId="8758" itemGroup="1">
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<option id="1" chance="40" />
+					<option id="2" chance="20" />
+					<option id="3" chance="20" />
+					<option id="4" chance="20" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="2">
+				<optionCategory chance="100">
+					<option id="100" chance="20" />
+					<option id="101" chance="20" />
+					<option id="102" chance="20" />
+					<option id="103" chance="20" />
+					<option id="106" chance="20" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<variation mineralId="8762" itemGroup="1">
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<option id="5" chance="40" />
+					<option id="6" chance="20" />
+					<option id="7" chance="20" />
+					<option id="8" chance="20" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="2">
+				<optionCategory chance="100">
+					<option id="100" chance="20" />
+					<option id="101" chance="20" />
+					<option id="102" chance="20" />
+					<option id="103" chance="20" />
+					<option id="106" chance="20" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<variation mineralId="9576" itemGroup="1">
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<option id="9" chance="40" />
+					<option id="10" chance="20" />
+					<option id="11" chance="20" />
+					<option id="12" chance="20" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="2">
+				<optionCategory chance="100">
+					<option id="100" chance="20" />
+					<option id="101" chance="20" />
+					<option id="102" chance="20" />
+					<option id="103" chance="20" />
+					<option id="106" chance="20" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<variation mineralId="14169" itemGroup="1">
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<option id="13" chance="40" />
+					<option id="14" chance="20" />
+					<option id="15" chance="20" />
+					<option id="16" chance="20" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="2">
+				<optionCategory chance="100">
+					<option id="100" chance="20" />
+					<option id="101" chance="20" />
+					<option id="102" chance="20" />
+					<option id="103" chance="20" />
+					<option id="106" chance="20" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<variation mineralId="8758" itemGroup="2">
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<option id="17" chance="40" />
+					<option id="18" chance="20" />
+					<option id="19" chance="20" />
+					<option id="20" chance="20" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="2">
+				<optionCategory chance="100">
+					<option id="104" chance="20" />
+					<option id="105" chance="20" />
+					<option id="106" chance="20" />
+					<option id="107" chance="20" />
+					<option id="108" chance="20" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<variation mineralId="8762" itemGroup="2">
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<option id="21" chance="40" />
+					<option id="22" chance="20" />
+					<option id="23" chance="20" />
+					<option id="24" chance="20" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="2">
+				<optionCategory chance="100">
+					<option id="104" chance="20" />
+					<option id="105" chance="20" />
+					<option id="106" chance="20" />
+					<option id="107" chance="20" />
+					<option id="108" chance="20" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<variation mineralId="9576" itemGroup="2">
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<option id="25" chance="40" />
+					<option id="26" chance="20" />
+					<option id="27" chance="20" />
+					<option id="28" chance="20" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="2">
+				<optionCategory chance="100">
+					<option id="104" chance="20" />
+					<option id="105" chance="20" />
+					<option id="106" chance="20" />
+					<option id="107" chance="20" />
+					<option id="108" chance="20" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+		<variation mineralId="14169" itemGroup="2">
+			<optionGroup order="1">
+				<optionCategory chance="100">
+					<option id="29" chance="40" />
+					<option id="30" chance="20" />
+					<option id="31" chance="20" />
+					<option id="32" chance="20" />
+				</optionCategory>
+			</optionGroup>
+			<optionGroup order="2">
+				<optionCategory chance="100">
+					<option id="104" chance="20" />
+					<option id="105" chance="20" />
+					<option id="106" chance="20" />
+					<option id="107" chance="20" />
+					<option id="108" chance="20" />
+				</optionCategory>
+			</optionGroup>
+		</variation>
+
+		<!-- RV weapon minerals. -->
+		<variation mineralId="90012" itemGroup="1">
+			<optionGroup order="1"><optionCategory chance="100"><option id="1" chance="40" /><option id="2" chance="20" /><option id="3" chance="20" /><option id="4" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="100" chance="20" /><option id="101" chance="20" /><option id="102" chance="20" /><option id="103" chance="20" /><option id="106" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="90013" itemGroup="1">
+			<optionGroup order="1"><optionCategory chance="100"><option id="5" chance="40" /><option id="6" chance="20" /><option id="7" chance="20" /><option id="8" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="100" chance="20" /><option id="101" chance="20" /><option id="102" chance="20" /><option id="103" chance="20" /><option id="106" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="90014" itemGroup="1">
+			<optionGroup order="1"><optionCategory chance="100"><option id="9" chance="40" /><option id="10" chance="20" /><option id="11" chance="20" /><option id="12" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="100" chance="20" /><option id="101" chance="20" /><option id="102" chance="20" /><option id="103" chance="20" /><option id="106" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="90015" itemGroup="1">
+			<optionGroup order="1"><optionCategory chance="100"><option id="13" chance="40" /><option id="14" chance="20" /><option id="15" chance="20" /><option id="16" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="100" chance="20" /><option id="101" chance="20" /><option id="102" chance="20" /><option id="103" chance="20" /><option id="106" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="90016" itemGroup="1">
+			<optionGroup order="1"><optionCategory chance="100"><option id="13" chance="40" /><option id="14" chance="20" /><option id="15" chance="20" /><option id="16" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="100" chance="20" /><option id="101" chance="20" /><option id="102" chance="20" /><option id="103" chance="20" /><option id="106" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="94185" itemGroup="1">
+			<optionGroup order="1"><optionCategory chance="100"><option id="9" chance="40" /><option id="10" chance="20" /><option id="11" chance="20" /><option id="12" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="100" chance="20" /><option id="101" chance="20" /><option id="102" chance="20" /><option id="103" chance="20" /><option id="106" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="94186" itemGroup="1">
+			<optionGroup order="1"><optionCategory chance="100"><option id="13" chance="40" /><option id="14" chance="20" /><option id="15" chance="20" /><option id="16" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="100" chance="20" /><option id="101" chance="20" /><option id="102" chance="20" /><option id="103" chance="20" /><option id="106" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="90012" itemGroup="2">
+			<optionGroup order="1"><optionCategory chance="100"><option id="17" chance="40" /><option id="18" chance="20" /><option id="19" chance="20" /><option id="20" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="90013" itemGroup="2">
+			<optionGroup order="1"><optionCategory chance="100"><option id="21" chance="40" /><option id="22" chance="20" /><option id="23" chance="20" /><option id="24" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="90014" itemGroup="2">
+			<optionGroup order="1"><optionCategory chance="100"><option id="25" chance="40" /><option id="26" chance="20" /><option id="27" chance="20" /><option id="28" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="90015" itemGroup="2">
+			<optionGroup order="1"><optionCategory chance="100"><option id="29" chance="40" /><option id="30" chance="20" /><option id="31" chance="20" /><option id="32" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="90016" itemGroup="2">
+			<optionGroup order="1"><optionCategory chance="100"><option id="29" chance="40" /><option id="30" chance="20" /><option id="31" chance="20" /><option id="32" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="94185" itemGroup="2">
+			<optionGroup order="1"><optionCategory chance="100"><option id="25" chance="40" /><option id="26" chance="20" /><option id="27" chance="20" /><option id="28" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup>
+		</variation>
+		<variation mineralId="94186" itemGroup="2">
+			<optionGroup order="1"><optionCategory chance="100"><option id="29" chance="40" /><option id="30" chance="20" /><option id="31" chance="20" /><option id="32" chance="20" /></optionCategory></optionGroup>
+			<optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup>
+		</variation>
+
+		<!-- Armor minerals. -->
+		<variation mineralId="8728" itemGroup="3"><optionGroup order="1"><optionCategory chance="100"><option id="17" chance="40" /><option id="45" chance="20" /><option id="46" chance="20" /><option id="47" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup></variation>
+		<variation mineralId="8732" itemGroup="3"><optionGroup order="1"><optionCategory chance="100"><option id="21" chance="40" /><option id="48" chance="20" /><option id="49" chance="20" /><option id="50" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup></variation>
+		<variation mineralId="9573" itemGroup="3"><optionGroup order="1"><optionCategory chance="100"><option id="25" chance="40" /><option id="51" chance="20" /><option id="52" chance="20" /><option id="53" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup></variation>
+		<variation mineralId="14166" itemGroup="3"><optionGroup order="1"><optionCategory chance="100"><option id="29" chance="40" /><option id="54" chance="20" /><option id="55" chance="20" /><option id="56" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup></variation>
+		<variation mineralId="94187" itemGroup="3"><optionGroup order="1"><optionCategory chance="100"><option id="25" chance="40" /><option id="51" chance="20" /><option id="52" chance="20" /><option id="53" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup></variation>
+		<variation mineralId="94188" itemGroup="3"><optionGroup order="1"><optionCategory chance="100"><option id="29" chance="40" /><option id="54" chance="20" /><option id="55" chance="20" /><option id="56" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup></variation>
+		<variation mineralId="93121" itemGroup="5"><optionGroup order="1"><optionCategory chance="100"><option id="25" chance="40" /><option id="51" chance="20" /><option id="52" chance="20" /><option id="53" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup></variation>
+		<variation mineralId="93122" itemGroup="5"><optionGroup order="1"><optionCategory chance="100"><option id="29" chance="40" /><option id="54" chance="20" /><option id="55" chance="20" /><option id="56" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="104" chance="20" /><option id="105" chance="20" /><option id="106" chance="20" /><option id="107" chance="20" /><option id="108" chance="20" /></optionCategory></optionGroup></variation>
+
+		<!-- Accessory minerals. -->
+		<variation mineralId="12760" itemGroup="4"><optionGroup order="1"><optionCategory chance="100"><option id="17" chance="40" /><option id="33" chance="20" /><option id="34" chance="20" /><option id="35" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="112" chance="16" /><option id="113" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+		<variation mineralId="12763" itemGroup="4"><optionGroup order="1"><optionCategory chance="100"><option id="21" chance="40" /><option id="36" chance="20" /><option id="37" chance="20" /><option id="38" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="112" chance="16" /><option id="113" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+		<variation mineralId="12821" itemGroup="4"><optionGroup order="1"><optionCategory chance="100"><option id="25" chance="40" /><option id="39" chance="20" /><option id="40" chance="20" /><option id="41" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="112" chance="16" /><option id="113" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+		<variation mineralId="14008" itemGroup="4"><optionGroup order="1"><optionCategory chance="100"><option id="29" chance="40" /><option id="42" chance="20" /><option id="43" chance="20" /><option id="44" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="112" chance="16" /><option id="113" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+		<variation mineralId="8748" itemGroup="4"><optionGroup order="1"><optionCategory chance="100"><option id="17" chance="40" /><option id="18" chance="20" /><option id="19" chance="20" /><option id="20" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="111" chance="16" /><option id="114" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+		<variation mineralId="8752" itemGroup="4"><optionGroup order="1"><optionCategory chance="100"><option id="21" chance="40" /><option id="22" chance="20" /><option id="23" chance="20" /><option id="24" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="111" chance="16" /><option id="114" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+		<variation mineralId="9575" itemGroup="4"><optionGroup order="1"><optionCategory chance="100"><option id="25" chance="40" /><option id="26" chance="20" /><option id="27" chance="20" /><option id="28" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="111" chance="16" /><option id="114" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+		<variation mineralId="14168" itemGroup="4"><optionGroup order="1"><optionCategory chance="100"><option id="29" chance="40" /><option id="30" chance="20" /><option id="31" chance="20" /><option id="32" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="111" chance="16" /><option id="114" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+		<variation mineralId="94423" itemGroup="4"><optionGroup order="1"><optionCategory chance="100"><option id="29" chance="40" /><option id="42" chance="20" /><option id="43" chance="20" /><option id="44" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="112" chance="16" /><option id="113" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+		<variation mineralId="94189" itemGroup="6"><optionGroup order="1"><optionCategory chance="100"><option id="25" chance="40" /><option id="39" chance="20" /><option id="40" chance="20" /><option id="41" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="112" chance="16" /><option id="113" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+		<variation mineralId="94190" itemGroup="6"><optionGroup order="1"><optionCategory chance="100"><option id="29" chance="40" /><option id="42" chance="20" /><option id="43" chance="20" /><option id="44" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="112" chance="16" /><option id="113" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+		<variation mineralId="94303" itemGroup="6"><optionGroup order="1"><optionCategory chance="100"><option id="29" chance="40" /><option id="42" chance="20" /><option id="43" chance="20" /><option id="44" chance="20" /></optionCategory></optionGroup><optionGroup order="2"><optionCategory chance="100"><option id="109" chance="20" /><option id="110" chance="16" /><option id="112" chance="16" /><option id="113" chance="16" /><option id="115" chance="16" /><option id="116" chance="16" /></optionCategory></optionGroup></variation>
+	</variations>
+	<itemGroups>
+	</itemGroups>
+	<fees>
+		<!-- Classic WI-compatible fees. -->
+		<fee itemGroup="1" itemId="2133" itemCount="10" adenaFee="1000000" cancelFee="1000"><mineral id="8758" /></fee>
+		<fee itemGroup="2" itemId="2133" itemCount="10" adenaFee="1000000" cancelFee="1000"><mineral id="8758" /></fee>
+		<fee itemGroup="1" itemId="2134" itemCount="10" adenaFee="1500000" cancelFee="1500"><mineral id="8762" /></fee>
+		<fee itemGroup="2" itemId="2134" itemCount="10" adenaFee="1500000" cancelFee="1500"><mineral id="8762" /></fee>
+		<fee itemGroup="1" itemId="2134" itemCount="15" adenaFee="2000000" cancelFee="2000"><mineral id="9576" /></fee>
+		<fee itemGroup="2" itemId="2134" itemCount="15" adenaFee="2000000" cancelFee="2000"><mineral id="9576" /></fee>
+		<fee itemGroup="1" itemId="2134" itemCount="20" adenaFee="2500000" cancelFee="2500"><mineral id="14169" /></fee>
+		<fee itemGroup="2" itemId="2134" itemCount="20" adenaFee="2500000" cancelFee="2500"><mineral id="14169" /></fee>
+		<fee itemGroup="3" itemId="2133" itemCount="10" adenaFee="1000000" cancelFee="1000"><mineral id="8728" /></fee>
+		<fee itemGroup="3" itemId="2134" itemCount="10" adenaFee="1500000" cancelFee="1500"><mineral id="8732" /></fee>
+		<fee itemGroup="3" itemId="2134" itemCount="15" adenaFee="2000000" cancelFee="2000"><mineral id="9573" /></fee>
+		<fee itemGroup="3" itemId="2134" itemCount="20" adenaFee="2500000" cancelFee="2500"><mineral id="14166" /></fee>
+		<fee itemGroup="4" itemId="2133" itemCount="10" adenaFee="1000000" cancelFee="1000"><mineral id="12760" /></fee>
+		<fee itemGroup="4" itemId="2133" itemCount="10" adenaFee="1000000" cancelFee="1000"><mineral id="8748" /></fee>
+		<fee itemGroup="4" itemId="2134" itemCount="10" adenaFee="1500000" cancelFee="1500"><mineral id="12763" /></fee>
+		<fee itemGroup="4" itemId="2134" itemCount="10" adenaFee="1500000" cancelFee="1500"><mineral id="8752" /></fee>
+		<fee itemGroup="4" itemId="2134" itemCount="15" adenaFee="2000000" cancelFee="2000"><mineral id="12821" /></fee>
+		<fee itemGroup="4" itemId="2134" itemCount="15" adenaFee="2000000" cancelFee="2000"><mineral id="9575" /></fee>
+		<fee itemGroup="4" itemId="2134" itemCount="20" adenaFee="2500000" cancelFee="2500"><mineral id="14008" /></fee>
+		<fee itemGroup="4" itemId="2134" itemCount="20" adenaFee="2500000" cancelFee="2500"><mineral id="14168" /></fee>
+
+		<!-- RV weapon minerals. -->
+		<fee itemGroup="1" itemId="2130" itemCount="50" adenaFee="500000" cancelFee="500"><mineral id="90012" /></fee>
+		<fee itemGroup="2" itemId="2130" itemCount="50" adenaFee="500000" cancelFee="500"><mineral id="90012" /></fee>
+		<fee itemGroup="1" itemId="2131" itemCount="50" adenaFee="750000" cancelFee="750"><mineral id="90013" /></fee>
+		<fee itemGroup="2" itemId="2131" itemCount="50" adenaFee="750000" cancelFee="750"><mineral id="90013" /></fee>
+		<fee itemGroup="1" itemId="2132" itemCount="50" adenaFee="1000000" cancelFee="1000"><mineral id="90014" /></fee>
+		<fee itemGroup="2" itemId="2132" itemCount="50" adenaFee="1000000" cancelFee="1000"><mineral id="90014" /></fee>
+		<fee itemGroup="1" itemId="2133" itemCount="50" adenaFee="1500000" cancelFee="1500"><mineral id="90015" /></fee>
+		<fee itemGroup="2" itemId="2133" itemCount="50" adenaFee="1500000" cancelFee="1500"><mineral id="90015" /></fee>
+		<fee itemGroup="1" itemId="2134" itemCount="50" adenaFee="2000000" cancelFee="2000"><mineral id="90016" /></fee>
+		<fee itemGroup="2" itemId="2134" itemCount="50" adenaFee="2000000" cancelFee="2000"><mineral id="90016" /></fee>
+		<fee itemGroup="1" itemId="2133" itemCount="10" adenaFee="1500000" cancelFee="1500"><mineral id="94185" /></fee>
+		<fee itemGroup="2" itemId="2133" itemCount="10" adenaFee="1500000" cancelFee="1500"><mineral id="94185" /></fee>
+		<fee itemGroup="1" itemId="2134" itemCount="20" adenaFee="2000000" cancelFee="2000"><mineral id="94186" /></fee>
+		<fee itemGroup="2" itemId="2134" itemCount="20" adenaFee="2000000" cancelFee="2000"><mineral id="94186" /></fee>
+
+		<!-- RV armor and accessory minerals. -->
+		<fee itemGroup="3" itemId="2133" itemCount="10" adenaFee="1500000" cancelFee="1500"><mineral id="94187" /></fee>
+		<fee itemGroup="3" itemId="2134" itemCount="20" adenaFee="2000000" cancelFee="2000"><mineral id="94188" /></fee>
+		<fee itemGroup="4" itemId="2134" itemCount="20" adenaFee="2000000" cancelFee="2000"><mineral id="94423" /></fee>
+		<fee itemGroup="5" itemId="2133" itemCount="10" adenaFee="1500000" cancelFee="1500"><mineral id="93121" /></fee>
+		<fee itemGroup="5" itemId="2134" itemCount="20" adenaFee="2000000" cancelFee="2000"><mineral id="93122" /></fee>
+		<fee itemGroup="6" itemId="2133" itemCount="10" adenaFee="1500000" cancelFee="1500"><mineral id="94189" /></fee>
+		<fee itemGroup="6" itemId="2134" itemCount="20" adenaFee="2000000" cancelFee="2000"><mineral id="94190" /></fee>
+		<fee itemGroup="6" itemId="2134" itemCount="20" adenaFee="2000000" cancelFee="2000"><mineral id="94303" /></fee>
+	</fees>
+</list>

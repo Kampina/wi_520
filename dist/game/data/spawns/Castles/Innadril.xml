@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="InnadrilCastle">
+		<group>
+			<npc id="35312" x="116363" y="245268" z="-1040" heading="49152" respawnTime="10800sec" /> <!-- Outer Castle Gatekeeper - Innadril -->
+			<npc id="35312" x="116417" y="245616" z="-1040" heading="0" respawnTime="10800sec" /> <!-- Outer Castle Gatekeeper - Innadril -->
+			<npc id="35313" x="116190" y="247827" z="-750" heading="49152" respawnTime="10800sec" /> <!-- Inner Castle Gatekeeper - Innadril -->
+			<npc id="35313" x="116256" y="248182" z="-790" heading="0" respawnTime="10800sec" /> <!-- Inner Castle Gatekeeper - Innadril -->
+			<npc id="35314" x="115649" y="249072" z="-944" heading="868" respawnTime="60sec" /> <!-- Blacksmith - Innadril -->
+			<npc id="35317" x="115863" y="250387" z="-320" respawnTime="60sec" /> <!-- Tate - Wyvern Manager -->
+		        <npc id='35320' x='116390' y='245450' z='-1040' heading='32768' respawnTime='60sec' /> <!-- Raybell - Herald from Innadril -->
+		</group>
+	</spawn>
+</list>

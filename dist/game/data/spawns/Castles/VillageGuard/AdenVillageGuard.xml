@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/spawns.xsd">
+	<spawn name="TownGuards_5" spawnByDefault="false">
+		<group name="TownGuards_5_0">
+			<npc id="31036" x="147320" y="19880" z="-2034" heading="49151" respawnTime="60sec" />
+			<npc id="31036" x="147576" y="19864" z="-2034" heading="49151" respawnTime="60sec" />
+			<npc id="31036" x="152184" y="24664" z="-2156" heading="0" respawnTime="60sec" />
+			<npc id="31036" x="152152" y="25512" z="-2151" heading="0" respawnTime="60sec" />
+			<npc id="31036" x="147880" y="32264" z="-2502" heading="19739" respawnTime="60sec" />
+			<npc id="31036" x="147048" y="32264" z="-2501" heading="19739" respawnTime="60sec" />
+			<npc id="31036" x="142440" y="26776" z="-2423" heading="32767" respawnTime="60sec" />
+			<npc id="31036" x="142456" y="25944" z="-2418" heading="32767" respawnTime="60sec" />
+		</group>
+		<group name="TownGuards_5_1">
+			<npc id="31032" x="147320" y="19880" z="-2034" heading="49151" respawnTime="60sec" />
+			<npc id="31032" x="147576" y="19864" z="-2034" heading="49151" respawnTime="60sec" />
+			<npc id="31032" x="152184" y="24664" z="-2156" heading="0" respawnTime="60sec" />
+			<npc id="31032" x="152152" y="25512" z="-2151" heading="0" respawnTime="60sec" />
+			<npc id="31032" x="147880" y="32264" z="-2502" heading="19739" respawnTime="60sec" />
+			<npc id="31032" x="147048" y="32264" z="-2501" heading="19739" respawnTime="60sec" />
+			<npc id="31032" x="142440" y="26776" z="-2423" heading="32767" respawnTime="60sec" />
+			<npc id="31032" x="142456" y="25944" z="-2418" heading="32767" respawnTime="60sec" />
+		</group>
+		<group name="TownGuards_5_2">
+			<npc id="31034" x="147320" y="19880" z="-2034" heading="49151" respawnTime="60sec" />
+			<npc id="31034" x="147576" y="19864" z="-2034" heading="49151" respawnTime="60sec" />
+			<npc id="31034" x="152184" y="24664" z="-2156" heading="0" respawnTime="60sec" />
+			<npc id="31034" x="152152" y="25512" z="-2151" heading="0" respawnTime="60sec" />
+			<npc id="31034" x="147880" y="32264" z="-2502" heading="19739" respawnTime="60sec" />
+			<npc id="31034" x="147048" y="32264" z="-2501" heading="19739" respawnTime="60sec" />
+			<npc id="31034" x="142440" y="26776" z="-2423" heading="32767" respawnTime="60sec" />
+			<npc id="31034" x="142456" y="25944" z="-2418" heading="32767" respawnTime="60sec" />
+		</group>
+	</spawn>
+</list>

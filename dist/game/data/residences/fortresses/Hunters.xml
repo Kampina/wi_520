@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="118" name="Hunters Fortress">
+	<doors>
+		<door id="23200001" />
+		<door id="23200012" />
+		<door id="23200002" group="commander_doors" />
+		<door id="23200003" group="commander_doors" />
+		<door id="23200008" group="commander_doors" />
+		<door id="23200009" group="commander_doors" />
+		<door id="23200006" group="captain_doors" />
+		<door id="23200007" group="captain_doors" />
+		<door id="23200010" group="general_doors" />
+		<door id="23200011" group="general_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

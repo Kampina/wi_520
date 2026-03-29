@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/items.xsd">
+	<item id="6789" name="Mercenary Posting Ticket (Teleporter1)" additionalName="Not Available" type="EtcItem">
+		<!-- The item is not available. Goddard/Teleporter/Inner Castle, Guard -->
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="etcitem_type" val="CASTLE_GUARD" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="100000" />
+		<set name="is_stackable" val="true" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="handler" val="MercTicket" />
+	</item>
+	<item id="6790" name="Mercenary Posting Ticket (Teleporter2)" additionalName="Not Available" type="EtcItem">
+		<!-- The item is not available. Goddard/Teleporter/Outer Castle, Guardian -->
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="etcitem_type" val="CASTLE_GUARD" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="100000" />
+		<set name="is_stackable" val="true" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="handler" val="MercTicket" />
+	</item>
+	<item id="6791" name="Mercenary Posting Ticket (Teleporter3)" additionalName="Not Available" type="EtcItem">
+		<!-- The item is not available. Goddard/Teleporter/Inner Castle, Outer Castle -->
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="etcitem_type" val="CASTLE_GUARD" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="100000" />
+		<set name="is_stackable" val="true" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="handler" val="MercTicket" />
+	</item>
+	<item id="7928" name="Mercenary Posting Ticket (Teleporter1)" additionalName="Not Available" type="EtcItem">
+		<!-- The item is not available. Rune/Teleporter/Inner Castle, Guard -->
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="etcitem_type" val="CASTLE_GUARD" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="100000" />
+		<set name="is_stackable" val="true" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="handler" val="MercTicket" />
+	</item>
+	<item id="7929" name="Mercenary Posting Ticket (Teleporter2)" additionalName="Not Available" type="EtcItem">
+		<!-- The item is not available. Rune/Teleporter/Outer Castle, Guardian -->
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="etcitem_type" val="CASTLE_GUARD" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="100000" />
+		<set name="is_stackable" val="true" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="handler" val="MercTicket" />
+	</item>
+	<item id="7930" name="Mercenary Posting Ticket (Teleporter3)" additionalName="Not Available" type="EtcItem">
+		<!-- The item is not available. Rune/Teleporter/Inner Castle, Outer Castle -->
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="etcitem_type" val="CASTLE_GUARD" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="100000" />
+		<set name="is_stackable" val="true" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="handler" val="MercTicket" />
+	</item>
+	<item id="7983" name="Mercenary Posting Ticket (Teleporter1)" additionalName="Not Available" type="EtcItem">
+		<!-- The item is not available. Schuttgart/Teleporter/Inner Castle, Guard -->
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="etcitem_type" val="CASTLE_GUARD" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="100000" />
+		<set name="is_stackable" val="true" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="handler" val="MercTicket" />
+	</item>
+	<item id="7984" name="Mercenary Posting Ticket (Teleporter2)" additionalName="Not Available" type="EtcItem">
+		<!-- The item is not available. Schuttgart/Teleporter/Outer Castle, Guardian -->
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="etcitem_type" val="CASTLE_GUARD" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="100000" />
+		<set name="is_stackable" val="true" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="handler" val="MercTicket" />
+	</item>
+	<item id="7985" name="Mercenary Posting Ticket (Teleporter3)" additionalName="Not Available" type="EtcItem">
+		<!-- The item is not available. Schuttgart/Teleporter/Inner Castle, Outer Castle -->
+		<set name="icon" val="icon.etc_ertheia2" />
+		<set name="etcitem_type" val="CASTLE_GUARD" />
+		<set name="immediate_effect" val="true" />
+		<set name="material" val="PAPER" />
+		<set name="price" val="100000" />
+		<set name="is_stackable" val="true" />
+		<set name="commissionItemType" val="OTHER_ITEM" />
+		<set name="handler" val="MercTicket" />
+	</item>
+</list>

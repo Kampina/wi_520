@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/buylist.xsd">
+  <npcs>
+    <npc>31968</npc>
+  </npcs>
+  <item id="13687" />
+  <item id="13688" />
+  <item id="13689" />
+  <item id="13690" />
+  <item id="13889" />
+  <item id="13890" />
+  <item id="13891" />
+  <item id="13892" />
+  <item id="14601" />
+  <item id="14608" />
+  <item id="14609" />
+  <item id="14610" />
+  <item id="13686" />
+  <item id="13893" />
+  <item id="14603" />
+  <item id="21713" />
+  <item id="21716" />
+  <item id="21719" />
+  <item id="21714" />
+  <item id="21717" />
+  <item id="21720" />
+  <item id="21715" />
+  <item id="21718" />
+  <item id="21721" />
+  <item id="21583" />
+  <item id="21587" />
+  <item id="21588" />
+  <item id="21585" />
+  <item id="21590" />
+</list>

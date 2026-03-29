@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="TerritoryWarManagers">
+		<group>
+			<npc id="36490" x="-15160" y="124252" z="-3104" heading="32864" respawnTime="60sec"> <!-- Territory Manager - Gludio -->
+				<parameters>
+					<param name="dominion_id" value="81" />
+				</parameters>
+			</npc>
+			<npc id="36490" x="-12212" y="122648" z="-3088" heading="15520" respawnTime="60sec"> <!-- Territory Manager - Gludio -->
+				<parameters>
+					<param name="dominion_id" value="81" />
+				</parameters>
+			</npc>
+			<npc id="36481" x="-15067" y="124138" z="-3121" heading="49152" respawnTime="60sec"> <!-- Mercenary Captain - Gludio -->
+				<parameters>
+					<param name="dominion_id" value="81" />
+				</parameters>
+			</npc>
+			<npc id="36491" x="19342" y="145065" z="-3106" heading="30304" respawnTime="60sec"> <!-- Territory Manager - Dion -->
+				<parameters>
+					<param name="dominion_id" value="82" />
+				</parameters>
+			</npc>
+			<npc id="36491" x="17746" y="144214" z="-3051" heading="54112" respawnTime="60sec"> <!-- Territory Manager - Dion -->
+				<parameters>
+					<param name="dominion_id" value="82" />
+				</parameters>
+			</npc>
+			<npc id="36482" x="19326" y="144888" z="-3105" heading="32768" respawnTime="60sec"> <!-- Mercenary Captain - Dion -->
+				<parameters>
+					<param name="dominion_id" value="82" />
+				</parameters>
+			</npc>
+			<npc id="36483" x="82176" y="149616" z="-3474" heading="53247" respawnTime="60sec"> <!-- Mercenary Captain - Giran -->
+				<parameters>
+					<param name="dominion_id" value="83" />
+				</parameters>
+			</npc>
+			<npc id="36492" x="81896" y="149584" z="-3472" heading="36864" respawnTime="60sec"> <!-- Territory Manager - Giran -->
+				<parameters>
+					<param name="dominion_id" value="83" />
+				</parameters>
+			</npc>
+			<npc id="36492" x="79336" y="148128" z="-3536" heading="53248" respawnTime="60sec"> <!-- Territory Manager - Giran -->
+				<parameters>
+					<param name="dominion_id" value="83" />
+				</parameters>
+			</npc>
+			<npc id="36492" x="80544" y="152328" z="-3536" heading="24576" respawnTime="60sec"> <!-- Territory Manager - Giran -->
+				<parameters>
+					<param name="dominion_id" value="83" />
+				</parameters>
+			</npc>
+			<npc id="36484" x="83057" y="55360" z="-1528" heading="16384" respawnTime="60sec"> <!-- Mercenary Captain - Oren -->
+				<parameters>
+					<param name="dominion_id" value="84" />
+				</parameters>
+			</npc>
+			<npc id="36493" x="82682" y="55320" z="-1523" heading="27280" respawnTime="60sec"> <!-- Territory Manager - Oren -->
+				<parameters>
+					<param name="dominion_id" value="84" />
+				</parameters>
+			</npc>
+			<npc id="36493" x="80131" y="53464" z="-1558" heading="57784" respawnTime="60sec"> <!-- Territory Manager - Oren -->
+				<parameters>
+					<param name="dominion_id" value="84" />
+				</parameters>
+			</npc>
+			<npc id="36485" x="146448" y="28348" z="-2275" heading="57344" respawnTime="60sec"> <!-- Mercenary Captain - Aden -->
+				<parameters>
+					<param name="dominion_id" value="85" />
+				</parameters>
+			</npc>
+			<npc id="36494" x="146504" y="28508" z="-2272" heading="61440" respawnTime="60sec"> <!-- Territory Manager - Aden -->
+				<parameters>
+					<param name="dominion_id" value="85" />
+				</parameters>
+			</npc>
+			<npc id="36494" x="148408" y="28516" z="-2272" heading="36884" respawnTime="60sec"> <!-- Territory Manager - Aden -->
+				<parameters>
+					<param name="dominion_id" value="85" />
+				</parameters>
+			</npc>
+			<npc id="36486" x="115356" y="218783" z="-3669" heading="32768" respawnTime="60sec"> <!-- Mercenary Captain - Innadril -->
+				<parameters>
+					<param name="dominion_id" value="86" />
+				</parameters>
+			</npc>
+			<npc id="36495" x="115487" y="218850" z="-3664" heading="16256" respawnTime="60sec"> <!-- Territory Manager - Innadril -->
+				<parameters>
+					<param name="dominion_id" value="86" />
+				</parameters>
+			</npc>
+			<npc id="36495" x="107412" y="217848" z="-3672" heading="13120" respawnTime="60sec"> <!-- Territory Manager - Innadril -->
+				<parameters>
+					<param name="dominion_id" value="86" />
+				</parameters>
+			</npc>
+			<npc id="36487" x="145774" y="-57289" z="-2987" heading="40959" respawnTime="60sec"> <!-- Mercenary Captain - Goddard -->
+				<parameters>
+					<param name="dominion_id" value="87" />
+				</parameters>
+			</npc>
+			<npc id="36496" x="145704" y="-57144" z="-2979" heading="39000" respawnTime="60sec"> <!-- Territory Manager - Goddard -->
+				<parameters>
+					<param name="dominion_id" value="87" />
+				</parameters>
+			</npc>
+			<npc id="36488" x="38097" y="-47920" z="889" heading="12288" respawnTime="60sec"> <!-- Mercenary Captain - Rune -->
+				<parameters>
+					<param name="dominion_id" value="88" />
+				</parameters>
+			</npc>
+			<npc id="36497" x="38256" y="-48002" z="899" heading="0" respawnTime="60sec"> <!-- Territory Manager - Rune -->
+				<parameters>
+					<param name="dominion_id" value="88" />
+				</parameters>
+			</npc>
+			<npc id="36489" x="89254" y="-141421" z="-1547" heading="12288" respawnTime="60sec"> <!-- Mercenary Captain - Schuttgart -->
+				<parameters>
+					<param name="dominion_id" value="89" />
+				</parameters>
+			</npc>
+			<npc id="36498" x="89300" y="-141491" z="-1536" heading="3000" respawnTime="60sec"> <!-- Territory Manager - Schuttgart -->
+				<parameters>
+					<param name="dominion_id" value="89" />
+				</parameters>
+			</npc>
+		</group>
+	</spawn>
+</list>

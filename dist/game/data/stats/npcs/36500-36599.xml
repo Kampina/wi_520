@@ -1,0 +1,1204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="36508" level="75" type="Folk" name="Military Association Leader" title="Gludio">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="8446" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="50" />
+				<run ground="40" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="6" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<ai clanHelpRange="300" aggroRange="300" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36510" level="75" type="Folk" name="Religious Association Leader" title="Gludio">
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="8446" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="50" />
+				<run ground="40" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="15" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<ai clanHelpRange="300" aggroRange="300" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36512" level="58" type="Monster" name="Territory Border Guard" title="Gludio">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<acquire exp="3" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="14629.46128" hpRegen="6.5" mp="2932.2" mpRegen="2.4" />
+			<attack physical="859.224448" magical="302.44274" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="80" distance="80" width="120" />
+			<defence physical="356.991435" magical="261.23085" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="22" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<collision>
+			<radius normal="7" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="36513" level="75" type="Folk" name="Economic Association Leader" title="Gludio">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="8446" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="50" />
+				<run ground="40" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="6" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<ai clanHelpRange="300" aggroRange="300" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36514" level="75" type="Folk" name="Military Association Leader" title="Dion">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="8446" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="50" />
+				<run ground="40" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="6" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<ai clanHelpRange="300" aggroRange="300" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36516" level="75" type="Folk" name="Religious Association Leader" title="Dion">
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="8446" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="50" />
+				<run ground="40" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="15" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<ai clanHelpRange="300" aggroRange="300" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36518" level="58" type="Monster" name="Territory Border Guard" title="Dion">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<acquire exp="3" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="14629.46128" hpRegen="6.5" mp="2932.2" mpRegen="2.4" />
+			<attack physical="859.224448" magical="302.44274" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="80" distance="80" width="120" />
+			<defence physical="356.991435" magical="261.23085" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="22" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<collision>
+			<radius normal="7" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="36519" level="75" type="Folk" name="Economic Association Leader" title="Dion">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="8446" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="50" />
+				<run ground="40" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="6" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<ai clanHelpRange="300" aggroRange="300" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36520" level="75" type="Folk" name="Military Association Leader" title="Giran">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="8446" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="50" />
+				<run ground="40" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="6" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<ai clanHelpRange="300" aggroRange="300" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36522" level="75" type="Folk" name="Religious Association Leader" title="Giran">
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="8446" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="50" />
+				<run ground="40" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="15" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<ai clanHelpRange="300" aggroRange="300" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36524" level="58" type="Monster" name="Territory Border Guard" title="Giran">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<acquire exp="3" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="14629.46128" hpRegen="6.5" mp="2932.2" mpRegen="2.4" />
+			<attack physical="859.224448" magical="302.44274" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="80" distance="80" width="120" />
+			<defence physical="356.991435" magical="261.23085" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="22" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<collision>
+			<radius normal="7" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="36525" level="75" type="Folk" name="Economic Association Leader" title="Giran">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="8446" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="50" />
+				<run ground="40" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="6" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<ai clanHelpRange="300" aggroRange="300" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36534" level="75" type="Folk" name="Religious Association Leader" title="Aden">
+		<race>HUMAN</race>
+		<sex>FEMALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="8446" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="50" />
+				<run ground="40" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="15" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<ai clanHelpRange="300" aggroRange="300" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36535" level="58" type="Monster" name="Territory Guard" title="Aden">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<acquire exp="3" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="14629.46128" hpRegen="6.5" mp="2932.2" mpRegen="2.4" />
+			<attack physical="859.224448" magical="302.44274" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="80" distance="80" width="120" />
+			<defence physical="356.991435" magical="261.23085" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="22" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<collision>
+			<radius normal="7" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="36536" level="58" type="Monster" name="Territory Border Guard" title="Aden">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<acquire exp="3" />
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="14629.46128" hpRegen="6.5" mp="2932.2" mpRegen="2.4" />
+			<attack physical="859.224448" magical="302.44274" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="80" distance="80" width="120" />
+			<defence physical="356.991435" magical="261.23085" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="22" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<collision>
+			<radius normal="7" />
+			<height normal="24" />
+		</collision>
+	</npc>
+	<npc id="36537" level="75" type="Folk" name="Economic Association Leader" title="Aden">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="8446" hpRegen="8.5" mp="2355" mpRegen="3" />
+			<attack physical="1949.95411856464" magical="1331.56588332443" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="405.66735" magical="296.84976" />
+			<speed>
+				<walk ground="50" />
+				<run ground="40" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="false" undying="true" canMove="false" />
+		<skillList>
+			<skill id="4416" level="6" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+		</skillList>
+		<ai clanHelpRange="300" aggroRange="300" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36592" level="60" type="Monster" name="Supplies Safe" title="">
+		<race>CASTLE_GUARD</race>
+		<sex>ETC</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="50000" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2692.68292682927" magical="1794.92939666239" />
+			<speed>
+				<walk ground="50" />
+				<run ground="1" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="true" canMove="false" />
+		<collision>
+			<radius normal="55" />
+			<height normal="82" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="22" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+			<skill id="4226" level="2" />
+		</skillList>
+	</npc>
+	<npc id="36593" level="60" type="Monster" name="Supplies Safe" title="">
+		<race>CASTLE_GUARD</race>
+		<sex>ETC</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="50000" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="4" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="2692.68292682927" magical="1794.92939666239" />
+			<speed>
+				<walk ground="50" />
+				<run ground="1" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="0" magical="0" />
+		</stats>
+		<status attackable="true" canMove="false" />
+		<collision>
+			<radius normal="55" />
+			<height normal="82" />
+		</collision>
+		<skillList>
+			<skill id="4416" level="22" />
+			<skill id="4408" level="1" />
+			<skill id="4409" level="1" />
+			<skill id="4410" level="11" />
+			<skill id="4411" level="11" />
+			<skill id="4412" level="11" />
+			<skill id="4413" level="11" />
+			<skill id="4414" level="2" />
+			<skill id="4415" level="3" />
+			<skill id="4390" level="1" />
+			<skill id="4045" level="1" />
+			<skill id="4226" level="2" />
+		</skillList>
+	</npc>
+	<npc id="36526" level="85" type="Monster" name="Military Association Leader" title="Oren">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36528" level="85" type="Monster" name="Religious Association Leader" title="Oren">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="22" int="41" dex="21" wit="20" con="27" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="22.5" />
+		</collision>
+	</npc>
+	<npc id="36530" level="85" type="Monster" name="Territory Border Guard" title="Oren">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36531" level="85" type="Monster" name="Economic Association Leader" title="Oren">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.5" />
+		</collision>
+	</npc>
+	<npc id="36538" level="85" type="Monster" name="Military Association Leader" title="Innadril">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36540" level="85" type="Monster" name="Religious Association Leader" title="Innadril">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="22" int="41" dex="21" wit="20" con="27" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="22.5" />
+		</collision>
+	</npc>
+	<npc id="36542" level="85" type="Monster" name="Territory Border Guard" title="Innadril">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36543" level="85" type="Monster" name="Economic Association Leader" title="Innadril">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.5" />
+		</collision>
+	</npc>
+	<npc id="36544" level="85" type="Monster" name="Military Association Leader" title="Goddard">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36546" level="85" type="Monster" name="Religious Association Leader" title="Goddard">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="22" int="41" dex="21" wit="20" con="27" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="22.5" />
+		</collision>
+	</npc>
+	<npc id="36547" level="85" type="Monster" name="Territory Guard" title="Goddard">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3290.11306877694" hpRegen="8.5" mp="1674.8" mpRegen="3" />
+			<attack physical="970.537548504614" magical="662.751329129412" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36548" level="85" type="Monster" name="Territory Border Guard" title="Goddard">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36549" level="85" type="Monster" name="Economic Association Leader" title="Goddard">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.5" />
+		</collision>
+	</npc>
+	<npc id="36550" level="85" type="Monster" name="Military Association Leader" title="Rune">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36552" level="85" type="Monster" name="Religious Association Leader" title="Rune">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="22" int="41" dex="21" wit="20" con="27" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="22.5" />
+		</collision>
+	</npc>
+	<npc id="36553" level="85" type="Monster" name="Territory Guard" title="Rune">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3290.11306877694" hpRegen="8.5" mp="1674.8" mpRegen="3" />
+			<attack physical="970.537548504614" magical="662.751329129412" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36554" level="85" type="Monster" name="Territory Border Guard" title="Rune">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36555" level="85" type="Monster" name="Economic Association Leader" title="Rune">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.5" />
+		</collision>
+	</npc>
+	<npc id="36556" level="85" type="Monster" name="Military Association Leader" title="Schuttgart">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="463876" hpRegen="981" mp="1674.8" mpRegen="3" />
+			<attack physical="2911.61264551384" magical="1988.25398738824" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36559" level="85" type="Monster" name="Territory Guard" title="Schuttgart">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3290.11306877694" hpRegen="8.5" mp="1674.8" mpRegen="3" />
+			<attack physical="970.537548504614" magical="662.751329129412" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36560" level="85" type="Monster" name="Territory Border Guard" title="Schuttgart">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36591" level="85" type="Monster" name="Supplies Safe" title="">
+		<race>CONSTRUCT</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3290.11306877694" hpRegen="8.5" mp="1674.8" mpRegen="3" />
+			<attack physical="970.537548504614" magical="662.751329129412" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="8.5" />
+		</collision>
+	</npc>
+	<npc id="36594" level="85" type="Monster" name="Supplies Safe" title="">
+		<race>CONSTRUCT</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3290.11306877694" hpRegen="8.5" mp="1674.8" mpRegen="3" />
+			<attack physical="970.537548504614" magical="662.751329129412" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="8.5" />
+		</collision>
+	</npc>
+	<npc id="36596" level="85" type="Monster" name="Supplies Safe" title="">
+		<race>CONSTRUCT</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3290.11306877694" hpRegen="8.5" mp="1674.8" mpRegen="3" />
+			<attack physical="970.537548504614" magical="662.751329129412" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="8.5" />
+		</collision>
+	</npc>
+	<npc id="36597" level="85" type="Monster" name="Supplies Safe" title="">
+		<race>CONSTRUCT</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3290.11306877694" hpRegen="8.5" mp="1674.8" mpRegen="3" />
+			<attack physical="970.537548504614" magical="662.751329129412" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="8.5" />
+		</collision>
+	</npc>
+	<npc id="36598" level="85" type="Monster" name="Supplies Safe" title="">
+		<race>CONSTRUCT</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3290.11306877694" hpRegen="8.5" mp="1674.8" mpRegen="3" />
+			<attack physical="970.537548504614" magical="662.751329129412" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="8.5" />
+		</collision>
+	</npc>
+	<npc id="36599" level="85" type="Monster" name="Supplies Safe" title="">
+		<race>CONSTRUCT</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="3290.11306877694" hpRegen="8.5" mp="1674.8" mpRegen="3" />
+			<attack physical="970.537548504614" magical="662.751329129412" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="341.375" magical="249.80341" />
+			<speed>
+				<walk ground="110" />
+				<run ground="180" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.5" />
+			<height normal="8.5" />
+		</collision>
+	</npc>
+</list>

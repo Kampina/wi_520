@@ -1,0 +1,1543 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="35905" level="85" type="FortDoorman" name="Doorman" title="White Sands Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35906" level="85" type="FortDoorman" name="Doorman" title="White Sands Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35907" level="85" type="FortDoorman" name="Doorman" title="White Sands Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35908" level="85" type="Monster" name="Rebel Commander" title="White Sands Fortress">
+		<race>DARK_ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="679374.315371996" hpRegen="391.417777464402" mp="1674.8" mpRegen="3" />
+			<attack physical="7476.5080117304" magical="5105.4857482389" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="546.2" magical="599.528184" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="26.99" />
+		</collision>
+	</npc>
+	<npc id="35909" level="85" type="Monster" name="Decorated Rebel Soldier" title="White Sands Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="15.0" />
+			<height normal="45.0" />
+		</collision>
+	</npc>
+	<npc id="35910" level="85" type="Monster" name="Rebel Private" title="White Sands Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35911" level="85" type="Monster" name="Court Guard" title="White Sands Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35912" level="85" type="Monster" name="Guard" title="White Sands Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35915" level="85" type="FortCommander" name="Guard Captain" title="White Sands Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.75" />
+		</collision>
+	</npc>
+	<npc id="35916" level="85" type="Monster" name="Guard" title="White Sands Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35917" level="85" type="Monster" name="Guard" title="White Sands Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35919" level="85" type="Monster" name="Wizard" title="White Sands Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="22.5" />
+		</collision>
+	</npc>
+	<npc id="35920" level="85" type="Monster" name="Healer" title="White Sands Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.0" />
+		</collision>
+	</npc>
+	<npc id="35921" level="85" type="FortCommander" name="Archer Captain" title="White Sands Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35922" level="85" type="Monster" name="Archer" title="White Sands Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35924" level="85" type="Folk" name="Mercenary Captain" title="White Sands Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="679374.315371996" hpRegen="391.417777464402" mp="1674.8" mpRegen="3" />
+			<attack physical="7476.5080117304" magical="5105.4857482389" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="546.2" magical="599.528184" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="12.0" />
+			<height normal="24.5" />
+		</collision>
+	</npc>
+	<npc id="35928" level="85" type="FortCommander" name="Suspicious Merchant" title="Borderland Fortress">
+		<race>ORC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="27.0" />
+		</collision>
+	</npc>
+	<npc id="35930" level="85" type="FortCommander" name="Archer Captain" title="Borderland Fortress">
+		<race>ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35937" level="85" type="FortDoorman" name="Doorman" title="Borderland Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35938" level="85" type="FortDoorman" name="Doorman" title="Borderland Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35939" level="85" type="FortDoorman" name="Doorman" title="Borderland Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35940" level="85" type="Monster" name="Rebel Commander" title="Borderland Fortress">
+		<race>DARK_ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="679374.315371996" hpRegen="391.417777464402" mp="1674.8" mpRegen="3" />
+			<attack physical="7476.5080117304" magical="5105.4857482389" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="546.2" magical="599.528184" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="26.99" />
+		</collision>
+	</npc>
+	<npc id="35941" level="85" type="Monster" name="Decorated Rebel Soldier" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="15.0" />
+			<height normal="45.0" />
+		</collision>
+	</npc>
+	<npc id="35942" level="85" type="Monster" name="Rebel Private" title="Borderland Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35943" level="85" type="Monster" name="Court Guard" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35944" level="85" type="Monster" name="Guard" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35946" level="85" type="Folk" name="Backup Power Unit" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="16.0" />
+			<height normal="15.5" />
+		</collision>
+	</npc>
+	<npc id="35947" level="85" type="Folk" name="Control Unit" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="39.0" />
+			<height normal="42.5" />
+		</collision>
+	</npc>
+	<npc id="35948" level="85" type="Folk" name="Power Control Unit" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="54.0" />
+			<height normal="59.5" />
+		</collision>
+	</npc>
+	<npc id="35951" level="85" type="FortCommander" name="Guard Captain" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.75" />
+		</collision>
+	</npc>
+	<npc id="35952" level="85" type="Monster" name="Guard" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35953" level="85" type="Monster" name="Guard" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35955" level="85" type="Monster" name="Wizard" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="22.5" />
+		</collision>
+	</npc>
+	<npc id="35956" level="85" type="Monster" name="Healer" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.0" />
+		</collision>
+	</npc>
+	<npc id="35957" level="85" type="FortCommander" name="Archer Captain" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35958" level="85" type="Monster" name="Archer" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35959" level="85" type="FortCommander" name="General" title="Borderland Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="DUAL" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="14.5" />
+			<height normal="30.0" />
+		</collision>
+	</npc>
+	<npc id="35962" level="85" type="Folk" name="Mercenary Captain" title="Borderland Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="679374.315371996" hpRegen="391.417777464402" mp="1674.8" mpRegen="3" />
+			<attack physical="7476.5080117304" magical="5105.4857482389" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="546.2" magical="599.528184" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="12.0" />
+			<height normal="24.5" />
+		</collision>
+	</npc>
+	<npc id="35966" level="85" type="FortCommander" name="Suspicious Merchant" title="Swamp Fortress">
+		<race>ORC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="27.0" />
+		</collision>
+	</npc>
+	<npc id="35968" level="85" type="FortCommander" name="Archer Captain" title="Swamp Fortress">
+		<race>ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35975" level="85" type="FortDoorman" name="Doorman" title="Swamp Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35976" level="85" type="FortDoorman" name="Doorman" title="Swamp Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35977" level="85" type="FortDoorman" name="Doorman" title="Swamp Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35978" level="85" type="Monster" name="Rebel Commander" title="Swamp Fortress">
+		<race>DARK_ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="679374.315371996" hpRegen="391.417777464402" mp="1674.8" mpRegen="3" />
+			<attack physical="7476.5080117304" magical="5105.4857482389" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="546.2" magical="599.528184" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="26.99" />
+		</collision>
+	</npc>
+	<npc id="35979" level="85" type="Monster" name="Decorated Rebel Soldier" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="15.0" />
+			<height normal="45.0" />
+		</collision>
+	</npc>
+	<npc id="35980" level="85" type="Monster" name="Rebel Private" title="Swamp Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35981" level="85" type="Monster" name="Court Guard" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35982" level="85" type="Monster" name="Guard" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35984" level="85" type="Folk" name="Backup Power Unit" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="16.0" />
+			<height normal="15.5" />
+		</collision>
+	</npc>
+	<npc id="35985" level="85" type="Folk" name="Control Unit" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="39.0" />
+			<height normal="42.5" />
+		</collision>
+	</npc>
+	<npc id="35986" level="85" type="Folk" name="Power Control Unit" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="54.0" />
+			<height normal="59.5" />
+		</collision>
+	</npc>
+	<npc id="35989" level="85" type="FortCommander" name="Guard Captain" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.75" />
+		</collision>
+	</npc>
+	<npc id="35990" level="85" type="Monster" name="Guard" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35991" level="85" type="Monster" name="Guard" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35993" level="85" type="Monster" name="Wizard" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="22.5" />
+		</collision>
+	</npc>
+	<npc id="35994" level="85" type="Monster" name="Healer" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.0" />
+		</collision>
+	</npc>
+	<npc id="35995" level="85" type="FortCommander" name="Archer Captain" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35996" level="85" type="Monster" name="Archer" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35997" level="85" type="FortCommander" name="General" title="Swamp Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="DUAL" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="14.5" />
+			<height normal="30.0" />
+		</collision>
+	</npc>
+	<npc id="35900" level="85" type="FortCommander" name="Support Unit Captain" title="White Sands Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35902" level="85" type="FortCommander" name="Logistics Officer" title="White Sands Fortress">
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="17.5" />
+		</collision>
+	</npc>
+	<npc id="35918" level="85" type="FortCommander" name="Support Unit Captain" title="White Sands Fortress">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35927" level="85" type="FortCommander" name="Foreman" title="Borderland Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35932" level="85" type="FortCommander" name="Support Unit Captain" title="Borderland Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35934" level="85" type="FortCommander" name="Logistics Officer" title="Borderland Fortress">
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="17.5" />
+		</collision>
+	</npc>
+	<npc id="35954" level="85" type="FortCommander" name="Support Unit Captain" title="Borderland Fortress">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35965" level="85" type="FortCommander" name="Foreman" title="Swamp Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="35970" level="85" type="FortCommander" name="Support Unit Captain" title="Swamp Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="35972" level="85" type="FortCommander" name="Logistics Officer" title="Swamp Fortress">
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="17.5" />
+		</collision>
+	</npc>
+	<npc id="35992" level="85" type="FortCommander" name="Support Unit Captain" title="Swamp Fortress">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+</list>

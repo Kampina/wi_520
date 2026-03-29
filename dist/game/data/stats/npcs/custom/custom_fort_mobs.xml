@@ -1,0 +1,1244 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list><npc id="35676" name="Dwarven Gunnery Sergeant" title="Shanty Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="61.737">
+				<reward item_id="9912" min="4" max="12" chance="100.0000" />	
+			</group>
+		</rewardlist>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="35711" name="Dwarven Gunnery Sergeant" title="Southern Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="2888" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="48.2776">
+				<reward item_id="9912" min="24" max="72" chance="4.0000" />	
+				<reward item_id="10014" min="1" max="1" chance="96.0000" />	
+			</group>
+		</rewardlist>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="35745" name="Dwarven Gunnery Sergeant" title="Hive Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="2888" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="61.737">
+				<reward item_id="9912" min="4" max="12" chance="100.0000" />	
+			</group>
+		</rewardlist>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="35780" name="Dwarven Gunnery Sergeant" title="Valley Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="2888" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<rewardlist type="RATED_GROUPED">
+			<group chance="48.2776">
+				<reward item_id="9912" min="24" max="72" chance="4.0000" />	
+				<reward item_id="10014" min="1" max="1" chance="96.0000" />	
+			</group>
+		</rewardlist>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="35814" name="Dwarven Gunnery Sergeant" title="Ivory Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="35845" name="Dwarven Gunnery Sergeant" title="Narsell Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="35880" name="Dwarven Gunnery Sergeant" title="Bayou Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="35914" name="Dwarven Gunnery Sergeant" title="White Sands Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="35949" name="Dwarven Gunnery Sergeant" title="Borderland Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="35987" name="Dwarven Gunnery Sergeant" title="Swamp Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="36021" name="Dwarven Gunnery Sergeant" title="Archaic Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="36056" name="Dwarven Gunnery Sergeant" title="Floran Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="36094" name="Dwarven Gunnery Sergeant" title="Cloud Mountain Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="36128" name="Dwarven Gunnery Sergeant" title="Tanor Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="36159" name="Dwarven Gunnery Sergeant" title="Dragonspine Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="36194" name="Dwarven Gunnery Sergeant" title="Antharas Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="36232" name="Dwarven Gunnery Sergeant" title="Western Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="4608" level="2" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="36270" name="Dwarven Gunnery Sergeant" title="Hunters Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="36339" name="Dwarven Gunnery Sergeant" title="Demon Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc><npc id="36377" name="Dwarven Gunnery Sergeant" title="Monastic Fortress" type="FortCommander"><set name="aggroRange" value="0" />
+		<set name="baseAtkRange" value="1100" />
+		<set name="baseAtkType" value="BOW" />
+		<set name="baseCON" value="43" />
+		<set name="baseCritRate" value="80" />
+		<set name="baseDEX" value="30" />
+		<set name="baseHpMax" value="2758.05923328" />
+		<set name="baseHpRate" value="3" />
+		<set name="baseHpReg" value="8.5" />
+		<set name="baseINT" value="21" />
+		<set name="baseMAtk" value="562.9734023" />
+		<set name="baseMAtkSpd" value="500" />
+		<set name="baseMDef" value="236.93149" />
+		<set name="baseMEN" value="20" />
+		<set name="baseMpMax" value="1540.8" />
+		<set name="baseMpReg" value="3" />
+		<set name="basePAtk" value="824.422073095" />
+		<set name="basePAtkSpd" value="253" />
+		<set name="basePDef" value="323.78455" />
+		<set name="baseRunSpd" value="120" />
+		<set name="baseSTR" value="40" />
+		<set name="baseShldDef" value="0" />
+		<set name="baseShldRate" value="0" />
+		<set name="baseWIT" value="20" />
+		<set name="baseWalkSpd" value="30" />
+		<set name="collision_height" value="17.5" />
+		<set name="collision_radius" value="13.0" />
+		<set name="corpse_time" value="7" />
+		<set name="level" value="85" />
+		<set name="race" value="CASTLE_GUARD" />
+		<set name="rewardExp" value="1" />
+		<set name="rewardRp" value="0" />
+		<set name="rewardSp" value="0" />
+		<set name="soulshot_count" value="0" />
+		<set name="spiritshot_count" value="0" />
+		<set name="type" value="residences.SiegeGuard" />
+		<ai_params>
+			<set name="isImmobilized" value="true" />
+		</ai_params>
+		<skills>
+			<skill id="4045" level="1" />	
+			<skill id="4408" level="11" />	
+			<skill id="4409" level="16" />	
+			<skill id="4410" level="11" />	
+			<skill id="4411" level="17" />	
+			<skill id="4412" level="11" />	
+			<skill id="4413" level="8" />	
+			<skill id="4414" level="2" />	
+			<skill id="4415" level="9" />	
+			<skill id="4416" level="22" />	
+			<skill id="5461" level="6" />	
+			<skill id="5468" level="4" />	
+		</skills>
+		<attributes>
+			<defence attribute="fire" value="40" />
+			<defence attribute="water" value="40" />
+			<defence attribute="wind" value="40" />
+			<defence attribute="earth" value="40" />
+			<defence attribute="holy" value="40" />
+			<defence attribute="unholy" value="40" />
+		</attributes>
+	</npc></list>

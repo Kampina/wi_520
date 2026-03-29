@@ -1,0 +1,1521 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="36004" level="85" type="FortCommander" name="Suspicious Merchant" title="Archaic Fortress">
+		<race>ORC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="27.0" />
+		</collision>
+	</npc>
+	<npc id="36006" level="85" type="FortCommander" name="Archer Captain" title="Archaic Fortress">
+		<race>ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36012" level="85" type="FortDoorman" name="Doorman" title="Archaic Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36013" level="85" type="FortDoorman" name="Doorman" title="Archaic Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36014" level="85" type="FortDoorman" name="Doorman" title="Archaic Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36015" level="85" type="Monster" name="Rebel Commander" title="Archaic Fortress">
+		<race>DARK_ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="679374.315371996" hpRegen="391.417777464402" mp="1674.8" mpRegen="3" />
+			<attack physical="7476.5080117304" magical="5105.4857482389" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="546.2" magical="599.528184" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="26.99" />
+		</collision>
+	</npc>
+	<npc id="36016" level="85" type="Monster" name="Decorated Rebel Soldier" title="Archaic Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="15.0" />
+			<height normal="45.0" />
+		</collision>
+	</npc>
+	<npc id="36017" level="85" type="Monster" name="Rebel Private" title="Archaic Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36018" level="85" type="Monster" name="Court Guard" title="Archaic Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36019" level="85" type="Monster" name="Guard" title="Archaic Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36022" level="85" type="FortCommander" name="Guard Captain" title="Archaic Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.75" />
+		</collision>
+	</npc>
+	<npc id="36023" level="85" type="Monster" name="Guard" title="Archaic Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36024" level="85" type="Monster" name="Guard" title="Archaic Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36026" level="85" type="Monster" name="Wizard" title="Archaic Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="22.5" />
+		</collision>
+	</npc>
+	<npc id="36027" level="85" type="Monster" name="Healer" title="Archaic Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.0" />
+		</collision>
+	</npc>
+	<npc id="36028" level="85" type="FortCommander" name="Archer Captain" title="Archaic Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36029" level="85" type="Monster" name="Archer" title="Archaic Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36031" level="85" type="Folk" name="Mercenary Captain" title="Archaic Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="679374.315371996" hpRegen="391.417777464402" mp="1674.8" mpRegen="3" />
+			<attack physical="7476.5080117304" magical="5105.4857482389" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="546.2" magical="599.528184" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="12.0" />
+			<height normal="24.5" />
+		</collision>
+	</npc>
+	<npc id="36035" level="85" type="FortCommander" name="Suspicious Merchant" title="Floran Fortress">
+		<race>ORC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="27.0" />
+		</collision>
+	</npc>
+	<npc id="36037" level="85" type="FortCommander" name="Archer Captain" title="Floran Fortress">
+		<race>ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36044" level="85" type="FortDoorman" name="Doorman" title="Floran Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36045" level="85" type="FortDoorman" name="Doorman" title="Floran Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36046" level="85" type="FortDoorman" name="Doorman" title="Floran Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36047" level="85" type="Monster" name="Rebel Commander" title="Floran Fortress">
+		<race>DARK_ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="679374.315371996" hpRegen="391.417777464402" mp="1674.8" mpRegen="3" />
+			<attack physical="7476.5080117304" magical="5105.4857482389" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="546.2" magical="599.528184" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="26.99" />
+		</collision>
+	</npc>
+	<npc id="36048" level="85" type="Monster" name="Decorated Rebel Soldier" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="15.0" />
+			<height normal="45.0" />
+		</collision>
+	</npc>
+	<npc id="36049" level="85" type="Monster" name="Rebel Private" title="Floran Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36050" level="85" type="Monster" name="Court Guard" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36051" level="85" type="Monster" name="Guard" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36053" level="85" type="Folk" name="Backup Power Unit" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="16.0" />
+			<height normal="15.5" />
+		</collision>
+	</npc>
+	<npc id="36054" level="85" type="Folk" name="Control Unit" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="39.0" />
+			<height normal="42.5" />
+		</collision>
+	</npc>
+	<npc id="36055" level="85" type="Folk" name="Power Control Unit" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="54.0" />
+			<height normal="59.5" />
+		</collision>
+	</npc>
+	<npc id="36058" level="85" type="FortCommander" name="Guard Captain" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.75" />
+		</collision>
+	</npc>
+	<npc id="36059" level="85" type="Monster" name="Guard" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36060" level="85" type="Monster" name="Guard" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36062" level="85" type="Monster" name="Wizard" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="22.5" />
+		</collision>
+	</npc>
+	<npc id="36063" level="85" type="Monster" name="Healer" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.0" />
+		</collision>
+	</npc>
+	<npc id="36064" level="85" type="FortCommander" name="Archer Captain" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36065" level="85" type="Monster" name="Archer" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36066" level="85" type="FortCommander" name="General" title="Floran Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="DUAL" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="14.5" />
+			<height normal="30.0" />
+		</collision>
+	</npc>
+	<npc id="36069" level="85" type="Folk" name="Mercenary Captain" title="Floran Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="679374.315371996" hpRegen="391.417777464402" mp="1674.8" mpRegen="3" />
+			<attack physical="7476.5080117304" magical="5105.4857482389" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="546.2" magical="599.528184" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="12.0" />
+			<height normal="24.5" />
+		</collision>
+	</npc>
+	<npc id="36073" level="85" type="FortCommander" name="Suspicious Merchant" title="Cloud Mountain Fortress">
+		<race>ORC</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="27.0" />
+		</collision>
+	</npc>
+	<npc id="36075" level="85" type="FortCommander" name="Archer Captain" title="Cloud Mountain Fortress">
+		<race>ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36082" level="85" type="FortDoorman" name="Doorman" title="Cloud Mountain Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36083" level="85" type="FortDoorman" name="Doorman" title="Cloud Mountain Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36084" level="85" type="FortDoorman" name="Doorman" title="Cloud Mountain Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36085" level="85" type="Monster" name="Rebel Commander" title="Cloud Mountain Fortress">
+		<race>DARK_ELF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="679374.315371996" hpRegen="391.417777464402" mp="1674.8" mpRegen="3" />
+			<attack physical="7476.5080117304" magical="5105.4857482389" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="546.2" magical="599.528184" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="26.99" />
+		</collision>
+	</npc>
+	<npc id="36086" level="85" type="Monster" name="Decorated Rebel Soldier" title="Cloud Mountain Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="FIST" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="15.0" />
+			<height normal="45.0" />
+		</collision>
+	</npc>
+	<npc id="36087" level="85" type="Monster" name="Rebel Private" title="Cloud Mountain Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36088" level="85" type="Monster" name="Court Guard" title="Cloud Mountain Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="40" accuracy="5" attackSpeed="253" type="POLE" range="80" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36089" level="85" type="Monster" name="Guard" title="Cloud Mountain Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2540.15331" hpRegen="8.5" mp="1410" mpRegen="3" />
+			<attack physical="731.52506" magical="499.53679" random="10" critical="80" accuracy="5" attackSpeed="253" type="BOW" range="1100" distance="80" width="120" />
+			<defence physical="305.35947" magical="223.44881" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36091" level="85" type="Folk" name="Backup Power Unit" title="Cloud Mountain Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="16.0" />
+			<height normal="15.5" />
+		</collision>
+	</npc>
+	<npc id="36092" level="85" type="Folk" name="Control Unit" title="Cloud Mountain Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="39.0" />
+			<height normal="42.5" />
+		</collision>
+	</npc>
+	<npc id="36093" level="85" type="Folk" name="Power Control Unit" title="Cloud Mountain Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="54.0" />
+			<height normal="59.5" />
+		</collision>
+	</npc>
+	<npc id="36096" level="85" type="FortCommander" name="Guard Captain" title="Cloud Mountain Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="10.0" />
+			<height normal="23.75" />
+		</collision>
+	</npc>
+	<npc id="36097" level="85" type="Monster" name="Guard" title="Cloud Mountain Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36098" level="85" type="Monster" name="Guard" title="Cloud Mountain Fortress">
+		<race>HUMANOID</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2758.05923328" hpRegen="8.5" mp="1540.8" mpRegen="3" />
+			<attack physical="824.422073095" magical="562.9734023" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="323.78455" magical="236.93149" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36000" level="85" type="Folk" name="Mercenary Captain" title="Swamp Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="679374.315371996" hpRegen="391.417777464402" mp="1674.8" mpRegen="3" />
+			<attack physical="7476.5080117304" magical="5105.4857482389" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="546.2" magical="599.528184" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="150" />
+		<collision>
+			<radius normal="12.0" />
+			<height normal="24.5" />
+		</collision>
+	</npc>
+	<npc id="36003" level="85" type="FortCommander" name="Foreman" title="Archaic Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36007" level="85" type="FortCommander" name="Support Unit Captain" title="Archaic Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36009" level="85" type="FortCommander" name="Logistics Officer" title="Archaic Fortress">
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="17.5" />
+		</collision>
+	</npc>
+	<npc id="36025" level="85" type="FortCommander" name="Support Unit Captain" title="Archaic Fortress">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36034" level="85" type="FortCommander" name="Foreman" title="Floran Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36039" level="85" type="FortCommander" name="Support Unit Captain" title="Floran Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36041" level="85" type="FortCommander" name="Logistics Officer" title="Floran Fortress">
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="17.5" />
+		</collision>
+	</npc>
+	<npc id="36061" level="85" type="FortCommander" name="Support Unit Captain" title="Floran Fortress">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36072" level="85" type="FortCommander" name="Foreman" title="Cloud Mountain Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="24.0" />
+		</collision>
+	</npc>
+	<npc id="36077" level="85" type="FortCommander" name="Support Unit Captain" title="Cloud Mountain Fortress">
+		<race>HUMAN</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+	<npc id="36079" level="85" type="FortCommander" name="Logistics Officer" title="Cloud Mountain Fortress">
+		<race>DWARF</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="2676.65854" hpRegen="8.5" mp="1507.8" mpRegen="3" />
+			<attack physical="794.70901" magical="542.68324" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="319.24623" magical="233.61053" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="false" undying="true" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="8.0" />
+			<height normal="17.5" />
+		</collision>
+	</npc>
+	<npc id="36099" level="85" type="FortCommander" name="Support Unit Captain" title="Cloud Mountain Fortress">
+		<race>CASTLE_GUARD</race>
+		<sex>MALE</sex>
+		<stats str="40" int="21" dex="30" wit="20" con="43" men="20">
+			<vitals hp="681761.551881449" hpRegen="397.49728048556" mp="1607.4" mpRegen="3" />
+			<attack physical="7149.40063947237" magical="4882.11390959346" random="10" critical="40" accuracy="5" attackSpeed="253" type="SWORD" range="40" distance="80" width="120" />
+			<defence physical="532.320976" magical="584.294088" />
+			<speed>
+				<walk ground="30" />
+				<run ground="120" />
+			</speed>
+			<hitTime>600</hitTime>
+			<abnormalResist physical="10" magical="10" />
+		</stats>
+		<status attackable="true" undying="false" canMove="true" />
+		<exCrtEffect>true</exCrtEffect>
+		<ai type="BALANCED" aggroRange="600" />
+		<collision>
+			<radius normal="9.0" />
+			<height normal="23.5" />
+		</collision>
+	</npc>
+</list>

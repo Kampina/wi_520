@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="113" name="Cloud Mountain Fortress">
+	<doors>
+		<door id="18200001" />
+		<door id="18200010" />
+		<door id="18200002" group="commander_doors" />
+		<door id="18200003" group="commander_doors" />
+		<door id="18200011" group="commander_doors" />
+		<door id="18200012" group="commander_doors" />
+		<door id="18200006" group="captain_doors" />
+		<door id="18200007" group="captain_doors" />
+		<door id="18200008" group="general_doors" />
+		<door id="18200009" group="general_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

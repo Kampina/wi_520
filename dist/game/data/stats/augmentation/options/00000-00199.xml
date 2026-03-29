@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/optionsData.xsd">
+	<!-- ==========================================
+	     WI Augmentation Options (ported from WI)
+	     IDs 1-56:   stat bonuses (HP/MP + attribute)
+	     IDs 100-116: skills and trigger skills
+	     ========================================== -->
+
+	<!-- ===== HP-based warrior options (id 1-16) ===== -->
+	<option id="1" name="wi_hp_250">
+		<!-- HP +250 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="2" name="wi_hp_250_str">
+		<!-- HP +250, STR +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>STR</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="3" name="wi_hp_250_dex">
+		<!-- HP +250, DEX +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>DEX</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="4" name="wi_hp_250_con">
+		<!-- HP +250, CON +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>CON</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="5" name="wi_hp_500">
+		<!-- HP +500 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="6" name="wi_hp_500_str">
+		<!-- HP +500, STR +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>STR</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="7" name="wi_hp_500_dex">
+		<!-- HP +500, DEX +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>DEX</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="8" name="wi_hp_500_con">
+		<!-- HP +500, CON +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>CON</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="9" name="wi_hp_750">
+		<!-- HP +750 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="10" name="wi_hp_750_str">
+		<!-- HP +750, STR +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>STR</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="11" name="wi_hp_750_dex">
+		<!-- HP +750, DEX +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>DEX</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="12" name="wi_hp_750_con">
+		<!-- HP +750, CON +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>CON</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="13" name="wi_hp_1000">
+		<!-- HP +1000 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="14" name="wi_hp_1000_str">
+		<!-- HP +1000, STR +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>STR</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="15" name="wi_hp_1000_dex">
+		<!-- HP +1000, DEX +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>DEX</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="16" name="wi_hp_1000_con">
+		<!-- HP +1000, CON +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>CON</stat>
+			</effect>
+		</effects>
+	</option>
+
+	<!-- ===== MP-based mage options (id 17-32) ===== -->
+	<option id="17" name="wi_mp_250">
+		<!-- MP +250 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="18" name="wi_mp_250_int">
+		<!-- MP +250, INT +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>INT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="19" name="wi_mp_250_wit">
+		<!-- MP +250, WIT +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>WIT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="20" name="wi_mp_250_men">
+		<!-- MP +250, MEN +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>MEN</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="21" name="wi_mp_500">
+		<!-- MP +500 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="22" name="wi_mp_500_int">
+		<!-- MP +500, INT +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>INT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="23" name="wi_mp_500_wit">
+		<!-- MP +500, WIT +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>WIT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="24" name="wi_mp_500_men">
+		<!-- MP +500, MEN +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>MEN</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="25" name="wi_mp_750">
+		<!-- MP +750 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="26" name="wi_mp_750_int">
+		<!-- MP +750, INT +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>INT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="27" name="wi_mp_750_wit">
+		<!-- MP +750, WIT +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>WIT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="28" name="wi_mp_750_men">
+		<!-- MP +750, MEN +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>MEN</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="29" name="wi_mp_1000">
+		<!-- MP +1000 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+		</effects>
+	</option>
+	<option id="30" name="wi_mp_1000_int">
+		<!-- MP +1000, INT +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>INT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="31" name="wi_mp_1000_wit">
+		<!-- MP +1000, WIT +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>WIT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="32" name="wi_mp_1000_men">
+		<!-- MP +1000, MEN +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>MEN</stat>
+			</effect>
+		</effects>
+	</option>
+
+	<!-- ===== MP+warrior-stat options for accessories (id 33-44) ===== -->
+	<option id="33" name="wi_mp_250_str">
+		<!-- MP +250, STR +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>STR</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="34" name="wi_mp_250_dex">
+		<!-- MP +250, DEX +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>DEX</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="35" name="wi_mp_250_con">
+		<!-- MP +250, CON +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>CON</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="36" name="wi_mp_500_str">
+		<!-- MP +500, STR +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>STR</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="37" name="wi_mp_500_dex">
+		<!-- MP +500, DEX +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>DEX</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="38" name="wi_mp_500_con">
+		<!-- MP +500, CON +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>CON</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="39" name="wi_mp_750_str">
+		<!-- MP +750, STR +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>STR</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="40" name="wi_mp_750_dex">
+		<!-- MP +750, DEX +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>DEX</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="41" name="wi_mp_750_con">
+		<!-- MP +750, CON +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>CON</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="42" name="wi_mp_1000_str">
+		<!-- MP +1000, STR +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>STR</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="43" name="wi_mp_1000_dex">
+		<!-- MP +1000, DEX +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>DEX</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="44" name="wi_mp_1000_con">
+		<!-- MP +1000, CON +1 -->
+		<effects>
+			<effect name="MaxMp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>CON</stat>
+			</effect>
+		</effects>
+	</option>
+
+	<!-- ===== HP+mage-stat options (id 45-56) ===== -->
+	<option id="45" name="wi_hp_250_int">
+		<!-- HP +250, INT +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>INT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="46" name="wi_hp_250_wit">
+		<!-- HP +250, WIT +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>WIT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="47" name="wi_hp_250_men">
+		<!-- HP +250, MEN +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>250.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>MEN</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="48" name="wi_hp_500_int">
+		<!-- HP +500, INT +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>INT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="49" name="wi_hp_500_wit">
+		<!-- HP +500, WIT +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>WIT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="50" name="wi_hp_500_men">
+		<!-- HP +500, MEN +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>500.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>MEN</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="51" name="wi_hp_750_int">
+		<!-- HP +750, INT +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>INT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="52" name="wi_hp_750_wit">
+		<!-- HP +750, WIT +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>WIT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="53" name="wi_hp_750_men">
+		<!-- HP +750, MEN +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>750.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>MEN</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="54" name="wi_hp_1000_int">
+		<!-- HP +1000, INT +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>INT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="55" name="wi_hp_1000_wit">
+		<!-- HP +1000, WIT +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>WIT</stat>
+			</effect>
+		</effects>
+	</option>
+	<option id="56" name="wi_hp_1000_men">
+		<!-- HP +1000, MEN +1 -->
+		<effects>
+			<effect name="MaxHp">
+				<amount>1000.0</amount>
+				<mode>DIFF</mode>
+			</effect>
+			<effect name="StatUp">
+				<amount>1.0</amount>
+				<stat>MEN</stat>
+			</effect>
+		</effects>
+	</option>
+
+	<!-- ===== Passive and trigger skill options (id 100-116) ===== -->
+	<option id="100" name="wi_skill_might">
+		<!-- Item Skill: Might - passive P. Atk. bonus -->
+		<passive_skill id="3240" level="1" />
+	</option>
+	<option id="101" name="wi_skill_stun_crit">
+		<!-- Item Skill: Stun - 5% chance on critical attack -->
+		<critical_skill id="3113" level="1" chance="5.0" />
+	</option>
+	<option id="102" name="wi_skill_slow_atk">
+		<!-- Item Skill: Slow - 1% chance on physical attack -->
+		<attack_skill id="3083" level="2" chance="1.0" />
+	</option>
+	<option id="103" name="wi_skill_paralyze_atk">
+		<!-- Item Skill: Paralyze - 1% chance on physical attack -->
+		<attack_skill id="3088" level="1" chance="1.0" />
+	</option>
+	<option id="104" name="wi_skill_empower">
+		<!-- Item Skill: Empower - passive M. Atk. bonus -->
+		<passive_skill id="3241" level="1" />
+	</option>
+	<option id="105" name="wi_skill_doom_magic">
+		<!-- Item Skill: Doom - 2% chance on magic attack -->
+		<magic_skill id="3107" level="1" chance="2.0" />
+	</option>
+	<option id="106" name="wi_skill_reflect_active">
+		<!-- Item Skill: Reflect Damage (Active) -->
+		<active_skill id="3204" level="1" />
+	</option>
+	<option id="107" name="wi_skill_heal_mana">
+		<!-- Item Skill: Heal Empower + Mana Gain -->
+		<passive_skill id="3246" level="1" />
+		<passive_skill id="3239" level="1" />
+	</option>
+	<option id="108" name="wi_skill_fear_magic">
+		<!-- Item Skill: Fear - 10% chance on magic attack -->
+		<magic_skill id="3090" level="1" chance="10.0" />
+	</option>
+	<option id="109" name="wi_skill_reflect_passive">
+		<!-- Item Skill: Reflect Damage (Passive) -->
+		<passive_skill id="3259" level="1" />
+	</option>
+	<option id="110" name="wi_skill_barrier_shield">
+		<!-- Item Skill: Magic Barrier + Shield (on taking damage) -->
+		<passive_skill id="3219" level="1" />
+		<passive_skill id="3218" level="1" />
+	</option>
+	<option id="111" name="wi_skill_heal_mana2">
+		<!-- Item Skill: Heal Empower + Mana Gain (accessory) -->
+		<passive_skill id="3246" level="1" />
+		<passive_skill id="3239" level="1" />
+	</option>
+	<option id="112" name="wi_skill_focus">
+		<!-- Item Skill: Focus - crit rate chance buff -->
+		<passive_skill id="3223" level="1" />
+	</option>
+	<option id="113" name="wi_skill_might2">
+		<!-- Item Skill: Might (triggered) -->
+		<passive_skill id="3215" level="1" />
+	</option>
+	<option id="114" name="wi_skill_empower2">
+		<!-- Item Skill: Empower (triggered) -->
+		<passive_skill id="3216" level="1" />
+	</option>
+	<option id="115" name="wi_skill_medusa">
+		<!-- Item Skill: Medusa (triggered) -->
+		<passive_skill id="3232" level="1" />
+	</option>
+	<option id="116" name="wi_skill_stun_def">
+		<!-- Item Skill: Stun (triggered when attacked) -->
+		<passive_skill id="3228" level="1" />
+	</option>
+</list>

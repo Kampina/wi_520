@@ -1,0 +1,3091 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <item id="55300" name="Kamael Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55301" name="Tiphon's Spear" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55302" name="Tiphon's Spear" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55303" name="Tiphon's Spear" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="3599" level="1"/>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55304" name="Angel Slayer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">246</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55305" name="Angel Slayer Dual Daggers" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.dual_dagger_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUALDAGGER"/>
+        <set name="weight" val="0"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">369</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55306" name="Draconic Bow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">581</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55307" name="Draconic Crossbow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="CROSSBOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">581</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55308" name="Arcana Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtk">1.05</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55309" name="Arcana Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="maxHp">0.3</stat>
+            <stat type="maxMp">1.7</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55310" name="Arcana Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="healPower">15</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55311" name="Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55312" name="Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55313" name="Dynasty Halberd" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55314" name="Dynasty Knife" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55315" name="Dynasty Bow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55316" name="Dynasty Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55317" name="Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55318" name="Kamael Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55319" name="Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55320" name="Kamael Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55321" name="Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55322" name="Kamael Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55323" name="Dynasty Sword*Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55324" name="Dynasty Sword*Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55325" name="Dynasty Sword*Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55326" name="Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55327" name="Kamael Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55328" name="Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55329" name="Kamael Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55330" name="Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55331" name="Kamael Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55332" name="Dynasty Halberd" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">333</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55333" name="Dynasty Halberd" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">333</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55334" name="Dynasty Halberd" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="3599" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">333</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55335" name="Dynasty Knife" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">291</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55336" name="Dynasty Knife Dual Daggers" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.dual_dagger_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUALDAGGER"/>
+        <set name="weight" val="0"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">291</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pAtk">1.1</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55337" name="Dynasty Bow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">654</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55338" name="Dynasty Crossbow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="CROSSBOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">654</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55339" name="Dynasty Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">202</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtk">1.05</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55340" name="Dynasty Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">202</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="maxHp">0.3</stat>
+            <stat type="maxMp">1.7</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55341" name="Dynasty Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">202</stat>
+            <stat type="healPower">15</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55342" name="Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55343" name="Kamael Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55344" name="Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55345" name="Kamael Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55346" name="Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55347" name="Kamael Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55348" name="Dynasty Sword*Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55349" name="Dynasty Sword*Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55350" name="Dynasty Sword*Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55351" name="Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55352" name="Kamael Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55353" name="Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55354" name="Kamael Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55355" name="Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55356" name="Kamael Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55357" name="Dynasty Halberd" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">333</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55358" name="Dynasty Halberd" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">333</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55359" name="Dynasty Halberd" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="3599" level="1"/>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">333</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55360" name="Dynasty Knife" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">291</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55361" name="Dynasty Knife Dual Daggers" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.dual_dagger_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUALDAGGER"/>
+        <set name="weight" val="0"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">291</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55362" name="Dynasty Bow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">654</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55363" name="Dynasty Crossbow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="CROSSBOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">654</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55364" name="Dynasty Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">202</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtk">1.05</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55365" name="Dynasty Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">202</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="maxHp">0.3</stat>
+            <stat type="maxMp">1.7</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55366" name="Dynasty Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">202</stat>
+            <stat type="healPower">15</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55367" name="Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55368" name="Kamael Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55369" name="Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55370" name="Kamael Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55371" name="Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55372" name="Kamael Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">330</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55373" name="Dynasty Sword*Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55374" name="Dynasty Sword*Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55375" name="Dynasty Sword*Dynasty Sword" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55376" name="Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55377" name="Kamael Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55378" name="Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55379" name="Kamael Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55380" name="Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55381" name="Kamael Dynasty Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">405</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55382" name="Dynasty Halberd" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">333</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55383" name="Dynasty Halberd" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">333</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55384" name="Dynasty Halberd" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="3599" level="1"/>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">333</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55385" name="Dynasty Knife" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">291</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55386" name="Dynasty Knife Dual Daggers" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.dual_dagger_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUALDAGGER"/>
+        <set name="weight" val="0"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">291</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55387" name="Dynasty Bow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">654</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55388" name="Dynasty Crossbow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="CROSSBOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">654</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55389" name="Dynasty Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">202</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtk">1.05</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55390" name="Dynasty Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">202</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="maxHp">0.3</stat>
+            <stat type="maxMp">1.7</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55391" name="Dynasty Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">202</stat>
+            <stat type="healPower">15</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55392" name="Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55393" name="Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55394" name="Vesper Stormer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55395" name="Vesper Shaper" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55396" name="Vesper Thrower" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55397" name="Vesper Caster" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55398" name="Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55399" name="Kamael Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+</list>

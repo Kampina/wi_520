@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="105" name="Ivory Fortress">
+	<doors>
+		<door id="22180001" />
+		<door id="22180008" />
+		<door id="22180002" group="commander_doors" />
+		<door id="22180003" group="commander_doors" />
+		<door id="22180004" group="commander_doors" />
+		<door id="22180005" group="commander_doors" />
+		<door id="22180006" group="captain_doors" />
+		<door id="22180007" group="captain_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

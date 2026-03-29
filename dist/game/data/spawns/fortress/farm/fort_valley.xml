@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/spawns.xsd">
+	<spawn name="ValleyFortressFarm" spawnByDefault="false">
+		<group name="valley_farm_fortress_siege_commanders">
+			<npc id="35782" x="124299" y="123614" z="-2555" heading="-16344" respawnTime="1200sec" />
+			<npc id="35785" x="124768" y="124640" z="-2555" heading="-11056" respawnTime="1200sec" />
+			<npc id="35788" x="124768" y="121856" z="-2303" heading="0" respawnTime="1200sec" />
+			<npc id="35790" x="128048" y="123344" z="-2541" heading="-30508" respawnTime="1200sec" />
+		</group>
+		<group name="valley_farm_fortress_mercenary">
+			<npc id="35793" x="126063" y="119823" z="-2644" heading="17332" respawnTime="600sec" />
+		</group>
+		<group name="valley_farm_fortress_out_power_units">
+			<npc id="35777" x="126969" y="122128" z="-2588" heading="24908" respawnTime="600sec" />
+			<npc id="35777" x="127618" y="122121" z="-2588" heading="8112" respawnTime="600sec" />
+			<npc id="35777" x="127615" y="121481" z="-2588" heading="-7996" respawnTime="600sec" />
+			<npc id="35777" x="126969" y="121480" z="-2588" heading="-23876" respawnTime="600sec" />
+			<npc id="35778" x="126736" y="121808" z="-2588" heading="-32660" respawnTime="600sec" />
+		</group>
+		<group name="valley_farm_fortress_in_power_units">
+			<npc id="35779" x="127296" y="121360" z="-2520" heading="17444" respawnTime="600sec" />
+			<npc id="35779" x="127728" y="121808" z="-2488" heading="-32208" respawnTime="600sec" />
+			<npc id="35779" x="127296" y="122256" z="-2456" heading="-14464" respawnTime="600sec" />
+		</group>
+		<group name="valley_farm_fortress_default_guards">
+			<npc id="35774" x="126109" y="120640" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35774" x="126077" y="120640" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35774" x="126045" y="120640" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35774" x="126013" y="120640" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35774" x="126016" y="125584" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35774" x="126048" y="125584" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35774" x="126080" y="125584" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35774" x="126112" y="125584" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35774" x="126131" y="122712" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35774" x="126098" y="122713" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35774" x="126062" y="122713" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35774" x="126027" y="122713" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35774" x="126025" y="123961" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35774" x="126060" y="123962" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35774" x="126095" y="123962" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35774" x="126129" y="123962" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35775" x="128000" y="124704" z="-2210" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="127984" y="124736" z="-2210" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="127056" y="125440" z="-2210" heading="4964" respawnTime="600sec" />
+			<npc id="35775" x="127024" y="125472" z="-2210" heading="4964" respawnTime="600sec" />
+			<npc id="35775" x="124832" y="125296" z="-2210" heading="16292" respawnTime="600sec" />
+			<npc id="35775" x="124800" y="125280" z="-2210" heading="16292" respawnTime="600sec" />
+			<npc id="35775" x="123648" y="123472" z="-2210" heading="26908" respawnTime="600sec" />
+			<npc id="35775" x="123648" y="123424" z="-2210" heading="26908" respawnTime="600sec" />
+			<npc id="35775" x="123792" y="122096" z="-2210" heading="32672" respawnTime="600sec" />
+			<npc id="35775" x="123808" y="122064" z="-2210" heading="32672" respawnTime="600sec" />
+			<npc id="35775" x="124192" y="121376" z="-2210" heading="32728" respawnTime="600sec" />
+			<npc id="35775" x="124208" y="121344" z="-2210" heading="32728" respawnTime="600sec" />
+			<npc id="35775" x="124944" y="120864" z="-2210" heading="-26768" respawnTime="600sec" />
+			<npc id="35775" x="124976" y="120848" z="-2210" heading="-26768" respawnTime="600sec" />
+			<npc id="35775" x="127024" y="120768" z="-2210" heading="-16216" respawnTime="600sec" />
+			<npc id="35775" x="127056" y="120784" z="-2210" heading="-16216" respawnTime="600sec" />
+			<npc id="35775" x="127984" y="121488" z="-2210" heading="-8668" respawnTime="600sec" />
+			<npc id="35775" x="128000" y="121520" z="-2210" heading="-8668" respawnTime="600sec" />
+			<npc id="35775" x="128464" y="123424" z="-2210" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="128464" y="123456" z="-2210" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="126260" y="122073" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35775" x="126204" y="122073" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35775" x="126148" y="122073" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35775" x="126094" y="122075" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35775" x="126177" y="122005" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35775" x="125984" y="124608" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35775" x="126032" y="124608" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35775" x="126080" y="124608" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35775" x="126126" y="124608" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35775" x="126056" y="124654" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35775" x="126372" y="120863" z="-2140" heading="32728" respawnTime="600sec" />
+			<npc id="35775" x="126368" y="120832" z="-2140" heading="32728" respawnTime="600sec" />
+			<npc id="35775" x="126368" y="120896" z="-2140" heading="32728" respawnTime="600sec" />
+			<npc id="35775" x="126416" y="120864" z="-2140" heading="32728" respawnTime="600sec" />
+			<npc id="35775" x="125728" y="120864" z="-2138" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="125728" y="120832" z="-2138" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="125728" y="120896" z="-2138" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="125694" y="120863" z="-2138" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="125744" y="125360" z="-2140" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="125744" y="125328" z="-2140" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="125744" y="125392" z="-2140" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="125708" y="125359" z="-2140" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="126384" y="125360" z="-2138" heading="-32708" respawnTime="600sec" />
+			<npc id="35775" x="126384" y="125328" z="-2138" heading="-32708" respawnTime="600sec" />
+			<npc id="35775" x="126384" y="125392" z="-2138" heading="-32708" respawnTime="600sec" />
+			<npc id="35775" x="126415" y="125360" z="-2138" heading="-32708" respawnTime="600sec" />
+			<npc id="35775" x="126928" y="124576" z="-2144" heading="32376" respawnTime="600sec" />
+			<npc id="35775" x="126928" y="124608" z="-2144" heading="32376" respawnTime="600sec" />
+			<npc id="35775" x="126928" y="124544" z="-2144" heading="32376" respawnTime="600sec" />
+			<npc id="35775" x="126960" y="124576" z="-2144" heading="32376" respawnTime="600sec" />
+			<npc id="35775" x="125760" y="122064" z="-2140" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="125760" y="122032" z="-2140" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="125760" y="122096" z="-2140" heading="0" respawnTime="600sec" />
+			<npc id="35775" x="125728" y="122064" z="-2140" heading="0" respawnTime="600sec" />
+		</group>
+		<group name="valley_farm_fortress_live_with_c_center">
+			<npc id="35786" x="126368" y="121130" z="-2230" heading="-16396" respawnTime="600sec" />
+			<npc id="35787" x="126341" y="121130" z="-2230" heading="-16396" respawnTime="600sec" />
+			<npc id="35775" x="126368" y="121097" z="-2230" heading="-16396" respawnTime="600sec" />
+			<npc id="35775" x="126341" y="121097" z="-2230" heading="-16396" respawnTime="600sec" />
+			<npc id="35786" x="126657" y="120723" z="-2407" heading="15996" respawnTime="600sec" />
+			<npc id="35787" x="126687" y="120722" z="-2407" heading="15996" respawnTime="600sec" />
+			<npc id="35775" x="126658" y="120753" z="-2407" heading="15996" respawnTime="600sec" />
+			<npc id="35775" x="126688" y="120752" z="-2407" heading="15996" respawnTime="600sec" />
+			<npc id="35786" x="125760" y="121120" z="-2228" heading="-16388" respawnTime="600sec" />
+			<npc id="35787" x="125792" y="121120" z="-2228" heading="-16388" respawnTime="600sec" />
+			<npc id="35775" x="125760" y="121087" z="-2228" heading="-16388" respawnTime="600sec" />
+			<npc id="35775" x="125792" y="121088" z="-2228" heading="-16388" respawnTime="600sec" />
+			<npc id="35786" x="125440" y="120704" z="-2405" heading="16148" respawnTime="600sec" />
+			<npc id="35787" x="125470" y="120704" z="-2405" heading="16148" respawnTime="600sec" />
+			<npc id="35775" x="125440" y="120736" z="-2405" heading="16148" respawnTime="600sec" />
+			<npc id="35775" x="125471" y="120735" z="-2405" heading="16148" respawnTime="600sec" />
+			<npc id="35786" x="125760" y="125088" z="-2230" heading="15912" respawnTime="600sec" />
+			<npc id="35787" x="125792" y="125088" z="-2230" heading="15912" respawnTime="600sec" />
+			<npc id="35775" x="125759" y="125120" z="-2230" heading="15912" respawnTime="600sec" />
+			<npc id="35775" x="125792" y="125120" z="-2230" heading="15912" respawnTime="600sec" />
+			<npc id="35786" x="125454" y="125514" z="-2407" heading="-16348" respawnTime="600sec" />
+			<npc id="35787" x="125422" y="125514" z="-2407" heading="-16348" respawnTime="600sec" />
+			<npc id="35775" x="125454" y="125482" z="-2407" heading="-16348" respawnTime="600sec" />
+			<npc id="35775" x="125422" y="125482" z="-2407" heading="-16348" respawnTime="600sec" />
+			<npc id="35786" x="126352" y="125120" z="-2228" heading="16080" respawnTime="600sec" />
+			<npc id="35787" x="126320" y="125120" z="-2228" heading="16080" respawnTime="600sec" />
+			<npc id="35775" x="126352" y="125088" z="-2228" heading="16080" respawnTime="600sec" />
+			<npc id="35775" x="126320" y="125088" z="-2228" heading="16080" respawnTime="600sec" />
+			<npc id="35786" x="126688" y="125504" z="-2405" heading="-16412" respawnTime="600sec" />
+			<npc id="35787" x="126656" y="125504" z="-2405" heading="-16412" respawnTime="600sec" />
+			<npc id="35775" x="126688" y="125472" z="-2405" heading="-16412" respawnTime="600sec" />
+			<npc id="35775" x="126656" y="125472" z="-2405" heading="-16412" respawnTime="600sec" />
+			<npc id="35786" x="127216" y="124208" z="-2231" heading="16348" respawnTime="600sec" />
+			<npc id="35787" x="127184" y="124208" z="-2231" heading="16348" respawnTime="600sec" />
+			<npc id="35775" x="127217" y="124241" z="-2231" heading="16348" respawnTime="600sec" />
+			<npc id="35775" x="127184" y="124241" z="-2231" heading="16348" respawnTime="600sec" />
+			<npc id="35786" x="126874" y="124627" z="-2408" heading="-16468" respawnTime="600sec" />
+			<npc id="35787" x="126842" y="124627" z="-2408" heading="-16468" respawnTime="600sec" />
+			<npc id="35775" x="126874" y="124595" z="-2408" heading="-16468" respawnTime="600sec" />
+			<npc id="35775" x="126842" y="124595" z="-2408" heading="-16468" respawnTime="600sec" />
+			<npc id="35786" x="125808" y="121872" z="-2230" heading="16488" respawnTime="600sec" />
+			<npc id="35787" x="125760" y="121872" z="-2230" heading="16488" respawnTime="600sec" />
+			<npc id="35775" x="125808" y="121915" z="-2230" heading="16488" respawnTime="600sec" />
+			<npc id="35775" x="125761" y="121915" z="-2230" heading="16488" respawnTime="600sec" />
+			<npc id="35786" x="125808" y="122288" z="-2318" heading="32748" respawnTime="600sec" />
+			<npc id="35787" x="125808" y="122258" z="-2319" heading="32748" respawnTime="600sec" />
+			<npc id="35775" x="125776" y="122288" z="-2319" heading="32748" respawnTime="600sec" />
+			<npc id="35775" x="125776" y="122258" z="-2318" heading="32748" respawnTime="600sec" />
+			<npc id="35786" x="124624" y="124400" z="-2555" heading="13072" respawnTime="600sec" />
+			<npc id="35786" x="124704" y="124416" z="-2555" heading="17088" respawnTime="600sec" />
+			<npc id="35787" x="124816" y="124448" z="-2555" heading="19892" respawnTime="600sec" />
+			<npc id="35786" x="125040" y="124544" z="-2555" heading="25844" respawnTime="600sec" />
+			<npc id="35786" x="124560" y="124624" z="-2555" heading="1484" respawnTime="600sec" />
+			<npc id="35787" x="124944" y="124864" z="-2555" heading="-17736" respawnTime="600sec" />
+			<npc id="35789" x="124528" y="121913" z="-2402" heading="0" respawnTime="600sec" />
+			<npc id="35789" x="124528" y="121884" z="-2402" heading="0" respawnTime="600sec" />
+			<npc id="35789" x="125036" y="121812" z="-2402" heading="-32696" respawnTime="600sec" />
+			<npc id="35789" x="125036" y="121783" z="-2402" heading="-32696" respawnTime="600sec" />
+			<npc id="35789" x="124768" y="121856" z="-2508" heading="0" respawnTime="600sec" />
+			<npc id="35789" x="125008" y="121632" z="-2508" heading="0" respawnTime="600sec" />
+			<npc id="35789" x="125008" y="122064" z="-2508" heading="0" respawnTime="600sec" />
+			<npc id="35789" x="124976" y="122112" z="-2506" heading="16152" respawnTime="600sec" />
+			<npc id="35789" x="124608" y="122112" z="-2506" heading="16152" respawnTime="600sec" />
+			<npc id="35789" x="124560" y="122064" z="-2508" heading="32720" respawnTime="600sec" />
+			<npc id="35789" x="124560" y="121648" z="-2508" heading="32720" respawnTime="600sec" />
+			<npc id="35789" x="124608" y="121584" z="-2506" heading="-16384" respawnTime="600sec" />
+			<npc id="35789" x="124960" y="121584" z="-2506" heading="-16384" respawnTime="600sec" />
+			<npc id="35783" x="124240" y="123520" z="-2555" heading="16352" respawnTime="600sec" />
+			<npc id="35783" x="124269" y="123520" z="-2554" heading="16352" respawnTime="600sec" />
+			<npc id="35783" x="124297" y="123520" z="-2554" heading="16352" respawnTime="600sec" />
+			<npc id="35783" x="124326" y="123520" z="-2554" heading="16352" respawnTime="600sec" />
+			<npc id="35783" x="124355" y="123520" z="-2554" heading="16352" respawnTime="600sec" />
+			<npc id="35784" x="124356" y="123479" z="-2555" heading="16352" respawnTime="600sec" />
+			<npc id="35784" x="124326" y="123480" z="-2554" heading="16352" respawnTime="600sec" />
+			<npc id="35784" x="124297" y="123480" z="-2554" heading="16352" respawnTime="600sec" />
+			<npc id="35784" x="124267" y="123480" z="-2554" heading="16352" respawnTime="600sec" />
+			<npc id="35784" x="124239" y="123479" z="-2555" heading="16352" respawnTime="600sec" />
+		</group>
+		<group name="valley_farm_fortress_owner_flagdef">
+			<npc id="35775" x="126035" y="123453" z="-1663" heading="16248" respawnTime="600sec" />
+			<npc id="35775" x="126125" y="123452" z="-1663" heading="16248" respawnTime="600sec" />
+			<npc id="35775" x="126065" y="123452" z="-1663" heading="16248" respawnTime="600sec" />
+			<npc id="35775" x="126094" y="123452" z="-1663" heading="16248" respawnTime="600sec" />
+			<npc id="35775" x="126124" y="123233" z="-1663" heading="-16564" respawnTime="600sec" />
+			<npc id="35775" x="126034" y="123234" z="-1663" heading="-16564" respawnTime="600sec" />
+			<npc id="35775" x="126094" y="123233" z="-1663" heading="-16564" respawnTime="600sec" />
+			<npc id="35775" x="126064" y="123234" z="-1663" heading="-16564" respawnTime="600sec" />
+			<npc id="35774" x="126106" y="123644" z="-1696" heading="16248" respawnTime="600sec" />
+			<npc id="35774" x="126138" y="123644" z="-1696" heading="16248" respawnTime="600sec" />
+			<npc id="35774" x="126170" y="123644" z="-1696" heading="16248" respawnTime="600sec" />
+			<npc id="35774" x="126202" y="123644" z="-1696" heading="16248" respawnTime="600sec" />
+			<npc id="35774" x="126234" y="123644" z="-1696" heading="16248" respawnTime="600sec" />
+			<npc id="35774" x="126266" y="123644" z="-1696" heading="16248" respawnTime="600sec" />
+			<npc id="35774" x="126298" y="123644" z="-1696" heading="16248" respawnTime="600sec" />
+			<npc id="35774" x="126330" y="123644" z="-1696" heading="16248" respawnTime="600sec" />
+		</group>
+		<group name="valley_farm_fortress_reinforce_1">
+			<npc id="35775" x="126094" y="122139" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35775" x="126150" y="122138" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35775" x="126204" y="122138" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35775" x="126261" y="122138" z="-2588" heading="-16512" respawnTime="600sec" />
+			<npc id="35775" x="125984" y="124544" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35775" x="126032" y="124544" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35775" x="126080" y="124544" z="-2588" heading="16384" respawnTime="600sec" />
+			<npc id="35775" x="126128" y="124544" z="-2588" heading="16384" respawnTime="600sec" />
+		</group>
+	</spawn>
+</list>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/spawns.xsd">
+	<spawn name="AdenCastleDominion">
+		<group name="aden_dominion_siege">
+			<npc id="36536" x="147146" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147196" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147247" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147298" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147349" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147400" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147451" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147501" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147552" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147603" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147654" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147705" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="36536" x="147756" y="5459" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="35250" x="147554" y="5354" z="-340" heading="16389" respawnTime="10800sec" />
+			<npc id="35250" x="147352" y="5354" z="-340" heading="32768" respawnTime="10800sec" />
+			<npc id="36536" x="147560" y="5754" z="-340" heading="32768" respawnTime="10800sec" />
+			<npc id="36536" x="147356" y="5754" z="-340" heading="32768" respawnTime="10800sec" />
+			<npc id="35250" x="147457" y="5754" z="-340" heading="32768" respawnTime="10800sec" />
+			<npc id="36535" x="147556" y="5857" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147522" y="5857" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147488" y="5857" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147455" y="5857" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147421" y="5857" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147387" y="5857" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147353" y="5857" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147320" y="5857" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147455" y="3221" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147334" y="5827" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147367" y="5827" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147401" y="5827" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147435" y="5827" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147468" y="5827" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147502" y="5827" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147536" y="5827" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147570" y="5827" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36535" x="147590" y="5857" z="-400" heading="16389" respawnTime="10800sec" />
+			<npc id="36534" x="156048" y="54432" z="-3264" heading="61440" respawnTime="10800sec" />
+			<npc id="36537" x="156080" y="54480" z="-3264" heading="61440" respawnTime="10800sec" />
+			<npc id="36536" x="155907" y="54406" z="-3264" heading="61440" respawnTime="10800sec" />
+			<npc id="36536" x="156048" y="54592" z="-3264" heading="61440" respawnTime="10800sec" />
+			<npc id="36536" x="155777" y="54418" z="-3264" heading="61440" respawnTime="10800sec" />
+			<npc id="36536" x="156000" y="54704" z="-3264" heading="61440" respawnTime="10800sec" />
+		</group>
+	</spawn>
+</list>

@@ -1,0 +1,3072 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <item id="55200" name="Soul Bow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="9,24,37,92,102,109,130,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">520</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55201" name="Soul Crossbow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="CROSSBOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">520</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55202" name="Sword of Miracles" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtk">1.05</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55203" name="Sword of Miracles" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="maxHp">0.3</stat>
+            <stat type="maxMp">1.7</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55204" name="Sword of Miracles" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="healPower">15</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55205" name="Dark Legion's Edge" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="5,20,33,90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">232</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55206" name="Kamael Dark Legion's Edge" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">232</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55207" name="Dark Legion's Edge" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="5,20,33,90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">232</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55208" name="Kamael Dark Legion's Edge" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">232</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55209" name="Dark Legion's Edge" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="5,20,33,90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">232</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55210" name="Kamael Dark Legion's Edge" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">232</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55211" name="Dark Legion's Edge*Dark Legion's Edge" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="2,34,88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">282</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55212" name="Dark Legion's Edge*Dark Legion's Edge" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="2,34,88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">282</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55213" name="Dark Legion's Edge*Dark Legion's Edge" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="2,34,88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">282</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55214" name="Dragon Slayer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="3,89,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">282</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55215" name="Kamael Dragon Slayer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">282</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55216" name="Dragon Slayer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="3,89,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">282</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55217" name="Kamael Dragon Slayer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">282</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55218" name="Dragon Slayer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="3,89,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">282</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55219" name="Kamael Dragon Slayer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">282</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55220" name="Tallum Glaive" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="6,46,91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">232</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55221" name="Tallum Glaive" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="6,46,91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">232</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55222" name="Tallum Glaive" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="6,46,91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="3599" level="1"/>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">232</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0000</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55223" name="Soul Separator" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,21,23,36,48,93,100,101,108,114"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">203</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55224" name="Soul Separator Dual Daggers" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.dual_dagger_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUALDAGGER"/>
+        <set name="weight" val="0"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,21,23,36,48,93,100,101,108,114"/>
+            </and>
+        </conditions>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">304</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55225" name="Soul Bow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="9,24,37,92,102,109,130,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">520</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55226" name="Soul Crossbow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="CROSSBOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">520</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55227" name="Sword of Miracles" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtk">1.05</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55228" name="Sword of Miracles" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="maxHp">0.3</stat>
+            <stat type="maxMp">1.7</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55229" name="Sword of Miracles" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="healPower">15</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55230" name="Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55231" name="Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55232" name="Tiphon's Spear" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55233" name="Angel Slayer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55234" name="Draconic Bow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55235" name="Arcana Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_arcana_mace_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="20"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BLUNT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55236" name="Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55237" name="Kamael Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55238" name="Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55239" name="Kamael Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55240" name="Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55241" name="Kamael Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55242" name="Forgotten Blade*Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">420</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55243" name="Forgotten Blade*Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">420</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55244" name="Forgotten Blade*Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">420</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55245" name="Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55246" name="Kamael Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55247" name="Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55248" name="Kamael Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55249" name="Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55250" name="Kamael Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55251" name="Tiphon's Spear" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">251</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55252" name="Tiphon's Spear" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">251</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55253" name="Tiphon's Spear" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="3599" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">251</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55254" name="Angel Slayer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">246</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55255" name="Angel Slayer Dual Daggers" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.dual_dagger_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUALDAGGER"/>
+        <set name="weight" val="0"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">369</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55256" name="Draconic Bow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">581</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55257" name="Draconic Crossbow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="CROSSBOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">581</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55258" name="Arcana Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_arcana_mace_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="20"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BLUNT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtk">1.05</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55259" name="Arcana Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_arcana_mace_i00"/>
+        <set name="price" val="0"/>
+        <set name="rnd_dam" val="20"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BLUNT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="maxHp">0.3</stat>
+            <stat type="maxMp">1.7</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55260" name="Arcana Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_arcana_mace_i00"/>
+        <set name="price" val="0"/>
+        <set name="rnd_dam" val="20"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BLUNT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="healPower">15</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55261" name="Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55262" name="Kamael Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55263" name="Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55264" name="Kamael Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55265" name="Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55266" name="Kamael Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55267" name="Forgotten Blade*Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">420</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55268" name="Forgotten Blade*Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">420</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55269" name="Forgotten Blade*Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">420</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55270" name="Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55271" name="Kamael Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55272" name="Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55273" name="Kamael Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55274" name="Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55275" name="Kamael Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55276" name="Tiphon's Spear" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">251</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55277" name="Tiphon's Spear" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">251</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55278" name="Tiphon's Spear" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="3599" level="1"/>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">251</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55279" name="Angel Slayer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">246</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55280" name="Angel Slayer Dual Daggers" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.dual_dagger_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUALDAGGER"/>
+        <set name="weight" val="0"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">369</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55281" name="Draconic Bow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">581</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55282" name="Draconic Crossbow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="CROSSBOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">581</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55283" name="Arcana Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_arcana_mace_i00"/>
+        <set name="price" val="0"/>
+        <set name="rnd_dam" val="20"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BLUNT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtk">1.05</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55284" name="Arcana Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_arcana_mace_i00"/>
+        <set name="price" val="0"/>
+        <set name="rnd_dam" val="20"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BLUNT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="maxHp">0.3</stat>
+            <stat type="maxMp">1.7</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55285" name="Arcana Mace" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_arcana_mace_i00"/>
+        <set name="price" val="0"/>
+        <set name="rnd_dam" val="20"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BLUNT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">152</stat>
+            <stat type="healPower">15</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55286" name="Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55287" name="Kamael Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55288" name="Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55289" name="Kamael Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55290" name="Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55291" name="Kamael Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">281</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55292" name="Forgotten Blade*Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">420</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55293" name="Forgotten Blade*Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">420</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55294" name="Forgotten Blade*Forgotten Blade" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">420</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55295" name="Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55296" name="Kamael Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55297" name="Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55298" name="Kamael Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55299" name="Heaven's Divider" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">342</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+</list>

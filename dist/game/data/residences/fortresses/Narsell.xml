@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="106" name="Narsell Fortress">
+	<doors>
+		<door id="24190005" />
+		<door id="24190010" />
+		<door id="24190006" group="commander_doors" />
+		<door id="24190007" group="commander_doors" />
+		<door id="24190008" group="commander_doors" />
+		<door id="24190009" group="commander_doors" />
+		<door id="24190011" group="captain_doors" />
+		<door id="24190012" group="captain_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

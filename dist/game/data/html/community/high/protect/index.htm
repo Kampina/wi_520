@@ -1,0 +1,305 @@
+<html noscrollbar>
+<title>SmartGuard panel by L2CCCP</title>
+<body><br>
+<table width=755>
+	<tr>
+		<center><td>
+			<table border=0 cellpadding=0 cellspacing=0 width=769 height=492 background="l2ui_ct1.Windows_DF_TooltipBG">
+				<tr><td width=1 height=12></td></tr>
+				<tr>
+					<td width=755>
+						<table border=0 cellpadding=0 cellspacing=0 width=769>
+							<tr>
+								<td width=3 height=12></td>
+								<td width=300 valign=top align=center>
+									<table border=0 width=300 height=179 cellspacing=1 cellpadding=1 background="l2ui_ct1.ComboBox_DF_Dropmenu_Bg">
+										<tr>
+											<td width=300 height=28 align=left valign=top>
+												<table width=301 height=25 bgcolor=0e0d0d>
+													<tr>
+														<td width=300 align=center valign=center>
+															<font color="99CC33">Информация по серверу и защите</font>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td width=300 height=28 align=left valign=top>
+												<table width=302 height=25 bgcolor=666666>
+													<tr>
+														<td width=112 align=right valign=center>
+															<font color="FF9900">License ID</font>
+														</td>
+														<td width=4 align=center valign=center>
+															:
+														</td>
+														<td width=112 align=left valign=center>
+															<font color="CCFF66">{lic_id}</font>
+														</td>
+													</tr>
+												</table>
+												<table width=302 height=25 bgcolor=333333>
+													<tr>
+														<td width=112 align=right valign=center>
+															<font color="FF9900">Забанено всего</font>
+														</td>
+														<td width=4 align=center valign=center>
+															:
+														</td>
+														<td width=112 align=left valign=center>
+															<font color="CCFF66">{bans}</font>
+														</td>
+													</tr>
+												</table>
+												<table width=302 height=25 bgcolor=666666>
+													<tr>
+														<td width=112 align=right valign=center>
+															<font color="FF9900">Истекает</font>
+														</td>
+														<td width=4 align=center valign=center>
+															:
+														</td>
+														<td width=112 align=left valign=center>
+															<font color="{lic_color}">{lic_time}</font>
+														</td>
+													</tr>
+												</table>
+												<table width=302 height=25 bgcolor=333333>
+													<tr>
+														<td width=112 align=right valign=center>
+															<font color="FF9900">Онлайна всего</font>
+														</td>
+														<td width=4 align=center valign=center>
+															:
+														</td>
+														<td width=112 align=left valign=center>
+															<font color="CCFF66">{online_all}</font>
+														</td>
+													</tr>
+												</table>
+												<table width=302 height=25 bgcolor=666666>
+													<tr>
+														<td width=112 align=right valign=center>
+															<font color="FF9900">Онлайн уникальных</font>
+														</td>
+														<td width=4 align=center valign=center>
+															:
+														</td>
+														<td width=112 align=left valign=center>
+															<font color="CCFF66">{online_clear}</font>
+														</td>
+													</tr>
+												</table>
+												<table width=302 height=25 bgcolor=333333>
+													<tr>
+														<td width=296 align=center valign=center>
+															<font color="FF9900">Token</font>: <font color="CCFF66">{lic_token}</font>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+									<table><tr><td width=300 height=7></td></tr></table>
+									<table border=0 width=300 height=152 cellspacing=1 cellpadding=1 background="l2ui_ct1.ComboBox_DF_Dropmenu_Bg">
+										<tr>
+											<td width=300 height=28 align=left valign=top>
+												<table width=301 height=25 bgcolor=0e0d0d>
+													<tr>
+														<td width=300 align=center valign=center>
+															<font color="99CC33">Быстрый бан</font> <font color="666666">(*** - Обязательно)</font>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td width=300 height=28 align=left valign=top bgcolor=333333><br>
+												<table width=300 height=25>
+													<tr>
+														<td width=90 valign="center" align="right">
+															<font color="FFCC00" name="CreditTextNormal">* Имя игрока: </font>
+														</td>
+														<td width=180 valign="top" align="left">
+															<edit var="nick" type="text" width=150 height=11 length=35>
+														</td>
+													</tr>
+												</table>
+												<table width=300 height=25>
+													<tr>
+														<td width=90 valign="center" align="right">
+															<font color="FFCC00" name="CreditTextNormal">* Время: </font>
+														</td>
+														<td width=180 valign="top" align="left">
+															<edit var="time" type="number" width=150 height=11 length=6>
+														</td>
+													</tr>
+												</table>
+												<table width=300 height=25>
+													<tr>
+														<td width=90 valign="center" align="right">
+															<font color="FFCC00" name="CreditTextNormal">Причина: </font>
+														</td>
+														<td width=180 valign="top" align="left">
+															<edit var="reason" type="text" width=150 height=11 length=6>
+														</td>
+													</tr>
+												</table>
+												<table width=300>
+													<tr>
+														<td width=300 height=40 align=center valign=center>
+															<table width=164 height=31 background="l2ui_ct1.Windows_DF_TooltipBG">
+																<tr>
+																	<td width=162 height=29 align=center valign=top>
+																		<button value="Забанить" action="bypass admin_protect_ban player $time $nick $reason" width=160 height=27 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title">
+																	</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+								<td width=440 valign=top align=center>
+									<table border=0 width=440 height=338 cellspacing=1 cellpadding=1 background="l2ui_ct1.ComboBox_DF_Dropmenu_Bg">
+										<tr>
+											<td width=440 height=28 align=left valign=top>
+												<table width=440 height=25 bgcolor=0e0d0d>
+													<tr>
+														<td width=440 align=center valign=center>
+															<font color="669900">Панель для чего то там, хз чего</font>
+														</td>
+													</tr>
+												</table>
+												<table width=440 height=309 bgcolor=333333>
+													<tr>
+														<td width=440 align=center valign=center>
+															<font color="666666" name="hs28">Coming soon...</font><br>
+															<button value="Список забаненных" action="bypass admin_protect_show_bans" width=160 height=27 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title">
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+				<tr>
+					<td width=755>
+						<table border=0 cellpadding=0 cellspacing=0 width=769 height=130>
+							<tr>
+								<td width=750 valign=top align=center>
+									<table border=0 width=756 height=129 cellspacing=1 cellpadding=1 background="l2ui_ct1.ComboBox_DF_Dropmenu_Bg">
+										<tr>
+											<td width=756 height=28 align=left valign=top>
+												<table width=753 height=25 bgcolor=0e0d0d>
+													<tr>
+														<td width=752 align=center valign=center>
+															<font color="669900" name="CreditTextNormal">Панель поиска забаненных игроков по данным</font> ----- <font color="FF0000" name="CreditTextNormal">(NOT DONE)</font>
+														</td>
+													</tr>
+												</table>
+												<table width=754 height=100 bgcolor=333333>
+													<tr>
+														<td width=250 valign=top align=center>
+															<table>
+																<tr>
+																	<td width=250 valign="top" align="center">
+																		<font color="FFCC00" name="CreditTextNormal">Поиск по HWID</font>
+																	</td>
+																</tr>
+															</table>
+															<table width=225 height=25>
+																<tr>
+																	<td valign="top" align="center"><edit var="data" type="text" width=162 length=20></td>
+																</tr>
+															</table>
+															<table width=225>
+																<tr>
+																	<td width=168 height=40 align=center valign=center>
+																		<table width=164 height=31 background="l2ui_ct1.Windows_DF_TooltipBG">
+																			<tr>
+																				<td width=162 height=29 align=center valign=top>
+																					<button value="Найти" action="bypass _bbshome" width=160 height=27 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title">
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+															</table>
+														</td>
+														<td width=250 valign=top align=center>
+															<table>
+																<tr>
+																	<td width=250 valign="top" align="center">
+																		<font color="FFCC00" name="CreditTextNormal">Поиск по IP</font>
+																	</td>
+																</tr>
+															</table>
+															<table width=225 height=25>
+																<tr>
+																	<td valign="top" align="center"><edit var="data" type="text" width=162 length=20></td>
+																</tr>
+															</table>
+															<table width=225>
+																<tr>
+																	<td width=168 height=40 align=center valign=center>
+																		<table width=164 height=31 background="l2ui_ct1.Windows_DF_TooltipBG">
+																			<tr>
+																				<td width=162 height=29 align=center valign=top>
+																					<button value="Найти" action="bypass _bbshome" width=160 height=27 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title">
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+															</table>
+														</td>
+														<td width=250 valign=top align=center>
+															<table>
+																<tr>
+																	<td width=251 valign="top" align="center">
+																		<font color="FFCC00" name="CreditTextNormal">Поиск по Аккаунту</font>
+																	</td>
+																</tr>
+															</table>
+															<table width=225 height=25>
+																<tr>
+																	<td valign="top" align="center"><edit var="account" type="text" width=162 length=20></td>
+																</tr>
+															</table>
+															<table width=225>
+																<tr>
+																	<td width=168 height=40 align=center valign=center>
+																		<table width=164 height=31 background="l2ui_ct1.Windows_DF_TooltipBG">
+																			<tr>
+																				<td width=162 height=29 align=center valign=top>
+																					<button value="Найти" action="bypass admin_protect" width=160 height=27 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title">
+																				</td>
+																			</tr>
+																		</table>
+																	</td>
+																</tr>
+															</table>
+														</td>
+													</tr>
+												</table>
+											</td>
+										</tr>
+									</table>
+								</td>
+							</tr>
+						</table>
+					</td>
+				</tr>
+			</table>
+		</td></center>
+	</tr>
+</table>
+</body></html>

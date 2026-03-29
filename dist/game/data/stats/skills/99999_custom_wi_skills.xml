@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/skills.xsd">
+	<skill id="438" toLevel="1" name="Soul of the Phoenix">
+		<!--
+			Description: Grants you the ability to revive yourself from death with full health, retaining all buffs/debuffs except for Noblesse Blessing and Lucky Charm. Consumes 1 Blood of the Phoenix.
+		-->
+		<isMagic>1</isMagic>
+		<magicType>MYSTIC</magicType>
+		<icon>icon.skill0438</icon>
+		<reuseDelay>3600000</reuseDelay>
+		<hitTime>4000</hitTime>
+		<hitCancelTime>500</hitCancelTime>
+		<mpInitialConsume>
+		<value level="1">50</value>
+	</mpInitialConsume>
+		<mpConsume>
+		<value level="1">200</value>
+	</mpConsume>
+		<itemConsumeId>8873</itemConsumeId>
+		<itemConsumeCount>1</itemConsumeCount>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<skillType>BUFF</skillType>
+		<operateType>A1</operateType>
+		<isReuseDelayPermanent>true</isReuseDelayPermanent>
+		<effects>
+
+			<effect count="1" name="Salvation" stackOrder="0" stackType="Salvation" time="3600" val="0" />
+		</effects>
+	</skill>
+	<skill id="454" toLevel="1" name="Symbol of Defense">
+		<!--
+			Last modify:	24.04.2009
+
+			Description: Creates a seal that maximizes the defensives abilities of nearby allies. The seal's effect disappears upon leaving the area. Consumes 1 Battle Symbol.
+		-->
+		<magicType>SPECIAL</magicType>
+		<icon>icon.skill0454</icon>
+		<reuseDelay>1800000</reuseDelay>
+		<hitTime>5000</hitTime>
+		<mpConsume>
+		<value level="1">80</value>
+	</mpConsume>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<operateType>A1</operateType>
+		<skillType>BUFF</skillType>
+		<symbolId>13018</symbolId>
+		<addSkills>5123;1</addSkills>
+		<skillRadius>200</skillRadius>
+		<itemConsumeId>8875</itemConsumeId>
+		<itemConsumeCount>1</itemConsumeCount>
+		<isReuseDelayPermanent>true</isReuseDelayPermanent>
+		<cancelable>false</cancelable>
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<effects>
+
+			<effect count="1" name="Symbol" time="120" val="0" applyOnSummon="false" />
+		</effects>
+	</skill>
+	<skill id="458" toLevel="1" name="Symbol of Energy">
+		<!--
+			Last modify:	24.04.2009
+
+			Description: Creates a seal that increases the P. Atk. and spiritual energy of nearby allies. The seal's effect disappears upon leaving the area. Consumes 1 Battle Symbol.
+		-->
+		<magicType>SPECIAL</magicType>
+		<icon>icon.skill0458</icon>
+		<reuseDelay>1800000</reuseDelay>
+		<hitTime>5000</hitTime>
+		<mpConsume>
+		<value level="1">80</value>
+	</mpConsume>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<operateType>A1</operateType>
+		<skillType>BUFF</skillType>
+		<symbolId>13022</symbolId>
+		<addSkills>5127;1</addSkills>
+		<skillRadius>200</skillRadius>
+		<itemConsumeId>8875</itemConsumeId>
+		<itemConsumeCount>1</itemConsumeCount>
+		<isReuseDelayPermanent>true</isReuseDelayPermanent>
+		<cancelable>false</cancelable>
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<effects>
+
+			<effect count="1" name="Symbol" time="120" val="0" applyOnSummon="false" />
+		</effects>
+	</skill>
+	<skill id="460" toLevel="1" name="Symbol of the Assassin">
+		<!--
+			Last modify:	24.04.2009
+
+			Description: Creates a seal that maximizes the evasion and critical attack rate of nearby allies. The seal's effect disappears upon leaving the area. Consumes 1 Battle Symbol.
+		-->
+		<magicType>SPECIAL</magicType>
+		<icon>icon.skill0460</icon>
+		<reuseDelay>1800000</reuseDelay>
+		<hitTime>5000</hitTime>
+		<mpConsume>
+		<value level="1">80</value>
+	</mpConsume>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<operateType>A1</operateType>
+		<skillType>BUFF</skillType>
+		<symbolId>13024</symbolId>
+		<addSkills>5129;1</addSkills>
+		<skillRadius>200</skillRadius>
+		<itemConsumeId>8875</itemConsumeId>
+		<itemConsumeCount>1</itemConsumeCount>
+		<isReuseDelayPermanent>true</isReuseDelayPermanent>
+		<cancelable>false</cancelable>
+		<cond msgId="1509">
+			<player olympiad="false" />
+		</cond>
+		<effects>
+
+			<effect count="1" name="Symbol" time="120" val="0" applyOnSummon="false" />
+		</effects>
+	</skill>
+	<skill id="628" toLevel="1" name="Warp">
+		<!--
+			Last modify: 14.07.2008
+			Description: Teleports you to the battlefront. Consumes 1 Soul.
+		-->
+		<isMagic>1</isMagic>
+		<magicType>MYSTIC</magicType>
+		<icon>icon.skill0484</icon>
+		<coolTime>200</coolTime>
+		<reuseDelay>30000</reuseDelay>
+		<magicLevel>85</magicLevel>
+		<hitTime>100</hitTime>
+		<hitCancelTime>500</hitCancelTime>
+		<mpInitialConsume>
+		<value level="1">10</value>
+	</mpInitialConsume>
+		<mpConsume>
+		<value level="1">20</value>
+	</mpConsume>
+		<targetType>SELF</targetType>
+		<affectScope>SINGLE</affectScope>
+		<skillType>BUFF</skillType>
+		<flyType>DUMMY</flyType>
+		<flyRadius>900</flyRadius>
+		<operateType>A1</operateType>
+		<stopActor>false</stopActor>
+		<skillMasteryType>ZERO_REUSE</skillMasteryType>
+	</skill>
+	<skill id="1061" toLevel="1" name="Defence Spirit">
+		<isMagic>1</isMagic>
+		<magicType>MYSTIC</magicType>
+		<icon>icon.skill1062</icon>
+		<reuseDelay>2000</reuseDelay>
+		<castRange>900</castRange>
+		<hitTime>4000</hitTime>
+		<hitCancelTime>500</hitCancelTime>
+		<mpInitialConsume>
+		<value level="1">11</value>
+	</mpInitialConsume>
+		<mpConsume>
+		<value level="1">41</value>
+	</mpConsume>
+		<target>TARGET_PARTY_ONE</target>
+		<skillType>BUFF</skillType>
+		<operateType>A1</operateType>
+		<effects>
+
+			<effect count="1" name="Buff" stackOrder="1" stackType="berserk" time="120" val="0">
+				<mul order="0x30" stat="mAtk" val="0.85" />
+				<mul order="0x30" stat="pAtk" val="0.85" />
+				<mul order="0x30" stat="pDef" val="1.15" />
+				<mul order="0x30" stat="mDef" val="1.15" />
+				<mul order="0x30" stat="mAtkSpd" val="1.15" />
+				<mul order="0x30" stat="pAtkSpd" val="1.15" />
+				<add order="0x40" stat="runSpd" val="8" />
+				<sub order="0x40" stat="rEvas" val="4" />
+			</effect>
+		</effects>
+	</skill>
+</list>

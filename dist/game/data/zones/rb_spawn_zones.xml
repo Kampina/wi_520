@@ -1,0 +1,968 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  Auto-generated ScriptZone definitions for TierSpawn system.
+  Each zone is a Cuboid bounding box around the NPC cluster.
+-->
+<list enabled="true" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/zones.xsd">
+	<zone name="BEAST_90001" id="90001" type="ScriptZone" shape="Cuboid" minZ="-3988" maxZ="-2796">
+		<node X="45672" Y="-82856" />
+		<node X="47848" Y="-78168" />
+	</zone>
+	<zone name="BEAST_90002" id="90002" type="ScriptZone" shape="Cuboid" minZ="-4036" maxZ="-2908">
+		<node X="48648" Y="-78328" />
+		<node X="54632" Y="-75096" />
+	</zone>
+	<zone name="BEAST_90003" id="90003" type="ScriptZone" shape="Cuboid" minZ="-4068" maxZ="-1580">
+		<node X="47656" Y="-93304" />
+		<node X="58920" Y="-75224" />
+	</zone>
+	<zone name="BEAST_90004" id="90004" type="ScriptZone" shape="Cuboid" minZ="-3156" maxZ="-1868">
+		<node X="43800" Y="-94360" />
+		<node X="47576" Y="-90456" />
+	</zone>
+	<zone name="BEAST_90005" id="90005" type="ScriptZone" shape="Cuboid" minZ="-2740" maxZ="-1452">
+		<node X="56504" Y="-89512" />
+		<node X="60872" Y="-86552" />
+	</zone>
+	<zone name="BEAST_90006" id="90006" type="ScriptZone" shape="Cuboid" minZ="-3156" maxZ="-2140">
+		<node X="57992" Y="-84312" />
+		<node X="59800" Y="-82680" />
+	</zone>
+	<zone name="BEAST_90007" id="90007" type="ScriptZone" shape="Cuboid" minZ="-3188" maxZ="-2172">
+		<node X="45576" Y="-88600" />
+		<node X="46760" Y="-87432" />
+	</zone>
+	<zone name="BEAST_90008" id="90008" type="ScriptZone" shape="Cuboid" minZ="-3692" maxZ="-2252">
+		<node X="50200" Y="-60888" />
+		<node X="54040" Y="-57736" />
+	</zone>
+	<zone name="BEAST_90009" id="90009" type="ScriptZone" shape="Cuboid" minZ="-3972" maxZ="-2556">
+		<node X="53080" Y="-58984" />
+		<node X="59800" Y="-54168" />
+	</zone>
+	<zone name="BEAST_90010" id="90010" type="ScriptZone" shape="Cuboid" minZ="-3860" maxZ="-1972">
+		<node X="47528" Y="-46280" />
+		<node X="53128" Y="-43544" />
+	</zone>
+	<zone name="BEAST_90011" id="99011" type="ScriptZone" shape="Cuboid" minZ="-2388" maxZ="868">
+		<node X="53224" Y="-36952" />
+		<node X="60280" Y="-30008" />
+	</zone>
+	<zone name="BEAST_90012" id="90012" type="ScriptZone" shape="Cuboid" minZ="-2692" maxZ="-500">
+		<node X="60744" Y="-39608" />
+		<node X="63256" Y="-36680" />
+	</zone>
+	<zone name="BEAST_90013" id="90013" type="ScriptZone" shape="Cuboid" minZ="-3508" maxZ="-2116">
+		<node X="57304" Y="-47720" />
+		<node X="62264" Y="-42872" />
+	</zone>
+	<zone name="DEMONIC_90014" id="99014" type="ScriptZone" shape="Cuboid" minZ="-5268" maxZ="-4124">
+		<node X="142248" Y="-8632" />
+		<node X="143528" Y="-4520" />
+	</zone>
+	<zone name="DEMONIC_90015" id="99015" type="ScriptZone" shape="Cuboid" minZ="-4188" maxZ="-2668">
+		<node X="144184" Y="-20744" />
+		<node X="145224" Y="-17016" />
+	</zone>
+	<zone name="DEMONIC_90016" id="90016" type="ScriptZone" shape="Cuboid" minZ="-3572" maxZ="-1548">
+		<node X="143512" Y="-25832" />
+		<node X="147304" Y="-23656" />
+	</zone>
+	<zone name="DEMONIC_90017" id="90017" type="ScriptZone" shape="Cuboid" minZ="-2668" maxZ="-972">
+		<node X="152152" Y="-22136" />
+		<node X="156136" Y="-18120" />
+	</zone>
+	<zone name="DEMONIC_90018" id="90018" type="ScriptZone" shape="Cuboid" minZ="-3684" maxZ="-2220">
+		<node X="155768" Y="-15576" />
+		<node X="159240" Y="-10424" />
+	</zone>
+	<zone name="DEMONIC_90019" id="90019" type="ScriptZone" shape="Cuboid" minZ="-4692" maxZ="-2892">
+		<node X="156104" Y="-9784" />
+		<node X="160680" Y="-5544" />
+	</zone>
+	<zone name="DEMONIC_90020" id="90020" type="ScriptZone" shape="Cuboid" minZ="-4932" maxZ="-3100">
+		<node X="153048" Y="-15352" />
+		<node X="155688" Y="-8664" />
+	</zone>
+	<zone name="DEMONIC_90021" id="90021" type="ScriptZone" shape="Cuboid" minZ="-5124" maxZ="-3884">
+		<node X="141880" Y="-12136" />
+		<node X="154280" Y="-5560" />
+	</zone>
+	<zone name="DEMONIC_90022" id="90022" type="ScriptZone" shape="Cuboid" minZ="-5188" maxZ="-4108">
+		<node X="138104" Y="-11192" />
+		<node X="141000" Y="-8584" />
+	</zone>
+	<zone name="DEMONIC_90023" id="90023" type="ScriptZone" shape="Cuboid" minZ="-4196" maxZ="-2220">
+		<node X="41800" Y="140120" />
+		<node X="51192" Y="155432" />
+	</zone>
+	<zone name="DEMONIC_90024" id="90024" type="ScriptZone" shape="Cuboid" minZ="-2980" maxZ="-1820">
+		<node X="51000" Y="149176" />
+		<node X="56008" Y="154248" />
+	</zone>
+	<zone name="DEMONIC_90025" id="90025" type="ScriptZone" shape="Cuboid" minZ="-3172" maxZ="-1676">
+		<node X="48808" Y="-43656" />
+		<node X="50856" Y="-41576" />
+	</zone>
+	<zone name="DIVINE_90026" id="90026" type="ScriptZone" shape="Cuboid" minZ="-7260" maxZ="-6260">
+		<node X="55256" Y="-253240" />
+		<node X="56920" Y="-251704" />
+	</zone>
+	<zone name="DIVINE_90027" id="90027" type="ScriptZone" shape="Cuboid" minZ="-5060" maxZ="-4044">
+		<node X="92552" Y="-123160" />
+		<node X="95096" Y="-120536" />
+	</zone>
+	<zone name="DRAGON_90028" id="90028" type="ScriptZone" shape="Cuboid" minZ="-4125" maxZ="-3125">
+		<node X="126568" Y="112488" />
+		<node X="127368" Y="113288" />
+	</zone>
+	<zone name="DRAGON_90029" id="90029" type="ScriptZone" shape="Cuboid" minZ="-3940" maxZ="-2700">
+		<node X="142664" Y="-64040" />
+		<node X="144968" Y="-61080" />
+	</zone>
+	<zone name="DRAGON_90030" id="90030" type="ScriptZone" shape="Cuboid" minZ="-3364" maxZ="-2124">
+		<node X="152264" Y="-110648" />
+		<node X="157608" Y="-105288" />
+	</zone>
+	<zone name="DRAGON_90031" id="90031" type="ScriptZone" shape="Cuboid" minZ="-2740" maxZ="-1308">
+		<node X="146376" Y="-115128" />
+		<node X="151304" Y="-110728" />
+	</zone>
+	<zone name="DRAGON_90032" id="90032" type="ScriptZone" shape="Cuboid" minZ="-2292" maxZ="-588">
+		<node X="148456" Y="-118488" />
+		<node X="156952" Y="-113448" />
+	</zone>
+	<zone name="DRAGON_90033" id="90033" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-2924">
+		<node X="139496" Y="-112344" />
+		<node X="145816" Y="-101784" />
+	</zone>
+	<zone name="DRAGON_90034" id="90034" type="ScriptZone" shape="Cuboid" minZ="-4020" maxZ="-2956">
+		<node X="167960" Y="-41064" />
+		<node X="172264" Y="-37832" />
+	</zone>
+	<zone name="DRAGON_90035" id="90035" type="ScriptZone" shape="Cuboid" minZ="-3876" maxZ="-2828">
+		<node X="167960" Y="-37512" />
+		<node X="171304" Y="-35144" />
+	</zone>
+	<zone name="DRAGON_90036" id="90036" type="ScriptZone" shape="Cuboid" minZ="-4020" maxZ="-2828">
+		<node X="169992" Y="-57832" />
+		<node X="173208" Y="-55384" />
+	</zone>
+	<zone name="DRAGON_90037" id="90037" type="ScriptZone" shape="Cuboid" minZ="-4372" maxZ="-3228">
+		<node X="167416" Y="-59912" />
+		<node X="169768" Y="-57320" />
+	</zone>
+	<zone name="DRAGON_90038" id="90038" type="ScriptZone" shape="Cuboid" minZ="-3764" maxZ="-2636">
+		<node X="171704" Y="-63000" />
+		<node X="174440" Y="-60936" />
+	</zone>
+	<zone name="DRAGON_90039" id="90039" type="ScriptZone" shape="Cuboid" minZ="-3604" maxZ="-2524">
+		<node X="175320" Y="-63624" />
+		<node X="178584" Y="-60584" />
+	</zone>
+	<zone name="DRAGON_90040" id="90040" type="ScriptZone" shape="Cuboid" minZ="-3972" maxZ="-2892">
+		<node X="173992" Y="-53768" />
+		<node X="175928" Y="-50088" />
+	</zone>
+	<zone name="DRAGON_90041" id="90041" type="ScriptZone" shape="Cuboid" minZ="-4052" maxZ="-2860">
+		<node X="170488" Y="-50216" />
+		<node X="174056" Y="-46328" />
+	</zone>
+	<zone name="FAIRY_90042" id="90042" type="ScriptZone" shape="Cuboid" minZ="-5236" maxZ="-4236">
+		<node X="-50120" Y="78520" />
+		<node X="-41032" Y="89640" />
+	</zone>
+	<zone name="FAIRY_90043" id="90043" type="ScriptZone" shape="Cuboid" minZ="-5236" maxZ="-4236">
+		<node X="-52456" Y="80536" />
+		<node X="-49224" Y="83960" />
+	</zone>
+	<zone name="FAIRY_90044" id="90044" type="ScriptZone" shape="Cuboid" minZ="-4116" maxZ="-3004">
+		<node X="50872" Y="43032" />
+		<node X="54392" Y="48648" />
+	</zone>
+	<zone name="FAIRY_90045" id="90045" type="ScriptZone" shape="Cuboid" minZ="-4068" maxZ="-2988">
+		<node X="40856" Y="36424" />
+		<node X="43496" Y="38776" />
+	</zone>
+	<zone name="FAIRY_90046" id="90046" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3020">
+		<node X="31272" Y="33912" />
+		<node X="34952" Y="39304" />
+	</zone>
+	<zone name="FAIRY_90047" id="90047" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3116">
+		<node X="34280" Y="43016" />
+		<node X="37688" Y="44904" />
+	</zone>
+	<zone name="FAIRY_90048" id="90048" type="ScriptZone" shape="Cuboid" minZ="-4164" maxZ="-2940">
+		<node X="37144" Y="47448" />
+		<node X="40104" Y="53144" />
+	</zone>
+	<zone name="FAIRY_90049" id="90049" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-3084">
+		<node X="24968" Y="35128" />
+		<node X="27768" Y="38120" />
+	</zone>
+	<zone name="FAIRY_90050" id="90050" type="ScriptZone" shape="Cuboid" minZ="-4180" maxZ="-3100">
+		<node X="15880" Y="40008" />
+		<node X="18872" Y="41752" />
+	</zone>
+	<zone name="FAIRY_90051" id="90051" type="ScriptZone" shape="Cuboid" minZ="-4196" maxZ="-3068">
+		<node X="10424" Y="44984" />
+		<node X="12456" Y="47016" />
+	</zone>
+	<zone name="FAIRY_90052" id="90052" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3036">
+		<node X="5592" Y="49512" />
+		<node X="9560" Y="53560" />
+	</zone>
+	<zone name="FAIRY_90053" id="90053" type="ScriptZone" shape="Cuboid" minZ="-4068" maxZ="-2940">
+		<node X="3208" Y="52888" />
+		<node X="6008" Y="57640" />
+	</zone>
+	<zone name="FAIRY_90054" id="90054" type="ScriptZone" shape="Cuboid" minZ="-4116" maxZ="-2692">
+		<node X="728" Y="57224" />
+		<node X="5912" Y="64632" />
+	</zone>
+	<zone name="FAIRY_90055" id="90055" type="ScriptZone" shape="Cuboid" minZ="-4100" maxZ="-2844">
+		<node X="3464" Y="81080" />
+		<node X="6680" Y="86136" />
+	</zone>
+	<zone name="FAIRY_90056" id="90056" type="ScriptZone" shape="Cuboid" minZ="-4060" maxZ="-2844">
+		<node X="8328" Y="87272" />
+		<node X="11256" Y="90024" />
+	</zone>
+	<zone name="FAIRY_90057" id="90057" type="ScriptZone" shape="Cuboid" minZ="-4196" maxZ="-3132">
+		<node X="14328" Y="85064" />
+		<node X="18504" Y="88440" />
+	</zone>
+	<zone name="FAIRY_90058" id="90058" type="ScriptZone" shape="Cuboid" minZ="-4084" maxZ="-2876">
+		<node X="21064" Y="83992" />
+		<node X="24264" Y="87736" />
+	</zone>
+	<zone name="FAIRY_90059" id="90059" type="ScriptZone" shape="Cuboid" minZ="-3700" maxZ="-2476">
+		<node X="24168" Y="77720" />
+		<node X="26776" Y="81320" />
+	</zone>
+	<zone name="FAIRY_90060" id="90060" type="ScriptZone" shape="Cuboid" minZ="-4196" maxZ="-3052">
+		<node X="4248" Y="74376" />
+		<node X="6184" Y="77960" />
+	</zone>
+	<zone name="FAIRY_90061" id="90061" type="ScriptZone" shape="Cuboid" minZ="-3892" maxZ="-2828">
+		<node X="5208" Y="69512" />
+		<node X="7064" Y="73064" />
+	</zone>
+	<zone name="FAIRY_90062" id="90062" type="ScriptZone" shape="Cuboid" minZ="-4164" maxZ="-2924">
+		<node X="8360" Y="69112" />
+		<node X="11752" Y="71448" />
+	</zone>
+	<zone name="FAIRY_90063" id="90063" type="ScriptZone" shape="Cuboid" minZ="-4084" maxZ="-2860">
+		<node X="13288" Y="68648" />
+		<node X="16408" Y="70936" />
+	</zone>
+	<zone name="FAIRY_90064" id="90064" type="ScriptZone" shape="Cuboid" minZ="-3876" maxZ="-2732">
+		<node X="24632" Y="68968" />
+		<node X="27848" Y="70872" />
+	</zone>
+	<zone name="FAIRY_90065" id="90065" type="ScriptZone" shape="Cuboid" minZ="-4180" maxZ="-3100">
+		<node X="6184" Y="63752" />
+		<node X="8328" Y="67448" />
+	</zone>
+	<zone name="FAIRY_90066" id="90066" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3164">
+		<node X="504" Y="65432" />
+		<node X="4232" Y="68136" />
+	</zone>
+	<zone name="FAIRY_90067" id="90067" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3196">
+		<node X="14424" Y="43032" />
+		<node X="16872" Y="45560" />
+	</zone>
+	<zone name="FAIRY_90068" id="90068" type="ScriptZone" shape="Cuboid" minZ="-4244" maxZ="-3068">
+		<node X="15192" Y="46824" />
+		<node X="17624" Y="50376" />
+	</zone>
+	<zone name="FAIRY_90069" id="90069" type="ScriptZone" shape="Cuboid" minZ="-4164" maxZ="-2972">
+		<node X="10808" Y="53064" />
+		<node X="12888" Y="55528" />
+	</zone>
+	<zone name="FAIRY_90070" id="90070" type="ScriptZone" shape="Cuboid" minZ="-4036" maxZ="-2876">
+		<node X="8216" Y="56168" />
+		<node X="10824" Y="57864" />
+	</zone>
+	<zone name="FAIRY_90071" id="90071" type="ScriptZone" shape="Cuboid" minZ="-4132" maxZ="-3084">
+		<node X="24168" Y="42232" />
+		<node X="26152" Y="45352" />
+	</zone>
+	<zone name="GIANT_90072" id="90072" type="ScriptZone" shape="Cuboid" minZ="-5236" maxZ="-4236">
+		<node X="-52504" Y="78696" />
+		<node X="-41048" Y="90056" />
+	</zone>
+	<zone name="GIANT_90073" id="90073" type="ScriptZone" shape="Cuboid" minZ="-5236" maxZ="-4236">
+		<node X="-44088" Y="78552" />
+		<node X="-41064" Y="81784" />
+	</zone>
+	<zone name="HUMANOID_90074" id="90074" type="ScriptZone" shape="Cuboid" minZ="-5396" maxZ="-4396">
+		<node X="-19704" Y="12920" />
+		<node X="-8152" Y="24456" />
+	</zone>
+	<zone name="HUMANOID_90075" id="90075" type="ScriptZone" shape="Cuboid" minZ="-8404" maxZ="-7404">
+		<node X="-53448" Y="-250840" />
+		<node X="-41992" Y="-239304" />
+	</zone>
+	<zone name="HUMANOID_90076" id="90076" type="ScriptZone" shape="Cuboid" minZ="-5908" maxZ="-4908">
+		<node X="44648" Y="112616" />
+		<node X="56120" Y="124136" />
+	</zone>
+	<zone name="HUMANOID_90077" id="90077" type="ScriptZone" shape="Cuboid" minZ="-4468" maxZ="-3084">
+		<node X="124216" Y="-14376" />
+		<node X="131336" Y="-7256" />
+	</zone>
+	<zone name="HUMANOID_90078" id="90078" type="ScriptZone" shape="Cuboid" minZ="-4364" maxZ="-2596">
+		<node X="112648" Y="-10520" />
+		<node X="121464" Y="-2840" />
+	</zone>
+	<zone name="HUMANOID_90079" id="90079" type="ScriptZone" shape="Cuboid" minZ="-4004" maxZ="-2780">
+		<node X="120472" Y="-5256" />
+		<node X="124792" Y="-568" />
+	</zone>
+	<zone name="HUMANOID_90080" id="90080" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-2708">
+		<node X="122344" Y="21304" />
+		<node X="130872" Y="27144" />
+	</zone>
+	<zone name="HUMANOID_90081" id="90081" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-2876">
+		<node X="23176" Y="15576" />
+		<node X="33608" Y="23608" />
+	</zone>
+	<zone name="HUMANOID_90082" id="90082" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-2924">
+		<node X="7272" Y="24712" />
+		<node X="12584" Y="29912" />
+	</zone>
+	<zone name="HUMANOID_90083" id="90083" type="ScriptZone" shape="Cuboid" minZ="-3844" maxZ="-2044">
+		<node X="-680" Y="2984" />
+		<node X="10232" Y="10472" />
+	</zone>
+	<zone name="HUMANOID_90084" id="90084" type="ScriptZone" shape="Cuboid" minZ="-3876" maxZ="-1740">
+		<node X="-14392" Y="27160" />
+		<node X="-4440" Y="33960" />
+	</zone>
+	<zone name="HUMANOID_90085" id="90085" type="ScriptZone" shape="Cuboid" minZ="-4012" maxZ="-2228">
+		<node X="-9448" Y="29688" />
+		<node X="-7064" Y="32440" />
+	</zone>
+	<zone name="HUMANOID_90086" id="90086" type="ScriptZone" shape="Cuboid" minZ="-4244" maxZ="-3036">
+		<node X="-19064" Y="41288" />
+		<node X="-12184" Y="47384" />
+	</zone>
+	<zone name="HUMANOID_90087" id="90087" type="ScriptZone" shape="Cuboid" minZ="-4244" maxZ="-3116">
+		<node X="-26248" Y="45336" />
+		<node X="-10520" Y="54824" />
+	</zone>
+	<zone name="HUMANOID_90088" id="90088" type="ScriptZone" shape="Cuboid" minZ="-4196" maxZ="-2292">
+		<node X="-26568" Y="34264" />
+		<node X="-18152" Y="43176" />
+	</zone>
+	<zone name="HUMANOID_90089" id="90089" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-3100">
+		<node X="-25480" Y="51640" />
+		<node X="-20680" Y="55592" />
+	</zone>
+	<zone name="HUMANOID_90090" id="90090" type="ScriptZone" shape="Cuboid" minZ="-4180" maxZ="-2956">
+		<node X="-19816" Y="59528" />
+		<node X="-12984" Y="67896" />
+	</zone>
+	<zone name="HUMANOID_90091" id="90091" type="ScriptZone" shape="Cuboid" minZ="-3988" maxZ="-2908">
+		<node X="-16088" Y="66424" />
+		<node X="-12696" Y="68664" />
+	</zone>
+	<zone name="HUMANOID_90092" id="90092" type="ScriptZone" shape="Cuboid" minZ="-4180" maxZ="-3036">
+		<node X="31080" Y="13720" />
+		<node X="33512" Y="16248" />
+	</zone>
+	<zone name="HUMANOID_90093" id="90093" type="ScriptZone" shape="Cuboid" minZ="-4164" maxZ="-3100">
+		<node X="-23208" Y="60088" />
+		<node X="-20008" Y="65864" />
+	</zone>
+	<zone name="HUMANOID_90094" id="90094" type="ScriptZone" shape="Cuboid" minZ="-4244" maxZ="-3148">
+		<node X="-45416" Y="78520" />
+		<node X="-42872" Y="80632" />
+	</zone>
+	<zone name="HUMANOID_90095" id="90095" type="ScriptZone" shape="Cuboid" minZ="-4100" maxZ="-3036">
+		<node X="-30392" Y="77864" />
+		<node X="-27240" Y="80952" />
+	</zone>
+	<zone name="HUMANOID_90096" id="90096" type="ScriptZone" shape="Cuboid" minZ="-4020" maxZ="-2844">
+		<node X="-36200" Y="71544" />
+		<node X="-31720" Y="75864" />
+	</zone>
+	<zone name="HUMANOID_90097" id="90097" type="ScriptZone" shape="Cuboid" minZ="-4164" maxZ="-2940">
+		<node X="-24344" Y="69640" />
+		<node X="-19928" Y="74136" />
+	</zone>
+	<zone name="HUMANOID_90098" id="90098" type="ScriptZone" shape="Cuboid" minZ="-4028" maxZ="-2908">
+		<node X="-39976" Y="78824" />
+		<node X="-35736" Y="83080" />
+	</zone>
+	<zone name="HUMANOID_90099" id="90099" type="ScriptZone" shape="Cuboid" minZ="-4404" maxZ="-2644">
+		<node X="-24728" Y="136520" />
+		<node X="-10696" Y="148312" />
+	</zone>
+	<zone name="HUMANOID_90100" id="90100" type="ScriptZone" shape="Cuboid" minZ="-2644" maxZ="-1148">
+		<node X="-41992" Y="-118536" />
+		<node X="-33480" Y="-108264" />
+	</zone>
+	<zone name="HUMANOID_90101" id="90101" type="ScriptZone" shape="Cuboid" minZ="-2628" maxZ="-1404">
+		<node X="-35208" Y="-110328" />
+		<node X="-32120" Y="-106344" />
+	</zone>
+	<zone name="HUMANOID_90102" id="90102" type="ScriptZone" shape="Cuboid" minZ="-2276" maxZ="-1196">
+		<node X="-40104" Y="-121800" />
+		<node X="-38024" Y="-118312" />
+	</zone>
+	<zone name="HUMANOID_90103" id="90103" type="ScriptZone" shape="Cuboid" minZ="-2772" maxZ="-1420">
+		<node X="-29864" Y="-125288" />
+		<node X="-22920" Y="-118264" />
+	</zone>
+	<zone name="HUMANOID_90104" id="90104" type="ScriptZone" shape="Cuboid" minZ="-2964" maxZ="-1596">
+		<node X="-27848" Y="-115176" />
+		<node X="-25288" Y="-109752" />
+	</zone>
+	<zone name="HUMANOID_90105" id="90105" type="ScriptZone" shape="Cuboid" minZ="-3316" maxZ="-2140">
+		<node X="-43144" Y="-105672" />
+		<node X="-38616" Y="-100728" />
+	</zone>
+	<zone name="HUMANOID_90106" id="90106" type="ScriptZone" shape="Cuboid" minZ="-3852" maxZ="-2508">
+		<node X="11240" Y="151048" />
+		<node X="14760" Y="157224" />
+	</zone>
+	<zone name="HUMANOID_90107" id="90107" type="ScriptZone" shape="Cuboid" minZ="-4132" maxZ="-3052">
+		<node X="14968" Y="152888" />
+		<node X="17992" Y="156424" />
+	</zone>
+	<zone name="HUMANOID_90108" id="90108" type="ScriptZone" shape="Cuboid" minZ="-3700" maxZ="-2364">
+		<node X="23608" Y="142024" />
+		<node X="29672" Y="144920" />
+	</zone>
+	<zone name="HUMANOID_90109" id="90109" type="ScriptZone" shape="Cuboid" minZ="-3004" maxZ="-1668">
+		<node X="8824" Y="138664" />
+		<node X="11832" Y="142056" />
+	</zone>
+	<zone name="HUMANOID_90110" id="90110" type="ScriptZone" shape="Cuboid" minZ="-3652" maxZ="-2524">
+		<node X="9848" Y="136344" />
+		<node X="13480" Y="138488" />
+	</zone>
+	<zone name="HUMANOID_90111" id="90111" type="ScriptZone" shape="Cuboid" minZ="-4276" maxZ="-3148">
+		<node X="12952" Y="121080" />
+		<node X="19464" Y="127016" />
+	</zone>
+	<zone name="HUMANOID_90112" id="90112" type="ScriptZone" shape="Cuboid" minZ="-4252" maxZ="-3172">
+		<node X="25784" Y="113720" />
+		<node X="30248" Y="118040" />
+	</zone>
+	<zone name="HUMANOID_90113" id="90113" type="ScriptZone" shape="Cuboid" minZ="-4252" maxZ="-3180">
+		<node X="19192" Y="107736" />
+		<node X="24072" Y="111624" />
+	</zone>
+	<zone name="HUMANOID_90114" id="90114" type="ScriptZone" shape="Cuboid" minZ="-4236" maxZ="-3020">
+		<node X="11992" Y="104408" />
+		<node X="19000" Y="110024" />
+	</zone>
+	<zone name="HUMANOID_90115" id="90115" type="ScriptZone" shape="Cuboid" minZ="-4260" maxZ="-3148">
+		<node X="4632" Y="108088" />
+		<node X="9992" Y="113192" />
+	</zone>
+	<zone name="HUMANOID_90116" id="90116" type="ScriptZone" shape="Cuboid" minZ="-3996" maxZ="-2716">
+		<node X="21512" Y="167384" />
+		<node X="27304" Y="172472" />
+	</zone>
+	<zone name="HUMANOID_90117" id="90117" type="ScriptZone" shape="Cuboid" minZ="-4196" maxZ="-2940">
+		<node X="13672" Y="162904" />
+		<node X="19256" Y="168344" />
+	</zone>
+	<zone name="HUMANOID_90118" id="90118" type="ScriptZone" shape="Cuboid" minZ="-4132" maxZ="-2924">
+		<node X="12008" Y="170120" />
+		<node X="16648" Y="174936" />
+	</zone>
+	<zone name="HUMANOID_90119" id="90119" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-2812">
+		<node X="67592" Y="74008" />
+		<node X="73192" Y="79336" />
+	</zone>
+	<zone name="HUMANOID_90120" id="90120" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-2884">
+		<node X="87064" Y="63000" />
+		<node X="92840" Y="68680" />
+	</zone>
+	<zone name="HUMANOID_90121" id="90121" type="ScriptZone" shape="Cuboid" minZ="-4292" maxZ="-2956">
+		<node X="87320" Y="54392" />
+		<node X="92984" Y="60856" />
+	</zone>
+	<zone name="HUMANOID_90122" id="90122" type="ScriptZone" shape="Cuboid" minZ="-4164" maxZ="-2956">
+		<node X="66472" Y="51000" />
+		<node X="70984" Y="55224" />
+	</zone>
+	<zone name="HUMANOID_90123" id="90123" type="ScriptZone" shape="Cuboid" minZ="-4420" maxZ="-3156">
+		<node X="64744" Y="44888" />
+		<node X="67912" Y="48376" />
+	</zone>
+	<zone name="HUMANOID_90124" id="90124" type="ScriptZone" shape="Cuboid" minZ="-4308" maxZ="-3212">
+		<node X="64600" Y="38504" />
+		<node X="68040" Y="41672" />
+	</zone>
+	<zone name="HUMANOID_90125" id="90125" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-3044">
+		<node X="69640" Y="64856" />
+		<node X="74904" Y="69576" />
+	</zone>
+	<zone name="HUMANOID_90126" id="90126" type="ScriptZone" shape="Cuboid" minZ="-1244" maxZ="220">
+		<node X="113768" Y="-174312" />
+		<node X="118488" Y="-171336" />
+	</zone>
+	<zone name="HUMANOID_90127" id="90127" type="ScriptZone" shape="Cuboid" minZ="-3844" maxZ="-2580">
+		<node X="129480" Y="-184360" />
+		<node X="131944" Y="-179240" />
+	</zone>
+	<zone name="HUMANOID_90128" id="90128" type="ScriptZone" shape="Cuboid" minZ="-3084" maxZ="-1812">
+		<node X="133720" Y="-183160" />
+		<node X="135800" Y="-179880" />
+	</zone>
+	<zone name="HUMANOID_90129" id="90129" type="ScriptZone" shape="Cuboid" minZ="-2684" maxZ="-1500">
+		<node X="136584" Y="-188008" />
+		<node X="138632" Y="-184792" />
+	</zone>
+	<zone name="HUMANOID_90130" id="90130" type="ScriptZone" shape="Cuboid" minZ="-3076" maxZ="-1444">
+		<node X="138328" Y="-191656" />
+		<node X="141784" Y="-188392" />
+	</zone>
+	<zone name="HUMANOID_90131" id="90131" type="ScriptZone" shape="Cuboid" minZ="-4100" maxZ="-2364">
+		<node X="133800" Y="-200184" />
+		<node X="139976" Y="-190376" />
+	</zone>
+	<zone name="HUMANOID_90132" id="90132" type="ScriptZone" shape="Cuboid" minZ="-4148" maxZ="-3020">
+		<node X="130472" Y="-199544" />
+		<node X="133752" Y="-197528" />
+	</zone>
+	<zone name="HUMANOID_90133" id="90133" type="ScriptZone" shape="Cuboid" minZ="-4052" maxZ="-2892">
+		<node X="127384" Y="-199048" />
+		<node X="129528" Y="-196712" />
+	</zone>
+	<zone name="HUMANOID_90134" id="90134" type="ScriptZone" shape="Cuboid" minZ="-3908" maxZ="-2524">
+		<node X="93080" Y="-131672" />
+		<node X="95224" Y="-129496" />
+	</zone>
+	<zone name="HUMANOID_90135" id="90135" type="ScriptZone" shape="Cuboid" minZ="-4260" maxZ="-2956">
+		<node X="93704" Y="-127496" />
+		<node X="96808" Y="-124392" />
+	</zone>
+	<zone name="HUMANOID_90136" id="90136" type="ScriptZone" shape="Cuboid" minZ="-4340" maxZ="-2588">
+		<node X="85928" Y="-131208" />
+		<node X="90104" Y="-124664" />
+	</zone>
+	<zone name="HUMANOID_90137" id="90137" type="ScriptZone" shape="Cuboid" minZ="-4548" maxZ="-3236">
+		<node X="92952" Y="-117608" />
+		<node X="95368" Y="-115240" />
+	</zone>
+	<zone name="HUMANOID_90138" id="90138" type="ScriptZone" shape="Cuboid" minZ="-3548" maxZ="-2476">
+		<node X="97384" Y="-142168" />
+		<node X="99912" Y="-140056" />
+	</zone>
+	<zone name="HUMANOID_90139" id="90139" type="ScriptZone" shape="Cuboid" minZ="-3636" maxZ="-2508">
+		<node X="101624" Y="-145800" />
+		<node X="103848" Y="-142760" />
+	</zone>
+	<zone name="HUMANOID_90140" id="90140" type="ScriptZone" shape="Cuboid" minZ="-3500" maxZ="-2204">
+		<node X="103128" Y="-148504" />
+		<node X="105448" Y="-146088" />
+	</zone>
+	<zone name="HUMANOID_90141" id="90141" type="ScriptZone" shape="Cuboid" minZ="-4244" maxZ="-2796">
+		<node X="109496" Y="-147432" />
+		<node X="111736" Y="-144296" />
+	</zone>
+	<zone name="HUMANOID_90142" id="90142" type="ScriptZone" shape="Cuboid" minZ="-2932" maxZ="-972">
+		<node X="101432" Y="-157720" />
+		<node X="109896" Y="-151768" />
+	</zone>
+	<zone name="HUMANOID_90143" id="90143" type="ScriptZone" shape="Cuboid" minZ="-2836" maxZ="-1020">
+		<node X="106008" Y="-156312" />
+		<node X="112760" Y="-149640" />
+	</zone>
+	<zone name="HUMANOID_90144" id="90144" type="ScriptZone" shape="Cuboid" minZ="-2244" maxZ="-1116">
+		<node X="112328" Y="-159736" />
+		<node X="114904" Y="-157768" />
+	</zone>
+	<zone name="HUMANOID_90145" id="90145" type="ScriptZone" shape="Cuboid" minZ="-4020" maxZ="-988">
+		<node X="119384" Y="-160328" />
+		<node X="125816" Y="-145976" />
+	</zone>
+	<zone name="HUMANOID_90146" id="90146" type="ScriptZone" shape="Cuboid" minZ="-1876" maxZ="-572">
+		<node X="116760" Y="-163864" />
+		<node X="120968" Y="-160472" />
+	</zone>
+	<zone name="HUMANOID_90147" id="90147" type="ScriptZone" shape="Cuboid" minZ="-4116" maxZ="-2988">
+		<node X="64552" Y="144936" />
+		<node X="67272" Y="147080" />
+	</zone>
+	<zone name="HUMANOID_90148" id="90148" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-3148">
+		<node X="63896" Y="150120" />
+		<node X="66584" Y="152568" />
+	</zone>
+	<zone name="HUMANOID_90149" id="90149" type="ScriptZone" shape="Cuboid" minZ="-4180" maxZ="-2908">
+		<node X="82056" Y="128360" />
+		<node X="84248" Y="131768" />
+	</zone>
+	<zone name="HUMANOID_90150" id="90150" type="ScriptZone" shape="Cuboid" minZ="-4196" maxZ="-3068">
+		<node X="86872" Y="129080" />
+		<node X="91304" Y="134696" />
+	</zone>
+	<zone name="HUMANOID_90151" id="90151" type="ScriptZone" shape="Cuboid" minZ="-4052" maxZ="-2860">
+		<node X="98328" Y="137624" />
+		<node X="101624" Y="140728" />
+	</zone>
+	<zone name="HUMANOID_90152" id="90152" type="ScriptZone" shape="Cuboid" minZ="-4164" maxZ="-2764">
+		<node X="97736" Y="148552" />
+		<node X="102760" Y="151192" />
+	</zone>
+	<zone name="HUMANOID_90153" id="90153" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-3084">
+		<node X="65272" Y="115992" />
+		<node X="68520" Y="118168" />
+	</zone>
+	<zone name="HUMANOID_90154" id="90154" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3164">
+		<node X="65592" Y="109544" />
+		<node X="67816" Y="113768" />
+	</zone>
+	<zone name="HUMANOID_90155" id="90155" type="ScriptZone" shape="Cuboid" minZ="-4148" maxZ="-3068">
+		<node X="64984" Y="103720" />
+		<node X="67336" Y="106344" />
+	</zone>
+	<zone name="HUMANOID_90156" id="90156" type="ScriptZone" shape="Cuboid" minZ="-4244" maxZ="-3164">
+		<node X="65688" Y="94920" />
+		<node X="67480" Y="98424" />
+	</zone>
+	<zone name="HUMANOID_90157" id="90157" type="ScriptZone" shape="Cuboid" minZ="-4132" maxZ="-3052">
+		<node X="90328" Y="129448" />
+		<node X="94008" Y="131352" />
+	</zone>
+	<zone name="HUMANOID_90158" id="90158" type="ScriptZone" shape="Cuboid" minZ="-3988" maxZ="-1692">
+		<node X="-90840" Y="131544" />
+		<node X="-82728" Y="140664" />
+	</zone>
+	<zone name="HUMANOID_90159" id="90159" type="ScriptZone" shape="Cuboid" minZ="-4196" maxZ="-2324">
+		<node X="-86664" Y="123976" />
+		<node X="-78440" Y="131496" />
+	</zone>
+	<zone name="HUMANOID_90160" id="90160" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-2956">
+		<node X="-72648" Y="172872" />
+		<node X="-64152" Y="180728" />
+	</zone>
+	<zone name="HUMANOID_90161" id="90161" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-2156">
+		<node X="-33032" Y="99176" />
+		<node X="-22056" Y="124744" />
+	</zone>
+	<zone name="HUMANOID_90162" id="90162" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-2540">
+		<node X="-9736" Y="108536" />
+		<node X="840" Y="120408" />
+	</zone>
+	<zone name="HUMANOID_90163" id="90163" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-2588">
+		<node X="-4808" Y="102024" />
+		<node X="1240" Y="108632" />
+	</zone>
+	<zone name="HUMANOID_90164" id="90164" type="ScriptZone" shape="Cuboid" minZ="-4308" maxZ="-2812">
+		<node X="-55672" Y="106376" />
+		<node X="-42344" Y="119384" />
+	</zone>
+	<zone name="HUMANOID_90165" id="90165" type="ScriptZone" shape="Cuboid" minZ="-4204" maxZ="-3100">
+		<node X="-18856" Y="83144" />
+		<node X="-15000" Y="87000" />
+	</zone>
+	<zone name="HUMANOID_90166" id="90166" type="ScriptZone" shape="Cuboid" minZ="-4132" maxZ="-2900">
+		<node X="-18856" Y="75304" />
+		<node X="-15064" Y="79464" />
+	</zone>
+	<zone name="HUMANOID_90167" id="90167" type="ScriptZone" shape="Cuboid" minZ="-4068" maxZ="-2828">
+		<node X="-12200" Y="71704" />
+		<node X="-7560" Y="75624" />
+	</zone>
+	<zone name="HUMANOID_90168" id="90168" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3132">
+		<node X="-4248" Y="84184" />
+		<node X="-456" Y="88184" />
+	</zone>
+	<zone name="HUMANOID_90169" id="90169" type="ScriptZone" shape="Cuboid" minZ="-4068" maxZ="-2892">
+		<node X="-7144" Y="77960" />
+		<node X="-2872" Y="82216" />
+	</zone>
+	<zone name="HUMANOID_90170" id="90170" type="ScriptZone" shape="Cuboid" minZ="-3652" maxZ="-1932">
+		<node X="121896" Y="223848" />
+		<node X="124920" Y="228488" />
+	</zone>
+	<zone name="HUMANOID_90171" id="90171" type="ScriptZone" shape="Cuboid" minZ="-4180" maxZ="-2684">
+		<node X="127704" Y="218056" />
+		<node X="130664" Y="221624" />
+	</zone>
+	<zone name="HUMANOID_90172" id="90172" type="ScriptZone" shape="Cuboid" minZ="-4028" maxZ="-2364">
+		<node X="125192" Y="213624" />
+		<node X="129576" Y="216440" />
+	</zone>
+	<zone name="HUMANOID_90173" id="90173" type="ScriptZone" shape="Cuboid" minZ="-4244" maxZ="-3092">
+		<node X="126600" Y="205976" />
+		<node X="129960" Y="210248" />
+	</zone>
+	<zone name="HUMANOID_90174" id="90174" type="ScriptZone" shape="Cuboid" minZ="-3524" maxZ="-2204">
+		<node X="123528" Y="200488" />
+		<node X="127000" Y="203480" />
+	</zone>
+	<zone name="HUMANOID_90175" id="90175" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3004">
+		<node X="106504" Y="198136" />
+		<node X="112856" Y="202072" />
+	</zone>
+	<zone name="HUMANOID_90176" id="90176" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-2444">
+		<node X="95736" Y="201640" />
+		<node X="100616" Y="206520" />
+	</zone>
+	<zone name="HUMANOID_90177" id="90177" type="ScriptZone" shape="Cuboid" minZ="-5884" maxZ="-3844">
+		<node X="-19368" Y="173656" />
+		<node X="-9880" Y="181064" />
+	</zone>
+	<zone name="HUMANOID_90178" id="90178" type="ScriptZone" shape="Cuboid" minZ="-5620" maxZ="-4596">
+		<node X="110712" Y="12136" />
+		<node X="118552" Y="20056" />
+	</zone>
+	<zone name="HUMANOID_90179" id="90179" type="ScriptZone" shape="Cuboid" minZ="-3540" maxZ="-2372">
+		<node X="-123816" Y="71992" />
+		<node X="-120888" Y="75064" />
+	</zone>
+	<zone name="HUMANOID_90180" id="90180" type="ScriptZone" shape="Cuboid" minZ="-3924" maxZ="-2804">
+		<node X="-126968" Y="81848" />
+		<node X="-124456" Y="84152" />
+	</zone>
+	<zone name="HUMANOID_90181" id="90181" type="ScriptZone" shape="Cuboid" minZ="-3684" maxZ="-2548">
+		<node X="-122440" Y="78648" />
+		<node X="-119960" Y="82632" />
+	</zone>
+	<zone name="HUMANOID_90182" id="90182" type="ScriptZone" shape="Cuboid" minZ="-4052" maxZ="-2628">
+		<node X="-122056" Y="81736" />
+		<node X="-114088" Y="88520" />
+	</zone>
+	<zone name="HUMANOID_90183" id="90183" type="ScriptZone" shape="Cuboid" minZ="-4116" maxZ="-3052">
+		<node X="-110904" Y="82488" />
+		<node X="-107736" Y="85832" />
+	</zone>
+	<zone name="HUMANOID_90184" id="90184" type="ScriptZone" shape="Cuboid" minZ="-3812" maxZ="-2708">
+		<node X="-110264" Y="77944" />
+		<node X="-107144" Y="81192" />
+	</zone>
+	<zone name="HUMANOID_90185" id="90185" type="ScriptZone" shape="Cuboid" minZ="-3700" maxZ="-2588">
+		<node X="-116568" Y="71048" />
+		<node X="-111528" Y="78248" />
+	</zone>
+	<zone name="HUMANOID_90186" id="90186" type="ScriptZone" shape="Cuboid" minZ="-3156" maxZ="-2100">
+		<node X="-114376" Y="62456" />
+		<node X="-111016" Y="65224" />
+	</zone>
+	<zone name="HUMANOID_90187" id="90187" type="ScriptZone" shape="Cuboid" minZ="-3492" maxZ="-2316">
+		<node X="-106120" Y="61736" />
+		<node X="-102984" Y="64600" />
+	</zone>
+	<zone name="HUMANOID_90188" id="90188" type="ScriptZone" shape="Cuboid" minZ="-3988" maxZ="-2876">
+		<node X="-101960" Y="59000" />
+		<node X="-99320" Y="62248" />
+	</zone>
+	<zone name="HUMANOID_90189" id="90189" type="ScriptZone" shape="Cuboid" minZ="-3220" maxZ="-1836">
+		<node X="-93240" Y="51512" />
+		<node X="-86152" Y="56808" />
+	</zone>
+	<zone name="HUMANOID_90190" id="90190" type="ScriptZone" shape="Cuboid" minZ="-3252" maxZ="-2060">
+		<node X="-80936" Y="38712" />
+		<node X="-76168" Y="47720" />
+	</zone>
+	<zone name="HUMANOID_90191" id="90191" type="ScriptZone" shape="Cuboid" minZ="-2852" maxZ="-1548">
+		<node X="-91000" Y="35320" />
+		<node X="-84616" Y="38744" />
+	</zone>
+	<zone name="HUMANOID_90192" id="90192" type="ScriptZone" shape="Cuboid" minZ="-2604" maxZ="-908">
+		<node X="-108872" Y="39208" />
+		<node X="-102008" Y="44232" />
+	</zone>
+	<zone name="HUMANOID_90193" id="90193" type="ScriptZone" shape="Cuboid" minZ="-2004" maxZ="-612">
+		<node X="-105192" Y="43464" />
+		<node X="-101560" Y="48120" />
+	</zone>
+	<zone name="HUMANOID_90194" id="90194" type="ScriptZone" shape="Cuboid" minZ="-2156" maxZ="-1028">
+		<node X="-107000" Y="50488" />
+		<node X="-103112" Y="52968" />
+	</zone>
+	<zone name="HUMANOID_90195" id="90195" type="ScriptZone" shape="Cuboid" minZ="-1988" maxZ="-892">
+		<node X="-109208" Y="45992" />
+		<node X="-106328" Y="49176" />
+	</zone>
+	<zone name="HUMANOID_90196" id="90196" type="ScriptZone" shape="Cuboid" minZ="-2628" maxZ="-1516">
+		<node X="-96936" Y="50776" />
+		<node X="-94008" Y="53832" />
+	</zone>
+	<zone name="HUMANOID_90197" id="90197" type="ScriptZone" shape="Cuboid" minZ="-4116" maxZ="-2764">
+		<node X="-98136" Y="237704" />
+		<node X="-89992" Y="245688" />
+	</zone>
+	<zone name="HUMANOID_90198" id="90198" type="ScriptZone" shape="Cuboid" minZ="-4180" maxZ="-2812">
+		<node X="-99448" Y="232536" />
+		<node X="-94760" Y="236536" />
+	</zone>
+	<zone name="HUMANOID_90199" id="90199" type="ScriptZone" shape="Cuboid" minZ="-4196" maxZ="-3020">
+		<node X="-108200" Y="222584" />
+		<node X="-100536" Y="228104" />
+	</zone>
+	<zone name="HUMANOID_90200" id="90200" type="ScriptZone" shape="Cuboid" minZ="-3900" maxZ="-2556">
+		<node X="-104408" Y="211800" />
+		<node X="-99176" Y="216872" />
+	</zone>
+	<zone name="HUMANOID_90201" id="90201" type="ScriptZone" shape="Cuboid" minZ="-3556" maxZ="-2292">
+		<node X="-116888" Y="219496" />
+		<node X="-112792" Y="225640" />
+	</zone>
+	<zone name="HUMANOID_90202" id="90202" type="ScriptZone" shape="Cuboid" minZ="-3476" maxZ="-2412">
+		<node X="-118584" Y="230024" />
+		<node X="-116600" Y="232376" />
+	</zone>
+	<zone name="HUMANOID_90203" id="90203" type="ScriptZone" shape="Cuboid" minZ="-3556" maxZ="-2148">
+		<node X="-119000" Y="233688" />
+		<node X="-117320" Y="237464" />
+	</zone>
+	<zone name="HUMANOID_90204" id="90204" type="ScriptZone" shape="Cuboid" minZ="-3764" maxZ="-2516">
+		<node X="-115544" Y="246824" />
+		<node X="-111512" Y="253832" />
+	</zone>
+	<zone name="HUMANOID_90205" id="90205" type="ScriptZone" shape="Cuboid" minZ="-4004" maxZ="-2524">
+		<node X="-105448" Y="247464" />
+		<node X="-98984" Y="256664" />
+	</zone>
+	<zone name="HUMANOID_90206" id="90206" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-2740">
+		<node X="-95016" Y="250760" />
+		<node X="-88776" Y="256632" />
+	</zone>
+	<zone name="HUMANOID_90207" id="90207" type="ScriptZone" shape="Cuboid" minZ="-4020" maxZ="-2620">
+		<node X="-77288" Y="252504" />
+		<node X="-71016" Y="257352" />
+	</zone>
+	<zone name="HUMANOID_90208" id="90208" type="ScriptZone" shape="Cuboid" minZ="-4236" maxZ="-3020">
+		<node X="-108120" Y="229640" />
+		<node X="-102760" Y="234648" />
+	</zone>
+	<zone name="PLANT_90209" id="90209" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-3148">
+		<node X="51768" Y="37000" />
+		<node X="54488" Y="39288" />
+	</zone>
+	<zone name="PLANT_90210" id="90210" type="ScriptZone" shape="Cuboid" minZ="-4132" maxZ="-3004">
+		<node X="44344" Y="35496" />
+		<node X="46312" Y="38040" />
+	</zone>
+	<zone name="PLANT_90211" id="90211" type="ScriptZone" shape="Cuboid" minZ="-4036" maxZ="-2972">
+		<node X="48744" Y="41176" />
+		<node X="51480" Y="45176" />
+	</zone>
+	<zone name="PLANT_90212" id="90212" type="ScriptZone" shape="Cuboid" minZ="-4100" maxZ="-2988">
+		<node X="41000" Y="39576" />
+		<node X="42776" Y="43784" />
+	</zone>
+	<zone name="PLANT_90213" id="90213" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-3132">
+		<node X="34088" Y="33096" />
+		<node X="37784" Y="36456" />
+	</zone>
+	<zone name="PLANT_90214" id="90214" type="ScriptZone" shape="Cuboid" minZ="-4116" maxZ="-3100">
+		<node X="37432" Y="44984" />
+		<node X="40440" Y="46920" />
+	</zone>
+	<zone name="PLANT_90215" id="90215" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3116">
+		<node X="28360" Y="34584" />
+		<node X="31160" Y="37064" />
+	</zone>
+	<zone name="PLANT_90216" id="90216" type="ScriptZone" shape="Cuboid" minZ="-4180" maxZ="-3068">
+		<node X="18360" Y="38760" />
+		<node X="22008" Y="40088" />
+	</zone>
+	<zone name="PLANT_90217" id="90217" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3116">
+		<node X="14648" Y="40040" />
+		<node X="17048" Y="44056" />
+	</zone>
+	<zone name="PLANT_90218" id="90218" type="ScriptZone" shape="Cuboid" minZ="-4228" maxZ="-3116">
+		<node X="8120" Y="46360" />
+		<node X="13176" Y="52104" />
+	</zone>
+	<zone name="PLANT_90219" id="90219" type="ScriptZone" shape="Cuboid" minZ="-4108" maxZ="-2796">
+		<node X="1048" Y="50936" />
+		<node X="7224" Y="58360" />
+	</zone>
+	<zone name="PLANT_90220" id="90220" type="ScriptZone" shape="Cuboid" minZ="-3924" maxZ="-2812">
+		<node X="1032" Y="60120" />
+		<node X="2904" Y="62776" />
+	</zone>
+	<zone name="PLANT_90221" id="90221" type="ScriptZone" shape="Cuboid" minZ="-4148" maxZ="-2972">
+		<node X="1704" Y="76520" />
+		<node X="5752" Y="80872" />
+	</zone>
+	<zone name="PLANT_90222" id="90222" type="ScriptZone" shape="Cuboid" minZ="-4148" maxZ="-2844">
+		<node X="5064" Y="84696" />
+		<node X="10712" Y="88024" />
+	</zone>
+	<zone name="PLANT_90223" id="90223" type="ScriptZone" shape="Cuboid" minZ="-4276" maxZ="-3068">
+		<node X="11944" Y="85752" />
+		<node X="15624" Y="89128" />
+	</zone>
+	<zone name="PLANT_90224" id="90224" type="ScriptZone" shape="Cuboid" minZ="-4196" maxZ="-3068">
+		<node X="18584" Y="83128" />
+		<node X="20984" Y="88040" />
+	</zone>
+	<zone name="PLANT_90225" id="90225" type="ScriptZone" shape="Cuboid" minZ="-3972" maxZ="-2796">
+		<node X="24376" Y="82232" />
+		<node X="26536" Y="86168" />
+	</zone>
+	<zone name="PLANT_90226" id="90226" type="ScriptZone" shape="Cuboid" minZ="-3716" maxZ="-2556">
+		<node X="21720" Y="78088" />
+		<node X="24200" Y="80472" />
+	</zone>
+	<zone name="PLANT_90227" id="90227" type="ScriptZone" shape="Cuboid" minZ="-4196" maxZ="-2916">
+		<node X="4184" Y="72568" />
+		<node X="6424" Y="75496" />
+	</zone>
+	<zone name="PLANT_90228" id="90228" type="ScriptZone" shape="Cuboid" minZ="-3924" maxZ="-2860">
+		<node X="6184" Y="69480" />
+		<node X="8072" Y="72024" />
+	</zone>
+	<zone name="PLANT_90229" id="90229" type="ScriptZone" shape="Cuboid" minZ="-4004" maxZ="-2892">
+		<node X="16584" Y="69640" />
+		<node X="19224" Y="71320" />
+	</zone>
+	<zone name="PLANT_90230" id="90230" type="ScriptZone" shape="Cuboid" minZ="-3780" maxZ="-2668">
+		<node X="21976" Y="70104" />
+		<node X="24056" Y="71688" />
+	</zone>
+	<zone name="PLANT_90231" id="90231" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3044">
+		<node X="10760" Y="67976" />
+		<node X="13272" Y="70200" />
+	</zone>
+	<zone name="PLANT_90232" id="90232" type="ScriptZone" shape="Cuboid" minZ="-4212" maxZ="-3084">
+		<node X="13016" Y="49256" />
+		<node X="17480" Y="52712" />
+	</zone>
+	<zone name="PLANT_90233" id="90233" type="ScriptZone" shape="Cuboid" minZ="-4164" maxZ="-3012">
+		<node X="5704" Y="57384" />
+		<node X="9144" Y="59960" />
+	</zone>
+	<zone name="PLANT_90234" id="90234" type="ScriptZone" shape="Cuboid" minZ="-4244" maxZ="-3084">
+		<node X="42392" Y="32808" />
+		<node X="44856" Y="36040" />
+	</zone>
+	<zone name="PLANT_90235" id="90235" type="ScriptZone" shape="Cuboid" minZ="-5140" maxZ="-3076">
+		<node X="117560" Y="49016" />
+		<node X="121720" Y="53928" />
+	</zone>
+	<zone name="PLANT_90236" id="90236" type="ScriptZone" shape="Cuboid" minZ="-5060" maxZ="-2972">
+		<node X="117176" Y="36264" />
+		<node X="118984" Y="39512" />
+	</zone>
+	<zone name="PLANT_90237" id="90237" type="ScriptZone" shape="Cuboid" minZ="-5060" maxZ="-3132">
+		<node X="120472" Y="41720" />
+		<node X="125352" Y="45016" />
+	</zone>
+	<zone name="PLANT_90238" id="90238" type="ScriptZone" shape="Cuboid" minZ="-5092" maxZ="-3172">
+		<node X="112632" Y="40792" />
+		<node X="114520" Y="43880" />
+	</zone>
+	<zone name="PLANT_90239" id="90239" type="ScriptZone" shape="Cuboid" minZ="-5140" maxZ="-4108">
+		<node X="103672" Y="53576" />
+		<node X="106968" Y="55704" />
+	</zone>
+	<zone name="UNDEAD_90240" id="90240" type="ScriptZone" shape="Cuboid" minZ="-3836" maxZ="-2836">
+		<node X="84304" Y="-209424" />
+		<node X="85671" Y="-208030" />
+	</zone>
+</list>
+

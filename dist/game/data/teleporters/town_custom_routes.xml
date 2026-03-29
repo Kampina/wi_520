@@ -1,0 +1,433 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/teleporterData.xsd">
+	<npc id="30006">
+		<teleport type="NORMAL">
+			<location name="Elven Village" x="46926" y="51511" z="-2977" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Elven Village" x="46926" y="51511" z="-2977" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="34112">
+		<teleport type="NORMAL">
+			<location name="Dark Elven Village" x="9734" y="15511" z="-4552" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Dark Elven Village" x="9734" y="15511" z="-4552" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30134">
+		<teleport type="NORMAL">
+			<location name="Kamael Village" x="-116679" y="46623" z="384" feeId="57" feeCount="100"/>
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Kamael Village" x="-116679" y="46623" z="384" feeId="57" feeCount="1000"/>
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30146">
+		<teleport type="NORMAL">
+			<location name="Talking Island Village" x="-84108" y="244604" z="-3729" feeId="57" feeCount="100"/>
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Talking Island Village" x="-84108" y="244604" z="-3729" feeId="57" feeCount="1000"/>
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30320">
+		<teleport type="NORMAL">
+			<location name="Elven Village" x="46926" y="51511" z="-2977" feeId="57" feeCount="100"/>
+			<location name="Dark Elven Village" x="9734" y="15511" z="-4552" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Elven Village" x="46926" y="51511" z="-2977" feeId="57" feeCount="1000"/>
+			<location name="Dark Elven Village" x="9734" y="15511" z="-4552" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30256">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30059">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30080">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30233">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30177">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30848">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30899">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="31275">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="31320">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="31964">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30576">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Dwarven Village" x="115072" y="-178176" z="-906" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+	<npc id="30540">
+		<teleport type="NORMAL">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="100"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="100"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="100"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="100"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="100"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="100"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="100"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="100"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="100"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="100"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="100"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="100"/>
+		</teleport>
+		<teleport type="NOBLES_ADENA">
+			<location name="Gludin" x="-80752" y="149776" z="-3024" feeId="57" feeCount="1000"/>
+			<location name="Gludio" x="-14531" y="124060" z="-3104" feeId="57" feeCount="1000"/>
+			<location name="Dion" x="15631" y="142885" z="-2704" feeId="57" feeCount="1000"/>
+			<location name="Giran" x="83587" y="147920" z="-3369" feeId="57" feeCount="1000"/>
+			<location name="Hunters Village" x="117129" y="76917" z="-2689" feeId="57" feeCount="1000"/>
+			<location name="Oren" x="82992" y="53171" z="-1492" feeId="57" feeCount="1000"/>
+			<location name="Aden" x="146737" y="25807" z="-1992" feeId="57" feeCount="1000"/>
+			<location name="Heiness" x="111322" y="219392" z="-3538" feeId="57" feeCount="1000"/>
+			<location name="Goddard" x="147966" y="-55228" z="-2728" feeId="57" feeCount="1000"/>
+			<location name="Rune" x="43766" y="-47781" z="-798" feeId="57" feeCount="1000"/>
+			<location name="Schuttgart" x="87386" y="-143246" z="-1293" feeId="57" feeCount="1000"/>
+			<location name="Orc Village" x="-45264" y="-112512" z="-235" feeId="57" feeCount="1000"/>
+		</teleport>
+	</npc>
+</list>

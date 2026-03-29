@@ -1,0 +1,2221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <item id="52183" name="Major Arcana Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">55</stat>
+        </stats>
+    </item>
+    <item id="52184" name="Major Arcana Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">55</stat>
+        </stats>
+    </item>
+    <item id="53000" name="Dynasty Breastplate" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">226</stat>
+        </stats>
+    </item>
+    <item id="53001" name="Dynasty Gaiter" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">141</stat>
+        </stats>
+    </item>
+    <item id="53002" name="Dynasty Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53003" name="Dynasty Gauntlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53004" name="Dynasty Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53005" name="Dynasty Shield" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.shield_hoplon_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="0"/>
+        <set name="soulshots" val="0"/>
+        <set name="spiritshots" val="0"/>
+        <set name="weapon_type" val="NONE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="sDef">321</stat>
+            <stat type="rShld">20</stat>
+            <stat type="rEvas">-8.0000</stat>
+        </stats>
+    </item>
+    <item id="53010" name="Dynasty Leather Chest" type="Armor">
+        <set name="crystal_count" val="878"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">170</stat>
+        </stats>
+    </item>
+    <item id="53011" name="Dynasty Leather Leggings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">106</stat>
+        </stats>
+    </item>
+    <item id="53012" name="Dynasty Leather Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53013" name="Dynasty Leather Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53014" name="Dynasty Leather Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53020" name="Dynasty Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">113</stat>
+            <stat type="maxMp">592</stat>
+        </stats>
+    </item>
+    <item id="53021" name="Dynasty Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">71</stat>
+            <stat type="maxMp">370</stat>
+        </stats>
+    </item>
+    <item id="53022" name="Dynasty Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53023" name="Dynasty Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53024" name="Dynasty Shoes" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53030" name="Dynasty Breastplate" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">226</stat>
+        </stats>
+    </item>
+    <item id="53031" name="Dynasty Gaiter" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">141</stat>
+        </stats>
+    </item>
+    <item id="53032" name="Dynasty Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53033" name="Dynasty Gauntlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53034" name="Dynasty Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53040" name="Dynasty Leather Chest" type="Armor">
+        <set name="crystal_count" val="878"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">170</stat>
+        </stats>
+    </item>
+    <item id="53041" name="Dynasty Leather Leggings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">106</stat>
+        </stats>
+    </item>
+    <item id="53042" name="Dynasty Leather Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53043" name="Dynasty Leather Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53044" name="Dynasty Leather Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53050" name="Dynasty Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">113</stat>
+            <stat type="maxMp">592</stat>
+        </stats>
+    </item>
+    <item id="53051" name="Dynasty Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">71</stat>
+            <stat type="maxMp">370</stat>
+        </stats>
+    </item>
+    <item id="53052" name="Dynasty Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53053" name="Dynasty Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53054" name="Dynasty Shoes" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53060" name="Dynasty Breastplate" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">226</stat>
+        </stats>
+    </item>
+    <item id="53061" name="Dynasty Gaiter" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">141</stat>
+        </stats>
+    </item>
+    <item id="53062" name="Dynasty Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53063" name="Dynasty Gauntlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53064" name="Dynasty Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53065" name="Dynasty Shield" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.shield_hoplon_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="0"/>
+        <set name="soulshots" val="0"/>
+        <set name="spiritshots" val="0"/>
+        <set name="weapon_type" val="NONE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="sDef">321</stat>
+            <stat type="rShld">20</stat>
+            <stat type="rEvas">-8.0000</stat>
+        </stats>
+    </item>
+    <item id="53070" name="Dynasty Leather Chest" type="Armor">
+        <set name="crystal_count" val="878"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">170</stat>
+        </stats>
+    </item>
+    <item id="53071" name="Dynasty Leather Leggings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">106</stat>
+        </stats>
+    </item>
+    <item id="53072" name="Dynasty Leather Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53073" name="Dynasty Leather Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53074" name="Dynasty Leather Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53080" name="Dynasty Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">113</stat>
+            <stat type="maxMp">592</stat>
+        </stats>
+    </item>
+    <item id="53081" name="Dynasty Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">71</stat>
+            <stat type="maxMp">370</stat>
+        </stats>
+    </item>
+    <item id="53082" name="Dynasty Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53083" name="Dynasty Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53084" name="Dynasty Shoes" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53090" name="Dynasty Breastplate" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">226</stat>
+        </stats>
+    </item>
+    <item id="53091" name="Dynasty Gaiter" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">141</stat>
+        </stats>
+    </item>
+    <item id="53092" name="Dynasty Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53093" name="Dynasty Gauntlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53094" name="Dynasty Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53100" name="Dynasty Leather Chest" type="Armor">
+        <set name="crystal_count" val="878"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">170</stat>
+        </stats>
+    </item>
+    <item id="53101" name="Dynasty Leather Leggings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">106</stat>
+        </stats>
+    </item>
+    <item id="53102" name="Dynasty Leather Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53103" name="Dynasty Leather Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53104" name="Dynasty Leather Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53110" name="Dynasty Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">113</stat>
+            <stat type="maxMp">592</stat>
+        </stats>
+    </item>
+    <item id="53111" name="Dynasty Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">71</stat>
+            <stat type="maxMp">370</stat>
+        </stats>
+    </item>
+    <item id="53112" name="Dynasty Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53113" name="Dynasty Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53114" name="Dynasty Shoes" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53120" name="Dynasty Breastplate" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">226</stat>
+        </stats>
+    </item>
+    <item id="53121" name="Dynasty Gaiter" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">141</stat>
+        </stats>
+    </item>
+    <item id="53122" name="Dynasty Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53123" name="Dynasty Gauntlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53124" name="Dynasty Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53125" name="Dynasty Shield" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.shield_hoplon_i00"/>
+        <set name="rnd_dam" val="0"/>
+        <set name="soulshots" val="0"/>
+        <set name="spiritshots" val="0"/>
+        <set name="weapon_type" val="NONE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="sDef">321</stat>
+            <stat type="rShld">20</stat>
+            <stat type="rEvas">-8.0000</stat>
+        </stats>
+    </item>
+    <item id="53130" name="Dynasty Leather Chest" type="Armor">
+        <set name="crystal_count" val="878"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">170</stat>
+        </stats>
+    </item>
+    <item id="53131" name="Dynasty Leather Leggings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_l_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">106</stat>
+        </stats>
+    </item>
+    <item id="53132" name="Dynasty Leather Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53133" name="Dynasty Leather Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53134" name="Dynasty Leather Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53140" name="Dynasty Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">113</stat>
+            <stat type="maxMp">592</stat>
+        </stats>
+    </item>
+    <item id="53141" name="Dynasty Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">71</stat>
+            <stat type="maxMp">370</stat>
+        </stats>
+    </item>
+    <item id="53142" name="Dynasty Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53143" name="Dynasty Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53144" name="Dynasty Shoes" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53150" name="Dynasty Breastplate" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">226</stat>
+        </stats>
+    </item>
+    <item id="53151" name="Dynasty Gaiter" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">141</stat>
+        </stats>
+    </item>
+    <item id="53152" name="Dynasty Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53153" name="Dynasty Gauntlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53154" name="Dynasty Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53160" name="Dynasty Leather Chest" type="Armor">
+        <set name="crystal_count" val="878"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">170</stat>
+        </stats>
+    </item>
+    <item id="53161" name="Dynasty Leather Leggings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_l_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">106</stat>
+        </stats>
+    </item>
+    <item id="53162" name="Dynasty Leather Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53163" name="Dynasty Leather Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53164" name="Dynasty Leather Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53170" name="Dynasty Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">113</stat>
+            <stat type="maxMp">592</stat>
+        </stats>
+    </item>
+    <item id="53171" name="Dynasty Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">71</stat>
+            <stat type="maxMp">370</stat>
+        </stats>
+    </item>
+    <item id="53172" name="Dynasty Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">92</stat>
+        </stats>
+    </item>
+    <item id="53173" name="Dynasty Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="53174" name="Dynasty Shoes" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">61</stat>
+        </stats>
+    </item>
+    <item id="54000" name="Vesper Breastplate" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">250</stat>
+        </stats>
+    </item>
+    <item id="54001" name="Vesper Gaiter" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">156</stat>
+        </stats>
+    </item>
+    <item id="54002" name="Vesper Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">101</stat>
+        </stats>
+    </item>
+    <item id="54003" name="Vesper Gauntlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">68</stat>
+        </stats>
+    </item>
+    <item id="54004" name="Vesper Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pDef">68</stat>
+        </stats>
+    </item>
+</list>

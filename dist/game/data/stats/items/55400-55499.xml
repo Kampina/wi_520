@@ -1,0 +1,2556 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <item id="55400" name="Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55401" name="Kamael Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions>
+            <player isNoble="true"/>
+        </conditions>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55402" name="Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55403" name="Kamael Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions>
+            <player isNoble="true"/>
+        </conditions>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55404" name="Vesper Cutter*Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55405" name="Vesper Cutter*Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55406" name="Vesper Cutter*Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55407" name="Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55408" name="Kamael Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions>
+            <player isNoble="true"/>
+        </conditions>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55409" name="Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55410" name="Kamael Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55411" name="Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55412" name="Kamael Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55413" name="Vesper Stormer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55414" name="Vesper Stormer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55415" name="Vesper Stormer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="3599" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55416" name="Vesper Shaper" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">346</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55417" name="Vesper Shaper Dual Daggers" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.dual_dagger_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUALDAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">346</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pAtk">1.1</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55418" name="Vesper Thrower" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">724</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55419" name="Vesper Crossbow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="CROSSBOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <stats>
+            <stat type="pAtk">724</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55420" name="Vesper Caster" type="Weapon">
+        <set name="is_magic_weapon" val="true"/>
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">234</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtk">1.05</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55421" name="Vesper Caster" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">234</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="maxHp">0.3</stat>
+            <stat type="maxMp">1.7</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55422" name="Vesper Caster" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">234</stat>
+            <stat type="healPower">15</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55423" name="Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55424" name="Kamael Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55425" name="Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55426" name="Kamael Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55427" name="Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55428" name="Kamael Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55429" name="Vesper Cutter*Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55430" name="Vesper Cutter*Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55431" name="Vesper Cutter*Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55432" name="Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55433" name="Kamael Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55434" name="Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55435" name="Kamael Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55436" name="Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55437" name="Kamael Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55438" name="Vesper Stormer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55439" name="Vesper Stormer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55440" name="Vesper Stormer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="3599" level="1"/>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55441" name="Vesper Shaper" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">346</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55442" name="Vesper Shaper Dual Daggers" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.dual_dagger_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUALDAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">346</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55443" name="Vesper Thrower" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">724</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55444" name="Vesper Crossbow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="CROSSBOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">724</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55445" name="Vesper Caster" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">234</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtk">1.05</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55446" name="Vesper Caster" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">234</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="maxHp">0.3</stat>
+            <stat type="maxMp">1.7</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55447" name="Vesper Caster" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">234</stat>
+            <stat type="healPower">15</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55448" name="Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55449" name="Kamael Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9341"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions>
+            <player isNoble="true"/>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55450" name="Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55451" name="Kamael Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9342"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions>
+            <player isNoble="true"/>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55452" name="Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55453" name="Kamael Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dark_legions_edge_i01"/>
+        <set name="kamael_convert" val="9343"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions>
+            <player isNoble="true"/>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55454" name="Vesper Cutter*Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55455" name="Vesper Cutter*Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55456" name="Vesper Cutter*Vesper Cutter" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dual_sword_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUAL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,107"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55457" name="Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55458" name="Kamael Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9347"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions>
+            <player isNoble="true"/>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55459" name="Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55460" name="Kamael Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9345"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions>
+            <player isNoble="true"/>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55461" name="Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="89,131"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55462" name="Kamael Vesper Slasher" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_dragon_slayer_i01"/>
+        <set name="kamael_convert" val="9346"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BIGSWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions>
+            <player isNoble="true"/>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">482</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55463" name="Vesper Stormer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pAtk">1.05</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55464" name="Vesper Stormer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="maxHp">1.25</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55465" name="Vesper Stormer" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_halbard_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="POLE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="91,113"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="3599" level="1"/>
+            <skill id="50059" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">396</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="accCombat">-4.0</stat>
+            <stat type="baseCrit">80</stat>
+            <stat type="atkBaseSpeed">325</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55466" name="Vesper Shaper" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_soul_separator_i01"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">346</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55467" name="Vesper Shaper Dual Daggers" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.dual_dagger_i00"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="DUALDAGGER"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="93,100,101,108,114"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">346</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="cAtkStatic">200.79</stat>
+            <stat type="baseCrit">120</stat>
+            <stat type="atkBaseSpeed">433</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55468" name="Vesper Thrower" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="BOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,102,109,134"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">724</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55469" name="Vesper Crossbow" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_soul_bow_i01"/>
+        <set name="kamael_convert" val="9349"/>
+        <set name="rnd_dam" val="5"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="CROSSBOW"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="left_right_hand"/>
+        <conditions>
+            <player isNoble="true"/>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">724</stat>
+            <stat type="mAtk">0</stat>
+            <stat type="baseCrit">220</stat>
+            <stat type="atkBaseSpeed">227</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55470" name="Vesper Caster" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">234</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtk">1.05</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55471" name="Vesper Caster" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">234</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="maxHp">0.3</stat>
+            <stat type="maxMp">1.7</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55472" name="Vesper Caster" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_dropable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="icon" val="icon.weapon_sword_of_miracle_i01"/>
+        <set name="rnd_dam" val="10"/>
+        <set name="soulshots" val="1"/>
+        <set name="spiritshots" val="1"/>
+        <set name="weapon_type" val="SWORD"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="rhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,135,136"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+        <skills>
+            <skill id="50059" level="1"/>
+            <skill id="50061" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pAtk">0</stat>
+            <stat type="mAtk">234</stat>
+            <stat type="healPower">15</stat>
+            <stat type="atkBaseSpeed">379</stat>
+            <stat type="mAtkSpd">1.15</stat>
+            <stat type="pvpMagicSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysSkillDmgBonus">1.1</stat>
+            <stat type="pvpPhysDmgBonus">1.1</stat>
+        </stats>
+    </item>
+    <item id="55473" name="Arcana Sigil" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.arcana_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+    </item>
+    <item id="55474" name="Sealed Dynasty Sigil" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.dynasty_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+    </item>
+    <item id="55475" name="Vesper Sigil" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.verper_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+    </item>
+    <item id="55476" name="Arcana Sigil" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.arcana_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <stats>
+            <stat type="pDef">13</stat>
+            <stat type="rEvas">-8</stat>
+        </stats>
+    </item>
+    <item id="55477" name="Dynasty Sigil" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.dynasty_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <stats>
+            <stat type="pDef">15</stat>
+            <stat type="rEvas">-8</stat>
+        </stats>
+    </item>
+    <item id="55478" name="Vesper Sigil" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.verper_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <stats>
+            <stat type="pDef">17</stat>
+            <stat type="rEvas">-8</stat>
+        </stats>
+    </item>
+    <item id="55479" name="Arcana Sigil MW" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.arcana_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">13</stat>
+            <stat type="rEvas">-8</stat>
+        </stats>
+    </item>
+    <item id="55480" name="Dynasty Sigil MW" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.dynasty_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">15</stat>
+            <stat type="rEvas">-8</stat>
+        </stats>
+    </item>
+    <item id="55481" name="Vesper Sigil MW" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.verper_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">17</stat>
+            <stat type="rEvas">-8</stat>
+        </stats>
+    </item>
+    <item id="55482" name="Arcana Sigil MW {PvP}" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.arcana_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">13</stat>
+            <stat type="rEvas">-8</stat>
+        </stats>
+    </item>
+    <item id="55483" name="Dynasty Sigil MW {PvP}" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S80"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.dynasty_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">15</stat>
+            <stat type="rEvas">-8</stat>
+        </stats>
+    </item>
+    <item id="55484" name="Vesper Sigil MW {PvP}" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S84"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="true"/>
+        <set name="icon" val="icon.verper_sigil_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="SIGIL"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <skills>
+            <skill id="50057" level="1"/>
+        </skills>
+        <stats>
+            <stat type="pDef">17</stat>
+            <stat type="rEvas">-8</stat>
+        </stats>
+    </item>
+</list>

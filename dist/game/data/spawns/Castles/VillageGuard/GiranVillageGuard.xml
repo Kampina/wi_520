@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../../xsd/spawns.xsd">
+	<spawn name="TownGuards_3" spawnByDefault="false">
+		<group name="TownGuards_3_0">
+			<npc id="31036" x="77032" y="148792" z="-3616" heading="1107" respawnTime="60sec" />
+			<npc id="31036" x="77029" y="148447" z="-3616" heading="1107" respawnTime="60sec" />
+			<npc id="31036" x="81424" y="143472" z="-3544" heading="1106" respawnTime="60sec" />
+			<npc id="31036" x="81616" y="143472" z="-3480" heading="1106" respawnTime="60sec" />
+			<npc id="31036" x="83705" y="141439" z="-3544" heading="1105" respawnTime="60sec" />
+			<npc id="31036" x="84064" y="141438" z="-3536" heading="1105" respawnTime="60sec" />
+			<npc id="31036" x="90501" y="147180" z="-3544" heading="1104" respawnTime="60sec" />
+			<npc id="31036" x="90498" y="147535" z="-3536" heading="1104" respawnTime="60sec" />
+			<npc id="31036" x="81642" y="152955" z="-3512" heading="1108" respawnTime="60sec" />
+			<npc id="31036" x="81436" y="152950" z="-3536" heading="1108" respawnTime="60sec" />
+		</group>
+		<group name="TownGuards_3_1">
+			<npc id="31032" x="77032" y="148792" z="-3616" heading="1107" respawnTime="60sec" />
+			<npc id="31032" x="77029" y="148447" z="-3616" heading="1107" respawnTime="60sec" />
+			<npc id="31032" x="81424" y="143472" z="-3544" heading="1106" respawnTime="60sec" />
+			<npc id="31032" x="81616" y="143472" z="-3480" heading="1106" respawnTime="60sec" />
+			<npc id="31032" x="83705" y="141439" z="-3544" heading="1105" respawnTime="60sec" />
+			<npc id="31032" x="84064" y="141438" z="-3536" heading="1105" respawnTime="60sec" />
+			<npc id="31032" x="90501" y="147180" z="-3544" heading="1104" respawnTime="60sec" />
+			<npc id="31032" x="90498" y="147535" z="-3536" heading="1104" respawnTime="60sec" />
+			<npc id="31032" x="81642" y="152955" z="-3512" heading="1108" respawnTime="60sec" />
+			<npc id="31032" x="81436" y="152950" z="-3536" heading="1108" respawnTime="60sec" />
+		</group>
+		<group name="TownGuards_3_1">
+			<npc id="30120" x="87058" y="148634" z="-3392" heading="32768" respawnTime="60sec" />
+		</group>
+		<group name="TownGuards_3_2">
+			<npc id="31034" x="77032" y="148792" z="-3616" heading="1107" respawnTime="60sec" />
+			<npc id="31034" x="77029" y="148447" z="-3616" heading="1107" respawnTime="60sec" />
+			<npc id="31034" x="81424" y="143472" z="-3544" heading="1106" respawnTime="60sec" />
+			<npc id="31034" x="81616" y="143472" z="-3480" heading="1106" respawnTime="60sec" />
+			<npc id="31034" x="83705" y="141439" z="-3544" heading="1105" respawnTime="60sec" />
+			<npc id="31034" x="84064" y="141438" z="-3536" heading="1105" respawnTime="60sec" />
+			<npc id="31034" x="90501" y="147180" z="-3544" heading="1104" respawnTime="60sec" />
+			<npc id="31034" x="90498" y="147535" z="-3536" heading="1104" respawnTime="60sec" />
+			<npc id="31034" x="81642" y="152955" z="-3512" heading="1108" respawnTime="60sec" />
+			<npc id="31034" x="81436" y="152950" z="-3536" heading="1108" respawnTime="60sec" />
+		</group>
+		<group name="TownGuards_3_2">
+			<npc id="30474" x="79059" y="149457" z="-3596" heading="41500" respawnTime="60sec" />
+		</group>
+	</spawn>
+</list>

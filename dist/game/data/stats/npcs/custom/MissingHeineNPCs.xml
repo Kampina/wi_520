@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/npcs.xsd">
+	<npc id="32877" level="40" type="Merchant" name="Plani" title="Grosery Merchant">
+		<parameters>
+			<param name="isTargetable" value="true" />
+			<param name="showName" value="true" />
+		</parameters>
+		<collision>
+			<radius normal="10" />
+			<height normal="25" />
+		</collision>
+		<stats>
+			<vitals hp="1000" hpRegen="5" mp="1000" mpRegen="5" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+		</stats>
+	</npc>
+	<npc id="31444" level="40" type="Merchant" name="Cona" title="Acessories Merchant">
+		<parameters>
+			<param name="isTargetable" value="true" />
+			<param name="showName" value="true" />
+		</parameters>
+		<collision>
+			<radius normal="10" />
+			<height normal="25" />
+		</collision>
+		<stats>
+			<vitals hp="1000" hpRegen="5" mp="1000" mpRegen="5" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+		</stats>
+	</npc>
+	<npc id="31575" level="40" type="Folk" name="Litulon" title="Fishing Guild Member">
+		<parameters>
+			<param name="isTargetable" value="true" />
+			<param name="showName" value="true" />
+		</parameters>
+		<collision>
+			<radius normal="10" />
+			<height normal="25" />
+		</collision>
+		<stats>
+			<vitals hp="1000" hpRegen="5" mp="1000" mpRegen="5" />
+			<speed>
+				<walk ground="50" />
+				<run ground="120" />
+			</speed>
+		</stats>
+	</npc>
+</list>

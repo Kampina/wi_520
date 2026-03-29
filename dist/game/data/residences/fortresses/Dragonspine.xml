@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="115" name="Dragonspine Fortress">
+	<doors>
+		<door id="20200001" />
+		<door id="20200008" />
+		<door id="20200002" group="commander_doors" />
+		<door id="20200003" group="commander_doors" />
+		<door id="20200006" group="commander_doors" />
+		<door id="20200007" group="commander_doors" />
+		<door id="20200004" group="captain_doors" />
+		<door id="20200005" group="captain_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

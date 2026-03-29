@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="orc_fortress_owner" spawnByDefault="false">
+		<group name="orc_fortress_owner_npcs">
+			<npc id="34148" x="112368" y="-15922" z="-992" heading="27221" respawnTime="60sec" /> <!-- Quartermaster -->
+			<npc id="34146" x="111770" y="-14747" z="-992" heading="16880" respawnTime="60sec" /> <!-- Gatekeeper -->
+		</group>
+	</spawn>
+</list>

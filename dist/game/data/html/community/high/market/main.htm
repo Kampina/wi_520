@@ -1,0 +1,126 @@
+﻿<html noscrollbar>
+	<!--Заголовок окна-->
+	<title>Main Page</title>
+	<body>
+		<table cellpadding=0 cellspacing=0 border=0>
+			<tr>
+				<td><button action="bypass _bbsmarket" value="Покупка" width=100 height=22  fore="l2ui_ct1.tab_df_tab_selected"/></td>
+				<td><button action="bypass _bbsmarket:register" value="Регистрация" width=100 height=22 back="l2ui_ct1.tab_df_tab_selected" fore="l2ui_ct1.tab_df_tab_unselected"/></td>
+			</tr>
+		</table>
+		<table width=1011 border=0>
+			<tr>
+				<td>
+					<!-- content -->
+					<table height=33 border=0 cellpadding=3 cellspacing=3 background="L2UI_CT1.Windows_DF_TooltipBG">
+						<tr>
+							<td width=30>Вид</td>
+							<td width=120><combobox width=80 height=10 var="view" list="All"></td>
+							<td width=34>Ранг</td>
+							<td width=120><combobox width=80 height=10 var="grade" list="%grade%;All;NONE;A;S"></td>
+							<td width=110>Ключевые слова</td>
+							<td><edit var="searchword" type="text" width=190 length=16 height=14></td>
+							<td><button action="bypass _bbsmarket:main:grade: $grade :view: $view :sch_word: $searchword" value="Поиск" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+							<td><button action="bypass _bbsmarket:main:sch_clean" value="Сброс" width=60 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+						</tr>
+					</table>
+					<table>
+						<tr>
+							<td>Тип</td>
+							<td>Список Предметов: %sch_word%</td>
+						</tr>
+						<tr>
+							<!-- Блок сортировки -->
+							<td>
+								<table background="L2UI_CT1.Windows_DF_TooltipBG" height=402 border=0>
+									<tr>
+										<td>
+											<table cellpadding=0 cellspacing=0>
+												%sort_content%
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+							<!-- Блок предметов -->
+							<td>
+								<table background="L2UI_CT1.Windows_DF_TooltipBG">
+									<tr>
+										<td align=center>
+											<table cellpadding=1 cellspacing=1 background="l2ui_ch3.tab2">
+												<tr>
+													<td width=300 align=center>Предмет</td>
+													<td width=50 align=center>Ранг</td>
+													<td width=150 align=center>Тип</td>	
+													<td width=70 align=center></td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+									<tr>
+										<td>
+											<table cellpadding=2 cellspacing=2 >
+												%content%
+												<tr>
+													<td align=center valign=top><img src="L2UI.squaregray" width=566 height=1/></td>
+												</tr>
+												<tr>
+													<td>
+														<table cellpadding=1 cellspacing=1 border=0 height=45>
+															<tr>
+																<td width=565 height=36 align=center>
+																	<table  cellpadding=3 background="l2ui_ct1.Windows_DF_TooltipBG">
+																		<tr>
+																			<td>
+																				<button action="bypass _bbsmarket:main:page_dec" value="<<" width=36 height=20 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title"/>
+																			</td>
+																			<td width=26 align=center>
+																				<font color="bbbbbb">%page%</font>
+																			</td>
+																			<td>
+																				<button action="bypass _bbsmarket:main:page_inc" value=">>" width=36 height=20 back="L2UI_CT1.ListCTRL_DF_Title_Down" fore="L2UI_CT1.ListCTRL_DF_Title"/>
+																			</td>
+																		</tr>
+																	</table>
+																</td>
+															</tr>
+														</table>
+													</td>
+												</tr>
+											</table>
+										</td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+						<tr>
+							<!-- Блок Адены -->
+							<td>
+								<table height=26 border=0>
+									<tr>
+										<td width=37>Адена</td>
+										<td><img src="icon.adena" width=16 height=16 /></td>
+										<td width=120 background="L2UI_CT1.Windows_DF_TooltipBG">&nbsp;%adena%</td>
+									</tr>
+								</table>
+							</td>
+							<!-- Блок нижних кнопок -->
+							<td align=center>
+								<table>
+									<tr>
+										<td><button action="bypass _bbsmarket:main:grade: $grade :view: $view" value="Обновить" width=80 height=26 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+										<td><button action="bypass _bbsmarket:main:clean_filters" value="Сброс" width=80 height=26 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+										<td><button action="bypass _bbshome" value="На главную" width=80 height=26 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td>
+									</tr>
+								</table>
+							</td>
+						</tr>
+					</table>
+		<!-- content end -->
+				</td>
+			</tr>
+		</table>
+		<center>
+		</center>
+	</body>
+</html>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="103" name="Hive Fortress">
+	<doors>
+		<door id="20230003" />
+		<door id="20230010" />
+		<door id="20230006" />
+		<door id="20230007" />
+		<door id="20230004" group="commander_doors" />
+		<door id="20230005" group="commander_doors" />
+		<door id="20230008" group="captain_doors" />
+		<door id="20230009" group="captain_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

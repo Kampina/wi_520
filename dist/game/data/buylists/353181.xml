@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/buylist.xsd">
+	<npcs>
+		<npc>35318</npc> <!-- Solinus -->
+	</npcs>
+	<item id="5205" price="50000" />
+	<item id="5206" price="60000" />
+	<item id="5207" price="70000" />
+	<item id="5208" price="170000" />
+	<item id="5209" price="170000" />
+	<item id="5210" price="50000" />
+	<item id="5211" price="60000" />
+	<item id="5212" price="70000" />
+	<item id="5213" price="170000" />
+	<item id="5214" price="170000" />
+</list>

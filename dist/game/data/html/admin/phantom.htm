@@ -1,0 +1,41 @@
+<html><title>Phantom Panel</title><body>
+
+
+<table width=260>
+<tr><td><button value="Main" action="bypass -h admin_admin" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="Refresh" action="bypass -h admin_phantom" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="List" action="bypass -h admin_phantom_list" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+</table><br>
+
+<font color=LEVEL>Create Phantom model (from data/parser/phantom)</font><br>
+<font color=LEVEL>LIGHT Fraction</font><br>
+<table width=260>
+<tr><td><button value="[88] Duelist" action="bypass -h admin_phantom_create_template 88" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="[92] Sagittarius" action="bypass -h admin_phantom_create_template 92" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="[94] Archmage" action="bypass -h admin_phantom_create_template 94" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="[100] Sword Muse" action="bypass -h admin_phantom_create_template 100" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="[102] Moonlight Sentinel" action="bypass -h admin_phantom_create_template 102" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="[103] Mystic Muse" action="bypass -h admin_phantom_create_template 103" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+</table><br>
+
+<font color=LEVEL>DARK Fraction</font><br>
+<table width=260>
+<tr><td><button value="[107] Spectral Dancer" action="bypass -h admin_phantom_create_template 107" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="[109] Ghost Sentinel" action="bypass -h admin_phantom_create_template 109" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="[110] Storm Screamer" action="bypass -h admin_phantom_create_template 110" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="[131] Doombringer" action="bypass -h admin_phantom_create_template 131" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="[132] Soul Hound" action="bypass -h admin_phantom_create_template 132" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="[134] Trickster" action="bypass -h admin_phantom_create_template 134" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+</table><br>
+
+<font color=LEVEL>Phantom Removal</font><br>
+<table width=260>
+<tr><td>Nickname:</td></tr>
+<tr><td><edit var="d_name" width=250 height=12></td></tr>
+<tr><td><button value="Remove nickname" action="bypass -h admin_phantom_delete $d_name" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+<tr><td><button value="Remove all phantoms" action="bypass -h admin_phantom_clear" width=250 height=20 back="L2UI_CT1.Button_DF_Down" fore="L2UI_CT1.Button_DF"></td></tr>
+</table><br>
+
+<font color=808080>Creation: name auto from NameList.txt, sex/appearance auto, level/race/fraction/equipment from XML template</font>
+
+</body></html>

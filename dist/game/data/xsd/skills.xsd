@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" attributeFormDefault="unqualified" elementFormDefault="qualified">
+	<xs:element name="list">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element maxOccurs="unbounded" name="skill">
+					<xs:complexType mixed="true">
+						<xs:sequence><xs:any processContents="skip" minOccurs="0" maxOccurs="unbounded" /></xs:sequence><xs:anyAttribute processContents="skip" /></xs:complexType>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+</xs:schema>

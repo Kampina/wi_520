@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
+	<spawn name="DawnAndMammons">
+		<group>
+			<npc id="31092" x="80129" y="56947" z="-1552" heading="32500" respawnTime="60sec" />
+			<npc id="31085" x="-82368" y="151618" z="-3120" heading="48000" respawnTime="60sec" />
+			<npc id="31080" x="16354" y="142870" z="-2696" heading="15000" respawnTime="60sec" />
+			<npc id="31089" x="112486" y="220173" z="-3592" heading="33000" respawnTime="60sec" />
+			<npc id="31082" x="111386" y="220908" z="-3544" heading="16000" respawnTime="60sec" />
+			<npc id="31079" x="-13953" y="121454" z="-2984" heading="33000" respawnTime="60sec" />
+			<npc id="31092" x="16393" y="144916" z="-3016" heading="30000" respawnTime="60sec" />
+			<npc id="31092" x="89894" y="-143791" z="-1542" heading="61479" respawnTime="60sec" />
+			<npc id="31090" x="82819" y="54657" z="-1520" heading="49000" respawnTime="60sec" />
+			<npc id="31078" x="-80555" y="150387" z="-3040" heading="45000" respawnTime="60sec" />
+			<npc id="31092" x="120493" y="76520" z="-2136" heading="35500" respawnTime="60sec" />
+			<npc id="31092" x="42924" y="-41424" z="-2188" heading="20000" respawnTime="60sec" />
+			<npc id="31084" x="146983" y="26645" z="-2200" heading="48286" respawnTime="60sec" />
+			<npc id="31083" x="83106" y="54015" z="-1488" heading="32500" respawnTime="60sec" />
+			<npc id="31092" x="146986" y="29566" z="-2271" heading="32500" respawnTime="60sec" />
+			<npc id="31092" x="113481" y="218450" z="-3624" heading="33000" respawnTime="60sec" />
+			<npc id="31088" x="81623" y="148606" z="-3464" heading="32500" respawnTime="60sec" />
+			<npc id="31092" x="144400" y="-54048" z="-2979" heading="49000" respawnTime="60sec" />
+			<npc id="31092" x="81360" y="150016" z="-3528" heading="16000" respawnTime="60sec" />
+			<npc id="31087" x="18482" y="144626" z="-3056" heading="7000" respawnTime="60sec" />
+			<npc id="31092" x="-12345" y="121695" z="-2984" heading="0" respawnTime="60sec" />
+			<npc id="31081" x="83369" y="149273" z="-3400" heading="32500" respawnTime="60sec" />
+			<npc id="31086" x="-14748" y="124045" z="-3112" heading="32172" respawnTime="60sec" />
+			<npc id="31092" x="-84745" y="151732" z="-3128" heading="50000" respawnTime="60sec" />
+			<npc id="31091" x="147570" y="28927" z="-2264" heading="13748" respawnTime="60sec" />
+		</group>
+	</spawn>
+</list>

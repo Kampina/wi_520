@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../xsd/buylist.xsd">
+	<npcs>
+		<npc>35511</npc> <!-- Gompus -->
+	</npcs>
+	<item id="7928" price="500000" />
+	<item id="7929" price="500000" />
+	<item id="7930" price="500000" />
+</list>

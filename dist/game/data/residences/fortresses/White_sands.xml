@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="108" name="White Sands Fortress">
+	<doors>
+		<door id="23240001" />
+		<door id="23240008" />
+		<door id="23240002" group="commander_doors" />
+		<door id="23240003" group="commander_doors" />
+		<door id="23240006" group="commander_doors" />
+		<door id="23240007" group="commander_doors" />
+		<door id="23240004" group="captain_doors" />
+		<door id="23240005" group="captain_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/fortData.xsd">
+	<fort id="101" name="Shanty Fortress">
+	<doors>
+		<door id="18220001" />
+		<door id="18220008" />
+		<door id="18220002" group="commander_doors" />
+		<door id="18220003" group="commander_doors" />
+		<door id="18220004" group="commander_doors" />
+		<door id="18220005" group="commander_doors" />
+		<door id="18220006" group="captain_doors" />
+		<door id="18220007" group="captain_doors" />
+	</doors>
+		<skills>
+			<skill id="590" lvl="1" />
+			<skill id="592" lvl="1" />
+			<skill id="593" lvl="1" />
+			<skill id="595" lvl="1" />
+		</skills>
+	</fort>
+</list>

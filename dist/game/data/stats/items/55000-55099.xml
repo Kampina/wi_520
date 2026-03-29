@@ -1,0 +1,1599 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <item id="55000" name="Sealed Armor of Nightmare" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="21,90,99,106,2,34,88,100,107,3,89,127,131,6,46,91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55001" name="Sealed Gaiters of Nightmare" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="21,90,99,106,2,34,88,100,107,3,89,127,131,6,46,91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55002" name="Sealed Helm of Nightmare" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="21,90,99,106,2,34,88,100,107,3,89,127,131,6,46,91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55003" name="Sealed Gauntlets of Nightmare" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="21,90,99,106,2,34,88,100,107,3,89,127,131,6,46,91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55004" name="Sealed Boots of Nightmare" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="21,90,99,106,2,34,88,100,107,3,89,127,131,6,46,91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55005" name="Sealed Shield of Nightmare" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.shield_hoplon_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="0"/>
+        <set name="soulshots" val="0"/>
+        <set name="spiritshots" val="0"/>
+        <set name="weapon_type" val="NONE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="5,20,33,90,99,106"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55006" name="Sealed Nightmarish Leather Chest" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,9,23,24,36,37,48,92,93,101,102,108,109,114,130,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55007" name="Sealed Nightmarish Leather Leggins" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t81_ul_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,9,23,24,36,37,48,92,93,101,102,108,109,114,130,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55008" name="Sealed Helm of Nightmare" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,9,23,24,36,37,48,92,93,101,102,108,109,114,130,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55009" name="Sealed Gauntlets of Nightmare" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,9,23,24,36,37,48,92,93,101,102,108,109,114,130,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55010" name="Sealed Boots of Nightmare" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,9,23,24,36,37,48,92,93,101,102,108,109,114,130,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55011" name="Sealed Nightmare Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55012" name="Sealed Nightmare Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55013" name="Sealed Helm of Nightmare" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55014" name="Sealed Gauntlets of Nightmare" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55015" name="Sealed Boots of Nightmare" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55016" name="Sealed Majestic Plate Armor" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="21,90,99,106,2,34,88,100,107,3,89,127,131,6,46,91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55017" name="Sealed Majestic Gaiters" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="21,90,99,106,2,34,88,100,107,3,89,127,131,6,46,91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55018" name="Sealed Majestic Plate Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="21,90,99,106,2,34,88,100,107,3,89,127,131,6,46,91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55019" name="Sealed Majestic Gauntlets" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="21,90,99,106,2,34,88,100,107,3,89,127,131,6,46,91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55020" name="Sealed Majestic Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="21,90,99,106,2,34,88,100,107,3,89,127,131,6,46,91,113"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55021" name="Sealed Majestic Leather Chest" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,9,23,24,36,37,48,92,93,101,102,108,109,114,130,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55022" name="Sealed Majestic Leggings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,9,23,24,36,37,48,92,93,101,102,108,109,114,130,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55023" name="Sealed Majestic Leather Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,9,23,24,36,37,48,92,93,101,102,108,109,114,130,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55024" name="Sealed Majestic Gauntlets" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,9,23,24,36,37,48,92,93,101,102,108,109,114,130,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55025" name="Sealed Majestic Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="8,9,23,24,36,37,48,92,93,101,102,108,109,114,130,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55026" name="Sealed Majestic Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+    </item>
+    <item id="55027" name="Sealed Majestic Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55028" name="Sealed Majestic Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55029" name="Sealed Majestic Gauntlets" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55030" name="Sealed Majestic Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="12,13,14,15,16,17,27,28,29,30,40,41,42,43,94,95,96,97,98,103,104,105,110,111,112,128,129,132,133,135,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55031" name="Sealed Imperial Crusader Breastplate" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55032" name="Sealed Imperial Crusader Gaiters" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55033" name="Sealed Imperial Crusader Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55034" name="Sealed Imperial Crusader Gauntlets" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55035" name="Sealed Imperial Crusader Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55036" name="Sealed Imperial Crusader Shield" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.shield_hoplon_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="0"/>
+        <set name="soulshots" val="0"/>
+        <set name="spiritshots" val="0"/>
+        <set name="weapon_type" val="NONE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55037" name="Sealed Draconic Leather Chest" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55038" name="Sealed Draconic Leather Leggings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55039" name="Sealed Draconic Leather Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55040" name="Sealed Draconic Leather Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55041" name="Sealed Draconic Leather Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55042" name="Sealed Major Arcana Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+    </item>
+    <item id="55043" name="Sealed Major Arcana Stocings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55044" name="Sealed Major Arcana Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55045" name="Sealed Major Arcana Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55046" name="Sealed Major Arcana Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55047" name="Sealed Dynasty Breast Plate" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55048" name="Sealed Dynasty Gaiter" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55049" name="Sealed Dynasty Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55050" name="Sealed Dynasty Gauntlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55051" name="Sealed Dynasty Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55052" name="Sealed Dynasty Shield" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.shield_hoplon_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="0"/>
+        <set name="soulshots" val="0"/>
+        <set name="spiritshots" val="0"/>
+        <set name="weapon_type" val="NONE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+                <player isNoble="true"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55053" name="Sealed Dynasty Leather Chest" type="Armor">
+        <set name="crystal_count" val="878"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55054" name="Sealed Dynasty Leather Leggings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55055" name="Sealed Dynasty Leather Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55056" name="Sealed Dynasty Leather Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55057" name="Sealed Dynasty Leather Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55058" name="Sealed Dynasty Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55059" name="Sealed Dynasty Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55060" name="Sealed Dynasty Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55061" name="Sealed Dynasty Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55062" name="Sealed Dynasty Shoes" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55063" name="Sealed Vesper Breastplate" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55064" name="Sealed Vesper Gaiter" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.weapon_voodoo_doll_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55065" name="Sealed Vesper Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55066" name="Sealed Vesper Gauntlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t62_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55067" name="Sealed Vesper Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t62_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="HEAVY"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="88,89,90,91,99,100,106,107,113,127,131"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="50068" name="Sealed Vesper Shield" type="Weapon">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.shield_hoplon_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="rnd_dam" val="0"/>
+        <set name="soulshots" val="0"/>
+        <set name="spiritshots" val="0"/>
+        <set name="weapon_type" val="NONE"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="lhand"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="90,99,106"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55069" name="Sealed Vesper Leather Chest" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55070" name="Sealed Vesper Leather Leggings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55071" name="Sealed Vesper Leather Helmet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_leather_helmet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55072" name="Sealed Vesper Leather Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55073" name="Sealed Vesper Leather Boots" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t47_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="LIGHT"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="92,93,101,102,108,109,114,134"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55074" name="Sealed Vesper Tunic" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_u_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="chest"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55075" name="Sealed Vesper Stockings" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_l_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="legs"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55076" name="Sealed Vesper Circlet" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_circlet_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="head"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55077" name="Sealed Vesper Gloves" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_g_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="gloves"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55078" name="Sealed Vesper Shoes" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.armor_t53_b_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="feet"/>
+        <conditions msgId="1518">
+            <and>
+                <player class_id_restriction="94,95,96,97,98,103,104,105,110,111,112,132,133,136"/>
+            </and>
+        </conditions>
+    </item>
+    <item id="55079" name="Ring Of Black Ore" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="B"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_ring_of_black_ore_i00"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_finger"/>
+        <set name="bodypart" val="left_finger"/>
+        <stats>
+            <stat type="mDef">36</stat>
+        </stats>
+    </item>
+    <item id="55080" name="Earring Of Black Ore" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="B"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_Earring_of_black_ore_i00"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_ear"/>
+        <set name="bodypart" val="left_ear"/>
+        <stats>
+            <stat type="mDef">54</stat>
+        </stats>
+    </item>
+    <item id="55081" name="Necklace Of Black Ore" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="B"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_necklace_of_black_ore_i00"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="is_sellable" val="false"/>
+        <set name="is_tradable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="necklace"/>
+        <stats>
+            <stat type="mDef">72</stat>
+        </stats>
+    </item>
+    <item id="55082" name="Sealed Majestic Ring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_ring_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_finger"/>
+        <set name="bodypart" val="left_finger"/>
+    </item>
+    <item id="55083" name="Sealed Majestic Ring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_Earring_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_ear"/>
+        <set name="bodypart" val="left_ear"/>
+    </item>
+    <item id="55084" name="Sealed Majestic Ring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_necklace_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="necklace"/>
+    </item>
+    <item id="55085" name="Phoenix Ring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_ring_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_finger"/>
+        <set name="bodypart" val="left_finger"/>
+        <stats>
+            <stat type="mDef">40</stat>
+            <stat type="maxMp">13</stat>
+        </stats>
+    </item>
+    <item id="55086" name="Phoenix Earring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_Earring_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_ear"/>
+        <set name="bodypart" val="left_ear"/>
+        <stats>
+            <stat type="mDef">60</stat>
+            <stat type="maxMp">20</stat>
+        </stats>
+    </item>
+    <item id="55087" name="Phoenix Necklace" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_necklace_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="necklace"/>
+        <stats>
+            <stat type="mDef">80</stat>
+            <stat type="maxMp">26</stat>
+        </stats>
+    </item>
+    <item id="55088" name="Majestic Ring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_ring_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_finger"/>
+        <set name="bodypart" val="left_finger"/>
+        <stats>
+            <stat type="mDef">42</stat>
+            <stat type="maxMp">17</stat>
+        </stats>
+    </item>
+    <item id="55089" name="Majestic Earring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_Earring_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_ear"/>
+        <set name="bodypart" val="left_ear"/>
+        <stats>
+            <stat type="mDef">63</stat>
+            <stat type="maxMp">25</stat>
+        </stats>
+    </item>
+    <item id="55090" name="Majestic Necklace" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_necklace_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="necklace"/>
+        <stats>
+            <stat type="mDef">85</stat>
+            <stat type="maxMp">33</stat>
+        </stats>
+    </item>
+    <item id="55091" name="Majestic Ring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_ring_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_finger"/>
+        <set name="bodypart" val="left_finger"/>
+        <skills>
+            <skill id="50058" level="1"/>
+        </skills>
+        <stats>
+            <stat type="mDef">42</stat>
+            <stat type="maxMp">17</stat>
+        </stats>
+    </item>
+    <item id="55092" name="Majestic Earring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_Earring_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_ear"/>
+        <set name="bodypart" val="left_ear"/>
+        <skills>
+            <skill id="50058" level="1"/>
+        </skills>
+        <stats>
+            <stat type="mDef">63</stat>
+            <stat type="maxMp">25</stat>
+        </stats>
+    </item>
+    <item id="55093" name="Majestic Necklace" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="A"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessary_inferno_necklace_i00"/>
+        <set name="is_sellable" val="false"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="necklace"/>
+        <skills>
+            <skill id="50058" level="1"/>
+        </skills>
+        <stats>
+            <stat type="mDef">85</stat>
+            <stat type="maxMp">33</stat>
+        </stats>
+    </item>
+    <item id="55094" name="Sealed Tateossian Ring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessory_tateossian_ring_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_finger"/>
+        <set name="bodypart" val="left_finger"/>
+        <conditions>
+            <player min_class_level="4"/>
+        </conditions>
+    </item>
+    <item id="55095" name="Sealed Tateossian Earring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessory_tateossian_earring_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_ear"/>
+        <set name="bodypart" val="left_ear"/>
+        <conditions>
+            <player min_class_level="4"/>
+        </conditions>
+    </item>
+    <item id="55096" name="Sealed Tateossian Necklace" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessory_tateossian_necklace_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="necklace"/>
+        <conditions>
+            <player min_class_level="4"/>
+        </conditions>
+    </item>
+    <item id="55097" name="Tateossian Ring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessory_tateossian_ring_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_finger"/>
+        <set name="bodypart" val="left_finger"/>
+        <conditions>
+            <player min_class_level="4"/>
+        </conditions>
+        <stats>
+            <stat type="mDef">48</stat>
+            <stat type="maxMp">21</stat>
+        </stats>
+    </item>
+    <item id="55098" name="Tateossian Earring" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessory_tateossian_earring_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="right_ear"/>
+        <set name="bodypart" val="left_ear"/>
+        <conditions>
+            <player min_class_level="4"/>
+        </conditions>
+        <stats>
+            <stat type="mDef">71</stat>
+            <stat type="maxMp">31</stat>
+        </stats>
+    </item>
+    <item id="55099" name="Tateossian Necklace" type="Armor">
+        <set name="crystal_count" val="0"/>
+        <set name="crystal_type" val="S"/>
+        <set name="is_crystallizable" val="false"/>
+        <set name="attributable" val="false"/>
+        <set name="icon" val="icon.accessory_tateossian_necklace_i00"/>
+        <set name="armor_type" val="MAGIC"/>
+        <set name="weight" val="0"/>
+        <set name="bodypart" val="necklace"/>
+        <conditions>
+            <player min_class_level="4"/>
+        </conditions>
+        <stats>
+            <stat type="mDef">95</stat>
+            <stat type="maxMp">42</stat>
+        </stats>
+    </item>
+</list>
