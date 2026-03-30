@@ -59,9 +59,7 @@
 				<attackSkillId>87105</attackSkillId> <!-- Rapid Frantic Pace: Sword Muse -->
 				<attackerType>Creature</attackerType>
 				<minDamage>50</minDamage>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>87107</skillId> <!-- Rapid Frantic Pace: Sword Muse -->
@@ -157,9 +155,7 @@
 				<attackSkillId>87106</attackSkillId> <!-- Rapid Frantic Pace: Dancer -->
 				<attackerType>Creature</attackerType>
 				<minDamage>50</minDamage>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>87108</skillId> <!-- Rapid Frantic Pace: Dancer -->
@@ -283,9 +279,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">66</value>
-	</chance>
+				<chance>66</chance>
 				<targetType>TARGET</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -384,9 +378,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">66</value>
-	</chance>
+				<chance>66</chance>
 				<targetType>TARGET</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1149,9 +1141,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<minDamage>50</minDamage>
 				<skillId>53007</skillId> <!-- Power Stance -->
@@ -1863,9 +1853,7 @@
 				<attackSkillId>87105</attackSkillId> <!-- Rapid Frantic Pace: Sword Muse -->
 				<attackerType>Creature</attackerType>
 				<minDamage>50</minDamage>
-				<chance>
-		<value level="1">35</value>
-	</chance>
+				<chance>35</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>87107</skillId> <!-- Rapid Frantic Pace: Sword Muse -->
@@ -1930,9 +1918,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>87106</attackSkillId> <!-- Rapid Frantic Pace: Dancer -->
-				<chance>
-		<value level="1">35</value>
-	</chance>
+				<chance>35</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87108</skillId> <!-- Rapid Frantic Pace: Dancer -->
 				<skillLevel>1</skillLevel>
@@ -2160,18 +2146,14 @@
 				<castSkillId>28</castSkillId>
 				<skillId>87158</skillId> <!-- Power of Aggression -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87159</castSkillId>
 				<skillId>87158</skillId> <!-- Power of Aggression -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 			</effect>
 		</effects>
@@ -2478,9 +2460,7 @@
 				<castSkillId>45051</castSkillId>
 				<skillId>45052</skillId> <!-- Power of Aggression -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 			</effect>
 		</effects>

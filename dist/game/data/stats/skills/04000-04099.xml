@@ -299,9 +299,7 @@
 		<magicLevel>40</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">271</value>
-	</power>
+				<power>271</power>
 			</effect>
 		</effects>
 	</skill>
@@ -328,9 +326,7 @@
 		<trait>SUPPRESSION</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">542</value>
-	</power>
+				<power>542</power>
 			</effect>
 			<effect name="Speed">
 				<amount>-30</amount>
@@ -363,9 +359,7 @@
 		<trait>SUPPRESSION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">30</value>
-	</power>
+				<power>30</power>
 				<ticks>3</ticks>
 			</effect>
 			<effect name="Speed">
@@ -388,9 +382,7 @@
 		<magicLevel>35</magicLevel>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">10846</value>
-	</power>
+				<power>10846</power>
 			</effect>
 		</effects>
 	</skill>
@@ -432,9 +424,7 @@
 		<magicLevel>35</magicLevel>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">10846</value>
-	</power>
+				<power>10846</power>
 			</effect>
 		</effects>
 	</skill>
@@ -559,9 +549,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">43</value>
-	</power>
+				<power>43</power>
 			</effect>
 		</effects>
 	</skill>
@@ -582,9 +570,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">628</value>
-	</power>
+				<power>628</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1529,9 +1515,7 @@
 		<mpInitialConsume>8</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">60</value>
-	</power>
+				<power>60</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1556,9 +1540,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">30</value>
-	</power>
+				<power>30</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1579,9 +1561,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">427</value>
-	</power>
+				<power>427</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2330,9 +2310,7 @@
 		<trait>PARALYZE</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">916</value>
-	</power>
+				<power>916</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -3243,9 +3221,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">665060</value>
-	</power>
+				<power>665060</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3265,9 +3241,7 @@
 		<mpInitialConsume>20</mpInitialConsume>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">628</value>
-	</power>
+				<power>628</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3309,9 +3283,7 @@
 		<effects>
 			<effect name="DamOverTime">
 				<canKill>true</canKill>
-				<power>
-		<value level="1">30</value>
-	</power>
+				<power>30</power>
 				<ticks>3</ticks>
 			</effect>
 			<effect name="Root" />
@@ -3331,9 +3303,7 @@
 		<magicLevel>70</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">90000</value>
-	</power>
+				<power>90000</power>
 			</effect>
 		</effects>
 	</skill>

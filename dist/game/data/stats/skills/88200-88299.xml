@@ -822,14 +822,10 @@
 		</effects>
 		<selfEffects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">20</value>
-	</power>
+				<power>20</power>
 			</effect>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">5</value>
-	</power>
+				<power>5</power>
 			</effect>
 		</selfEffects>
 	</skill>
@@ -1658,14 +1654,10 @@
 		</effects>
 		<selfEffects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">40</value>
-	</power>
+				<power>40</power>
 			</effect>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">10</value>
-	</power>
+				<power>10</power>
 			</effect>
 		</selfEffects>
 	</skill>
@@ -1820,14 +1812,10 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="HpCpHeal">
-				<power>
-		<value level="1">1000</value>
-	</power>
+				<power>1000</power>
 			</effect>
 			<effect name="ManaHeal">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 			</effect>
 			<effect name="DispelByCategory">
 				<slot>DEBUFF</slot>
@@ -1886,14 +1874,10 @@
 		</effects>
 		<selfEffects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">40</value>
-	</power>
+				<power>40</power>
 			</effect>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">10</value>
-	</power>
+				<power>10</power>
 			</effect>
 		</selfEffects>
 	</skill>
@@ -1934,14 +1918,10 @@
 		</effects>
 		<selfEffects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">40</value>
-	</power>
+				<power>40</power>
 			</effect>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">10</value>
-	</power>
+				<power>10</power>
 			</effect>
 		</selfEffects>
 	</skill>
@@ -2092,14 +2072,10 @@
 		</effects>
 		<selfEffects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">40</value>
-	</power>
+				<power>40</power>
 			</effect>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">10</value>
-	</power>
+				<power>10</power>
 			</effect>
 		</selfEffects>
 	</skill>
@@ -2140,14 +2116,10 @@
 		</effects>
 		<selfEffects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">40</value>
-	</power>
+				<power>40</power>
 			</effect>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">10</value>
-	</power>
+				<power>10</power>
 			</effect>
 		</selfEffects>
 	</skill>
@@ -2222,23 +2194,17 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">600</value>
-	</power>
+				<power>600</power>
 				<ticks>1</ticks>
 			</effect>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<ticks>1</ticks>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>88240</skillId> <!-- Elemental Cleanse -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3495,9 +3461,7 @@
 		<reuseDelay>500</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">450</value>
-	</power>
+				<power>450</power>
 				<repeatCount>1</repeatCount>
 			</effect>
 			<effect name="CallSkill">
@@ -3523,9 +3487,7 @@
 		<reuseDelay>500</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3546,9 +3508,7 @@
 		<reuseDelay>500</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">580</value>
-	</power>
+				<power>580</power>
 				<repeatCount>1</repeatCount>
 			</effect>
 			<effect name="CallSkill">
@@ -3841,9 +3801,7 @@
 		</conditions>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">350</value>
-	</power>
+				<power>350</power>
 				<repeatCount>3</repeatCount>
 			</effect>
 			<effect name="CallSkill">
@@ -3897,9 +3855,7 @@
 		</conditions>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">480</value>
-	</power>
+				<power>480</power>
 				<repeatCount>3</repeatCount>
 			</effect>
 			<effect name="CallSkill">

@@ -76,9 +76,7 @@
 					<value level="5">5</value>
 					<value level="6">6</value>
 				</skillLevel>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 			</effect>
 		</effects>
 	</skill>

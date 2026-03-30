@@ -64,9 +64,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">16</value>
-	</power>
+				<power>16</power>
 			</effect>
 			<effect name="BlockActions" />
 			<effect name="PhysicalDefence">
@@ -698,9 +696,7 @@
 		<mpConsume>78</mpConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">187</value>
-	</power>
+				<power>187</power>
 			</effect>
 		</effects>
 	</skill>
@@ -836,9 +832,7 @@
 					<value level="3">8</value>
 					<value level="4">9</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1284,9 +1278,7 @@
 		<reuseDelay>8000</reuseDelay>
 		<effects>
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -4146,9 +4138,7 @@
 		<magicLevel>40</magicLevel>
 		<effects>
 			<effect name="TargetMeProbability">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -5193,9 +5183,7 @@
 		<trait>VALAKAS</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">30416</value>
-	</power>
+				<power>30416</power>
 				<criticalChance>10</criticalChance>
 			</effect>
 		</effects>
@@ -5221,9 +5209,7 @@
 		<trait>VALAKAS</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">30416</value>
-	</power>
+				<power>30416</power>
 				<criticalChance>10</criticalChance>
 			</effect>
 		</effects>
@@ -5257,14 +5243,10 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">648</value>
-	</power>
+				<power>648</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">216</value>
-	</power>
+				<power>216</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -5298,14 +5280,10 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">648</value>
-	</power>
+				<power>648</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">216</value>
-	</power>
+				<power>216</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -5328,9 +5306,7 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">48391</value>
-	</power>
+				<power>48391</power>
 				<criticalChance>10</criticalChance>
 			</effect>
 		</effects>
@@ -5352,9 +5328,7 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">157</value>
-	</power>
+				<power>157</power>
 			</effect>
 		</effects>
 	</skill>
@@ -5431,9 +5405,7 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">1084</value>
-	</power>
+				<power>1084</power>
 			</effect>
 		</effects>
 	</skill>

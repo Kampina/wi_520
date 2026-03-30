@@ -16,16 +16,26 @@
  */
 package handlers.effecthandlers;
 
-import handlers.util.FortCaptureHelper;
-
+import org.l2jmobius.gameserver.managers.FortManager;
+import org.l2jmobius.gameserver.managers.FortSiegeManager;
+import org.l2jmobius.gameserver.managers.MailManager;
+import org.l2jmobius.gameserver.model.Message;
 import org.l2jmobius.gameserver.model.StatSet;
 import org.l2jmobius.gameserver.model.actor.Creature;
 import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.effects.AbstractEffect;
+import org.l2jmobius.gameserver.model.item.enums.ItemProcessType;
 import org.l2jmobius.gameserver.model.item.instance.Item;
+import org.l2jmobius.gameserver.model.itemcontainer.Inventory;
+import org.l2jmobius.gameserver.model.itemcontainer.Mail;
 import org.l2jmobius.gameserver.model.siege.Fort;
 import org.l2jmobius.gameserver.model.skill.Skill;
+import org.l2jmobius.gameserver.network.enums.MailType;
 
+/**
+ * Take Fort effect implementation.
+ * @author Adry_85
+ */
 public class TakeFort extends AbstractEffect
 {
 	public TakeFort(StatSet params)
@@ -41,13 +51,28 @@ public class TakeFort extends AbstractEffect
 	@Override
 	public void instant(Creature effector, Creature effected, Skill skill, Item item)
 	{
-		final Fort fort = FortCaptureHelper.validateTakeFort(effector, skill, effector.getTarget(), false);
-		if (fort == null)
+		if (!effector.isPlayer())
 		{
 			return;
 		}
 		
-		final Player player = effector.asPlayer();
-		fort.setOwner(player.getClan(), true);
+		final Fort fort = FortManager.getInstance().getFort(effector);
+		if ((fort != null) && (fort.getResidenceId() == FortManager.ORC_FORTRESS))
+		{
+			if (fort.getSiege().isInProgress())
+			{
+				fort.endOfSiege(effector.getClan());
+				if (effector.isPlayer())
+				{
+					final Player player = effector.asPlayer();
+					FortSiegeManager.getInstance().dropCombatFlag(player, FortManager.ORC_FORTRESS);
+					
+					final Message mail = new Message(player.getObjectId(), "Orc Fortress", "", MailType.NPC);
+					final Mail attachment = mail.createAttachments();
+					attachment.addItem(ItemProcessType.REWARD, Inventory.ADENA_ID, 30_000_000, player, player);
+					MailManager.getInstance().sendMessage(mail);
+				}
+			}
+		}
 	}
 }

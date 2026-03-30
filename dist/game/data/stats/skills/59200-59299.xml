@@ -533,9 +533,7 @@
 		<trait>PARALYZE</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="BlockActions" />

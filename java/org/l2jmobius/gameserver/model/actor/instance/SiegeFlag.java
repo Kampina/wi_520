@@ -38,7 +38,7 @@ public class SiegeFlag extends Npc
 {
 	public enum HeadquarterType
 	{
-		PARTY,
+		PARTY, CLAN,
 		PERSONAL
 	}
 

@@ -321,9 +321,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">128</value>
-	</power>
+				<power>128</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -421,9 +419,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">123</value>
-	</power>
+				<power>123</power>
 				<ticks>3</ticks>
 			</effect>
 			<effect name="BlockSkill">

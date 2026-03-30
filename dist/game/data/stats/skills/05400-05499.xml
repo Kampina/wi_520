@@ -603,9 +603,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="ManaHealByLevel">
-				<power>
-		<value level="1">49</value>
-	</power>
+				<power>49</power>
 			</effect>
 		</effects>
 	</skill>
@@ -623,9 +621,7 @@
 		<magicLevel>79</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">115</value>
-	</power>
+				<power>115</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1946,9 +1942,7 @@
 		<effects>
 			<effect name="DamOverTime">
 				<canKill>true</canKill>
-				<power>
-		<value level="1">30</value>
-	</power>
+				<power>30</power>
 				<ticks>3</ticks>
 			</effect>
 			<effect name="Root" />
@@ -2060,14 +2054,10 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2616</value>
-	</power>
+				<power>2616</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">71</value>
-	</power>
+				<power>71</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -2091,9 +2081,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">607</value>
-	</power>
+				<power>607</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2122,15 +2110,11 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2319</value>
-	</power>
+				<power>2319</power>
 			</effect>
 			<effect name="BlockActions" />
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">52</value>
-	</power>
+				<power>52</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -2148,9 +2132,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="TargetMeProbability">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2172,9 +2154,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 			</effect>
 		</effects>
 	</skill>

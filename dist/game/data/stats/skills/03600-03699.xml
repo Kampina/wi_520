@@ -215,9 +215,7 @@
 					<value level="9">47</value>
 					<value level="10">50</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="PhysicalAttack">
 				<amount>
@@ -544,9 +542,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Power of Apella -->
 				<attackerType>Playable</attackerType>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<minDamage>50</minDamage>
 				<skillId>5605</skillId> <!-- Power of Apella -->
@@ -618,9 +614,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Power of Apella -->
 				<attackerType>Playable</attackerType>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<minDamage>50</minDamage>
 				<skillId>5607</skillId> <!-- Power of Apella -->
@@ -692,9 +686,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Power of Apella -->
 				<attackerType>Playable</attackerType>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<minDamage>50</minDamage>
 				<skillId>5608</skillId> <!-- Power of Apella -->
@@ -1120,9 +1112,7 @@
 					<value level="9">47</value>
 					<value level="10">50</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="PhysicalAttack">
 				<amount>
@@ -1353,9 +1343,7 @@
 		<reuseDelay>60000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">11500</value>
-	</power>
+				<power>11500</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1376,9 +1364,7 @@
 		<reuseDelay>60000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 			</effect>
 		</effects>
 	</skill>

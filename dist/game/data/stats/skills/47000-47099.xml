@@ -287,9 +287,7 @@
 					<value level="39">6</value> <!-- FIXME: AUTO GENERATED LEVEL -->
 					<value level="40">6</value> <!-- FIXME: AUTO GENERATED LEVEL -->
 				</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1508,17 +1506,13 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">6550</value>
-	</power>
+				<power>6550</power>
 				<pDefMod>0.9</pDefMod>
 				<criticalChance>15</criticalChance>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">6550</value>
-	</power>
+				<power>6550</power>
 				<pDefMod>0.9</pDefMod>
 				<criticalChance>15</criticalChance>
 				<overHit>true</overHit>
@@ -1551,17 +1545,13 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">6550</value>
-	</power>
+				<power>6550</power>
 				<pDefMod>0.9</pDefMod>
 				<criticalChance>15</criticalChance>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">6550</value>
-	</power>
+				<power>6550</power>
 				<pDefMod>0.9</pDefMod>
 				<criticalChance>15</criticalChance>
 				<overHit>true</overHit>
@@ -3241,9 +3231,7 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>
@@ -3361,9 +3349,7 @@
 		</conditions>
 		<effects>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>

@@ -471,9 +471,7 @@
 				<attackSkillId>1230</attackSkillId> <!-- Prominence -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>3047457</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -482,9 +480,7 @@
 				<attackSkillId>1148</attackSkillId> <!-- Death Spike -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>3047457</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -493,9 +489,7 @@
 				<attackSkillId>1235</attackSkillId> <!-- Hydro Blast -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>3047457</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -504,9 +498,7 @@
 				<attackSkillId>1239</attackSkillId> <!-- Hurricane -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>3047457</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -515,9 +507,7 @@
 				<attackSkillId>45378</attackSkillId> <!-- Flame Explosion -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>3047457</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -526,9 +516,7 @@
 				<attackSkillId>45379</attackSkillId> <!-- Mystic Explosion -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>3047457</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -537,9 +525,7 @@
 				<attackSkillId>45380</attackSkillId> <!-- Thunder Explosion -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>3047457</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -548,9 +534,7 @@
 				<attackSkillId>45381</attackSkillId> <!-- Void Explosion -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>3047457</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>

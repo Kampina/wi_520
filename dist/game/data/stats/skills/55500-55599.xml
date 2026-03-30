@@ -447,9 +447,7 @@
 		</conditions>
 		<effects>
 			<effect name="Resurrection">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -469,7 +467,7 @@
 		<!-- Can mount an Elk. -->
 		<operateType>A1</operateType>
 		<effectPoint>1</effectPoint>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 	</skill>
 	<skill id="55557" toLevel="1" name="Babayaga's Courage">
 		<!-- PvE Damage +3% received PvE damage -3%. -->
@@ -550,7 +548,7 @@
 		<!-- Allows to mount a Golden Lion. -->
 		<operateType>A1</operateType>
 		<effectPoint>1</effectPoint>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 	</skill>
 	<skill id="55571" toLevel="1" name="Golden Maned Lion's Invisibility">
 		<!-- Makes a character invisible and invincible to enemy attacks. Speed -30%. Disappears if your character attacks. -->
@@ -563,7 +561,7 @@
 		<!-- Allows to mount Princess Ant. -->
 		<operateType>A1</operateType>
 		<effectPoint>1</effectPoint>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 	</skill>
 	<skill id="55573" toLevel="1" name="Princess Ant's Invisibility">
 		<!-- Makes a character invisible and invincible to enemy attacks. Speed -30%. Disappears if your character attacks. -->

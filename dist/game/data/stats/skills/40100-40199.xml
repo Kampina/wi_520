@@ -614,7 +614,7 @@
 		<operateType>A1</operateType>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
-		<hitTime>0</hitTime>
+		<hitTime>1500</hitTime>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<itemConsumeCount>1</itemConsumeCount>
 		<itemConsumeId>93485</itemConsumeId> <!-- Spellbook: Mount Wyvern -->
@@ -633,7 +633,7 @@
 		<affectScope>SINGLE</affectScope>
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<excludedFromCheck>true</excludedFromCheck>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<effects>
 			<effect name="Ride">
@@ -765,9 +765,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>6</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1139,17 +1137,13 @@
 				<skillId>55000</skillId> <!-- Acquired XP/ SP -->
 				<skillLevel>1</skillLevel>
 				<targetType>SELF</targetType>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="TriggerSkill">
 				<skillId>55000</skillId> <!-- Acquired XP/ SP -->
 				<skillLevel>3</skillLevel>
 				<targetType>SELF</targetType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 			</effect>
 		</effects>
 	</skill>

@@ -74,9 +74,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">5000</value>
-	</power>
+				<power>5000</power>
 				<powerModifier>100</powerModifier>
 			</effect>
 		</effects>
@@ -870,9 +868,7 @@
 		<effects>
 			<effect name="MpVampiricAttack">
 				<amount>8</amount>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -893,9 +889,7 @@
 			<effect name="VampiricAttack">
 				<amount>8</amount>
 				<mode>PER</mode>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1337,9 +1331,7 @@
 		<effects>
 			<effect name="MpVampiricAttack">
 				<amount>8</amount>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1360,9 +1352,7 @@
 			<effect name="VampiricAttack">
 				<amount>8</amount>
 				<mode>PER</mode>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 			</effect>
 		</effects>
 	</skill>

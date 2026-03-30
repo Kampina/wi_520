@@ -15,9 +15,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -37,9 +35,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -235,9 +231,7 @@
 		<nextAction>ATTACK</nextAction>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -266,9 +260,7 @@
 		<nextAction>ATTACK</nextAction>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -442,9 +434,7 @@
 		<nextAction>ATTACK</nextAction>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -472,9 +462,7 @@
 		<hitTime>6000</hitTime>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -492,9 +480,7 @@
 		<hitTime>6000</hitTime>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -658,9 +644,7 @@
 		<reuseDelay>4000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">1010</value>
-	</power>
+				<power>1010</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -687,9 +671,7 @@
 		<affectScope>SINGLE</affectScope>
 		<effects>
 			<effect name="RealDamage">
-				<power>
-		<value level="1">5</value>
-	</power>
+				<power>5</power>
 				<mode>PER</mode>
 			</effect>
 		</effects>

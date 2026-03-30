@@ -206,9 +206,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -218,9 +216,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -297,9 +293,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -309,9 +303,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -388,9 +380,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -400,9 +390,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -476,9 +464,7 @@
 		<reuseDelay>20000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -611,9 +597,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">128</value>
-	</power>
+				<power>128</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>

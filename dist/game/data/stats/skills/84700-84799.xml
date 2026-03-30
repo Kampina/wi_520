@@ -14,9 +14,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80067</skillId> <!-- Arcane Power Break -->
@@ -34,9 +32,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80067</skillId> <!-- Arcane Power Break -->
@@ -54,9 +50,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80067</skillId> <!-- Arcane Power Break -->
@@ -74,9 +68,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80067</skillId> <!-- Arcane Power Break -->
@@ -94,9 +86,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80067</skillId> <!-- Arcane Power Break -->
@@ -114,9 +104,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80067</skillId> <!-- Arcane Power Break -->
@@ -134,9 +122,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80067</skillId> <!-- Arcane Power Break -->
@@ -154,9 +140,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80067</skillId> <!-- Arcane Power Break -->
@@ -174,9 +158,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80067</skillId> <!-- Arcane Power Break -->
@@ -194,9 +176,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80067</skillId> <!-- Arcane Power Break -->
@@ -214,9 +194,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80068</skillId> <!-- Arcane Magic Break -->
@@ -234,9 +212,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80068</skillId> <!-- Arcane Magic Break -->
@@ -254,9 +230,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80068</skillId> <!-- Arcane Magic Break -->
@@ -274,9 +248,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80068</skillId> <!-- Arcane Magic Break -->
@@ -294,9 +266,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80068</skillId> <!-- Arcane Magic Break -->
@@ -314,9 +284,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80068</skillId> <!-- Arcane Magic Break -->
@@ -334,9 +302,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80068</skillId> <!-- Arcane Magic Break -->
@@ -354,9 +320,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80068</skillId> <!-- Arcane Magic Break -->
@@ -374,9 +338,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80068</skillId> <!-- Arcane Magic Break -->
@@ -394,9 +356,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>100</minDamage>
 				<skillId>80068</skillId> <!-- Arcane Magic Break -->

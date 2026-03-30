@@ -1094,9 +1094,7 @@
 			</effect>
 			<effect name="VampiricAttack" fromLevel="2" toLevel="3">
 				<amount>3</amount>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="MagicalDefence" fromLevel="2" toLevel="3">
 				<amount>4</amount>
@@ -2684,9 +2682,7 @@
 		<effects>
 			<effect name="MpVampiricAttack">
 				<amount>3</amount>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 	</skill>

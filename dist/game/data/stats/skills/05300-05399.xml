@@ -1916,9 +1916,7 @@
 		</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">250</value>
-	</power>
+				<power>250</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2203,9 +2201,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12777</value>
-	</power>
+				<power>12777</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2369,9 +2365,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12777</value>
-	</power>
+				<power>12777</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2856,9 +2850,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12777</value>
-	</power>
+				<power>12777</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3008,9 +3000,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12777</value>
-	</power>
+				<power>12777</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3190,9 +3180,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12777</value>
-	</power>
+				<power>12777</power>
 			</effect>
 		</effects>
 	</skill>
@@ -5228,9 +5216,7 @@
 		<mpInitialConsume>16</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">657</value>
-	</power>
+				<power>657</power>
 			</effect>
 		</effects>
 	</skill>
@@ -5253,9 +5239,7 @@
 		<magicLevel>1</magicLevel>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">75</value>
-	</power>
+				<power>75</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>

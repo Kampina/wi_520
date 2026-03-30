@@ -147,9 +147,7 @@
 		</conditions>
 		<effects>
 			<effect name="Resurrection">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>

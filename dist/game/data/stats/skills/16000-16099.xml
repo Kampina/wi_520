@@ -465,14 +465,10 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">350000</value>
-	</power>
+				<power>350000</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">250</value>
-	</power>
+				<power>250</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -503,9 +499,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="RealDamage">
-				<power>
-		<value level="1">100000</value>
-	</power>
+				<power>100000</power>
 			</effect>
 		</effects>
 	</skill>

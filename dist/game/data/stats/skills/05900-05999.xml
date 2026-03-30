@@ -32,9 +32,7 @@
 				<!-- NPC Trigger Target Cancel -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">90</value>
-	</chance>
+				<chance>90</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -82,9 +80,7 @@
 				<!-- NPC Trigger Target Cancel -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">90</value>
-	</chance>
+				<chance>90</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -303,9 +299,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">3100</value>
-	</power>
+				<power>3100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -323,9 +317,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">5200</value>
-	</power>
+				<power>5200</power>
 			</effect>
 		</effects>
 	</skill>
@@ -365,9 +357,7 @@
 				<!-- Putrefaction Cleanse -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>TARGET</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -555,9 +545,7 @@
 		<mpInitialConsume>60</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">150</value>
-	</power>
+				<power>150</power>
 			</effect>
 		</effects>
 	</skill>
@@ -590,9 +578,7 @@
 		<mpInitialConsume>45</mpInitialConsume>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">121</value>
-	</power>
+				<power>121</power>
 				<percentage>80</percentage>
 			</effect>
 			<effect name="PhysicalAttack">
@@ -649,9 +635,7 @@
 		<mpInitialConsume>45</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">121</value>
-	</power>
+				<power>121</power>
 			</effect>
 			<effect name="Speed">
 				<amount>-50</amount>
@@ -740,9 +724,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2319</value>
-	</power>
+				<power>2319</power>
 			</effect>
 		</effects>
 	</skill>
@@ -881,9 +863,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">9279</value>
-	</power>
+				<power>9279</power>
 			</effect>
 		</effects>
 	</skill>
@@ -908,9 +888,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">9279</value>
-	</power>
+				<power>9279</power>
 			</effect>
 		</effects>
 	</skill>
@@ -953,9 +931,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">9279</value>
-	</power>
+				<power>9279</power>
 			</effect>
 		</effects>
 	</skill>
@@ -979,9 +955,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">9279</value>
-	</power>
+				<power>9279</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2193,9 +2167,7 @@
 		<trait>SILENCE</trait>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">171</value>
-	</power>
+				<power>171</power>
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- NPC Trigger Target Cancel -->
@@ -2204,9 +2176,7 @@
 				<skillLevel>1</skillLevel>
 				<attackerType>Attackable</attackerType>
 				<targetType>SELF</targetType>
-				<chance>
-		<value level="1">90</value>
-	</chance>
+				<chance>90</chance>
 			</effect>
 			<effect name="Mute" />
 			<effect name="PhysicalMute" />

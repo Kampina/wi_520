@@ -720,9 +720,7 @@
 					<value level="5">5</value>
 					<value level="6">5</value>
 				</amount>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 			</effect>
 			<effect name="VampiricAttack">
 				<amount>
@@ -733,9 +731,7 @@
 					<value level="5">3</value>
 					<value level="6">3</value>
 				</amount>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 			</effect>
 			<effect name="PhysicalAttack">
 				<amount>

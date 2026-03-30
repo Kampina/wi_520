@@ -1123,9 +1123,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">191</value>
-	</power>
+				<power>191</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -1284,9 +1282,7 @@
 		<effects>
 			<effect name="BlockActions" />
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>

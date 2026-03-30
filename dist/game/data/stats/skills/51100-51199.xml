@@ -1266,9 +1266,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1279,9 +1277,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1335,9 +1331,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1348,9 +1342,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1436,9 +1428,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1449,9 +1439,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1601,9 +1589,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1614,9 +1600,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1695,9 +1679,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1707,9 +1689,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1719,9 +1699,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1769,9 +1747,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1782,9 +1758,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1831,9 +1805,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1844,9 +1816,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1893,9 +1863,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1906,9 +1874,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1955,9 +1921,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1968,9 +1932,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -2017,9 +1979,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>MY_PARTY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -2029,9 +1989,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>MY_PARTY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -2041,9 +1999,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -2091,9 +2047,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -2104,9 +2058,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>

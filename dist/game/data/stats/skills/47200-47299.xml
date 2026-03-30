@@ -60,9 +60,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">7</value>
-	</chance>
+				<chance>7</chance>
 				<targetType>TARGET</targetType>
 				<isCritical>false</isCritical>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -867,9 +865,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">5891</value>
-	</power>
+				<power>5891</power>
 				<criticalChance>10</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.9</pDefMod>
@@ -905,9 +901,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">7583</value>
-	</power>
+				<power>7583</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<criticalChance>15</criticalChance>
 				<pDefMod>0.9</pDefMod>
@@ -952,9 +946,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">5799</value>
-	</power>
+				<power>5799</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<criticalChance>15</criticalChance>
 				<overHit>true</overHit>
@@ -991,9 +983,7 @@
 				<mode>DIFF</mode>
 			</effect>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">333</value>
-	</power>
+				<power>333</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>
@@ -1095,9 +1085,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1108,9 +1096,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1130,9 +1116,7 @@
 		<magicCriticalRate>-5</magicCriticalRate>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">3479</value>
-	</power> <!-- Guessed -->
+				<power>3479</power> <!-- Guessed -->
 			</effect>
 			<effect name="CallSkill">
 				<skillId>47238</skillId> <!-- Mechanical Masterpiece -->
@@ -1370,9 +1354,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="2" toLevel="15">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<allowNormalAttack>true</allowNormalAttack>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
@@ -1638,9 +1620,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">5891</value>
-	</power>
+				<power>5891</power>
 				<pDefMod>0.9</pDefMod>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<criticalChance>15</criticalChance>
@@ -1678,14 +1658,10 @@
 		<reuseDelay>900000</reuseDelay>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 			<effect name="CpHealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1807,9 +1783,7 @@
 				<castSkillId>45241</castSkillId>
 				<skillId>47246</skillId> <!-- Holy Buster -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 		</effects>
@@ -1825,9 +1799,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">160</value>
-	</power>
+				<power>160</power>
 				<raceModifier>1.3</raceModifier>
 				<races>DEMONIC;UNDEAD</races>
 			</effect>
@@ -1859,9 +1831,7 @@
 				<dispel>PARALYZE,-1;STUN,-1;SLEEP,-1;TURN_FLEE,-1;IMPRISON,-1;TURN_STONE,-1;KNOCKDOWN,-1</dispel>
 			</effect>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">15</value>
-	</power>
+				<power>15</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2710,9 +2680,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -2873,9 +2841,7 @@
 			</effect>
 			<effect name="TriggerSkillByKill">
 				<victimType>Creature</victimType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>47260</skillId> <!-- Divine Recovery -->
 				<skillLevel>
 					<value level="1">1</value>
@@ -2885,9 +2851,7 @@
 			</effect>
 			<effect name="TriggerSkillByKill">
 				<victimType>Playable</victimType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>47262</skillId> <!-- Divine Recovery -->
 				<skillLevel>
 					<value level="1">1</value>
@@ -3990,9 +3954,7 @@
 					<value level="5">5</value>
 					<value level="6">6</value>
 				</skillLevel>
-				<chance>
-		<value level="1">70</value>
-	</chance>
+				<chance>70</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -4678,9 +4640,7 @@
 					<value level="9">9</value>
 					<value level="10">10</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -4896,9 +4856,7 @@
 					<value level="8">8</value>
 					<value level="9">9</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<allowedSkills>true</allowedSkills>
 			</effect>
 		</effects>
@@ -5112,9 +5070,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<isCritical>true</isCritical>
@@ -5128,9 +5084,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<isCritical>false</isCritical>
@@ -5202,9 +5156,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<isCritical>false</isCritical>
@@ -5219,9 +5171,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<isCritical>true</isCritical>
@@ -5423,9 +5373,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>53007</skillId> <!-- Power Stance -->

@@ -96,9 +96,7 @@
 				<slot>INVINCIBILITY_SPECIAL;HIDE;DANCE_OF_SHADOW</slot>
 			</effect>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>

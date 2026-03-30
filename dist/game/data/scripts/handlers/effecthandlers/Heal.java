@@ -16,8 +16,6 @@
  */
 package handlers.effecthandlers;
 
-import java.lang.reflect.Method;
-
 import org.l2jmobius.gameserver.config.custom.ClassBalanceConfig;
 import org.l2jmobius.gameserver.model.StatSet;
 import org.l2jmobius.gameserver.model.actor.Creature;
@@ -68,11 +66,6 @@ public class Heal extends AbstractEffect
 	@Override
 	public void instant(Creature effector, Creature effected, Skill skill, Item item)
 	{
-		if (isFactionEnemy(effector, effected))
-		{
-			return;
-		}
-		
 		if (effected.isDead() || effected.isDoor() || effected.isHpBlocked())
 		{
 			return;
@@ -171,25 +164,6 @@ public class Heal extends AbstractEffect
 				sm.addInt((int) amount);
 				effected.sendPacket(sm);
 			}
-		}
-	}
-
-	private boolean isFactionEnemy(Creature effector, Creature effected)
-	{
-		if (!effector.isPlayer() || !effected.isPlayer())
-		{
-			return false;
-		}
-
-		try
-		{
-			final Method method = effector.asPlayer().getClass().getMethod("isFactionEnemy", effector.asPlayer().getClass());
-			final Object result = method.invoke(effector.asPlayer(), effected.asPlayer());
-			return (result instanceof Boolean) && ((Boolean) result).booleanValue();
-		}
-		catch (Exception e)
-		{
-			return false;
 		}
 	}
 }

@@ -93,9 +93,7 @@
 					<value level="4">2</value>
 					<value level="5">2</value>
 				</amount>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="Reuse">
 				<amount>

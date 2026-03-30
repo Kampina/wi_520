@@ -27,9 +27,7 @@
 		<magicLevel>90</magicLevel>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">1</value>
-	</power>
+				<power>1</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>

@@ -811,9 +811,7 @@
 					<value level="7">1</value>
 					<value level="8">2</value>
 				</skillLevel>
-				<chance>
-		<value level="1">5</value>
-	</chance>
+				<chance>5</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="7" toLevel="8">
@@ -827,9 +825,7 @@
 					<value level="7">1</value>
 					<value level="8">2</value>
 				</skillLevel>
-				<chance>
-		<value level="1">5</value>
-	</chance>
+				<chance>5</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 		</effects>
@@ -888,9 +884,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -901,9 +895,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1108,9 +1100,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1121,9 +1111,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -1497,9 +1485,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1510,9 +1496,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1572,9 +1556,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="5" toLevel="11">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>50439</skillId> <!-- Retribution Defense -->
 				<skillLevel>
@@ -1950,9 +1932,7 @@
 					<value level="3">6</value>
 					<value level="4">10</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="HealEffect">
 				<amount>
@@ -2401,9 +2381,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>50451</skillId> <!-- Queen Ant's Power -->
@@ -2595,9 +2573,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>50452</skillId> <!-- Core's Power -->
@@ -2807,9 +2783,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>50453</skillId> <!-- Baium's Power -->
@@ -2822,9 +2796,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>50453</skillId> <!-- Baium's Power -->
@@ -2960,9 +2932,7 @@
 			</effect>
 			<effect name="MpVampiricAttack" fromLevel="3" toLevel="7">
 				<amount>3</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="MpRegen">
 				<amount>
@@ -3050,9 +3020,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<skillId>50454</skillId> <!-- Orfen's Power -->
@@ -3062,9 +3030,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<skillId>50454</skillId> <!-- Orfen's Power -->
@@ -3074,9 +3040,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>50471</skillId> <!-- Orfen's Power - Recovery -->
@@ -3086,9 +3050,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>50471</skillId> <!-- Orfen's Power - Recovery -->
@@ -3229,9 +3191,7 @@
 			</effect>
 			<effect name="VampiricAttack" fromLevel="3" toLevel="7">
 				<amount>8</amount>
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 			</effect>
 			<effect name="AdditionalPotionHp">
 				<amount>
@@ -3323,9 +3283,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<skillId>50455</skillId> <!-- Zaken's Power -->
@@ -3338,9 +3296,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<skillId>50455</skillId> <!-- Zaken's Power -->
@@ -3353,9 +3309,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>50472</skillId> <!-- Zaken's Power - Recovery -->
@@ -3365,9 +3319,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>50472</skillId> <!-- Zaken's Power - Recovery -->
@@ -3526,9 +3478,7 @@
 					<value level="6">10</value>
 					<value level="7">10</value>
 				</amount>
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 			</effect>
 			<effect name="AdditionalPotionHp">
 				<amount>
@@ -3645,9 +3595,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<skillId>50456</skillId> <!-- Antharas' Power -->
@@ -3660,9 +3608,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<skillId>50456</skillId> <!-- Antharas' Power -->
@@ -3675,9 +3621,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>50473</skillId> <!-- Antharas' Power - Recovery -->
@@ -3687,9 +3631,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>50473</skillId> <!-- Antharas' Power - Recovery -->
@@ -3699,9 +3641,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="7" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>82019</skillId> <!-- MP Recovery -->
@@ -3711,9 +3651,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="7" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>82019</skillId> <!-- MP Recovery -->
@@ -3947,9 +3885,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>50457</skillId> <!-- Frintezza's Power -->
@@ -4313,9 +4249,7 @@
 				<amount>5</amount>
 			</effect>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">2</value>
-	</power>
+				<power>2</power>
 				<mode>PER</mode>
 			</effect>
 		</effects>
@@ -5016,9 +4950,7 @@
 					<value level="9">3</value>
 					<value level="10">3</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -5551,9 +5483,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -5574,9 +5504,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -6019,9 +5947,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">10</value>
-	</power>
+				<power>10</power>
 			</effect>
 		</effects>
 	</skill>
@@ -6041,9 +5967,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">10</value>
-	</power>
+				<power>10</power>
 			</effect>
 		</effects>
 	</skill>
@@ -6063,14 +5987,10 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">30</value>
-	</power>
+				<power>30</power>
 			</effect>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">30</value>
-	</power>
+				<power>30</power>
 			</effect>
 		</effects>
 	</skill>
@@ -6135,9 +6055,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>TARGET</targetType>
 				<minDamage>1</minDamage>
 				<skillId>50481</skillId> <!-- Counter Paralysis -->
@@ -6250,9 +6168,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -6262,9 +6178,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -6469,9 +6383,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>ENEMY_ONLY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>50481</skillId> <!-- Counter Paralysis -->
@@ -6501,9 +6413,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>ENEMY_ONLY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>50481</skillId> <!-- Counter Paralysis -->
@@ -6663,9 +6573,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>50489</skillId> <!-- Defense: Critical Damage -->
@@ -6886,9 +6794,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>ENEMY_ONLY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>50481</skillId> <!-- Counter Paralysis -->
@@ -7011,9 +6917,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<hpPercent>60</hpPercent>
 				<isCritical>false</isCritical>
@@ -7024,9 +6928,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<hpPercent>60</hpPercent>
 				<isCritical>true</isCritical>
@@ -7212,9 +7114,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<allowSkillAttack>false</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -7226,9 +7126,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<onlyPhysicalSkill>true</onlyPhysicalSkill>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -7241,9 +7139,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<onlyMagicSkill>true</onlyMagicSkill>
 				<allowSkillAttack>true</allowSkillAttack>

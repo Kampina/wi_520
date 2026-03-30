@@ -154,9 +154,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">1973</value>
-	</power>
+				<power>1973</power>
 			</effect>
 		</effects>
 	</skill>
@@ -633,9 +631,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4640</value>
-	</power>
+				<power>4640</power>
 			</effect>
 		</effects>
 	</skill>
@@ -657,14 +653,10 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4640</value>
-	</power>
+				<power>4640</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">70</value>
-	</power>
+				<power>70</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -767,9 +759,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">10</value>
-	</power>
+				<power>10</power>
 			</effect>
 		</effects>
 	</skill>
@@ -797,15 +787,11 @@
 		<specialLevel>-1</specialLevel>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">270</value>
-	</power>
+				<power>270</power>
 				<ticks>1</ticks>
 			</effect>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">20</value>
-	</power>
+				<power>20</power>
 			</effect>
 		</effects>
 	</skill>
@@ -824,9 +810,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4640</value>
-	</power>
+				<power>4640</power>
 			</effect>
 		</effects>
 	</skill>
@@ -845,9 +829,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4640</value>
-	</power>
+				<power>4640</power>
 			</effect>
 		</effects>
 	</skill>
@@ -871,9 +853,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">183</value>
-	</power>
+				<power>183</power>
 			</effect>
 		</effects>
 	</skill>
@@ -899,9 +879,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">244</value>
-	</power>
+				<power>244</power>
 			</effect>
 		</effects>
 	</skill>
@@ -955,9 +933,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">17400</value>
-	</power>
+				<power>17400</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1009,9 +985,7 @@
 		<mpConsume>1</mpConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">834</value>
-	</power>
+				<power>834</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1038,9 +1012,7 @@
 				<!-- Bleed -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>TARGET</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1211,9 +1183,7 @@
 		<effects>
 			<effect name="BlockActions" />
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1949,9 +1919,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="HpByLevel">
-				<power>
-		<value level="1">73</value>
-	</power>
+				<power>73</power>
 			</effect>
 			<effect name="MagicalAttackSpeed">
 				<amount>-20</amount>
@@ -1985,9 +1953,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">145</value>
-	</power>
+				<power>145</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -2075,9 +2041,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">873</value>
-	</power>
+				<power>873</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -2108,9 +2072,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">145</value>
-	</power>
+				<power>145</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -2281,9 +2243,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2397,9 +2357,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="Bluff">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2678,9 +2636,7 @@
 		<mpInitialConsume>45</mpInitialConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">3000</value>
-	</power>
+				<power>3000</power>
 			</effect>
 		</effects>
 	</skill>

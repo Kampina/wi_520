@@ -1202,9 +1202,7 @@
 			</effect>
 			<effect name="VampiricAttack">
 				<amount>9</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1451,9 +1449,7 @@
 		<specialLevel>-1</specialLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2320</value>
-	</power>
+				<power>2320</power>
 			</effect>
 		</effects>
 	</skill>

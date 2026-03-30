@@ -53,7 +53,7 @@
 		<operateType>A1</operateType>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
-		<hitTime>0</hitTime>
+		<hitTime>1500</hitTime>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<itemConsumeCount>1</itemConsumeCount>
 		<itemConsumeId>97203</itemConsumeId> <!-- Spellbook: Mount Red Wyvern -->
@@ -328,9 +328,7 @@
 		<magicLevel>1</magicLevel>
 		<effects>
 			<effect name="HpCpHeal">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<mode>DIFF</mode>
 			</effect>
 		</effects>
@@ -1006,7 +1004,7 @@
 		<!-- Double-click to learn how to ride Twilight Wyvern. -->
 		<icon>icon.skill0000</icon>
 		<operateType>A1</operateType>
-		<hitTime>0</hitTime>
+		<hitTime>1500</hitTime>
 		<isMagic>4</isMagic>
 	</skill>
 	<skill id="40484" toLevel="1" name="Spellbook: Throne of Legend">

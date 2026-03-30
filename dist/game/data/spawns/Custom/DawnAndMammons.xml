@@ -1,4 +1,4 @@
-<?xml version='1.0' encoding='UTF-8'?>
+﻿<?xml version='1.0' encoding='UTF-8'?>
 <list xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../xsd/spawns.xsd">
 	<spawn name="DawnAndMammons">
 		<group>
@@ -10,7 +10,7 @@
 			<npc id="31079" x="-13953" y="121454" z="-2984" heading="33000" respawnTime="60sec" />
 			<npc id="31092" x="16393" y="144916" z="-3016" heading="30000" respawnTime="60sec" />
 			<npc id="31092" x="89894" y="-143791" z="-1542" heading="61479" respawnTime="60sec" />
-			<npc id="31090" x="82819" y="54657" z="-1520" heading="49000" respawnTime="60sec" />
+			
 			<npc id="31078" x="-80555" y="150387" z="-3040" heading="45000" respawnTime="60sec" />
 			<npc id="31092" x="120493" y="76520" z="-2136" heading="35500" respawnTime="60sec" />
 			<npc id="31092" x="42924" y="-41424" z="-2188" heading="20000" respawnTime="60sec" />
@@ -26,6 +26,8 @@
 			<npc id="31081" x="83369" y="149273" z="-3400" heading="32500" respawnTime="60sec" />
 			<npc id="31086" x="-14748" y="124045" z="-3112" heading="32172" respawnTime="60sec" />
 			<npc id="31092" x="-84745" y="151732" z="-3128" heading="50000" respawnTime="60sec" />
+			
+					<npc id="31090" x="82819" y="54657" z="-1520" heading="49000" respawnTime="60sec" />
 			<npc id="31091" x="147570" y="28927" z="-2264" heading="13748" respawnTime="60sec" />
 		</group>
 	</spawn>

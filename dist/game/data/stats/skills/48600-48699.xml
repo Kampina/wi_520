@@ -385,9 +385,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">10000</value>
-	</power>
+				<power>10000</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<criticalChance>15</criticalChance>
 				<pDefMod>0.95</pDefMod>
@@ -419,9 +417,7 @@
 		<effects>
 			<effect name="BlockActions" />
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1264,9 +1260,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">20000</value>
-	</power>
+				<power>20000</power>
 				<criticalChance>15</criticalChance>
 			</effect>
 		</effects>
@@ -1291,9 +1285,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">230</value>
-	</power>
+				<power>230</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1318,18 +1310,14 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">20000</value>
-	</power>
+				<power>20000</power>
 				<criticalChance>15</criticalChance>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>48671</attackSkillId> <!-- Dancing Blade -->
 				<attackerType>Creature</attackerType>
 				<minDamage>50</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>6816</skillId> <!-- Deadly Bleed -->
@@ -1358,18 +1346,14 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">20000</value>
-	</power>
+				<power>20000</power>
 				<criticalChance>15</criticalChance>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>48672</attackSkillId> <!-- Frost Storm -->
 				<attackerType>Creature</attackerType>
 				<minDamage>50</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>48371</skillId> <!-- Frozen Crystal -->

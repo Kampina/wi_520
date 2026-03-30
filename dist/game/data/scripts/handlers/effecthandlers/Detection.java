@@ -21,6 +21,7 @@ import org.l2jmobius.gameserver.model.actor.Creature;
 import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.effects.AbstractEffect;
 import org.l2jmobius.gameserver.model.item.instance.Item;
+import org.l2jmobius.gameserver.model.skill.AbnormalType;
 import org.l2jmobius.gameserver.model.skill.Skill;
 
 /**
@@ -68,8 +69,8 @@ public class Detection extends AbstractEffect
 				return;
 			}
 			
-			// Remove any effect that grants invisibility (Hide effect handler).
-			target.getEffectList().stopEffects(i -> i.getEffects().stream().anyMatch(e -> e instanceof Hide), true, true);
+			// Remove Hide.
+			target.getEffectList().stopEffects(AbnormalType.HIDE);
 		}
 	}
 }

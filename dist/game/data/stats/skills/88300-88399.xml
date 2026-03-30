@@ -21,9 +21,7 @@
 		<reuseDelay>300000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">380</value>
-	</power>
+				<power>380</power>
 				<debuffModifier>1.1</debuffModifier>
 			</effect>
 			<effect name="CallRandomSkill">
@@ -590,9 +588,7 @@
 		<reuseDelay>30000</reuseDelay>
 		<selfEffects>
 			<effect name="Heal">
-				<power>
-		<value level="1">350</value>
-	</power>
+				<power>350</power>
 			</effect>
 			<effect name="DispelBySlotMyself">
 				<dispel>TARGET_LOCK</dispel>
@@ -907,9 +903,7 @@
 				<mode>DIFF</mode>
 			</effect>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">50000</value>
-	</power>
+				<power>50000</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -935,15 +929,11 @@
 		<reuseDelay>240000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">450</value>
-	</power>
+				<power>450</power>
 				<debuffModifier>1.1</debuffModifier>
 			</effect>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">450</value>
-	</power>
+				<power>450</power>
 				<debuffModifier>1.1</debuffModifier>
 			</effect>
 			<effect name="CallRandomSkill">
@@ -1070,9 +1060,7 @@
 				<isCritical>false</isCritical>
 				<skillId>88323</skillId> <!-- Abyssal Spear -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
 			</effect>
@@ -1083,9 +1071,7 @@
 				<isCritical>true</isCritical>
 				<skillId>88323</skillId> <!-- Abyssal Spear -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
 			</effect>

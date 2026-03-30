@@ -799,9 +799,7 @@
 		<reuseDelay>8000</reuseDelay>
 		<effects>
 			<effect name="TargetMeProbability">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="MagicalDefence">
 				<amount>
@@ -980,9 +978,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="TargetMeProbability">
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 			</effect>
 			<effect name="MagicalDefence">
 				<amount>

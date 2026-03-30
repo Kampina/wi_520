@@ -50,9 +50,7 @@
 		<mpConsume>1</mpConsume>
 		<effects>
 			<effect name="ChameleonRest">
-				<power>
-		<value level="1">2</value>
-	</power>
+				<power>2</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -68,9 +66,7 @@
 		<magicLevel>1</magicLevel>
 		<effects>
 			<effect name="HpCpHeal">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<mode>DIFF</mode>
 			</effect>
 		</effects>
@@ -167,9 +163,7 @@
 		</conditions>
 		<effects>
 			<effect name="Resurrection">
-				<power>
-		<value level="1">50</value>
-	</power>
+				<power>50</power>
 			</effect>
 		</effects>
 	</skill>
@@ -346,9 +340,7 @@
 		<magicLevel>1</magicLevel>
 		<effects>
 			<effect name="HpCpHeal">
-				<power>
-		<value level="1">1000</value>
-	</power>
+				<power>1000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -995,9 +987,7 @@
 			</effect>
 			<effect name="VampiricAttack">
 				<amount>3</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="ExpModify">
 				<amount>5</amount>
@@ -1685,9 +1675,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">49</value>
-	</power>
+				<power>49</power>
 				<percentage>3</percentage>
 			</effect>
 			<effect name="PvpPhysicalAttackDamageBonus">
@@ -1764,9 +1752,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">49</value>
-	</power>
+				<power>49</power>
 				<percentage>3</percentage>
 			</effect>
 			<effect name="PvpPhysicalAttackDefenceBonus">
@@ -2626,9 +2612,7 @@
 		<magicLevel>1</magicLevel>
 		<effects>
 			<effect name="ManaHeal">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 			</effect>
 		</effects>
 	</skill>

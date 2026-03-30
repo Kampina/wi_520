@@ -3510,14 +3510,10 @@
 		</conditions>
 		<pvpEffects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">215</value>
-	</power>
+				<power>215</power>
 			</effect>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">215</value>
-	</power>
+				<power>215</power>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>88573</skillId>
@@ -3527,14 +3523,10 @@
 		</pvpEffects>
 		<pveEffects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">230</value>
-	</power>
+				<power>230</power>
 			</effect>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">230</value>
-	</power>
+				<power>230</power>
 			</effect>
 		</pveEffects>
 	</skill>
@@ -3603,9 +3595,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>88575</skillId>
@@ -4115,9 +4105,7 @@
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">250</value>
-	</power>
+				<power>250</power>
 			</effect>
 		</effects>
 	</skill>

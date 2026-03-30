@@ -27,9 +27,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">396</value>
-	</power>
+				<power>396</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="CallSkill">

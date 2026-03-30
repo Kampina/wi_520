@@ -482,25 +482,19 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="TriggerSkillByKill" fromLevel="1" toLevel="1">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<victimType>Creature</victimType>
 				<skillId>88608</skillId>
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByKill" fromLevel="2" toLevel="2">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<victimType>Creature</victimType>
 				<skillId>88608</skillId>
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByKill" fromLevel="3" toLevel="3">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<victimType>Creature</victimType>
 				<skillId>88608</skillId>
 				<skillLevel>3</skillLevel>

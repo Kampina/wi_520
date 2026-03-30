@@ -16,8 +16,6 @@
  */
 package handlers.effecthandlers;
 
-import java.lang.reflect.Method;
-
 import org.l2jmobius.gameserver.model.StatSet;
 import org.l2jmobius.gameserver.model.actor.Creature;
 import org.l2jmobius.gameserver.model.actor.Player;
@@ -25,9 +23,7 @@ import org.l2jmobius.gameserver.model.effects.AbstractEffect;
 import org.l2jmobius.gameserver.model.effects.EffectType;
 import org.l2jmobius.gameserver.model.item.instance.Item;
 import org.l2jmobius.gameserver.model.skill.Skill;
-import org.l2jmobius.gameserver.model.skill.targets.AffectScope;
 import org.l2jmobius.gameserver.model.stats.Formulas;
-import org.l2jmobius.gameserver.model.zone.ZoneId;
 import org.l2jmobius.gameserver.taskmanagers.DecayTaskManager;
 
 /**
@@ -64,24 +60,6 @@ public class Resurrection extends AbstractEffect
 	@Override
 	public void instant(Creature effector, Creature effected, Skill skill, Item item)
 	{
-		if (isFactionEnemy(effector, effected))
-		{
-			return;
-		}
-		
-		// In siege zone only party mass-res is allowed.
-		if (effected.isInsideZone(ZoneId.SIEGE) && effected.isPlayer() && (effected.asPlayer().getSiegeState() != 0))
-		{
-			if (skill.getAffectScope() != AffectScope.DEAD_PARTY)
-			{
-				if (effector.isPlayer())
-				{
-					effector.asPlayer().sendMessage("В осадной зоне разрешён только масс-рес на пати.");
-				}
-				return;
-			}
-		}
-		
 		if (effector.isPlayer())
 		{
 			final Player player = effected.asPlayer();
@@ -94,25 +72,6 @@ public class Resurrection extends AbstractEffect
 		{
 			DecayTaskManager.getInstance().cancel(effected);
 			effected.doRevive(Formulas.calculateSkillResurrectRestorePercent(_power, effector));
-		}
-	}
-
-	private boolean isFactionEnemy(Creature effector, Creature effected)
-	{
-		if (!effector.isPlayer() || !effected.isPlayer())
-		{
-			return false;
-		}
-
-		try
-		{
-			final Method method = effector.asPlayer().getClass().getMethod("isFactionEnemy", effector.asPlayer().getClass());
-			final Object result = method.invoke(effector.asPlayer(), effected.asPlayer());
-			return (result instanceof Boolean) && ((Boolean) result).booleanValue();
-		}
-		catch (Exception e)
-		{
-			return false;
 		}
 	}
 }

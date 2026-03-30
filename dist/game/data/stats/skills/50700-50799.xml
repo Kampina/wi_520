@@ -891,9 +891,7 @@
 					<value level="5">2.4</value>
 					<value level="6">3</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1196,9 +1194,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived" fromLevel="18" toLevel="20">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>50724</skillId> <!-- Dragon's Magic Resistance -->

@@ -77,9 +77,7 @@
 		<reuseDelay>6000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">69</value>
-	</power>
+				<power>69</power>
 			</effect>
 		</effects>
 	</skill>
@@ -219,9 +217,7 @@
 		<reuseDelay>6000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">160</value>
-	</power>
+				<power>160</power>
 			</effect>
 		</effects>
 	</skill>
@@ -258,9 +254,7 @@
 		<reuseDelay>6000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">220</value>
-	</power>
+				<power>220</power>
 			</effect>
 		</effects>
 	</skill>
@@ -291,9 +285,7 @@
 		<reuseDelay>6000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">320</value>
-	</power>
+				<power>320</power>
 			</effect>
 		</effects>
 	</skill>
@@ -340,9 +332,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 			</effect>
 		</effects>
 	</skill>
@@ -410,14 +400,10 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">213</value>
-	</power>
+				<power>213</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">55</value>
-	</power>
+				<power>55</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="Speed">
@@ -1414,14 +1400,10 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 			<effect name="Cp">
 				<amount>5000</amount>
@@ -1442,9 +1424,7 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2540,9 +2520,7 @@
 		<mpConsume>76</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4472</value>
-	</power>
+				<power>4472</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2563,9 +2541,7 @@
 		<mpConsume>76</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4472</value>
-	</power>
+				<power>4472</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2586,9 +2562,7 @@
 		<mpConsume>76</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4472</value>
-	</power>
+				<power>4472</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2609,9 +2583,7 @@
 		<mpConsume>78</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4472</value>
-	</power>
+				<power>4472</power>
 			</effect>
 		</effects>
 	</skill>

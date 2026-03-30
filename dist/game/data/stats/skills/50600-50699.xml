@@ -210,9 +210,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50602</skillId> <!-- Rapid Attack -->
@@ -264,9 +262,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<allowSkillAttack>false</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -278,9 +274,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<onlyPhysicalSkill>true</onlyPhysicalSkill>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -293,9 +287,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<onlyMagicSkill>true</onlyMagicSkill>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -660,9 +652,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<allowSkillAttack>false</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -674,9 +664,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<onlyPhysicalSkill>true</onlyPhysicalSkill>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -689,9 +677,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<onlyMagicSkill>true</onlyMagicSkill>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -1055,9 +1041,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<allowSkillAttack>false</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1069,9 +1053,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<onlyPhysicalSkill>true</onlyPhysicalSkill>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -1084,9 +1066,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<onlyMagicSkill>true</onlyMagicSkill>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -1450,9 +1430,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<allowSkillAttack>false</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1464,9 +1442,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<onlyPhysicalSkill>true</onlyPhysicalSkill>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -1479,9 +1455,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 				<onlyMagicSkill>true</onlyMagicSkill>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -2094,15 +2068,11 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">50</value>
-	</power>
+				<power>50</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="Speed">
@@ -5267,18 +5237,14 @@
 				<magicTypes>0</magicTypes>
 				<skillId>50672</skillId> <!-- Ruby - Special Property -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="TriggerSkillByMagicType">
 				<magicTypes>1</magicTypes>
 				<skillId>50674</skillId> <!-- Ruby - Special Property -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt">
@@ -5698,9 +5664,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50685</skillId> <!-- Rapid Attack -->
@@ -7194,9 +7158,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived" fromLevel="7" toLevel="11"> <!-- TODO: FIX -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">5</value>
-	</chance>
+				<chance>5</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1000</minDamage>
 				<skillId>50693</skillId> <!-- Flame Taboo -->
@@ -7210,9 +7172,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived" fromLevel="7" toLevel="11"> <!-- TODO: FIX -->
 				<attackerType>Playable</attackerType>
-				<chance>
-		<value level="1">5</value>
-	</chance>
+				<chance>5</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1000</minDamage>
 				<skillId>50693</skillId> <!-- Flame Taboo -->

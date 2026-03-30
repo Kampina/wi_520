@@ -68,9 +68,7 @@
 				</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">134</value>
-	</power>
+				<power>134</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -126,9 +124,7 @@
 				</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">140</value>
-	</power>
+				<power>140</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -154,9 +150,7 @@
 				<percentage>80</percentage>
 			</effect>
 			<effect name="MagicalDamageMp" fromLevel="2" toLevel="2">
-				<power>
-		<value level="1">246</value>
-	</power>
+				<power>246</power>
 				<critical>true</critical>
 				<criticalLimit>1450</criticalLimit>
 			</effect>
@@ -190,9 +184,7 @@
 				</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">142</value>
-	</power>
+				<power>142</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -685,9 +677,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">260</value>
-	</power>
+				<power>260</power>
 			</effect>
 		</effects>
 	</skill>
@@ -951,9 +941,7 @@
 		<effects>
 			<effect name="BlockActions" />
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">138</value>
-	</power>
+				<power>138</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1589,9 +1577,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -1677,9 +1663,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">250</value>
-	</power>
+				<power>250</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1740,9 +1724,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -1777,9 +1759,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>

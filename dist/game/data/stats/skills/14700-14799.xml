@@ -26,9 +26,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">31500</value>
-	</power>
+				<power>31500</power>
 			</effect>
 		</effects>
 	</skill>

@@ -774,9 +774,7 @@
 		<magicLevel>76</magicLevel>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -819,9 +817,7 @@
 		<magicLevel>76</magicLevel>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -864,9 +860,7 @@
 		<magicLevel>76</magicLevel>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -897,9 +891,7 @@
 				<skillId>47631</skillId> <!-- Gust -->
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -929,9 +921,7 @@
 				<skillId>47631</skillId> <!-- Gust -->
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -961,9 +951,7 @@
 				<skillId>47631</skillId> <!-- Gust -->
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -1185,9 +1173,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -1212,9 +1198,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -1239,9 +1223,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -1275,9 +1257,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.85</pDefMod>
 				<criticalChance>10</criticalChance>
@@ -1323,9 +1303,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.85</pDefMod>
 				<criticalChance>10</criticalChance>
@@ -1367,9 +1345,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.85</pDefMod>
 				<criticalChance>10</criticalChance>
@@ -1612,9 +1588,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>47737</skillId> <!-- Blade Assault -->
 				<skillLevel>1</skillLevel>
@@ -1775,9 +1749,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="AdditionalPhysicalDamage">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<accuracyAmount>10</accuracyAmount>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
@@ -1798,9 +1770,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="AdditionalPhysicalDamage">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<accuracyAmount>10</accuracyAmount>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
@@ -1821,9 +1791,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="AdditionalPhysicalDamage">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<accuracyAmount>10</accuracyAmount>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
@@ -1846,9 +1814,7 @@
 		<magicLevel>76</magicLevel>
 		<effects>
 			<effect name="AdditionalPhysicalDamage">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.9</pDefMod>
 			</effect>
@@ -1866,9 +1832,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="AdditionalPhysicalDamage">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<overHit>true</overHit>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
@@ -2142,17 +2106,13 @@
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>47672</skillId> <!-- Battle Senses -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>19</attackSkillId> <!-- Double Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>47672</skillId> <!-- Battle Senses -->
@@ -2162,9 +2122,7 @@
 				<attackSkillId>343</attackSkillId> <!-- Lethal Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>47672</skillId> <!-- Battle Senses -->
@@ -2174,9 +2132,7 @@
 				<attackSkillId>47602</attackSkillId> <!-- Triple Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>47672</skillId> <!-- Battle Senses -->
@@ -2296,17 +2252,13 @@
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>47674</skillId> <!-- Elven Senses -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>19</attackSkillId> <!-- Double Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>47674</skillId> <!-- Elven Senses -->
@@ -2316,9 +2268,7 @@
 				<attackSkillId>343</attackSkillId> <!-- Lethal Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>47674</skillId> <!-- Elven Senses -->
@@ -2328,9 +2278,7 @@
 				<attackSkillId>47602</attackSkillId> <!-- Triple Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>47674</skillId> <!-- Elven Senses -->
@@ -3270,9 +3218,7 @@
 				<attackerType>Creature</attackerType>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 		<endEffects>
@@ -3388,9 +3334,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="1" toLevel="5">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>47662</skillId> <!-- Arrow Focus -->
 				<skillLevel>1</skillLevel>
@@ -3421,9 +3365,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>47663</skillId> <!-- Moonlight Arrow -->
 				<skillLevel>1</skillLevel>
@@ -3464,27 +3406,21 @@
 				<castSkillId>47387</castSkillId>
 				<skillId>47664</skillId> <!-- Moonlight Arrow -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>47387</castSkillId>
 				<skillId>47664</skillId> <!-- Moonlight Arrow -->
 				<skillLevel>2</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>47387</castSkillId>
 				<skillId>47664</skillId> <!-- Moonlight Arrow -->
 				<skillLevel>3</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 		</effects>
@@ -3513,9 +3449,7 @@
 				<attackSkillId>47390</attackSkillId> <!-- Legendary Lethal Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>47665</skillId> <!-- Fatal Break -->
@@ -3525,9 +3459,7 @@
 				<attackSkillId>47391</attackSkillId> <!-- Legendary Lethal Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>47665</skillId> <!-- Fatal Break -->
@@ -3537,9 +3469,7 @@
 				<attackSkillId>47602</attackSkillId> <!-- Triple Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>47665</skillId> <!-- Fatal Break -->
@@ -3913,9 +3843,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4000</value>
-	</power>
+				<power>4000</power>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.90</pDefMod>
@@ -3947,9 +3875,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4000</value>
-	</power>
+				<power>4000</power>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.90</pDefMod>
@@ -3981,9 +3907,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4000</value>
-	</power>
+				<power>4000</power>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.90</pDefMod>

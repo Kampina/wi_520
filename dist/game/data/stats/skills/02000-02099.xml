@@ -15,9 +15,7 @@
 		<magicLevel>1</magicLevel>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">2</value>
-	</power>
+				<power>2</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -37,9 +35,7 @@
 		<magicLevel>1</magicLevel>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">1.5</value>
-	</power>
+				<power>1.5</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -453,9 +449,7 @@
 		<magicLevel>1</magicLevel>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">8</value>
-	</power>
+				<power>8</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -476,9 +470,7 @@
 		<magicLevel>1</magicLevel>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">24</value>
-	</power>
+				<power>24</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -575,9 +567,7 @@
 		<magicLevel>1</magicLevel>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">50</value>
-	</power>
+				<power>50</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -716,8 +706,8 @@
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
 		<hitTime>
-			<value level="1">20000</value>
-			<value level="2">20000</value>
+			<value level="1">1000</value>
+			<value level="2">5000</value>
 		</hitTime>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<magicCriticalRate>5</magicCriticalRate>
@@ -794,9 +784,7 @@
 		</conditions>
 		<effects>
 			<effect name="Resurrection">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1076,9 +1064,7 @@
 		</conditions>
 		<effects>
 			<effect name="Resurrection">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1278,9 +1264,7 @@
 		<magicLevel>1</magicLevel>
 		<effects>
 			<effect name="DeleteHateOfMe">
-				<chance>
-		<value level="1">70</value>
-	</chance>
+				<chance>70</chance>
 			</effect>
 		</effects>
 	</skill>

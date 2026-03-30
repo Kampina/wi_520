@@ -23,9 +23,7 @@
 		</startEffects>
 		<effects>
 			<effect name="TakeFort">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -435,9 +433,7 @@
 		</startEffects>
 		<effects>
 			<effect name="TakeFort">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -929,9 +925,7 @@
 			</effect>
 			<effect name="MpVampiricAttack">
 				<amount>3</amount>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 			<effect name="ReplaceSkillBySkill">
 				<existingSkillId>88401</existingSkillId> <!-- Direct Strike -->

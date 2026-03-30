@@ -96,9 +96,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Patience -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>87002</skillId> <!-- Crusader Transformation - Stat Increase -->
@@ -106,9 +104,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>87037</skillId> <!-- Unique Seal of Damage -->
@@ -452,9 +448,7 @@
 			</effect>
 			<effect name="VampiricAttack">
 				<amount>-95</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>87037</skillId> <!-- Unique Seal of Damage -->
@@ -464,9 +458,7 @@
 					<value level="3">3</value>
 					<value level="4">4</value>
 				</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -830,9 +822,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<minDamage>100</minDamage>
 				<skillId>87035</skillId> <!-- Protective Shield -->
@@ -2016,9 +2006,7 @@
 					<value toLevel="1" fromLevel="1" fromSubLevel="1003" toSubLevel="1003">3047246</value>
 				</skillId>
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 		</effects>
@@ -2277,9 +2265,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="AdditionalPhysicalDamage">
-				<power>
-		<value level="1">7000</value>
-	</power>
+				<power>7000</power>
 				<criticalChance>10</criticalChance>
 			</effect>
 		</effects>
@@ -2391,9 +2377,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">380</value>
-	</power>
+				<power>380</power>
 				<debuffModifier>1.5</debuffModifier>
 			</effect>
 		</effects>
@@ -2561,9 +2545,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">417</value>
-	</power>
+				<power>417</power>
 				<debuffModifier>1.5</debuffModifier>
 			</effect>
 		</effects>
@@ -2584,9 +2566,7 @@
 				<magicTypes>0;1</magicTypes>
 				<skillId>87051</skillId> <!-- Mystic Asteroid -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="PvpMagicalSkillDamageBonus">
@@ -2613,9 +2593,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">417</value>
-	</power>
+				<power>417</power>
 				<debuffModifier>1.7</debuffModifier>
 			</effect>
 		</effects>
@@ -2649,9 +2627,7 @@
 		<reuseDelay>100</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">700</value>
-	</power>
+				<power>700</power>
 				<debuffModifier>1.8</debuffModifier>
 				<criticalChance>10</criticalChance>
 			</effect>
@@ -3368,9 +3344,7 @@
 		<reuseDelay>45000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">195</value>
-	</power>
+				<power>195</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="CallSkill">
@@ -3489,9 +3463,7 @@
 		<reuseDelay>30000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">201</value>
-	</power>
+				<power>201</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="CallSkill">
@@ -3766,9 +3738,7 @@
 			<effect name="CallSkill">
 				<skillId>87074</skillId> <!-- Riot -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">70</value>
-	</chance>
+				<chance>70</chance>
 			</effect>
 		</effects>
 		<selfEffects>
@@ -3779,9 +3749,7 @@
 			<effect name="CallSkill">
 				<skillId>87075</skillId> <!-- Riot -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</selfEffects>
 	</skill>
@@ -3909,9 +3877,7 @@
 		<pvpEffects>
 			<effect name="TriggerSkillByKill">
 				<victimType>Playable</victimType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>87077</skillId> <!-- Mystic Power Mastery - MP Recovery -->
 				<skillLevel>1</skillLevel>
 			</effect>
@@ -3928,9 +3894,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">2</value>
-	</power>
+				<power>2</power>
 			</effect>
 		</effects>
 	</skill>
@@ -4023,9 +3987,7 @@
 				<attackSkillId>1235</attackSkillId> <!-- Hydro Blast -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87084</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>1</skillLevel>
@@ -4034,9 +3996,7 @@
 				<attackSkillId>1340</attackSkillId> <!-- Ice Vortex -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87084</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>1</skillLevel>
@@ -4045,9 +4005,7 @@
 				<attackSkillId>45517</attackSkillId> <!-- Ice Vortex -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87084</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>1</skillLevel>
@@ -4056,9 +4014,7 @@
 				<attackSkillId>45379</attackSkillId> <!-- Mystic Explosion -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87084</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>1</skillLevel>
@@ -4067,9 +4023,7 @@
 				<attackSkillId>87059</attackSkillId> <!-- Mystic Explosion: Relict -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87084</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>1</skillLevel>
@@ -4194,9 +4148,7 @@
 				<attackSkillId>1235</attackSkillId> <!-- Hydro Blast -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87084</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -4205,9 +4157,7 @@
 				<attackSkillId>1340</attackSkillId> <!-- Ice Vortex -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87084</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -4216,9 +4166,7 @@
 				<attackSkillId>45517</attackSkillId> <!-- Ice Vortex -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87084</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -4227,9 +4175,7 @@
 				<attackSkillId>45379</attackSkillId> <!-- Mystic Explosion -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87084</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -4238,9 +4184,7 @@
 				<attackSkillId>87059</attackSkillId> <!-- Mystic Explosion: Relict -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87084</skillId> <!-- Magic Circle Attack -->
 				<skillLevel>2</skillLevel>
@@ -4370,9 +4314,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>87071</skillId> <!-- Frost-dew -->

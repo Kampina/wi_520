@@ -230,14 +230,7 @@ public class PhysicalDamage extends AbstractEffect
 					}
 				}
 				
-				double power = ((_power * (hasAbnormalType ? _abnormalPowerMod : 1)) + effector.getStat().getValue(Stat.SKILL_POWER_ADD, 0));
-				
-				// Type WARRIOR completely overrides base power with character's P.Atk
-				if (skill.isWarriorMagicType())
-				{
-					power = effector.getPAtk();
-				}
-				
+				final double power = ((_power * (hasAbnormalType ? _abnormalPowerMod : 1)) + effector.getStat().getValue(Stat.SKILL_POWER_ADD, 0));
 				final double weaponMod = effector.getAttackType().isRanged() ? 70 : 77;
 				final double rangedBonus = effector.getAttackType().isRanged() ? attack + power : 0;
 				final double critMod = critical ? Formulas.calcCritDamage(effector, effected, skill) : 1;

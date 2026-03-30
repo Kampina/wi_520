@@ -468,15 +468,11 @@
 		<specialLevel>-1</specialLevel>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">30</value>
-	</power>
+				<power>30</power>
 				<ticks>1</ticks>
 			</effect>
 			<effect name="Heal">
-				<power>
-		<value level="1">450</value>
-	</power>
+				<power>450</power>
 			</effect>
 		</effects>
 	</skill>
@@ -504,9 +500,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Bless the Blood -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>SELF</targetType>
 				<minDamage>60</minDamage>
 				<skillId>6726</skillId> <!-- Blessed Blood -->
@@ -554,9 +548,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>9</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -576,9 +568,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="ManaHealByLevel">
-				<power>
-		<value level="1">136</value>
-	</power>
+				<power>136</power>
 			</effect>
 		</effects>
 	</skill>
@@ -625,9 +615,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">858</value>
-	</power>
+				<power>858</power>
 			</effect>
 		</effects>
 	</skill>
@@ -760,9 +748,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -783,9 +769,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">800</value>
-	</power>
+				<power>800</power>
 			</effect>
 		</effects>
 	</skill>
@@ -893,9 +877,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<ticks>1</ticks>
 			</effect>
 			<effect name="DefenceAttribute">
@@ -1025,9 +1007,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 			<effect name="BlockActions" />
@@ -1049,9 +1029,7 @@
 		<mpConsume>79</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1074,9 +1052,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1121,9 +1097,7 @@
 		</conditions>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1145,9 +1119,7 @@
 		<trait>DEATH</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1180,9 +1152,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>
@@ -1205,9 +1175,7 @@
 		<mpInitialConsume>16</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1229,9 +1197,7 @@
 		<mpInitialConsume>31</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1339,9 +1305,7 @@
 		<mpConsume>79</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1364,9 +1328,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">10000</value>
-	</power>
+				<power>10000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1425,9 +1387,7 @@
 		<mpConsume>79</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1449,9 +1409,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1469,9 +1427,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1493,9 +1449,7 @@
 		<mpInitialConsume>16</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">150</value>
-	</power>
+				<power>150</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1543,9 +1497,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 			<effect name="BlockActions" />
@@ -1601,9 +1553,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">800</value>
-	</power>
+				<power>800</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1623,9 +1573,7 @@
 		<mpConsume>79</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1648,9 +1596,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1720,9 +1666,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 			<effect name="BlockActions" />
@@ -1748,9 +1692,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1830,9 +1772,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<ticks>1</ticks>
 			</effect>
 			<effect name="BlockActions" />
@@ -1858,9 +1798,7 @@
 		<mpConsume>89</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>

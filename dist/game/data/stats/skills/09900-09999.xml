@@ -11,9 +11,7 @@
 		<reuseDelay>180000</reuseDelay>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">50</value>
-	</power>
+				<power>50</power>
 			</effect>
 		</effects>
 	</skill>
@@ -28,9 +26,7 @@
 		<reuseDelay>180000</reuseDelay>
 		<effects>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">20</value>
-	</power>
+				<power>20</power>
 			</effect>
 		</effects>
 	</skill>

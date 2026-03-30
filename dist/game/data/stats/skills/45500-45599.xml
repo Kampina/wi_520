@@ -1133,9 +1133,7 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">130</value>
-	</power>
+				<power>130</power>
 			</effect>
 			<effect name="KnockBack">
 				<distance>250</distance>
@@ -1251,9 +1249,7 @@
 		<magicLevel>78</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">160</value>
-	</power>
+				<power>160</power>
 				<raceModifier>1.3</raceModifier>
 				<races>DEMONIC;UNDEAD</races>
 			</effect>
@@ -1630,9 +1626,7 @@
 				<heal>true</heal>
 			</effect>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">50000</value>
-	</power>
+				<power>50000</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -1645,33 +1639,23 @@
 		<magicLevel>76</magicLevel>
 		<effects>
 			<effect name="HealPercent"> <!-- Instant Heal -->
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 			<effect name="HealPercent">
 				<delay>3000</delay>
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 			<effect name="HealPercent">
 				<delay>6000</delay>
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 			<effect name="HealPercent">
 				<delay>9000</delay>
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 			<effect name="HealPercent">
 				<delay>11000</delay>
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1720,9 +1704,7 @@
 		<reuseDelay>90000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">130</value>
-	</power>
+				<power>130</power>
 			</effect>
 			<effect name="HealEffect">
 				<amount>-500</amount>
@@ -1793,9 +1775,7 @@
 		<isMagic>1</isMagic>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1861,9 +1841,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">380</value>
-	</power>
+				<power>380</power>
 				<debuffModifier>1.3</debuffModifier>
 			</effect>
 			<effect name="CpHealPercent">
@@ -2135,9 +2113,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">380</value>
-	</power>
+				<power>380</power>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>45546</skillId> <!-- Meteor -->
@@ -2167,9 +2143,7 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">380</value>
-	</power>
+				<power>380</power>
 			</effect>
 			<effect name="MagicalDefence">
 				<amount>-30</amount>
@@ -2573,9 +2547,7 @@
 				<attackSkillId>344</attackSkillId> <!-- Lethal Blow -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DAGGER</allowWeapons>
 				<skillId>45562</skillId> <!-- Hidden Dagger -->
@@ -2585,9 +2557,7 @@
 				<attackSkillId>47341</attackSkillId> <!-- Dark Blow -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DAGGER</allowWeapons>
 				<skillId>45562</skillId> <!-- Hidden Dagger -->
@@ -2597,9 +2567,7 @@
 				<attackSkillId>47334</attackSkillId> <!-- Backstab -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">5</value>
-	</chance>
+				<chance>5</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DAGGER</allowWeapons>
 				<skillId>45562</skillId> <!-- Hidden Dagger -->
@@ -2824,9 +2792,7 @@
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.8</pDefMod>
 				<criticalChance>30</criticalChance>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3371,9 +3337,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">1</value>
-	</power>
+				<power>1</power>
 			</effect>
 		</effects>
 	</skill>

@@ -942,18 +942,14 @@
 			<effect name="TriggerSkillBySkill">
 				<skillId>87454</skillId> <!-- Summon Shadow -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<castSkillId>87323</castSkillId> <!-- Return Motion -->
 				<targetType>SELF</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<skillId>87454</skillId> <!-- Summon Shadow -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<castSkillId>87307</castSkillId> <!-- Assassination -->
 				<targetType>SELF</targetType>
 			</effect>

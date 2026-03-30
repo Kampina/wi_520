@@ -190,14 +190,10 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">75000</value>
-	</power>
+				<power>75000</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">2000</value>
-	</power>
+				<power>2000</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>
@@ -379,9 +375,7 @@
 		<reuseDelay>7000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">45000</value>
-	</power>
+				<power>45000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -401,9 +395,7 @@
 		<reuseDelay>6000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">45000</value>
-	</power>
+				<power>45000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -461,9 +453,7 @@
 		<mpInitialConsume>15</mpInitialConsume>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 				<percentage>100</percentage>
 			</effect>
 		</effects>
@@ -484,9 +474,7 @@
 		<reuseDelay>6000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">45000</value>
-	</power>
+				<power>45000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -507,9 +495,7 @@
 		<reuseDelay>6000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">35000</value>
-	</power>
+				<power>35000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -528,9 +514,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">45000</value>
-	</power>
+				<power>45000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -582,9 +566,7 @@
 		<mpInitialConsume>22</mpInitialConsume>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 				<percentage>50</percentage>
 			</effect>
 		</effects>
@@ -606,9 +588,7 @@
 		<mpInitialConsume>2</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">400</value>
-	</power>
+				<power>400</power>
 			</effect>
 		</effects>
 	</skill>
@@ -626,9 +606,7 @@
 		<mpConsume>119</mpConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">350</value>
-	</power>
+				<power>350</power>
 			</effect>
 		</effects>
 	</skill>
@@ -660,9 +638,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">70</value>
-	</power>
+				<power>70</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -687,9 +663,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<percentage>20</percentage>
 			</effect>
 		</effects>
@@ -724,9 +698,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">70</value>
-	</power>
+				<power>70</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -746,9 +718,7 @@
 		<reuseDelay>6000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">45000</value>
-	</power>
+				<power>45000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -773,9 +743,7 @@
 		<mpInitialConsume>56</mpInitialConsume>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">400</value>
-	</power>
+				<power>400</power>
 				<percentage>80</percentage>
 			</effect>
 		</effects>
@@ -808,9 +776,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">70</value>
-	</power>
+				<power>70</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -850,9 +816,7 @@
 		<mpInitialConsume>1</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">400</value>
-	</power>
+				<power>400</power>
 			</effect>
 		</effects>
 	</skill>
@@ -910,9 +874,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">78</value>
-	</power>
+				<power>78</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -959,9 +921,7 @@
 		<mpConsume>135</mpConsume>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">400</value>
-	</power>
+				<power>400</power>
 				<percentage>40</percentage>
 			</effect>
 		</effects>
@@ -1039,9 +999,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">450</value>
-	</power>
+				<power>450</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -1087,9 +1045,7 @@
 		<mpInitialConsume>15</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">450</value>
-	</power>
+				<power>450</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1119,9 +1075,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">350</value>
-	</power>
+				<power>350</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -1145,9 +1099,7 @@
 		<mpInitialConsume>10</mpInitialConsume>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">400</value>
-	</power>
+				<power>400</power>
 				<percentage>20</percentage>
 			</effect>
 		</effects>
@@ -1169,9 +1121,7 @@
 		<reuseDelay>8000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">1600</value>
-	</power>
+				<power>1600</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1194,9 +1144,7 @@
 		<mpInitialConsume>7</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">450</value>
-	</power>
+				<power>450</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1219,9 +1167,7 @@
 		<mpInitialConsume>7</mpInitialConsume>
 		<effects>
 			<effect name="DeathLink">
-				<power>
-		<value level="1">350</value>
-	</power>
+				<power>350</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1431,9 +1377,7 @@
 		<magicLevel>53</magicLevel>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="Speed">
@@ -1553,9 +1497,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>

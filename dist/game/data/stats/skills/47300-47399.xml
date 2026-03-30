@@ -248,9 +248,7 @@
 		</effects>
 		<pveEffects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15870</value>
-	</power> <!-- UNK value -->
+				<power>15870</power> <!-- UNK value -->
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<overHit>true</overHit>
 				<pDefMod>0.75</pDefMod>
@@ -259,9 +257,7 @@
 		</pveEffects>
 		<pvpEffects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">11638</value>
-	</power>
+				<power>11638</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<overHit>true</overHit>
 				<pDefMod>0.75</pDefMod>
@@ -417,9 +413,7 @@
 				<attackSkillId>88009</attackSkillId> <!-- Templar's Assault -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>87974</skillId> <!-- Water Spout -->
@@ -508,9 +502,7 @@
 				<criticalChance>15</criticalChance>
 			</effect>
 			<effect name="PhysicalDamage" fromLevel="2" toLevel="2">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.8</pDefMod>
 				<criticalChance>15</criticalChance>
@@ -841,9 +833,7 @@
 		<effects>
 			<effect name="BlockActions" />
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -987,9 +977,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">6774</value>
-	</power>
+				<power>6774</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<criticalChance>15</criticalChance>
 				<overHit>true</overHit>
@@ -1177,9 +1165,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">7</value>
-	</chance>
+				<chance>7</chance>
 				<targetType>TARGET</targetType>
 				<isCritical>false</isCritical>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1831,9 +1817,7 @@
 			<effect name="CallSkill">
 				<skillId>47336</skillId> <!-- Blood Stab -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</pvpEffects>
 	</skill>
@@ -1848,9 +1832,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="RealDamage">
-				<power>
-		<value level="1">5</value>
-	</power>
+				<power>5</power>
 				<mode>PER</mode>
 			</effect>
 		</effects>
@@ -2142,15 +2124,11 @@
 		<effects>
 			<effect name="Hide" />
 			<effect name="SilentMove">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>47359</skillId> <!-- Seclusion: Enhancement -->
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<skillLevel>1</skillLevel>
 			</effect>
 		</effects>
@@ -2429,9 +2407,7 @@
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.8</pDefMod>
 				<criticalChance>30</criticalChance>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2662,9 +2638,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -2782,9 +2756,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageDealt">
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<skillId>47352</skillId> <!-- Bloody Nightmare -->
 				<skillLevel>1</skillLevel>
 				<isCritical>true</isCritical>
@@ -2794,9 +2766,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageDealt">
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 				<skillId>47352</skillId> <!-- Bloody Nightmare -->
 				<skillLevel>1</skillLevel>
 				<isCritical>false</isCritical>
@@ -2901,25 +2871,19 @@
 		</conditions>
 		<effects>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<criticalChance>20</criticalChance>
 				<chanceBoost>300</chanceBoost>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<criticalChance>20</criticalChance>
 				<chanceBoost>300</chanceBoost>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<criticalChance>20</criticalChance>
 				<chanceBoost>300</chanceBoost>
 				<overHit>true</overHit>
@@ -2931,9 +2895,7 @@
 			<effect name="CallSkill">
 				<skillId>47361</skillId> <!-- Recovery Decrease -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2993,33 +2955,25 @@
 		</conditions>
 		<effects>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">9000</value>
-	</power>
+				<power>9000</power>
 				<criticalChance>20</criticalChance>
 				<chanceBoost>300</chanceBoost>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">9000</value>
-	</power>
+				<power>9000</power>
 				<criticalChance>20</criticalChance>
 				<chanceBoost>300</chanceBoost>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">9000</value>
-	</power>
+				<power>9000</power>
 				<criticalChance>20</criticalChance>
 				<chanceBoost>300</chanceBoost>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">9000</value>
-	</power>
+				<power>9000</power>
 				<criticalChance>20</criticalChance>
 				<chanceBoost>300</chanceBoost>
 				<overHit>true</overHit>
@@ -3049,9 +3003,7 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
 			<effect name="SkillTurning">
-				<chance>
-		<value level="1">70</value>
-	</chance>
+				<chance>70</chance>
 				<staticChance>true</staticChance>
 			</effect>
 		</effects>
@@ -3087,27 +3039,21 @@
 		</conditions>
 		<effects>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">15500</value>
-	</power>
+				<power>15500</power>
 				<criticalChance>20</criticalChance>
 				<chanceBoost>300</chanceBoost>
 				<overHit>true</overHit>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 			</effect>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">15500</value>
-	</power>
+				<power>15500</power>
 				<criticalChance>20</criticalChance>
 				<chanceBoost>300</chanceBoost>
 				<overHit>true</overHit>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 			</effect>
 			<effect name="DisarmShield">
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3153,9 +3099,7 @@
 		<effects>
 			<effect name="Hide" />
 			<effect name="SilentMove">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="AreaOfEffectDamageDefence">
 				<amount>30</amount>
@@ -3250,9 +3194,7 @@
 					<value level="1">1</value>
 					<value level="2">2</value>
 				</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="TriggerSkill">
 				<castSkillId>358</castSkillId> <!-- Bluff -->
@@ -3261,17 +3203,13 @@
 					<value level="1">1</value>
 					<value level="2">2</value>
 				</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="TriggerSkill">
 				<castSkillId>45477</castSkillId> <!-- Flying Dagger -->
 				<skillId>47366</skillId> <!-- Fatal Blow -->
 				<skillLevel>2</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3667,9 +3605,7 @@
 					<value level="17">17</value>
 					<value level="18">18</value>
 				</skillLevel>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>ENEMY</targetType>
 			</effect>
 			<effect name="PhysicalSkillPower">
@@ -3801,9 +3737,7 @@
 			<selfEffects>
 				<effect name="CallSkill">
 					<skillId>47383</skillId> <!-- Legendary Lethal Shot -->
-					<chance>
-		<value level="1">50</value>
-	</chance>
+					<chance>50</chance>
 					<skillLevel>
 						<amount>
 							<value level="1">1</value>
@@ -4022,9 +3956,7 @@
 					<value level="19">19</value>
 					<value level="20">20</value>
 				</skillLevel>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>ENEMY</targetType>
 			</effect>
 			<effect name="PhysicalSkillCriticalDamage">
@@ -4339,9 +4271,7 @@
 					<value level="19">19</value>
 					<value level="20">20</value>
 				</skillLevel>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>ENEMY</targetType>
 			</effect>
 			<effect name="DefencePhysicalSkillCriticalRate">
@@ -4652,9 +4582,7 @@
 					<value level="14">14</value>
 					<value level="15">15</value>
 				</skillLevel>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 			</effect>
 			<effect name="DefenceMagicCriticalRate">
@@ -4907,9 +4835,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="1" toLevel="1">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>BOW</allowWeapons>
@@ -4920,9 +4846,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="2" toLevel="2">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>BOW</allowWeapons>
@@ -4933,9 +4857,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="3" toLevel="3">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>BOW</allowWeapons>
@@ -5093,9 +5015,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="1" toLevel="1">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>BOW</allowWeapons>
@@ -5106,9 +5026,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="2" toLevel="2">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>BOW</allowWeapons>
@@ -5119,9 +5037,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="3" toLevel="3">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>BOW</allowWeapons>

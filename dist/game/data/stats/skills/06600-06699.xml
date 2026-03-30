@@ -2095,9 +2095,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2748</value>
-	</power>
+				<power>2748</power>
 			</effect>
 			<effect name="BlockActions" />
 			<effect name="DefenceCriticalRate">
@@ -2153,9 +2151,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">15</value>
-	</power>
+				<power>15</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2174,9 +2170,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">25</value>
-	</power>
+				<power>25</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2195,9 +2189,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2216,9 +2208,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">11</value>
-	</power>
+				<power>11</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2237,9 +2227,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">18</value>
-	</power>
+				<power>18</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2258,9 +2246,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2536,9 +2522,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">122</value>
-	</power>
+				<power>122</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2565,9 +2549,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2319</value>
-	</power>
+				<power>2319</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2589,9 +2571,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2319</value>
-	</power>
+				<power>2319</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2824,9 +2804,7 @@
 				<allowedSkills>35016</allowedSkills>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">115</value>
-	</power>
+				<power>115</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -2999,9 +2977,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>9</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3163,9 +3139,7 @@
 		<mpConsume>82</mpConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">120</value>
-	</power>
+				<power>120</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3223,9 +3197,7 @@
 		<mpConsume>82</mpConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">120</value>
-	</power>
+				<power>120</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3407,9 +3379,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTimePercent">
-				<power>
-		<value level="1">0.02</value>
-	</power>
+				<power>0.02</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="PhysicalAttackSpeed">
@@ -3647,9 +3617,7 @@
 		<reuseDelay>7000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">45257</value>
-	</power>
+				<power>45257</power>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>6698</skillId> <!-- Ice Crystal -->
@@ -3682,15 +3650,11 @@
 		<effects>
 			<effect name="BlockActions" />
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">115</value>
-	</power>
+				<power>115</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="ManaDamOverTime">
-				<power>
-		<value level="1">5</value>
-	</power>
+				<power>5</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>

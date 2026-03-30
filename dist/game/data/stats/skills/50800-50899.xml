@@ -347,9 +347,7 @@
 					<value level="7">7</value>
 					<value level="8">8</value>
 				</skillLevel>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 			</effect>
 		</effects>

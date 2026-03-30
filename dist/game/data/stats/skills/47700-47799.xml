@@ -154,26 +154,20 @@
 		<nextAction>ATTACK</nextAction>
 		<selfEffects>
 			<effect name="TriggerSkillByDeathBlow">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>47657</skillId> <!-- Blade Assault -->
 				<skillLevel>1</skillLevel>
 			</effect>
 		</selfEffects>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.95</pDefMod>
 			</effect>
 			<effect name="AdditionalPhysicalDamage">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<criticalChance>10</criticalChance>
 			</effect>
 			<effect name="CallSkill">
@@ -205,26 +199,20 @@
 		<nextAction>ATTACK</nextAction>
 		<selfEffects>
 			<effect name="TriggerSkillByDeathBlow">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>47657</skillId> <!-- Blade Assault -->
 				<skillLevel>1</skillLevel>
 			</effect>
 		</selfEffects>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.95</pDefMod>
 			</effect>
 			<effect name="AdditionalPhysicalDamage">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<criticalChance>10</criticalChance>
 			</effect>
 			<effect name="CallSkill">
@@ -240,9 +228,7 @@
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByDeathBlow">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>47657</skillId> <!-- Blade Assault -->
 				<skillLevel>1</skillLevel>
 			</effect>
@@ -837,41 +823,31 @@
 				<replacementSkillId>47931</replacementSkillId> <!-- Slashing Blades - Master -->
 			</effect>
 			<effect name="CallSkillOnEnemyDeath">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>47715</skillId> <!-- Blade Assault -->
 				<skillLevel>1</skillLevel>
 				<attackSkillId>47654</attackSkillId> <!-- Blade Assault -->
 			</effect>
 			<effect name="CallSkillOnEnemyDeath">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>47715</skillId> <!-- Blade Assault -->
 				<skillLevel>1</skillLevel>
 				<attackSkillId>47705</attackSkillId> <!-- Blade Assault -->
 			</effect>
 			<effect name="CallSkillOnEnemyDeath">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>47715</skillId> <!-- Blade Assault -->
 				<skillLevel>1</skillLevel>
 				<attackSkillId>47706</attackSkillId> <!-- Blade Assault -->
 			</effect>
 			<effect name="CallSkillOnEnemyDeath">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>47721</skillId> <!-- Blade Assault -->
 				<skillLevel>1</skillLevel>
 				<attackSkillId>47724</attackSkillId> <!-- Blade Assault -->
 			</effect>
 			<effect name="CallSkillOnEnemyDeath">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>47721</skillId> <!-- Blade Assault -->
 				<skillLevel>1</skillLevel>
 				<attackSkillId>47725</attackSkillId> <!-- Blade Assault -->
@@ -955,9 +931,7 @@
 		<nextAction>ATTACK</nextAction>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.95</pDefMod>
@@ -990,9 +964,7 @@
 		<mpConsume>400</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.95</pDefMod>
@@ -1063,9 +1035,7 @@
 		<mpConsume>400</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.95</pDefMod>
@@ -1098,9 +1068,7 @@
 		<mpConsume>400</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12000</value>
-	</power>
+				<power>12000</power>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.95</pDefMod>
@@ -1624,9 +1592,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY_ONLY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1636,9 +1602,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY_ONLY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1649,9 +1613,7 @@
 				<magicTypes>0;1</magicTypes>
 				<skillId>45153</skillId> <!-- Shadow Veil -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="ReplaceSkillBySkill" fromLevel="2" toLevel="2">

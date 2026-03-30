@@ -684,9 +684,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">5</value>
-	</chance>
+				<chance>5</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<skillId>1612</skillId> <!-- Slowing Power -->
@@ -695,9 +693,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">5</value>
-	</chance>
+				<chance>5</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<skillId>1612</skillId> <!-- Slowing Power -->

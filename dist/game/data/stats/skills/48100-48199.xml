@@ -246,9 +246,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4000</value>
-	</power>
+				<power>4000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -271,9 +269,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">9125</value>
-	</power>
+				<power>9125</power>
 			</effect>
 		</effects>
 	</skill>
@@ -295,9 +291,7 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -321,9 +315,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>

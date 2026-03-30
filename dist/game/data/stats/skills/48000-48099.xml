@@ -485,9 +485,7 @@
 		<trait>PARALYZE</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2927</value>
-	</power>
+				<power>2927</power>
 			</effect>
 			<effect name="BuffBlock" />
 			<effect name="DebuffBlock" />
@@ -878,9 +876,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">128</value>
-	</power>
+				<power>128</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -995,9 +991,7 @@
 		<specialLevel>0</specialLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">20000</value>
-	</power>
+				<power>20000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1022,9 +1016,7 @@
 		<specialLevel>0</specialLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">20000</value>
-	</power>
+				<power>20000</power>
 			</effect>
 		</effects>
 	</skill>

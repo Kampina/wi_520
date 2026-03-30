@@ -3920,9 +3920,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>47540</skillId> <!-- Impending Death Whisper -->
@@ -3932,9 +3930,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>47540</skillId> <!-- Impending Death Whisper -->
@@ -4462,9 +4458,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>47542</skillId> <!-- Impending Death Whisper -->
@@ -4474,9 +4468,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>47542</skillId> <!-- Impending Death Whisper -->
@@ -5142,9 +5134,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">8000</value>
-	</power>
+				<power>8000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -5166,9 +5156,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">8000</value>
-	</power>
+				<power>8000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -5190,9 +5178,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">8000</value>
-	</power>
+				<power>8000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -5283,9 +5269,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<allowNormalAttack>true</allowNormalAttack>
 				<allowSkillAttack>true</allowSkillAttack>
 				<targetType>TARGET</targetType>
@@ -5443,9 +5427,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<allowNormalAttack>true</allowNormalAttack>
 				<allowSkillAttack>true</allowSkillAttack>
 				<targetType>TARGET</targetType>
@@ -5603,9 +5585,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<allowNormalAttack>true</allowNormalAttack>
 				<allowSkillAttack>true</allowSkillAttack>
 				<targetType>TARGET</targetType>
@@ -5848,9 +5828,7 @@
 		</pvpEffects>
 		<pveEffects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">8500</value>
-	</power>
+				<power>8500</power>
 				<pDefMod>0.75</pDefMod>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<criticalChance>15</criticalChance>
@@ -5897,9 +5875,7 @@
 		</pvpEffects>
 		<pveEffects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">8500</value>
-	</power>
+				<power>8500</power>
 				<pDefMod>0.75</pDefMod>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<criticalChance>15</criticalChance>
@@ -5929,9 +5905,7 @@
 		</pvpEffects>
 		<pveEffects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">8500</value>
-	</power>
+				<power>8500</power>
 				<pDefMod>0.75</pDefMod>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<criticalChance>15</criticalChance>

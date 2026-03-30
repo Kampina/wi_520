@@ -16,11 +16,10 @@
  */
 package handlers.effecthandlers;
 
-import handlers.util.FortCaptureHelper;
-
+import org.l2jmobius.gameserver.managers.FortManager;
 import org.l2jmobius.gameserver.model.StatSet;
 import org.l2jmobius.gameserver.model.actor.Creature;
-import org.l2jmobius.gameserver.model.actor.Player;
+import org.l2jmobius.gameserver.model.clan.Clan;
 import org.l2jmobius.gameserver.model.effects.AbstractEffect;
 import org.l2jmobius.gameserver.model.item.instance.Item;
 import org.l2jmobius.gameserver.model.siege.Fort;
@@ -28,6 +27,10 @@ import org.l2jmobius.gameserver.model.skill.Skill;
 import org.l2jmobius.gameserver.network.SystemMessageId;
 import org.l2jmobius.gameserver.network.serverpackets.SystemMessage;
 
+/**
+ * Take Fort Start effect implementation.
+ * @author UnAfraid
+ */
 public class TakeFortStart extends AbstractEffect
 {
 	public TakeFortStart(StatSet params)
@@ -43,15 +46,16 @@ public class TakeFortStart extends AbstractEffect
 	@Override
 	public void instant(Creature effector, Creature effected, Skill skill, Item item)
 	{
-		final Fort fort = FortCaptureHelper.validateTakeFort(effector, skill, effector.getTarget(), false);
-		if (fort == null)
+		if (!effector.isPlayer())
 		{
 			return;
 		}
 		
-		final Player player = effector.asPlayer();
-		final SystemMessage sm = new SystemMessage(SystemMessageId.S1_CLAN_IS_TRYING_TO_DISPLAY_A_FLAG);
-		sm.addString(player.getClan().getName());
-		fort.getSiege().announceToPlayer(sm);
+		final Fort fort = FortManager.getInstance().getFort(effector);
+		final Clan clan = effector.getClan();
+		if ((fort != null) && (clan != null))
+		{
+			fort.getSiege().announceToPlayer(new SystemMessage(SystemMessageId.S1_IS_TRYING_TO_DISPLAY_THE_FLAG), effector.asPlayer().getName());
+		}
 	}
 }

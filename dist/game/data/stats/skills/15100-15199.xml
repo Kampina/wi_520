@@ -723,9 +723,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">9516</value>
-	</power>
+				<power>9516</power>
 			</effect>
 			<effect name="BlockActions">
 				<allowedSkills>35016</allowedSkills>
@@ -760,9 +758,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">11162</value>
-	</power>
+				<power>11162</power>
 			</effect>
 			<effect name="BlockActions">
 				<allowedSkills>35016</allowedSkills>
@@ -797,9 +793,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12809</value>
-	</power>
+				<power>12809</power>
 			</effect>
 			<effect name="BlockActions">
 				<allowedSkills>35016</allowedSkills>
@@ -826,9 +820,7 @@
 		<reuseDelay>7000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">23391</value>
-	</power>
+				<power>23391</power>
 			</effect>
 		</effects>
 	</skill>
@@ -852,9 +844,7 @@
 		<reuseDelay>7000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">27459</value>
-	</power>
+				<power>27459</power>
 			</effect>
 		</effects>
 	</skill>
@@ -878,9 +868,7 @@
 		<reuseDelay>7000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">31527</value>
-	</power>
+				<power>31527</power>
 			</effect>
 		</effects>
 	</skill>
@@ -903,9 +891,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">22526</value>
-	</power>
+				<power>22526</power>
 			</effect>
 		</effects>
 	</skill>
@@ -928,9 +914,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">26448</value>
-	</power>
+				<power>26448</power>
 			</effect>
 		</effects>
 	</skill>
@@ -953,9 +937,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">30371</value>
-	</power>
+				<power>30371</power>
 			</effect>
 		</effects>
 	</skill>
@@ -991,9 +973,7 @@
 				<allowedSkills>35016</allowedSkills>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">282</value>
-	</power>
+				<power>282</power>
 				<ticks>1</ticks>
 			</effect>
 			<effect name="DamageBlock">
@@ -1038,9 +1018,7 @@
 				<allowedSkills>35016</allowedSkills>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">296</value>
-	</power>
+				<power>296</power>
 				<ticks>1</ticks>
 			</effect>
 			<effect name="DamageBlock">
@@ -1085,9 +1063,7 @@
 				<allowedSkills>35016</allowedSkills>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">313</value>
-	</power>
+				<power>313</power>
 				<ticks>1</ticks>
 			</effect>
 			<effect name="DamageBlock">

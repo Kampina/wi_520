@@ -33,7 +33,7 @@ public class VampiricAttack extends AbstractEffect
 	public VampiricAttack(StatSet params)
 	{
 		_amount = params.getDouble("amount");
-		_sum = _amount * params.getDouble("chance", 100);
+		_sum = _amount * params.getDouble("chance");
 	}
 	
 	@Override

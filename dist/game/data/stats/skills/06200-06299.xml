@@ -645,9 +645,7 @@
 		<trait>SUPPRESSION</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">18162</value>
-	</power>
+				<power>18162</power>
 			</effect>
 			<effect name="Speed">
 				<amount>-50</amount>
@@ -1214,9 +1212,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">150000</value>
-	</power>
+				<power>150000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1337,9 +1333,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">38976</value>
-	</power>
+				<power>38976</power>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>6662</skillId> <!-- Ice Crystal -->
@@ -1367,9 +1361,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">45256</value>
-	</power>
+				<power>45256</power>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>6662</skillId> <!-- Ice Crystal -->
@@ -1430,9 +1422,7 @@
 		<mpConsume>168</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">18560</value>
-	</power>
+				<power>18560</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1454,9 +1444,7 @@
 		<mpConsume>168</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">18560</value>
-	</power>
+				<power>18560</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1505,9 +1493,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">18560</value>
-	</power>
+				<power>18560</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1554,9 +1540,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">18560</value>
-	</power>
+				<power>18560</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1663,14 +1647,10 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 			<effect name="Cp">
 				<amount>100</amount>
@@ -1760,9 +1740,7 @@
 		<mpConsume>123</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4563</value>
-	</power>
+				<power>4563</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1782,9 +1760,7 @@
 		<mpConsume>123</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4563</value>
-	</power>
+				<power>4563</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1810,9 +1786,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4563</value>
-	</power>
+				<power>4563</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1835,9 +1809,7 @@
 		<mpConsume>123</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4563</value>
-	</power>
+				<power>4563</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1903,9 +1875,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4563</value>
-	</power>
+				<power>4563</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1926,9 +1896,7 @@
 		<mpConsume>123</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4563</value>
-	</power>
+				<power>4563</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1964,9 +1932,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">1547</value>
-	</power>
+				<power>1547</power>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>6662</skillId> <!-- Ice Crystal -->

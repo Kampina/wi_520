@@ -94,12 +94,6 @@ public class SummonPet extends AbstractEffect
 			return;
 		}
 		
-		if (org.l2jmobius.gameserver.model.actor.enums.player.MountType.findByNpcId(petData.getNpcId()) != org.l2jmobius.gameserver.model.actor.enums.player.MountType.NONE)
-		{
-			player.mount(petData.getNpcId(), collar.getObjectId(), true);
-			return;
-		}
-		
 		final NpcTemplate npcTemplate = NpcData.getInstance().getTemplate(petData.getNpcId());
 		final Pet pet = Pet.spawnPet(npcTemplate, player, collar);
 		player.setPet(pet);
@@ -127,9 +121,5 @@ public class SummonPet extends AbstractEffect
 		collar.setEnchantLevel(pet.getLevel());
 		pet.spawnMe(player.getX() + 50, player.getY() + 100, player.getZ());
 		pet.startFeed();
-		if (pet.isMountable())
-		{
-			player.mountPlayer(pet);
-		}
 	}
 }

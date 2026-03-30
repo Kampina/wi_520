@@ -27,9 +27,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>

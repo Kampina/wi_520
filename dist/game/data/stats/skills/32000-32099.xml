@@ -143,9 +143,7 @@
 		</conditions>
 		<effects>
 			<effect name="Resurrection">
-				<power>
-		<value level="1">50</value>
-	</power>
+				<power>50</power>
 			</effect>
 		</effects>
 	</skill>
@@ -663,9 +661,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="Heal">
-				<power>
-		<value level="1">1</value>
-	</power>
+				<power>1</power>
 				<mode>PER</mode>
 			</effect>
 			<effect name="MaxMp">
@@ -732,9 +728,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="Heal">
-				<power>
-		<value level="1">1</value>
-	</power>
+				<power>1</power>
 				<mode>PER</mode>
 			</effect>
 			<effect name="MaxMp">

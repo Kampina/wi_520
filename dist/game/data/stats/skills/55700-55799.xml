@@ -603,9 +603,7 @@
 				<!-- Elmoreden Spirit Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -618,9 +616,7 @@
 				<!-- Elmoreden Spirit Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -633,9 +629,7 @@
 				<!-- Elmoreden Spirit Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -648,9 +642,7 @@
 				<!-- Elmoreden Spirit Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -663,9 +655,7 @@
 				<!-- Wrath of Elmoreden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -678,9 +668,7 @@
 				<!-- Wrath of Elmoreden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -693,9 +681,7 @@
 				<!-- Wrath of Elmoreden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -708,9 +694,7 @@
 				<!-- Wrath of Elmoreden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -723,9 +707,7 @@
 				<!-- Wrath of Elmoreden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -738,9 +720,7 @@
 				<!-- Wrath of Elmoreden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -753,9 +733,7 @@
 				<!-- Wrath of Elmoreden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -768,9 +746,7 @@
 				<!-- Wrath of Elmoreden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -783,9 +759,7 @@
 				<!-- Wrath of Elmoreden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -885,9 +859,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -900,9 +872,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -915,9 +885,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -930,9 +898,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -945,9 +911,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -960,9 +924,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -975,9 +937,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -990,9 +950,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1005,9 +963,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1020,9 +976,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1035,9 +989,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1050,9 +1002,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1065,9 +1015,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1080,9 +1028,7 @@
 				<!-- Wrath of Aden -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1207,9 +1153,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1222,9 +1166,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1237,9 +1179,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1252,9 +1192,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1267,9 +1205,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1282,9 +1218,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1297,9 +1231,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1312,9 +1244,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1327,9 +1257,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1342,9 +1270,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1357,9 +1283,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1372,9 +1296,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1387,9 +1309,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1402,9 +1322,7 @@
 				<!-- Wrath of Elmore -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1703,9 +1621,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="12" toLevel="12">
 				<!-- Recovery of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55752</skillId>
@@ -1714,9 +1630,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="13" toLevel="13">
 				<!-- Recovery of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55752</skillId>
@@ -1725,9 +1639,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="14" toLevel="14">
 				<!-- Recovery of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55752</skillId>
@@ -1736,9 +1648,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="15" toLevel="15">
 				<!-- Recovery of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55752</skillId>
@@ -1747,9 +1657,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="16" toLevel="16">
 				<!-- Recovery of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55752</skillId>
@@ -1758,9 +1666,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="17" toLevel="17">
 				<!-- Recovery of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55752</skillId>
@@ -1769,9 +1675,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="18" toLevel="18">
 				<!-- Recovery of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55752</skillId>
@@ -1780,9 +1684,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="19" toLevel="19">
 				<!-- Recovery of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55752</skillId>
@@ -1791,9 +1693,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="20" toLevel="20">
 				<!-- Recovery of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55752</skillId>
@@ -1802,9 +1702,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="18" toLevel="18">
 				<!-- Defense of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55753</skillId>
@@ -1813,9 +1711,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="19" toLevel="19">
 				<!-- Defense of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55753</skillId>
@@ -1824,9 +1720,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="20" toLevel="20">
 				<!-- Defense of Ferios -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55753</skillId>

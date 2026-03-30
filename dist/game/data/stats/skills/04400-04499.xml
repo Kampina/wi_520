@@ -3180,9 +3180,7 @@
 		<mpConsume>23</mpConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">183</value>
-	</power>
+				<power>183</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3388,9 +3386,7 @@
 		<magicLevel>75</magicLevel>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">50</value>
-	</power>
+				<power>50</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3982,9 +3978,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Decrease Speed -->
 				<attackerType>Playable</attackerType>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5022</skillId> <!-- Decrease Speed -->

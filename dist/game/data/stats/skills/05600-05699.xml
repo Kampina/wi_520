@@ -467,9 +467,7 @@
 					<value level="3">8</value>
 					<value level="4">9</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -856,9 +854,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>9</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3347,9 +3343,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">63</value>
-	</power>
+				<power>63</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -3607,9 +3601,7 @@
 				<!-- Oblivion Trap -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -3725,9 +3717,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">1</value>
-	</power>
+				<power>1</power>
 			</effect>
 		</effects>
 	</skill>

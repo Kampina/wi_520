@@ -111,9 +111,7 @@
 		<magicLevel>90</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -144,15 +142,11 @@
 		<magicLevel>73</magicLevel>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<percentage>80</percentage>
 			</effect>
 			<effect name="MagicalDamageMp">
-				<power>
-		<value level="1">246</value>
-	</power>
+				<power>246</power>
 				<critical>true</critical>
 				<criticalLimit>1450</criticalLimit>
 			</effect>
@@ -273,9 +267,7 @@
 		<reuseDelay>0</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -294,15 +286,11 @@
 		<magicLevel>73</magicLevel>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<percentage>80</percentage>
 			</effect>
 			<effect name="MagicalDamageMp">
-				<power>
-		<value level="1">246</value>
-	</power>
+				<power>246</power>
 				<critical>true</critical>
 				<criticalLimit>1450</criticalLimit>
 			</effect>
@@ -322,15 +310,11 @@
 		<magicLevel>73</magicLevel>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<percentage>80</percentage>
 			</effect>
 			<effect name="MagicalDamageMp">
-				<power>
-		<value level="1">246</value>
-	</power>
+				<power>246</power>
 				<critical>true</critical>
 				<criticalLimit>1450</criticalLimit>
 			</effect>
@@ -524,9 +508,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">123</value>
-	</power>
+				<power>123</power>
 				<ticks>3</ticks>
 			</effect>
 			<effect name="BlockSkill">
@@ -616,9 +598,7 @@
 		<trait>PARALYZE</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="BlockActions" />
@@ -651,9 +631,7 @@
 		<trait>PARALYZE</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="BlockActions" />
@@ -762,9 +740,7 @@
 			<effect name="BlockActions" />
 			<effect name="DamOverTime">
 				<canKill>true</canKill>
-				<power>
-		<value level="1">60</value>
-	</power>
+				<power>60</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>
@@ -794,9 +770,7 @@
 		<isMagic>1</isMagic>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">1500</value>
-	</power>
+				<power>1500</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -814,9 +788,7 @@
 		<isMagic>1</isMagic>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">2000</value>
-	</power>
+				<power>2000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -833,9 +805,7 @@
 		<isMagic>1</isMagic>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">1500</value>
-	</power>
+				<power>1500</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -853,9 +823,7 @@
 		<isMagic>1</isMagic>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">1500</value>
-	</power>
+				<power>1500</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -873,9 +841,7 @@
 		<isMagic>1</isMagic>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">1500</value>
-	</power>
+				<power>1500</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -893,9 +859,7 @@
 		<isMagic>1</isMagic>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">1500</value>
-	</power>
+				<power>1500</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>

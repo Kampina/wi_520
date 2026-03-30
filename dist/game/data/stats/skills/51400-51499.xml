@@ -184,9 +184,7 @@
 		<reuseDelay>400</reuseDelay>
 		<effects>
 			<effect name="HpCpHeal">
-				<power>
-		<value level="1">1000</value>
-	</power>
+				<power>1000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -205,9 +203,7 @@
 		<reuseDelayGroup>51415</reuseDelayGroup>
 		<effects>
 			<effect name="ManaHeal">
-				<power>
-		<value level="1">1000</value>
-	</power>
+				<power>1000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -927,9 +923,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>MY_PARTY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -939,9 +933,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>MY_PARTY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -951,9 +943,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1018,9 +1008,7 @@
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
 				<magicType>0</magicType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>false</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1033,9 +1021,7 @@
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
 				<magicType>0</magicType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1048,9 +1034,7 @@
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
 				<magicType>1</magicType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>false</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1063,9 +1047,7 @@
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
 				<magicType>1</magicType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1133,9 +1115,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1145,9 +1125,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1157,9 +1135,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1188,14 +1164,10 @@
 		<reuseDelay>60000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 			</effect>
 			<effect name="ManaHeal">
-				<power>
-		<value level="1">80</value>
-	</power>
+				<power>80</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1288,9 +1260,7 @@
 		<reuseDelay>30000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2000</value>
-	</power>
+				<power>2000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1310,9 +1280,7 @@
 		<reuseDelay>30000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">112</value>
-	</power>
+				<power>112</power>
 			</effect>
 		</effects>
 	</skill>

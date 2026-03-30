@@ -522,9 +522,7 @@
 		</selfEffects>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2989,9 +2987,7 @@
 					<value level="19">19</value>
 					<value level="20">20</value>
 				</skillLevel>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3204,9 +3200,7 @@
 					<value level="4">4</value>
 					<value level="5">5</value>
 				</skillLevel>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3701,9 +3695,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -3719,9 +3711,7 @@
 					<value level="7">7</value>
 					<value level="8">8</value>
 				</skillLevel>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3754,9 +3744,7 @@
 			<effect name="CallSkill">
 				<skillId>49071</skillId> <!-- Powerful Spell -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -4067,9 +4055,7 @@
 					<value level="14">14</value>
 					<value level="15">15</value>
 				</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -4304,9 +4290,7 @@
 					<value level="2">2</value>
 					<value level="3">3</value>
 				</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -4432,16 +4416,12 @@
 			<effect name="CallSkill">
 				<skillId>49088</skillId> <!-- Iron Age -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>49089</skillId> <!-- Iron Age -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 	</skill>

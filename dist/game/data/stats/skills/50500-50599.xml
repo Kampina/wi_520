@@ -611,9 +611,7 @@
 				<allowSkillAttack>true</allowSkillAttack>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">3</value>
-	</chance>
+				<chance>3</chance>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
@@ -624,24 +622,18 @@
 				<allowSkillAttack>true</allowSkillAttack>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">3</value>
-	</chance>
+				<chance>3</chance>
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
 				<skillId>50510</skillId> <!-- Defense: Wellbeing -->
 				<skillLevel>1</skillLevel>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">3</value>
-	</chance>
+				<chance>3</chance>
 				<targetType>SELF</targetType>
 			</effect>
 			<effect name="HealOverTime" abnormalTime="15">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -727,9 +719,7 @@
 				</skillLevel>
 				<allowWeapons>ALL</allowWeapons>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">3</value>
-	</chance>
+				<chance>3</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -777,9 +767,7 @@
 				<heal>true</heal>
 			</effect>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<mode>PER</mode>
 			</effect>
 			<effect name="HealOverTime">
@@ -839,9 +827,7 @@
 				<skillId>50514</skillId> <!-- Defense: Curse -->
 				<skillLevel>1</skillLevel>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">3</value>
-	</chance>
+				<chance>3</chance>
 				<targetType>TARGET</targetType>
 				<allowNormalAttack>true</allowNormalAttack>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -912,9 +898,7 @@
 					<value level="11">10</value> <!-- FIXME: AUTO GENERATED LEVEL -->
 				</skillLevel>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">3</value>
-	</chance>
+				<chance>3</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 		</effects>
@@ -981,9 +965,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -994,9 +976,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1665,9 +1645,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>false</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -1679,9 +1657,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<allowNormalAttack>false</allowNormalAttack>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -1694,9 +1670,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<allowNormalAttack>false</allowNormalAttack>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -3483,9 +3457,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>50544</skillId> <!-- Defense: Critical Rate -->
@@ -3757,9 +3729,7 @@
 				<skillId>50548</skillId> <!-- Defense: Power -->
 				<skillLevel>1</skillLevel>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 		</effects>
@@ -3926,9 +3896,7 @@
 				<skillId>50552</skillId> <!-- Defense: Debuffs -->
 				<skillLevel>1</skillLevel>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 			</effect>
 		</effects>
@@ -4778,9 +4746,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>50556</skillId> <!-- Beleth's Power -->
@@ -4789,9 +4755,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="6" toLevel="7">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>50556</skillId> <!-- Beleth's Power -->
@@ -4842,9 +4806,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>false</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
@@ -4856,9 +4818,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<allowNormalAttack>false</allowNormalAttack>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -4871,9 +4831,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<allowNormalAttack>false</allowNormalAttack>
 				<allowSkillAttack>true</allowSkillAttack>
@@ -5298,9 +5256,7 @@
 				<mode>DIFF</mode>
 			</effect>
 			<effect name="TriggerSkillByAvoid">
-				<chance>
-		<value level="1">77</value>
-	</chance>
+				<chance>77</chance>
 				<targetType>SELF</targetType>
 				<skillId>50562</skillId> <!-- Beryl - Barrier -->
 				<skillLevel>
@@ -5889,9 +5845,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -5902,9 +5856,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -6702,9 +6654,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<skillId>50580</skillId> <!-- Glakias Doll's Sorcery - MP Recovery -->
 				<skillLevel>
@@ -6735,9 +6685,7 @@
 					<value level="9">6</value>
 					<value level="10">6</value>
 				</skillLevel>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 			</effect>
 		</effects>
@@ -7438,9 +7386,7 @@
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50594</skillId> <!-- Fast Moving -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="15" toLevel="15">
@@ -7451,9 +7397,7 @@
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>50594</skillId> <!-- Fast Moving -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 		</effects>
@@ -7753,9 +7697,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -7776,9 +7718,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>

@@ -665,9 +665,7 @@
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>777</attackSkillId> <!-- Demolition Impact -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45415</skillId> <!-- Demolition Impact -->
 				<skillLevel>1</skillLevel>
@@ -675,9 +673,7 @@
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>47471</attackSkillId> <!-- Demolition Formula -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>47472</skillId> <!-- Demolition Formula -->
 				<skillLevel>1</skillLevel>
@@ -709,9 +705,7 @@
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45416</attackSkillId> <!-- Titanic Sweep -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>47473</skillId> <!-- Giant's Ring -->
 				<skillLevel>6</skillLevel>
@@ -730,9 +724,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="AdditionalPhysicalDamage">
-				<power>
-		<value level="1">5500</value>
-	</power>
+				<power>5500</power>
 				<criticalChance>10</criticalChance>
 			</effect>
 		</effects>
@@ -815,9 +807,7 @@
 					<value level="5">5</value>
 					<value level="6">6</value>
 				</skillLevel>
-				<chance>
-		<value level="1">33</value>
-	</chance>
+				<chance>33</chance>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>47473</skillId> <!-- Giant's Ring -->
@@ -829,9 +819,7 @@
 					<value level="5">5</value>
 					<value level="6">6</value>
 				</skillLevel>
-				<chance>
-		<value level="1">33</value>
-	</chance>
+				<chance>33</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1689,9 +1677,7 @@
 		<magicLevel>78</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">160</value>
-	</power>
+				<power>160</power>
 				<raceModifier>1.3</raceModifier>
 				<races>DEMONIC;UNDEAD</races>
 				<debuffModifier>1.1</debuffModifier>
@@ -1732,9 +1718,7 @@
 					<value level="19">19</value>
 					<value level="20">20</value>
 				</skillLevel>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>ENEMY</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -1762,9 +1746,7 @@
 					<value level="19">19</value>
 					<value level="20">20</value>
 				</skillLevel>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>ENEMY</targetType>
 			</effect>
 		</effects>
@@ -1786,18 +1768,14 @@
 				<castSkillId>45445</castSkillId> <!-- Dark Beam -->
 				<skillId>45437</skillId> <!-- Dark Wave -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>45241</castSkillId> <!-- Divine Beam -->
 				<skillId>45437</skillId> <!-- Dark Wave -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 		</effects>
@@ -1815,9 +1793,7 @@
 		<magicLevel>78</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">185</value>
-	</power>
+				<power>185</power>
 				<raceModifier>1.3</raceModifier>
 				<races>DEMONIC;UNDEAD</races>
 				<debuffModifier>1.1</debuffModifier>
@@ -2000,9 +1976,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<targetType>SELF</targetType>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<targetType>SELF</targetType>
 				<minDamage>100</minDamage>
 				<skillId>45442</skillId> <!-- Cacophony of War -->
@@ -2432,25 +2406,17 @@
 		<reuseDelay>3500</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">150</value>
-	</power>
+				<power>150</power>
 			</effect>
 			<effect name="CpHeal">
-				<power>
-		<value level="1">800</value>
-	</power>
+				<power>800</power>
 			</effect>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">53</value>
-	</power>
+				<power>53</power>
 				<ticks>3</ticks>
 			</effect>
 			<effect name="CpHealOverTime">
-				<power>
-		<value level="1">40</value>
-	</power>
+				<power>40</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -3168,9 +3134,7 @@
 		</conditions>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">148</value>
-	</power>
+				<power>148</power>
 				<percentage>80</percentage>
 			</effect>
 		</effects>
@@ -3195,9 +3159,7 @@
 		<reuseDelay>4000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">155</value>
-	</power>
+				<power>155</power>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>45462</skillId> <!-- Cold Flames -->
@@ -3234,15 +3196,11 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="ManaDamOverTime">
-				<power>
-		<value level="1">75</value>
-	</power>
+				<power>75</power>
 				<ticks>1</ticks>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">130</value>
-	</power>
+				<power>130</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>
@@ -3270,15 +3228,11 @@
 		<reuseDelay>2000</reuseDelay>
 		<effects>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">85</value>
-	</power>
+				<power>85</power>
 				<ticks>3</ticks>
 			</effect>
 			<effect name="CpHealOverTime">
-				<power>
-		<value level="1">75</value>
-	</power>
+				<power>75</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -4477,9 +4431,7 @@
 		</conditions>
 		<effects>
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="BlockActions">
 				<allowedSkills>10279;10517;11264;11093;1904;1912;13314;13542;30010;30018;30516;461;35016;35045</allowedSkills>
@@ -4590,9 +4542,7 @@
 		<trait>ANOMALY</trait>
 		<effects>
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 			</effect>
 			<effect name="BlockActions">
 				<allowedSkills>10279;10517;11264;11093;1904;1912;13314;13542;30010;30018;30516;461;35016;35045</allowedSkills>

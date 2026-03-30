@@ -1753,9 +1753,7 @@
 					<value level="2">2</value>
 					<value level="3">3</value>
 				</skillLevel>
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1885,9 +1883,7 @@
 			<effect name="CallSkill">
 				<skillId>48827</skillId> <!-- Freezing Swamp -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2023,9 +2019,7 @@
 			<effect name="CallSkill">
 				<skillId>48831</skillId> <!-- Storm Swamp -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2114,9 +2108,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -2164,9 +2156,7 @@
 				<mode>DIFF</mode>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<ticks>1</ticks>
 			</effect>
 		</pvpEffects>
@@ -2180,9 +2170,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 				<ticks>1</ticks>
 			</effect>
 		</pveEffects>
@@ -2229,9 +2217,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>TARGET</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -2341,9 +2327,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>TARGET</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -2659,9 +2643,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>45331</skillId> <!-- Dark Horror -->
@@ -2776,9 +2758,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45332</attackSkillId> <!-- Flaming Body -->
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<skillId>45318</skillId> <!-- Death Point Absorption - Flaming Body -->
 				<skillLevel>1</skillLevel>
@@ -2857,9 +2837,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45333</attackSkillId> <!-- Flaming Body -->
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<skillId>45318</skillId> <!-- Death Point Absorption - Flaming Body -->
 				<skillLevel>1</skillLevel>
@@ -2938,9 +2916,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45334</attackSkillId> <!-- Flaming Body -->
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<skillId>45318</skillId> <!-- Death Point Absorption - Flaming Body -->
 				<skillLevel>1</skillLevel>
@@ -3088,9 +3064,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -3101,9 +3075,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="1" toLevel="1">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -3114,9 +3086,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="2" toLevel="2">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -3777,19 +3747,13 @@
 				<amount>-300</amount>
 			</effect>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 			<effect name="CpHealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">5</value>
-	</power>
+				<power>5</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3845,9 +3809,7 @@
 				<attackSkillId>45301</attackSkillId> <!-- Punishment -->
 				<attackerType>Creature</attackerType>
 				<minDamage>50</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>40498</skillId> <!-- Hellfire -->
@@ -3857,9 +3819,7 @@
 				<attackSkillId>45301</attackSkillId> <!-- Punishment -->
 				<attackerType>Creature</attackerType>
 				<minDamage>50</minDamage>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>40498</skillId> <!-- Hellfire -->
@@ -3869,9 +3829,7 @@
 				<attackSkillId>45305</attackSkillId> <!-- Fist of Fury -->
 				<attackerType>Creature</attackerType>
 				<minDamage>50</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>45306</skillId> <!-- Fist of Fury -->
@@ -3893,9 +3851,7 @@
 				<attackSkillId>45307</attackSkillId> <!-- Fist of Fury -->
 				<attackerType>Creature</attackerType>
 				<minDamage>50</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>45308</skillId> <!-- Fist of Fury -->
@@ -3917,9 +3873,7 @@
 				<attackSkillId>45309</attackSkillId> <!-- Fist of Fury -->
 				<attackerType>Creature</attackerType>
 				<minDamage>50</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>45310</skillId> <!-- Fist of Fury -->
@@ -4387,9 +4341,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<skillId>45304</skillId> <!-- Drain Magic Energy - MP Recovery -->
 				<skillLevel>
@@ -4402,9 +4354,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45301</attackSkillId> <!-- Punishment -->
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<skillId>45304</skillId> <!-- Drain Magic Energy - MP Recovery -->
 				<skillLevel>
@@ -4417,9 +4367,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45302</attackSkillId> <!-- Punishment -->
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<skillId>45304</skillId> <!-- Drain Magic Energy - MP Recovery -->
 				<skillLevel>
@@ -4432,9 +4380,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45303</attackSkillId> <!-- Wipeout -->
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<skillId>45304</skillId> <!-- Drain Magic Energy - MP Recovery -->
 				<skillLevel>
@@ -4447,9 +4393,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45305</attackSkillId> <!-- Fist of Fury -->
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<skillId>45304</skillId> <!-- Drain Magic Energy - MP Recovery -->
 				<skillLevel>
@@ -4462,9 +4406,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45306</attackSkillId> <!-- Fist of Fury -->
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<skillId>45304</skillId> <!-- Drain Magic Energy - MP Recovery -->
 				<skillLevel>
@@ -4477,9 +4419,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45307</attackSkillId> <!-- Fist of Fury -->
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<skillId>45304</skillId> <!-- Drain Magic Energy - MP Recovery -->
 				<skillLevel>
@@ -4492,9 +4432,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45308</attackSkillId> <!-- Fist of Fury -->
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<skillId>45304</skillId> <!-- Drain Magic Energy - MP Recovery -->
 				<skillLevel>
@@ -4507,9 +4445,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45309</attackSkillId> <!-- Fist of Fury -->
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<skillId>45304</skillId> <!-- Drain Magic Energy - MP Recovery -->
 				<skillLevel>
@@ -4522,9 +4458,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45310</attackSkillId> <!-- Fist of Fury -->
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<skillId>45304</skillId> <!-- Drain Magic Energy - MP Recovery -->
 				<skillLevel>
@@ -6036,9 +5970,7 @@
 					<value level="1">1</value>
 					<value level="2">2</value>
 				</skillLevel>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -6048,9 +5980,7 @@
 					<value level="1">1</value>
 					<value level="2">2</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -6060,9 +5990,7 @@
 					<value level="1">1</value>
 					<value level="2">2</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 			<effect name="PhysicalAttack" fromLevel="2" toLevel="2">
@@ -6089,9 +6017,7 @@
 					<value level="1">1</value>
 					<value level="2">2</value>
 				</skillLevel>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -6101,9 +6027,7 @@
 					<value level="1">1</value>
 					<value level="2">2</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -6113,9 +6037,7 @@
 					<value level="1">1</value>
 					<value level="2">2</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 			<effect name="PvePhysicalAttackDamageBonus" fromLevel="2" toLevel="2">
@@ -7215,9 +7137,7 @@
 				<attackSkillId>45384</attackSkillId> <!-- Amazing Spike Thrust -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<skillId>45385</skillId> <!-- Amazing Spike Thrust -->
 				<skillLevel>1</skillLevel>
 			</effect>
@@ -7784,17 +7704,13 @@
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>45388</skillId> <!-- Dark Elven Senses -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>19</attackSkillId> <!-- Double Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>45388</skillId> <!-- Dark Elven Senses -->
@@ -7804,9 +7720,7 @@
 				<attackSkillId>343</attackSkillId> <!-- Lethal Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>45388</skillId> <!-- Dark Elven Senses -->
@@ -7816,9 +7730,7 @@
 				<attackSkillId>47602</attackSkillId> <!-- Triple Shot -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<allowWeapons>BOW</allowWeapons>
 				<skillId>45388</skillId> <!-- Dark Elven Senses -->
@@ -7958,9 +7870,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<isCritical>false</isCritical>
 				<targetType>ENEMY</targetType>
 				<skillId>45392</skillId> <!-- Sword Attack Range -->
@@ -7970,9 +7880,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<isCritical>true</isCritical>
 				<targetType>ENEMY</targetType>
 				<skillId>45392</skillId> <!-- Sword Attack Range -->
@@ -7982,9 +7890,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>45393</skillId> <!-- Sword Defense -->
@@ -7994,9 +7900,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>45394</skillId> <!-- Sword Blessing -->
@@ -8005,9 +7909,7 @@
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 			<effect name="TriggerSkillByAvoid">
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<skillId>45394</skillId> <!-- Sword Blessing -->
 				<skillLevel>1</skillLevel>
@@ -8164,9 +8066,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -8177,9 +8077,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -8191,9 +8089,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -8205,9 +8101,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>

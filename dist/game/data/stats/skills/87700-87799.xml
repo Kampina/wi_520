@@ -1255,9 +1255,7 @@
 					<value level="14">14</value>
 					<value level="15">15</value>
 				</skillLevel>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 			</effect>
 			<effect name="CallSkill">
 				<isAffectedBySkillId>87727</isAffectedBySkillId> <!-- Twining Plants -->
@@ -2682,9 +2680,7 @@
 					<value level="14">14</value>
 					<value level="15">15</value>
 				</skillLevel>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 			</effect>
 			<effect name="CallSkill">
 				<isAffectedBySkillId>87727</isAffectedBySkillId> <!-- Twining Plants -->
@@ -2828,9 +2824,7 @@
 			<effect name="CallSkill">
 				<skillId>87760</skillId> <!-- Forest Root -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3392,9 +3386,7 @@
 		<reuseDelay>0</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">290</value>
-	</power>
+				<power>290</power>
 			</effect>
 			<effect name="DispelBySlot">
 				<dispel>TWINING_PLANTS,-1</dispel>
@@ -3835,9 +3827,7 @@
 		<reuseDelay>0</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">450</value>
-	</power>
+				<power>450</power>
 			</effect>
 			<effect name="DefenceTrait">
 				<POLE>-60</POLE>
@@ -3874,9 +3864,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3893,9 +3881,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">450</value>
-	</power>
+				<power>450</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3934,14 +3920,10 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">400</value>
-	</power>
+				<power>400</power>
 			</effect>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">400</value>
-	</power>
+				<power>400</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3979,72 +3961,56 @@
 		<effects>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87705</castSkillId> <!-- Bright Dance -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>26032</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87706</castSkillId> <!-- Bright Dance -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>26032</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87707</castSkillId> <!-- Bright Dance -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>26032</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87715</castSkillId> <!-- Bright Dance of Light -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>26032</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87716</castSkillId> <!-- Bright Dance of Light -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>26032</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87717</castSkillId> <!-- Bright Dance of Light -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>26032</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87708</castSkillId> <!-- Claidheamh Soluis -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>26032</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87718</castSkillId> <!-- Shining Claidheamh Soluis -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>26032</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
@@ -4109,15 +4075,11 @@
 				<slot>DEBUFF</slot>
 			</effect>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<ticks>2</ticks>
 			</effect>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">20</value>
-	</power>
+				<power>20</power>
 				<ticks>2</ticks>
 			</effect>
 		</effects>
@@ -4155,9 +4117,7 @@
 				<skillId>87746</skillId> <!-- Powerful Light -->
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillLevel>1</skillLevel>
 				<targetType>ENEMY</targetType>
 			</effect>
@@ -4167,9 +4127,7 @@
 				<skillId>87747</skillId> <!-- Powerful Light -->
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillLevel>1</skillLevel>
 				<targetType>ENEMY</targetType>
 			</effect>
@@ -4209,9 +4167,7 @@
 				<skillId>87747</skillId> <!-- Powerful Light -->
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>true</allowNormalAttack>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillLevel>1</skillLevel>
 				<targetType>ENEMY</targetType>
 			</effect>
@@ -4242,18 +4198,14 @@
 				<magicTypes>0</magicTypes>
 				<skillId>87748</skillId> <!-- Powerful Light -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 			</effect>
 			<effect name="TriggerSkillByMagicType">
 				<magicTypes>1</magicTypes>
 				<skillId>87749</skillId> <!-- Powerful Light -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 			</effect>
 		</effects>
@@ -4279,9 +4231,7 @@
 				<mode>DIFF</mode>
 			</effect>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">2000</value>
-	</power>
+				<power>2000</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>
@@ -4309,15 +4259,11 @@
 				<mode>DIFF</mode>
 			</effect>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">2000</value>
-	</power>
+				<power>2000</power>
 				<ticks>1</ticks>
 			</effect>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>
@@ -4368,72 +4314,56 @@
 		<effects>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87705</castSkillId> <!-- Bright Dance -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>87762</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87706</castSkillId> <!-- Bright Dance -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>87762</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87707</castSkillId> <!-- Bright Dance -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>87762</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87715</castSkillId> <!-- Bright Dance of Light -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>87762</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87716</castSkillId> <!-- Bright Dance of Light -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>87762</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87717</castSkillId> <!-- Bright Dance of Light -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>87762</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87708</castSkillId> <!-- Claidheamh Soluis -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>87762</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>87718</castSkillId> <!-- Shining Claidheamh Soluis -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>87762</skillId> <!-- Brilliant Blessing -->
 				<skillLevel>1</skillLevel>
@@ -4493,15 +4423,11 @@
 				<slot>DEBUFF</slot>
 			</effect>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">2000</value>
-	</power>
+				<power>2000</power>
 				<ticks>2</ticks>
 			</effect>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">50</value>
-	</power>
+				<power>50</power>
 				<ticks>2</ticks>
 			</effect>
 		</effects>
@@ -5435,9 +5361,7 @@
 				<attackSkillId>87715</attackSkillId> <!-- Bright Dance of Light -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87792</skillId> <!-- Ultimate Dispel -->
 				<skillLevel>1</skillLevel>
@@ -5446,9 +5370,7 @@
 				<attackSkillId>87716</attackSkillId> <!-- Bright Dance of Light -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87792</skillId> <!-- Ultimate Dispel -->
 				<skillLevel>1</skillLevel>
@@ -5457,9 +5379,7 @@
 				<attackSkillId>87717</attackSkillId> <!-- Bright Dance of Light -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>87792</skillId> <!-- Ultimate Dispel -->
 				<skillLevel>1</skillLevel>

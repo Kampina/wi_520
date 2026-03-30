@@ -80,13 +80,6 @@ public class Sweeper extends AbstractEffect
 					player.addItem(ItemProcessType.SWEEP, sweepedItem, effected, true);
 				}
 			}
-			
-			// Section 24: award SP to the sweeper for each spoiled NPC (Specialty: Spoil)
-			final long spoilSp = (long) monster.getTemplate().getLevel() * 30L;
-			if (spoilSp > 0)
-			{
-				player.addExpAndSp(0, spoilSp, false);
-			}
 		}
 	}
 }

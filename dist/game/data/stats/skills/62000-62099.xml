@@ -149,7 +149,7 @@
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<effectPoint>1</effectPoint>
 		<hitCancelTime>0</hitCancelTime>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<irreplaceableBuff>true</irreplaceableBuff>
 		<isMagic>2</isMagic>
 		<magicCriticalRate>5</magicCriticalRate>

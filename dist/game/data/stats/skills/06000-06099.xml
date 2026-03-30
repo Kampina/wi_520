@@ -459,9 +459,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2372</value>
-	</power>
+				<power>2372</power>
 			</effect>
 		</effects>
 	</skill>
@@ -510,9 +508,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">70</value>
-	</power>
+				<power>70</power>
 			</effect>
 		</effects>
 	</skill>
@@ -536,9 +532,7 @@
 		<reuseDelay>13000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2156</value>
-	</power>
+				<power>2156</power>
 			</effect>
 		</effects>
 	</skill>

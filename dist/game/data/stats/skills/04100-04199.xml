@@ -425,9 +425,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">28600</value>
-	</power>
+				<power>28600</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -579,9 +577,7 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">650</value>
-	</power>
+				<power>650</power>
 			</effect>
 		</effects>
 	</skill>
@@ -613,9 +609,7 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">10</value>
-	</power>
+				<power>10</power>
 			</effect>
 			<effect name="BlockActions" />
 			<effect name="HpRegen">
@@ -643,9 +637,7 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">57200</value>
-	</power>
+				<power>57200</power>
 			</effect>
 		</effects>
 	</skill>
@@ -668,9 +660,7 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">57200</value>
-	</power>
+				<power>57200</power>
 			</effect>
 		</effects>
 	</skill>
@@ -695,9 +685,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">47</value>
-	</power>
+				<power>47</power>
 			</effect>
 		</effects>
 	</skill>
@@ -718,9 +706,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">689</value>
-	</power>
+				<power>689</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1279,9 +1265,7 @@
 		<magicLevel>75</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">0</value>
-	</power>
+				<power>0</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1299,9 +1283,7 @@
 		<magicLevel>75</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">14000</value>
-	</power>
+				<power>14000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1319,9 +1301,7 @@
 		<magicLevel>75</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4000</value>
-	</power>
+				<power>4000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1343,9 +1323,7 @@
 		<magicLevel>75</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">367</value>
-	</power>
+				<power>367</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1391,9 +1369,7 @@
 		<magicLevel>75</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">3885</value>
-	</power>
+				<power>3885</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1411,9 +1387,7 @@
 		<reuseDelay>300000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">1000</value>
-	</power>
+				<power>1000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1443,9 +1417,7 @@
 		<magicLevel>75</magicLevel>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">1000000</value>
-	</power>
+				<power>1000000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1463,9 +1435,7 @@
 		<magicLevel>75</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">10000000</value>
-	</power>
+				<power>10000000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1805,9 +1775,7 @@
 		</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">0</value>
-	</power>
+				<power>0</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1840,9 +1808,7 @@
 		</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">0</value>
-	</power>
+				<power>0</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3723,9 +3689,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">0</value>
-	</power>
+				<power>0</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>

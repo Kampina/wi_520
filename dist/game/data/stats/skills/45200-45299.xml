@@ -407,18 +407,14 @@
 				<castSkillId>28</castSkillId>
 				<skillId>45232</skillId> <!-- Power of Aggression -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>45244</castSkillId>
 				<skillId>45232</skillId> <!-- Power of Aggression -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 			</effect>
 		</effects>
@@ -5162,18 +5158,14 @@
 				<castSkillId>28</castSkillId>
 				<skillId>45233</skillId> <!-- Power of Aggression -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>45260</castSkillId>
 				<skillId>45233</skillId> <!-- Power of Aggression -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 			</effect>
 		</effects>
@@ -5825,9 +5817,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="DamOverTimePercent">
-				<power>
-		<value level="1">0.01</value>
-	</power>
+				<power>0.01</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -5851,9 +5841,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="DamOverTimePercent">
-				<power>
-		<value level="1">0.01</value>
-	</power>
+				<power>0.01</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -6809,9 +6797,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -6822,9 +6808,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -6848,9 +6832,7 @@
 		<nextAction>ATTACK</nextAction>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -10017,9 +9999,7 @@
 					<value toLevel="1" fromLevel="1" fromSubLevel="1003" toSubLevel="1003">3047246</value>
 				</skillId>
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<targetType>TARGET</targetType>
 			</effect>
 		</effects>

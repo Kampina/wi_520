@@ -1144,9 +1144,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4078</value>
-	</power>
+				<power>4078</power>
 				<criticalChance>20</criticalChance>
 				<overHit>true</overHit>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
@@ -1167,9 +1165,7 @@
 		<isTriggeredSkill>true</isTriggeredSkill>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">6200</value>
-	</power>
+				<power>6200</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.9</pDefMod>
 				<criticalChance>10</criticalChance>

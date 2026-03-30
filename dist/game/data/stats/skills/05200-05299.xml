@@ -265,9 +265,7 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -426,9 +424,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>9</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -792,9 +788,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2784</value>
-	</power>
+				<power>2784</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -823,9 +817,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">5704</value>
-	</power>
+				<power>5704</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -854,9 +846,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">11407</value>
-	</power>
+				<power>11407</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -876,9 +866,7 @@
 		<mpConsume>149</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">4563</value>
-	</power>
+				<power>4563</power>
 			</effect>
 		</effects>
 	</skill>
@@ -897,9 +885,7 @@
 		<mpConsume>260</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">7685</value>
-	</power>
+				<power>7685</power>
 			</effect>
 		</effects>
 	</skill>
@@ -918,9 +904,7 @@
 		<mpConsume>445</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">13688</value>
-	</power>
+				<power>13688</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1002,9 +986,7 @@
 		<specialLevel>-1</specialLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">298</value>
-	</power>
+				<power>298</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -1060,9 +1042,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">6723</value>
-	</power>
+				<power>6723</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -1092,9 +1072,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">11205</value>
-	</power>
+				<power>11205</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -2785,9 +2763,7 @@
 		<effects>
 			<effect name="BlockActions" />
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2908,9 +2884,7 @@
 		</magicLevel>
 		<effects>
 			<effect name="TargetMeProbability">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3249,9 +3223,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">13066</value>
-	</power>
+				<power>13066</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3447,9 +3419,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">13066</value>
-	</power>
+				<power>13066</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3645,9 +3615,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">13066</value>
-	</power>
+				<power>13066</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3843,9 +3811,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">13066</value>
-	</power>
+				<power>13066</power>
 			</effect>
 		</effects>
 	</skill>
@@ -4041,9 +4007,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">13066</value>
-	</power>
+				<power>13066</power>
 			</effect>
 		</effects>
 	</skill>
@@ -4238,9 +4202,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">13066</value>
-	</power>
+				<power>13066</power>
 			</effect>
 		</effects>
 	</skill>

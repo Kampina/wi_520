@@ -381,9 +381,7 @@
 			<effect name="CallSkill">
 				<skillId>88435</skillId> <!-- Devastating Assault - Pull -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">33</value>
-	</chance>
+				<chance>33</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -527,9 +525,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">8500</value>
-	</power>
+				<power>8500</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.7</pDefMod>
 				<criticalChance>10</criticalChance>
@@ -579,9 +575,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.7</pDefMod>
 				<criticalChance>10</criticalChance>
@@ -597,25 +591,19 @@
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88493</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="ComboSkill">
 				<skillId>88493</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88492</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>88492</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -746,25 +734,19 @@
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88493</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="ComboSkill">
 				<skillId>88493</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88492</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>88492</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -981,9 +963,7 @@
 			<effect name="CallSkill">
 				<skillId>88435</skillId> <!-- Devastating Assault - Pull -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">33</value>
-	</chance>
+				<chance>33</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1297,25 +1277,19 @@
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88493</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="ComboSkill" fromLevel="16" toLevel="30">
 				<skillId>88493</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88492</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="CallSkill" fromLevel="16" toLevel="30">
 				<skillId>88492</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1461,25 +1435,19 @@
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88493</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="ComboSkill" fromLevel="11" toLevel="25">
 				<skillId>88493</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88492</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="CallSkill" fromLevel="11" toLevel="25">
 				<skillId>88492</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1561,9 +1529,7 @@
 			<effect name="CallSkill">
 				<skillId>88436</skillId> <!-- Vortex of Claws - Pull -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">33</value>
-	</chance>
+				<chance>33</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1657,25 +1623,19 @@
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88493</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="ComboSkill" fromLevel="6" toLevel="8">
 				<skillId>88493</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88492</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="CallSkill" fromLevel="6" toLevel="8">
 				<skillId>88492</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2036,25 +1996,19 @@
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88493</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="ComboSkill" fromLevel="11" toLevel="25">
 				<skillId>88493</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
 				<targetCheckSkillId>88492</targetCheckSkillId>
 				<mode>DUAL</mode>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 			<effect name="CallSkill" fromLevel="11" toLevel="25">
 				<skillId>88492</skillId> <!-- Claw Mark -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">25</value>
-	</chance>
+				<chance>25</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2137,9 +2091,7 @@
 			<effect name="CallSkill">
 				<skillId>88436</skillId> <!-- Vortex of Claws - Pull -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">33</value>
-	</chance>
+				<chance>33</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3163,18 +3115,14 @@
 				<mode>DIFF</mode>
 			</effect>
 			<effect name="TriggerSkillByKill">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>88482</skillId> <!-- WP Absorption: Target Kill -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>88401</attackSkillId> <!-- Direct Strike -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>88481</skillId> <!-- WP Absorption: Direct Strike (Wolf Base) - MOB -->
 				<skillLevel>1</skillLevel>
@@ -3182,9 +3130,7 @@
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>88404</attackSkillId> <!-- Quick Dash -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>88481</skillId> <!-- WP Absorption: Direct Strike (Wolf Base) - MOB -->
 				<skillLevel>2</skillLevel>
@@ -3192,9 +3138,7 @@
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>88414</attackSkillId> <!-- Quick Dash -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>88481</skillId> <!-- WP Absorption: Direct Strike (Wolf Base) - MOB -->
 				<skillLevel>2</skillLevel>
@@ -3202,9 +3146,7 @@
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>88402</attackSkillId> <!-- Upward Strike -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>88481</skillId> <!-- WP Absorption: Direct Strike (Wolf Base) - MOB -->
 				<skillLevel>3</skillLevel>
@@ -3212,9 +3154,7 @@
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>88412</attackSkillId> <!-- Upward Strike -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>88481</skillId> <!-- WP Absorption: Direct Strike (Wolf Base) - MOB -->
 				<skillLevel>3</skillLevel>
@@ -3222,9 +3162,7 @@
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>88420</attackSkillId> <!-- Powerful Fists -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>88481</skillId> <!-- WP Absorption: Direct Strike (Wolf Base) - MOB -->
 				<skillLevel>4</skillLevel>
@@ -3232,9 +3170,7 @@
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>88441</attackSkillId> <!-- Enormous Wolf -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<skillId>88481</skillId> <!-- WP Absorption: Direct Strike (Wolf Base) - MOB -->
 				<skillLevel>5</skillLevel>
@@ -3242,9 +3178,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>88473</skillId> <!-- Ancient Werewolf: Master -->
@@ -3254,9 +3188,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>88473</skillId> <!-- Ancient Werewolf: Master -->
@@ -3266,9 +3198,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>88472</skillId> <!-- Ancient Werewolf -->
@@ -3278,9 +3208,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>88472</skillId> <!-- Ancient Werewolf -->
@@ -3290,9 +3218,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>88471</skillId> <!-- Werewolf -->
@@ -3302,9 +3228,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>88471</skillId> <!-- Werewolf -->
@@ -3905,9 +3829,7 @@
 				<FEAR>30</FEAR>
 			</effect>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">10</value>
-	</power>
+				<power>10</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="ReplaceSkillBySkill">
@@ -4046,9 +3968,7 @@
 				<FEAR>50</FEAR>
 			</effect>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">20</value>
-	</power>
+				<power>20</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="ReplaceSkillBySkill">
@@ -4187,9 +4107,7 @@
 				<FEAR>60</FEAR>
 			</effect>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">30</value>
-	</power>
+				<power>30</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="ReplaceSkillBySkill">
@@ -4329,16 +4247,12 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="TriggerSkillByKill" fromLevel="1" toLevel="1">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>88430</skillId> <!-- Mana Recovery -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByKill" fromLevel="2" toLevel="3">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>88430</skillId> <!-- Mana Recovery -->
 				<skillLevel>2</skillLevel>
 			</effect>
@@ -4793,16 +4707,12 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="TriggerSkillByKill" fromLevel="1" toLevel="1">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>88430</skillId> <!-- Mana Recovery -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByKill" fromLevel="2" toLevel="3">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>88430</skillId> <!-- Mana Recovery -->
 				<skillLevel>2</skillLevel>
 			</effect>
@@ -5016,9 +4926,7 @@
 			<!-- <effect name="CallSkill">
 				<skillId></skillId>
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect> -->
 		</effects>
 	</skill>

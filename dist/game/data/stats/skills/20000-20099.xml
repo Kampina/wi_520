@@ -35,9 +35,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">3420</value>
-	</power>
+				<power>3420</power>
 				<overHit>true</overHit>
 				<chanceBoost>200</chanceBoost>
 			</effect>
@@ -60,9 +58,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">3420</value>
-	</power>
+				<power>3420</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -131,9 +127,7 @@
 		<reuseDelay>240000</reuseDelay>
 		<effects>
 			<effect name="CpHealPercent">
-				<power>
-		<value level="1">15</value>
-	</power>
+				<power>15</power>
 			</effect>
 			<effect name="MaxHp">
 				<amount>15</amount>

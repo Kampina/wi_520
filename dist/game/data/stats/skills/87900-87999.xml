@@ -18,24 +18,18 @@
 		<reuseDelay>0</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>87822</skillId> <!-- Flying Leap -->
 				<skillLevel>4</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>87823</skillId> <!-- Flying Leap -->
 				<skillLevel>4</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -57,24 +51,18 @@
 		<reuseDelay>0</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>87822</skillId> <!-- Flying Leap -->
 				<skillLevel>4</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>87823</skillId> <!-- Flying Leap -->
 				<skillLevel>4</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1636,9 +1624,7 @@
 			<effect name="CallSkill">
 				<skillId>87860</skillId> <!-- Light Discharge -->
 				<skillLevel>3</skillLevel>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 		<selfEffects>
@@ -1763,9 +1749,7 @@
 			<effect name="CallSkill">
 				<skillId>87897</skillId> <!-- Noblesse Light Discharge -->
 				<skillLevel>3</skillLevel>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1802,9 +1786,7 @@
 				<attackSkillId>88009</attackSkillId> <!-- Templar's Assault -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">70</value>
-	</chance>
+				<chance>70</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>88075</skillId> <!-- Water Spout -->
@@ -1969,9 +1951,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>87975</skillId> <!-- Flowing Tears Lv. 1 -->
@@ -2298,9 +2278,7 @@
 		</selfEffects>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">7000</value>
-	</power>
+				<power>7000</power>
 				<pDefMod>0.8</pDefMod>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>

@@ -15,9 +15,7 @@
 		<mpConsume>108</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">10000000</value>
-	</power>
+				<power>10000000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -35,9 +33,7 @@
 		<mpConsume>181</mpConsume>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">111</value>
-	</power>
+				<power>111</power>
 				<percentage>80</percentage>
 			</effect>
 		</effects>
@@ -63,9 +59,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>9</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -88,9 +82,7 @@
 		<reuseDelay>15000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">111</value>
-	</power>
+				<power>111</power>
 			</effect>
 		</effects>
 	</skill>
@@ -280,9 +272,7 @@
 				<max>10</max>
 			</effect>
 			<effect name="HealPercent" fromLevel="1" toLevel="1">
-				<power>
-		<value level="1">3</value>
-	</power>
+				<power>3</power>
 			</effect>
 			<effect name="PhysicalAttack">
 				<amount>
@@ -367,9 +357,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">6400</value>
-	</power>
+				<power>6400</power>
 			</effect>
 		</effects>
 	</skill>
@@ -392,9 +380,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">106</value>
-	</power>
+				<power>106</power>
 			</effect>
 		</effects>
 	</skill>
@@ -415,9 +401,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">364</value>
-	</power>
+				<power>364</power>
 			</effect>
 		</effects>
 	</skill>
@@ -463,9 +447,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">61</value>
-	</power>
+				<power>61</power>
 				<percentage>80</percentage>
 			</effect>
 		</effects>
@@ -611,9 +593,7 @@
 			<effect name="Grow">
 			</effect>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">20</value>
-	</power>
+				<power>20</power>
 			</effect>
 			<effect name="Speed">
 				<amount>22</amount>
@@ -666,9 +646,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">314</value>
-	</power>
+				<power>314</power>
 				<percentage>80</percentage>
 			</effect>
 		</effects>
@@ -750,9 +728,7 @@
 		<specialLevel>-1</specialLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="AttackAttribute">
@@ -3395,9 +3371,7 @@
 		</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2112</value>
-	</power>
+				<power>2112</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3445,9 +3419,7 @@
 			</effect>
 			<effect name="BlockActions" />
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3472,9 +3444,7 @@
 		<specialLevel>-1</specialLevel>
 		<effects>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">6335</value>
-	</power>
+				<power>6335</power>
 				<chanceBoost>150</chanceBoost>
 			</effect>
 			<effect name="Speed">
@@ -3535,9 +3505,7 @@
 		<effects>
 			<effect name="DamOverTime">
 				<canKill>true</canKill>
-				<power>
-		<value level="1">12</value>
-	</power>
+				<power>12</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -3669,9 +3637,7 @@
 		<reuseDelay>6000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">1084</value>
-	</power>
+				<power>1084</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3692,9 +3658,7 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">473</value>
-	</power>
+				<power>473</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3712,9 +3676,7 @@
 		<mpConsume>83</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">30215</value>
-	</power>
+				<power>30215</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3732,9 +3694,7 @@
 		<mpConsume>83</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">88254</value>
-	</power>
+				<power>88254</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3754,9 +3714,7 @@
 		<magicLevel>99</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">473</value>
-	</power>
+				<power>473</power>
 			</effect>
 		</effects>
 	</skill>

@@ -393,9 +393,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">301</value>
-	</power>
+				<power>301</power>
 			</effect>
 		</effects>
 	</skill>
@@ -455,9 +453,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>9</amount>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -563,9 +559,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="ManaHealByLevel">
-				<power>
-		<value level="1">94</value>
-	</power>
+				<power>94</power>
 			</effect>
 		</effects>
 	</skill>
@@ -583,9 +577,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">506</value>
-	</power>
+				<power>506</power>
 			</effect>
 		</effects>
 	</skill>
@@ -729,7 +721,7 @@
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<effectPoint>1</effectPoint>
 		<hitCancelTime>0</hitCancelTime>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<irreplaceableBuff>true</irreplaceableBuff>
 		<isMagic>2</isMagic>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -759,7 +751,7 @@
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<effectPoint>1</effectPoint>
 		<hitCancelTime>0</hitCancelTime>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<irreplaceableBuff>true</irreplaceableBuff>
 		<isMagic>2</isMagic>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -789,7 +781,7 @@
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<effectPoint>1</effectPoint>
 		<hitCancelTime>0</hitCancelTime>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<irreplaceableBuff>true</irreplaceableBuff>
 		<isMagic>2</isMagic>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -819,7 +811,7 @@
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<effectPoint>1</effectPoint>
 		<hitCancelTime>0</hitCancelTime>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<irreplaceableBuff>true</irreplaceableBuff>
 		<isMagic>2</isMagic>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -849,7 +841,7 @@
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<effectPoint>1</effectPoint>
 		<hitCancelTime>0</hitCancelTime>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<irreplaceableBuff>true</irreplaceableBuff>
 		<isMagic>2</isMagic>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -1090,9 +1082,7 @@
 		<reuseDelay>40000</reuseDelay>
 		<effects>
 			<effect name="ManaHealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>

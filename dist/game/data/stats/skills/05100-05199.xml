@@ -251,9 +251,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">68</value>
-	</power>
+				<power>68</power>
 			</effect>
 		</effects>
 	</skill>
@@ -319,9 +317,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">68</value>
-	</power>
+				<power>68</power>
 			</effect>
 		</effects>
 	</skill>
@@ -541,9 +537,7 @@
 		</magicLevel>
 		<effects>
 			<effect name="TargetMeProbability">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -610,9 +604,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">829</value>
-	</power>
+				<power>829</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -659,9 +651,7 @@
 		<reuseDelay>17000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2487</value>
-	</power>
+				<power>2487</power>
 			</effect>
 		</effects>
 	</skill>
@@ -692,9 +682,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">703</value>
-	</power>
+				<power>703</power>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -939,9 +927,7 @@
 		<magicLevel>80</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 			</effect>
 		</effects>
 	</skill>
@@ -960,9 +946,7 @@
 		<magicLevel>80</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 			</effect>
 		</effects>
 	</skill>
@@ -981,9 +965,7 @@
 		<magicLevel>80</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1002,9 +984,7 @@
 		<magicLevel>80</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1030,9 +1010,7 @@
 		<magicLevel>80</magicLevel>
 		<effects>
 			<effect name="Unsummon">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="DispelBySlotProbability">
 				<dispel>ATTACK_TIME_DOWN;CASTING_TIME_DOWN;SPEED_UP;IMPROVE_SPEED_AVOID_UP;IMPROVE_VAMPIRIC_HASTE</dispel>
@@ -1496,9 +1474,7 @@
 				<overHit>true</overHit>
 			</effect>
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1585,9 +1561,7 @@
 		<mpConsume>84</mpConsume>
 		<effects>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">39544</value>
-	</power>
+				<power>39544</power>
 				<chanceBoost>1150</chanceBoost>
 			</effect>
 		</effects>
@@ -2942,9 +2916,7 @@
 			<effect name="BlockControl" />
 			<effect name="Fear">
 				<targetType>ENEMY_ONLY</targetType>
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 				<time>20</time>
 			</effect>
 		</effects>
@@ -3202,9 +3174,7 @@
 		<mpInitialConsume>8</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">116</value>
-	</power>
+				<power>116</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3284,9 +3254,7 @@
 		<reuseDelay>6000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">54</value>
-	</power>
+				<power>54</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3380,9 +3348,7 @@
 					<value level="3">8</value>
 					<value level="4">9</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>

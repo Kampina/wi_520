@@ -178,9 +178,7 @@
 		</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">518</value>
-	</power>
+				<power>518</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="AttackTrait">

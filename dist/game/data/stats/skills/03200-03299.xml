@@ -281,9 +281,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Heal -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5146</skillId> <!-- Heal -->
@@ -323,9 +321,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Blessed Body -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5147</skillId> <!-- Blessed Body -->
@@ -365,9 +361,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Prayer -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5148</skillId> <!-- Prayer -->
@@ -407,9 +401,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Recharge -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5149</skillId> <!-- Recharge -->
@@ -449,9 +441,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Blessed Soul -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5150</skillId> <!-- Blessed Soul -->
@@ -496,9 +486,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Mana Gain -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5151</skillId> <!-- Mana Gain -->
@@ -543,9 +531,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Ritual -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5152</skillId> <!-- Ritual -->
@@ -585,9 +571,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Cheer -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5153</skillId> <!-- Joy -->
@@ -632,9 +616,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Might -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5154</skillId> <!-- Might -->
@@ -684,9 +666,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Empower -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5156</skillId> <!-- Empower -->
@@ -731,9 +711,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Duel Might -->
 				<attackerType>Playable</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5157</skillId> <!-- Might in Duel -->
@@ -778,9 +756,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Shield -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5158</skillId> <!-- Shield -->
@@ -830,9 +806,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Magic Barrier -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5159</skillId> <!-- Magic Barrier -->
@@ -877,9 +851,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Duel Weakness -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5160</skillId> <!-- Weakness in Duel -->
@@ -924,9 +896,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Agility -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5161</skillId> <!-- Agility -->
@@ -976,9 +946,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Guidance -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5162</skillId> <!-- Guidance -->
@@ -1023,9 +991,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Focus -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5163</skillId> <!-- Focus -->
@@ -1065,9 +1031,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Wild Magic -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5164</skillId> <!-- Wild Magic -->
@@ -1112,9 +1076,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Charm -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">1</value>
-	</chance>
+				<chance>1</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5165</skillId> <!-- Charm -->
@@ -1164,9 +1126,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Slow -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5166</skillId> <!-- Slow -->
@@ -1216,9 +1176,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Winter -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5167</skillId> <!-- Winter -->
@@ -1263,9 +1221,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Stun -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5168</skillId> <!-- Stun -->
@@ -1305,9 +1261,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Hold -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5169</skillId> <!-- Hold -->
@@ -1347,9 +1301,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Sleep -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5170</skillId> <!-- Sleep -->
@@ -1389,9 +1341,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Paralyze -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5171</skillId> <!-- Paralysis -->
@@ -1431,9 +1381,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Medusa -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5172</skillId> <!-- Medusa -->
@@ -1473,9 +1421,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Fear -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5173</skillId> <!-- Fear -->
@@ -1520,9 +1466,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Poison -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5174</skillId> <!-- Poison -->
@@ -1572,9 +1516,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Bleed -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5175</skillId> <!-- Bleed -->
@@ -1619,9 +1561,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Silence -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5176</skillId> <!-- Silence -->
@@ -1661,9 +1601,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Doom -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">4</value>
-	</chance>
+				<chance>4</chance>
 				<targetType>ENEMY</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5177</skillId> <!-- Doom -->
@@ -2420,9 +2358,7 @@
 		</conditions>
 		<effects>
 			<effect name="Resurrection">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -3125,9 +3061,7 @@
 		<magicLevel>55</magicLevel>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">4</value>
-	</power>
+				<power>4</power>
 				<mode>PER</mode>
 			</effect>
 		</effects>

@@ -9,9 +9,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">70</value>
-	</chance>
+				<chance>70</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -21,9 +19,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">70</value>
-	</chance>
+				<chance>70</chance>
 				<targetType>SELF</targetType>
 				<skillId>53101</skillId> <!-- Heroic Miracle -->
 				<skillLevel>1</skillLevel>
@@ -34,9 +30,7 @@
 				<magicTypes>0;1;2;3;4</magicTypes>
 				<skillId>53101</skillId> <!-- Heroic Miracle -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">70</value>
-	</chance>
+				<chance>70</chance>
 				<targetType>SELF</targetType>
 			</effect>
 			<effect name="MaxHp">
@@ -75,9 +69,7 @@
 				<mode>DIFF</mode>
 			</effect>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">80</value>
-	</power>
+				<power>80</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>

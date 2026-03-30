@@ -42,9 +42,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="ResurrectionSpecial">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1407,9 +1405,7 @@
 					<value level="21">4</value> <!-- FIXME: AUTO GENERATED LEVEL -->
 				</skillLevel>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 			</effect>
 		</effects>

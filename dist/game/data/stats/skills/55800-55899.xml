@@ -44,9 +44,7 @@
 					<value level="2">4.5</value>
 					<value level="3">5</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1032,9 +1030,7 @@
 					<value level="2">4.5</value>
 					<value level="3">5</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1122,9 +1118,7 @@
 				<!-- Legendary Cloak - Silence -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>ENEMY</targetType>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowNormalAttack>false</allowNormalAttack>
@@ -1170,9 +1164,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="1" toLevel="1">
 				<!-- Legendary Cloak - Barrier -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">5</value>
-	</chance>
+				<chance>5</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55861</skillId>
@@ -1181,9 +1173,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="2" toLevel="2">
 				<!-- Legendary Cloak - Barrier -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">5</value>
-	</chance>
+				<chance>5</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55861</skillId>
@@ -1192,9 +1182,7 @@
 			<effect name="TriggerSkillByDamageReceived" fromLevel="3" toLevel="3">
 				<!-- Legendary Cloak - Barrier -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">5</value>
-	</chance>
+				<chance>5</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>55861</skillId>
@@ -1280,9 +1268,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="ResurrectionSpecial">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1295,9 +1281,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Legendary Cloak - Invincibility -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<hpPercent>30</hpPercent>
 				<minDamage>1</minDamage>

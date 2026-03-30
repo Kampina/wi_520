@@ -1114,9 +1114,7 @@
 				<!-- Warrior Ability - Haste -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1135,9 +1133,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Knight Ability - Defense -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5573</skillId> <!-- Knight Ability: Defense -->
@@ -1156,9 +1152,7 @@
 				<!-- Log Ability - Critical Chance -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1178,9 +1172,7 @@
 				<!-- Wizard Ability - Mana Steal -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1199,9 +1191,7 @@
 			<effect name="TriggerSkillByDamageReceived">
 				<!-- Enchanter Ability - Barrier -->
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">2</value>
-	</chance>
+				<chance>2</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5576</skillId> <!-- Enchanter Ability: Barrier -->
@@ -1226,9 +1216,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2904</value>
-	</power>
+				<power>2904</power>
 				<overHit>true</overHit>
 				<criticalChance>15</criticalChance>
 			</effect>
@@ -1249,9 +1237,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2323</value>
-	</power>
+				<power>2323</power>
 				<overHit>true</overHit>
 				<criticalChance>15</criticalChance>
 			</effect>
@@ -1274,9 +1260,7 @@
 		<reuseDelay>4000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2323</value>
-	</power>
+				<power>2323</power>
 				<overHit>true</overHit>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 			</effect>
@@ -1420,9 +1404,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">1162</value>
-	</power>
+				<power>1162</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="BlockActions">
@@ -1456,9 +1438,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">775</value>
-	</power>
+				<power>775</power>
 				<overHit>true</overHit>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 			</effect>
@@ -1562,18 +1542,14 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2323</value>
-	</power>
+				<power>2323</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="BlockActions">
 				<allowedSkills>10279;10517;11264;11093;1904;1912;13314;13542;30010;30018;30516;461;35016;35045</allowedSkills>
 			</effect>
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1593,9 +1569,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">6195</value>
-	</power>
+				<power>6195</power>
 				<overHit>true</overHit>
 				<criticalChance>15</criticalChance>
 			</effect>
@@ -1628,15 +1602,11 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">1549</value>
-	</power>
+				<power>1549</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">139</value>
-	</power>
+				<power>139</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -1658,9 +1628,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="FatalBlow">
-				<power>
-		<value level="1">6969</value>
-	</power>
+				<power>6969</power>
 				<overHit>true</overHit>
 				<chanceBoost>200</chanceBoost>
 			</effect>
@@ -1754,9 +1722,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">102</value>
-	</power>
+				<power>102</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1778,9 +1744,7 @@
 		<reuseDelay>8000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">128</value>
-	</power>
+				<power>128</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -1806,9 +1770,7 @@
 		<reuseDelay>4000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">64</value>
-	</power>
+				<power>64</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1935,9 +1897,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">946</value>
-	</power>
+				<power>946</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1957,9 +1917,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">826</value>
-	</power>
+				<power>826</power>
 			</effect>
 		</effects>
 	</skill>

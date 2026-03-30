@@ -67,7 +67,7 @@
 		<operateType>A1</operateType>
 		<targetType>SELF</targetType>
 		<affectScope>SINGLE</affectScope>
-		<hitTime>20000</hitTime>
+		<hitTime>5000</hitTime>
 		<isMagic>2</isMagic>
 		<magicCriticalRate>-5</magicCriticalRate>
 		<magicLevel>1</magicLevel>

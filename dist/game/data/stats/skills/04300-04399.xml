@@ -590,9 +590,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>9</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1476,9 +1474,7 @@
 					<value level="3">8</value>
 					<value level="4">9</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1935,9 +1931,7 @@
 		<magicLevel>-1</magicLevel>
 		<effects>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">9.26</value>
-	</power>
+				<power>9.26</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -1956,9 +1950,7 @@
 		<magicLevel>-1</magicLevel>
 		<effects>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">18.52</value>
-	</power>
+				<power>18.52</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="MaxMp">
@@ -1981,9 +1973,7 @@
 		<magicLevel>-1</magicLevel>
 		<effects>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">27.78</value>
-	</power>
+				<power>27.78</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="MaxMp">
@@ -2006,9 +1996,7 @@
 		<magicLevel>-1</magicLevel>
 		<effects>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">61.11</value>
-	</power>
+				<power>61.11</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="MaxMp">
@@ -2031,9 +2019,7 @@
 		<magicLevel>-1</magicLevel>
 		<effects>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">116.7</value>
-	</power>
+				<power>116.7</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="MaxMp">
@@ -2056,9 +2042,7 @@
 		<magicLevel>-1</magicLevel>
 		<effects>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="MaxMp">
@@ -2081,9 +2065,7 @@
 		<magicLevel>-1</magicLevel>
 		<effects>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">205.6</value>
-	</power>
+				<power>205.6</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="MaxMp">
@@ -2106,9 +2088,7 @@
 		<magicLevel>-1</magicLevel>
 		<effects>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">288.9</value>
-	</power>
+				<power>288.9</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="MaxMp">
@@ -2131,9 +2111,7 @@
 		<magicLevel>-1</magicLevel>
 		<effects>
 			<effect name="ManaHealOverTime">
-				<power>
-		<value level="1">372.2</value>
-	</power>
+				<power>372.2</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="MaxMp">
@@ -2408,9 +2386,7 @@
 		<effects>
 			<effect name="BlockActions" />
 			<effect name="TargetMeProbability">
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2873,9 +2849,7 @@
 					<value level="3">8</value>
 					<value level="4">9</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>

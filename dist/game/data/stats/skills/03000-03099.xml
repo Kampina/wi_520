@@ -45,9 +45,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">44</value>
-	</power>
+				<power>44</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -1877,9 +1875,7 @@
 		</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">8.39</value>
-	</power>
+				<power>8.39</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1907,9 +1903,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">74</value>
-	</power>
+				<power>74</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -1938,9 +1932,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">88</value>
-	</power>
+				<power>88</power>
 				<ticks>3</ticks>
 			</effect>
 			<effect name="Speed">
@@ -1973,9 +1965,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">256</value>
-	</power>
+				<power>256</power>
 				<ticks>3</ticks>
 			</effect>
 			<effect name="Speed">
@@ -2008,9 +1998,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">128</value>
-	</power>
+				<power>128</power>
 				<ticks>3</ticks>
 			</effect>
 			<effect name="Speed">
@@ -2164,9 +2152,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">224</value>
-	</power>
+				<power>224</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -2569,9 +2555,7 @@
 		<reuseDelay>30000</reuseDelay>
 		<effects>
 			<effect name="TargetMeProbability">
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 			</effect>
 		</effects>
 	</skill>

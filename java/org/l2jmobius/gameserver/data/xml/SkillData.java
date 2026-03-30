@@ -143,6 +143,8 @@ public class SkillData implements IXmlReader
 		}
 		
 		LOGGER.info(getClass().getSimpleName() + ": Loaded " + _skillsByHash.size() + " Skills.");
+	LOGGER.info("Skill 100 level 1 present? " + (_skillsByHash.get(getSkillHashCode(100, 1)) != null));
+	int debugc=0; for (Skill s : _skillsByHash.values()) { if(debugc++<10) LOGGER.info("Skill in map: id=" + s.getId() + " level="+s.getLevel()); }
 	}
 	
 	public void reload()
@@ -226,6 +228,7 @@ public class SkillData implements IXmlReader
 						
 						final int fromLevel = generalSkillInfo.getInt(".fromLevel", 1);
 						final int toLevel = generalSkillInfo.getInt(".toLevel", 0);
+if (generalSkillInfo.getInt(".id", 0) == 100) LOGGER.info("Skill 100 toLevel=" + toLevel);
 						for (int i = fromLevel; i <= toLevel; i++)
 						{
 							levels.computeIfAbsent(i, _ -> new HashSet<>()).add(0);

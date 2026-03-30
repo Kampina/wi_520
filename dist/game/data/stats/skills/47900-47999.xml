@@ -93,9 +93,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -195,9 +193,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -290,9 +286,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -380,9 +374,7 @@
 			</effect>
 			<effect name="TriggerSkillByMagicType">
 				<magicTypes>1</magicTypes>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>
 					<value level="1">47913</value>
 					<value level="2">47913</value>
@@ -531,9 +523,7 @@
 					<value level="3">3</value>
 					<value level="4">4</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -545,9 +535,7 @@
 					<value level="3">3</value>
 					<value level="4">4</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -559,9 +547,7 @@
 					<value level="3">3</value>
 					<value level="4">4</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -573,9 +559,7 @@
 					<value level="3">3</value>
 					<value level="4">4</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -587,9 +571,7 @@
 					<value level="3">3</value>
 					<value level="4">4</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -601,9 +583,7 @@
 					<value level="3">3</value>
 					<value level="4">4</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -615,9 +595,7 @@
 					<value level="3">3</value>
 					<value level="4">4</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -629,9 +607,7 @@
 					<value level="3">3</value>
 					<value level="4">4</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
@@ -643,9 +619,7 @@
 					<value level="3">3</value>
 					<value level="4">4</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY_ONLY</targetType>
 			</effect>
 		</effects>
@@ -763,9 +737,7 @@
 			</effect>
 			<effect name="TriggerSkillByMagicType">
 				<magicTypes>1</magicTypes>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>47915</skillId> <!-- Phantom Attack -->
 				<skillLevel>
 					<value level="1">1</value>
@@ -832,9 +804,7 @@
 		<stayAfterDeath>true</stayAfterDeath> <!-- Custom -->
 		<effects>
 			<effect name="MpConsumePerLevel">
-				<power>
-		<value level="1">0.4</value>
-	</power>
+				<power>0.4</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="TransferDamageToSummon">
@@ -1570,9 +1540,7 @@
 				<isCritical>false</isCritical>
 				<skillId>47921</skillId> <!-- Cat Emperor - Hold -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt">
@@ -1582,9 +1550,7 @@
 				<isCritical>true</isCritical>
 				<skillId>47921</skillId> <!-- Cat Emperor - Hold -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">90</value>
-	</chance>
+				<chance>90</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 		</effects>
@@ -1600,9 +1566,7 @@
 				<isCritical>false</isCritical>
 				<skillId>47922</skillId> <!-- Unicorn Guardian - Stun -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt">
@@ -1612,9 +1576,7 @@
 				<isCritical>true</isCritical>
 				<skillId>47922</skillId> <!-- Unicorn Guardian - Stun -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">90</value>
-	</chance>
+				<chance>90</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 		</effects>
@@ -1630,9 +1592,7 @@
 				<isCritical>false</isCritical>
 				<skillId>47926</skillId> <!-- Lord Raise - Debuff -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt">
@@ -1642,9 +1602,7 @@
 				<isCritical>true</isCritical>
 				<skillId>47926</skillId> <!-- Lord Raise - Debuff -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">90</value>
-	</chance>
+				<chance>90</chance>
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 		</effects>
@@ -2557,9 +2515,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">12500</value>
-	</power>
+				<power>12500</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.7</pDefMod>
 				<critical>true</critical>
@@ -2875,9 +2831,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="1" toLevel="1">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>POLE</allowWeapons>
@@ -2889,9 +2843,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="1" toLevel="1">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>POLE</allowWeapons>
@@ -2903,9 +2855,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="2" toLevel="2">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>POLE</allowWeapons>
@@ -2917,9 +2867,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="2" toLevel="2">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>POLE</allowWeapons>
@@ -2960,161 +2908,125 @@
 		<effects>
 			<effect name="TriggerSkillBySkillDamage">
 				<attackSkillId>45332</attackSkillId> <!-- Flaming Body -->
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<skillId>45318</skillId> <!-- Death Point Absorption - Flaming Body -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>361</attackSkillId> <!-- Shocking Burst -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45084</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>1625</attackSkillId> <!-- Throwing Spear -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45084</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>1606</attackSkillId> <!-- Quick Spear -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45084</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>45093</attackSkillId> <!-- Spear Cage -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45084</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>47941</attackSkillId> <!-- Spear Cage -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45084</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>921</attackSkillId> <!-- Spike Thrust -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>45064</attackSkillId> <!-- Transcendent Spike Thrust -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>45384</attackSkillId> <!-- Amazing Spike Thrust -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>47998</attackSkillId> <!-- Transcendent Spike Thrust -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>190</attackSkillId> <!-- Fatal Strike -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>260</attackSkillId> <!-- Power Crash -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>47940</attackSkillId> <!-- Great Sweep -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>36</attackSkillId> <!-- Vortex -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45085</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>48</attackSkillId> <!-- Thunder Storm -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45085</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>45368</attackSkillId> <!-- Amazing Thunder Storm -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45085</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>47942</attackSkillId> <!-- Spear Rumble -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45085</skillId> <!-- Anger -->
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="5" toLevel="5">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>POLE</allowWeapons>
@@ -3123,9 +3035,7 @@
 				<allowSkillAttack>false</allowSkillAttack>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="5" toLevel="5">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>POLE</allowWeapons>
@@ -3186,152 +3096,118 @@
 		<effects>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>361</attackSkillId> <!-- Shocking Burst -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45084</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>1625</attackSkillId> <!-- Throwing Spear -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45084</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>1606</attackSkillId> <!-- Quick Spear -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45084</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>45093</attackSkillId> <!-- Spear Cage -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45084</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>47941</attackSkillId> <!-- Spear Cage -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45084</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>921</attackSkillId> <!-- Spike Thrust -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>45064</attackSkillId> <!-- Transcendent Spike Thrust -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>45384</attackSkillId> <!-- Amazing Spike Thrust -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>47998</attackSkillId> <!-- Transcendent Spike Thrust -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>190</attackSkillId> <!-- Fatal Strike -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>260</attackSkillId> <!-- Power Crash -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>47940</attackSkillId> <!-- Great Sweep -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45100</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>36</attackSkillId> <!-- Vortex -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45085</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>48</attackSkillId> <!-- Thunder Storm -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45085</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>45368</attackSkillId> <!-- Amazing Thunder Storm -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45085</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="5" toLevel="5">
 				<attackSkillId>47942</attackSkillId> <!-- Spear Rumble -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<skillId>45085</skillId> <!-- Anger -->
 				<skillLevel>2</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="5" toLevel="5">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>POLE</allowWeapons>
@@ -3340,9 +3216,7 @@
 				<allowSkillAttack>false</allowSkillAttack>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="5" toLevel="5">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>POLE</allowWeapons>
@@ -3894,9 +3768,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>DUAL</allowWeapons>
@@ -3906,9 +3778,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>DUAL</allowWeapons>
@@ -3919,9 +3789,7 @@
 				<attackSkillId>1</attackSkillId> <!-- Rising Attack -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47939</skillId> <!-- Sword Spirit's Attack -->
@@ -3931,9 +3799,7 @@
 				<attackSkillId>45364</attackSkillId> <!-- Amazing Rising Attack -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47939</skillId> <!-- Sword Spirit's Attack -->
@@ -3943,9 +3809,7 @@
 				<attackSkillId>5</attackSkillId> <!-- Double Sonic Slash -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47939</skillId> <!-- Sword Spirit's Attack -->
@@ -3955,9 +3819,7 @@
 				<attackSkillId>190</attackSkillId> <!-- Fatal Strike -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47939</skillId> <!-- Sword Spirit's Attack -->
@@ -3967,9 +3829,7 @@
 				<attackSkillId>261</attackSkillId> <!-- Triple Slash -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47939</skillId> <!-- Sword Spirit's Attack -->
@@ -3979,9 +3839,7 @@
 				<attackSkillId>47965</attackSkillId> <!-- Triple Slash - Challenger -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47939</skillId> <!-- Sword Spirit's Attack -->
@@ -4180,9 +4038,7 @@
 		<trait>IMPRISON</trait>
 		<effects>
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">60</value>
-	</chance>
+				<chance>60</chance>
 			</effect>
 			<effect name="BlockActions" />
 		</effects>
@@ -4557,9 +4413,7 @@
 		<affectScope>SINGLE</affectScope>
 		<effects>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="1" toLevel="1">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>DUAL</allowWeapons>
@@ -4567,9 +4421,7 @@
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="1" toLevel="1">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>DUAL</allowWeapons>
@@ -4577,9 +4429,7 @@
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="2" toLevel="2">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>DUAL</allowWeapons>
@@ -4587,9 +4437,7 @@
 				<skillLevel>1</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="2" toLevel="2">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>DUAL</allowWeapons>
@@ -4598,9 +4446,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="1" toLevel="1">
 				<attackSkillId>1</attackSkillId> <!-- Rising Attack -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47935</skillId> <!-- Sword Spirit's Attack -->
@@ -4608,9 +4454,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="1" toLevel="1">
 				<attackSkillId>45364</attackSkillId> <!-- Amazing Rising Attack -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47935</skillId> <!-- Sword Spirit's Attack -->
@@ -4618,9 +4462,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="1" toLevel="1">
 				<attackSkillId>5</attackSkillId> <!-- Double Sonic Slash -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47935</skillId> <!-- Sword Spirit's Attack -->
@@ -4628,9 +4470,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="1" toLevel="1">
 				<attackSkillId>190</attackSkillId> <!-- Fatal Strike -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47935</skillId> <!-- Sword Spirit's Attack -->
@@ -4638,9 +4478,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="1" toLevel="1">
 				<attackSkillId>261</attackSkillId> <!-- Triple Slash -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47935</skillId> <!-- Sword Spirit's Attack -->
@@ -4648,9 +4486,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="1" toLevel="1">
 				<attackSkillId>47965</attackSkillId> <!-- Triple Slash - Challenger -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47935</skillId> <!-- Sword Spirit's Attack -->
@@ -4658,9 +4494,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="2" toLevel="2">
 				<attackSkillId>1</attackSkillId> <!-- Rising Attack -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47938</skillId> <!-- Sword Spirit's Attack -->
@@ -4668,9 +4502,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="2" toLevel="2">
 				<attackSkillId>45364</attackSkillId> <!-- Amazing Rising Attack -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47938</skillId> <!-- Sword Spirit's Attack -->
@@ -4678,9 +4510,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="2" toLevel="2">
 				<attackSkillId>5</attackSkillId> <!-- Double Sonic Slash -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47938</skillId> <!-- Sword Spirit's Attack -->
@@ -4688,9 +4518,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="2" toLevel="2">
 				<attackSkillId>190</attackSkillId> <!-- Fatal Strike -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47938</skillId> <!-- Sword Spirit's Attack -->
@@ -4698,9 +4526,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="2" toLevel="2">
 				<attackSkillId>261</attackSkillId> <!-- Triple Slash -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47938</skillId> <!-- Sword Spirit's Attack -->
@@ -4708,9 +4534,7 @@
 			</effect>
 			<effect name="TriggerSkillBySkillDamage" fromLevel="2" toLevel="2">
 				<attackSkillId>47965</attackSkillId> <!-- Triple Slash - Challenger -->
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>47938</skillId> <!-- Sword Spirit's Attack -->
@@ -4821,9 +4645,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -4833,9 +4655,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -4845,9 +4665,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -4857,9 +4675,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -4870,9 +4686,7 @@
 				<attackSkillId>477</attackSkillId> <!-- Soul Smash -->
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>47972</skillId> <!-- Force - Enuma Elish -->
@@ -4882,9 +4696,7 @@
 				<attackSkillId>477</attackSkillId> <!-- Soul Smash -->
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>47973</skillId> <!-- Force - Enuma Elish -->
@@ -4894,9 +4706,7 @@
 				<attackSkillId>45366</attackSkillId> <!-- Amazing Soul Smash -->
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>47972</skillId> <!-- Force - Enuma Elish -->
@@ -4906,9 +4716,7 @@
 				<attackSkillId>45366</attackSkillId> <!-- Amazing Soul Smash -->
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>47973</skillId> <!-- Force - Enuma Elish -->
@@ -4918,9 +4726,7 @@
 				<attackSkillId>45155</attackSkillId> <!-- Soul Impulse -->
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>47972</skillId> <!-- Force - Enuma Elish -->
@@ -4930,9 +4736,7 @@
 				<attackSkillId>45155</attackSkillId> <!-- Soul Impulse -->
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>47973</skillId> <!-- Force - Enuma Elish -->
@@ -4942,9 +4746,7 @@
 				<attackSkillId>45156</attackSkillId> <!-- Ultimate Soul Impulse -->
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>47972</skillId> <!-- Force - Enuma Elish -->
@@ -4954,9 +4756,7 @@
 				<attackSkillId>45156</attackSkillId> <!-- Ultimate Soul Impulse -->
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>47973</skillId> <!-- Force - Enuma Elish -->
@@ -4966,9 +4766,7 @@
 				<attackSkillId>47976</attackSkillId> <!-- Soul Mark -->
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>47972</skillId> <!-- Force - Enuma Elish -->
@@ -4978,9 +4776,7 @@
 				<attackSkillId>47976</attackSkillId> <!-- Soul Mark -->
 				<attackerType>Creature</attackerType>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>ALL</allowWeapons>
 				<skillId>47973</skillId> <!-- Force - Enuma Elish -->
@@ -5286,27 +5082,21 @@
 				<castSkillId>44155</castSkillId>
 				<skillId>47996</skillId> <!-- Shock Impact -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>44156</castSkillId>
 				<skillId>47996</skillId> <!-- Shock Impact -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<castSkillId>45227</castSkillId>
 				<skillId>47996</skillId> <!-- Shock Impact -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 			</effect>
 		</effects>
@@ -5346,14 +5136,10 @@
 		</conditions>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 			</effect>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 			</effect>
 		</effects>
 		<endEffects>
@@ -5436,9 +5222,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>TARGET</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5592</skillId> <!-- Lightning Spark -->
@@ -5446,9 +5230,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 				<targetType>TARGET</targetType>
 				<minDamage>1</minDamage>
 				<skillId>5592</skillId> <!-- Lightning Spark -->
@@ -5477,9 +5259,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">111</value>
-	</power>
+				<power>111</power>
 			</effect>
 		</effects>
 	</skill>
@@ -5506,9 +5286,7 @@
 		<magicCriticalRate>5</magicCriticalRate>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">190</value>
-	</power>
+				<power>190</power>
 			</effect>
 		</effects>
 	</skill>

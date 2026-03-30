@@ -2070,9 +2070,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="Heal">
-				<power>
-		<value level="1">2</value>
-	</power>
+				<power>2</power>
 				<mode>PER</mode>
 			</effect>
 			<effect name="MaxMp">

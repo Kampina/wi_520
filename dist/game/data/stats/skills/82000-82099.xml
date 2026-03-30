@@ -1333,9 +1333,7 @@
 				<allowedSkills>461;35016;50196</allowedSkills> <!-- Break Duress, Core's Blessing, Opal - Special Property -->
 			</effect>
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1666,9 +1664,7 @@
 				<!-- Recover MP -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<allowNormalAttack>true</allowNormalAttack>
 				<allowWeapons>ALL</allowWeapons>
@@ -1696,9 +1692,7 @@
 				<!-- Recover MP -->
 				<magicTypes>0;1</magicTypes>
 				<skillId>82019</skillId> <!-- MP Recovery -->
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<skillLevel>
 					<value level="6">1</value>
 					<value level="7">2</value>
@@ -1844,9 +1838,7 @@
 				<!-- Recover HP -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<targetType>SELF</targetType>
 				<allowNormalAttack>true</allowNormalAttack>
 				<allowWeapons>ALL</allowWeapons>
@@ -1874,9 +1866,7 @@
 				<!-- Recover HP -->
 				<magicTypes>0;1</magicTypes>
 				<skillId>82020</skillId> <!-- HP Recovery -->
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<skillLevel>
 					<value level="6">1</value>
 					<value level="7">2</value>

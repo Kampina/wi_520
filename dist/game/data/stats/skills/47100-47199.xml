@@ -26,9 +26,7 @@
 				<skillId>47048</skillId> <!-- Elemental Guard -->
 				<skillLevel>1</skillLevel>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
@@ -36,9 +34,7 @@
 				<skillId>47060</skillId> <!-- Elemental Recharge -->
 				<skillLevel>1</skillLevel>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
@@ -46,9 +42,7 @@
 				<skillId>47059</skillId> <!-- Dragon Strike -->
 				<skillLevel>1</skillLevel>
 				<minDamage>100</minDamage>
-				<chance>
-		<value level="1">10</value>
-	</chance>
+				<chance>10</chance>
 				<targetType>SELF</targetType>
 			</effect>
 			<effect name="DefenceTrait">

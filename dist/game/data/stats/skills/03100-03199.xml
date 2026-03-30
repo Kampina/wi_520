@@ -455,9 +455,7 @@
 		<reuseDelay>30000</reuseDelay>
 		<effects>
 			<effect name="TargetMeProbability">
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3312,9 +3310,7 @@
 					<value level="9">5</value>
 					<value level="10">6</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3398,9 +3394,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="TargetMeProbability">
-				<chance>
-		<value level="1">40</value>
-	</chance>
+				<chance>40</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3570,9 +3564,7 @@
 		<trait>DERANGEMENT</trait>
 		<effects>
 			<effect name="DeleteHate">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3615,9 +3607,7 @@
 		<trait>DERANGEMENT</trait>
 		<effects>
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3875,9 +3865,7 @@
 		</conditions>
 		<effects>
 			<effect name="OpenDoor">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="OpenChest" />
 		</effects>
@@ -3968,9 +3956,7 @@
 		<reuseDelay>300000</reuseDelay>
 		<effects>
 			<effect name="SilentMove">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="PhysicalAttack">
 				<amount>-45</amount>

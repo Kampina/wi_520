@@ -94,9 +94,7 @@
 		</selfEffects>
 		<effects>
 			<effect name="AdditionalPhysicalDamage">
-				<power>
-		<value level="1">4455</value>
-	</power>
+				<power>4455</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.9</pDefMod>
 			</effect>
@@ -153,9 +151,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>DUAL</allowWeapons>
@@ -165,9 +161,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>DUAL</allowWeapons>
@@ -178,9 +172,7 @@
 				<attackSkillId>1</attackSkillId> <!-- Rising Attack -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>3047938</skillId> <!-- Sword Spirit's Attack -->
@@ -190,9 +182,7 @@
 				<attackSkillId>45364</attackSkillId> <!-- Amazing Rising Attack -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>3047938</skillId> <!-- Sword Spirit's Attack -->
@@ -202,9 +192,7 @@
 				<attackSkillId>5</attackSkillId> <!-- Double Sonic Slash -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>3047938</skillId> <!-- Sword Spirit's Attack -->
@@ -214,9 +202,7 @@
 				<attackSkillId>190</attackSkillId> <!-- Fatal Strike -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>3047938</skillId> <!-- Sword Spirit's Attack -->
@@ -226,9 +212,7 @@
 				<attackSkillId>261</attackSkillId> <!-- Triple Slash -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>3047938</skillId> <!-- Sword Spirit's Attack -->
@@ -238,9 +222,7 @@
 				<attackSkillId>47965</attackSkillId> <!-- Triple Slash - Challenger -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<allowWeapons>DUAL</allowWeapons>
 				<skillId>3047938</skillId> <!-- Sword Spirit's Attack -->

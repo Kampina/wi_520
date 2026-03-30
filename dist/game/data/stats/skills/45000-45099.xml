@@ -1263,9 +1263,7 @@
 				<amount>
 					<value level="1">0</value>
 				</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="AttackTrait">
 				<SHOCK>
@@ -3084,9 +3082,7 @@
 				</weaponType>
 			</effect>
 			<effect name="TriggerSkillByKill" fromLevel="5" toLevel="5">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>45574</skillId> <!-- Shaman's MP Recovery -->
 				<skillLevel>1</skillLevel>
 			</effect>
@@ -6154,9 +6150,7 @@
 		<reuseDelay>8000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2911</value>
-	</power>
+				<power>2911</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.9</pDefMod>
 			</effect>

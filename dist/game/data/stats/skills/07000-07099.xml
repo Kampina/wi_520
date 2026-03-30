@@ -117,9 +117,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>9</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -345,9 +343,7 @@
 		<specialLevel>-1</specialLevel>
 		<effects>
 			<effect name="MpConsumePerLevel">
-				<power>
-		<value level="1">0.0001</value>
-	</power>
+				<power>0.0001</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="PhysicalAttack">
@@ -934,9 +930,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>9</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1354,9 +1348,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>5</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="PhysicalAttack">
 				<amount>10</amount>
@@ -2223,9 +2215,7 @@
 		<mpConsume>5</mpConsume>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">3000</value>
-	</power>
+				<power>3000</power>
 			</effect>
 		</effects>
 	</skill>

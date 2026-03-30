@@ -788,9 +788,7 @@
 		<effects>
 			<effect name="TeleportToTarget" />
 			<effect name="RealDamage">
-				<power>
-		<value level="1">3000</value>
-	</power>
+				<power>3000</power>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>88085</skillId> <!-- Assassination -->
@@ -2226,9 +2224,7 @@
 		<effects>
 			<effect name="ModifyAssassinationPoints">
 				<amount>1</amount>
-				<chance>
-		<value level="1">5</value>
-	</chance>
+				<chance>5</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -2359,9 +2355,7 @@
 			</effect>
 			<effect name="PhysicalDamage">
 				<repeatCount>3</repeatCount>
-				<power>
-		<value level="1">20000</value>
-	</power>
+				<power>20000</power>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<criticalChance>15</criticalChance>
 				<pDefMod>0.8</pDefMod>
@@ -2456,9 +2450,7 @@
 			</effect>
 			<effect name="MpVampiricAttack" fromLevel="2" toLevel="2">
 				<amount>1</amount>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<mode>PER</mode>
 			</effect>
 		</effects>
@@ -2556,9 +2548,7 @@
 			</effect>
 			<effect name="MpVampiricAttack" fromLevel="2" toLevel="2">
 				<amount>1</amount>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<mode>PER</mode>
 			</effect>
 		</effects>
@@ -3068,9 +3058,7 @@
 				<castSkillId>87377</castSkillId>
 				<skillId>87378</skillId> <!-- Smokescreen -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<attackerType>Creature</attackerType>
 			</effect>
@@ -3404,9 +3392,7 @@
 			</effect>
 			<effect name="TriggerSkillByKill">
 				<victimType>Creature</victimType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>87342</skillId> <!-- Kill Points - Basic Acquisition (Monsters) -->
 				<skillLevel>1</skillLevel>
 			</effect>
@@ -3510,18 +3496,14 @@
 			<effect name="TriggerSkillBySkill">
 				<skillId>87454</skillId> <!-- Summon Shadow -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<castSkillId>87323</castSkillId> <!-- Return Motion -->
 				<targetType>SELF</targetType>
 			</effect>
 			<effect name="TriggerSkillBySkill">
 				<skillId>87454</skillId> <!-- Summon Shadow -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<castSkillId>87307</castSkillId> <!-- Assassination -->
 				<targetType>SELF</targetType>
 			</effect>

@@ -585,9 +585,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>6</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -620,14 +618,10 @@
 		</conditions>
 		<effects>
 			<effect name="Resurrection">
-				<power>
-		<value level="1">50</value>
-	</power>
+				<power>50</power>
 			</effect>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">50</value>
-	</power>
+				<power>50</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2251,9 +2245,7 @@
 				<mode>PER</mode>
 			</effect>
 			<effect name="Heal">
-				<power>
-		<value level="1">2</value>
-	</power>
+				<power>2</power>
 				<mode>PER</mode>
 			</effect>
 			<effect name="MaxMp">

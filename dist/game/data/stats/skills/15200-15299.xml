@@ -111,9 +111,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -136,9 +134,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">40000</value>
-	</power>
+				<power>40000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -168,14 +164,10 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">40000</value>
-	</power>
+				<power>40000</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">1000</value>
-	</power>
+				<power>1000</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -256,9 +248,7 @@
 		<mpConsume>10</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">40000</value>
-	</power>
+				<power>40000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -316,9 +306,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">40000</value>
-	</power>
+				<power>40000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -341,14 +329,10 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">40000</value>
-	</power>
+				<power>40000</power>
 			</effect>
 			<effect name="MagicalDamageByAbnormalSlot">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<abnormalType>PD_DOWN</abnormalType>
 			</effect>
 		</effects>
@@ -366,9 +350,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">30000</value>
-	</power>
+				<power>30000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -390,9 +372,7 @@
 		<effects>
 			<effect name="MagicalDamageByAbnormalSlot">
 				<abnormalType>PD_DOWN</abnormalType>
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 			</effect>
 		</effects>
 	</skill>
@@ -413,14 +393,10 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">40000</value>
-	</power>
+				<power>40000</power>
 			</effect>
 			<effect name="MagicalDamageByAbnormalSlot">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<abnormalType>PD_DOWN</abnormalType>
 			</effect>
 		</effects>
@@ -439,9 +415,7 @@
 		<effects>
 			<effect name="MagicalDamageByAbnormalSlot">
 				<abnormalType>PD_DOWN</abnormalType>
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 			</effect>
 		</effects>
 	</skill>
@@ -506,9 +480,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">40000</value>
-	</power>
+				<power>40000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -531,14 +503,10 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">200000</value>
-	</power>
+				<power>200000</power>
 			</effect>
 			<effect name="MagicalDamageByAbnormalSlot">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<abnormalType>PD_DOWN</abnormalType>
 			</effect>
 		</effects>
@@ -570,14 +538,10 @@
 		<trait>KNOCKDOWN</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">180000</value>
-	</power>
+				<power>180000</power>
 			</effect>
 			<effect name="MagicalDamageByAbnormalSlot">
-				<power>
-		<value level="1">500</value>
-	</power>
+				<power>500</power>
 				<abnormalType>PD_DOWN</abnormalType>
 			</effect>
 			<effect name="KnockBack">
@@ -613,9 +577,7 @@
 		<mpConsume>60</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">200000</value>
-	</power>
+				<power>200000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -641,9 +603,7 @@
 		<reuseDelay>3000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">200000</value>
-	</power>
+				<power>200000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -684,9 +644,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">999</value>
-	</power>
+				<power>999</power>
 				<overHit>true</overHit>
 			</effect>
 		</effects>
@@ -1320,9 +1278,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">900</value>
-	</power>
+				<power>900</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>

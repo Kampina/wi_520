@@ -98,9 +98,7 @@
 		<reuseDelay>45000</reuseDelay>
 		<effects>
 			<effect name="SilentMove">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 			<effect name="Speed">
 				<amount>-20</amount>
@@ -324,9 +322,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="2" toLevel="2">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>true</isCritical>
 				<skillId>47536</skillId> <!-- Impending Death Whisper -->
@@ -336,9 +332,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="2" toLevel="2">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<targetType>SELF</targetType>
 				<isCritical>false</isCritical>
 				<skillId>47536</skillId> <!-- Impending Death Whisper -->
@@ -360,7 +354,7 @@
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<effectPoint>1</effectPoint>
 		<hitCancelTime>0</hitCancelTime>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<irreplaceableBuff>true</irreplaceableBuff>
 		<isMagic>2</isMagic>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -523,7 +517,7 @@
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<effectPoint>1</effectPoint>
 		<hitCancelTime>0</hitCancelTime>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<irreplaceableBuff>true</irreplaceableBuff>
 		<isMagic>2</isMagic>
 		<magicCriticalRate>5</magicCriticalRate>
@@ -971,7 +965,7 @@
 		<affectScope>SINGLE</affectScope>
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<excludedFromCheck>true</excludedFromCheck>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<effects>
 			<effect name="Ride">
@@ -1192,7 +1186,7 @@
 		<affectScope>SINGLE</affectScope>
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<excludedFromCheck>true</excludedFromCheck>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<effects>
 			<effect name="Ride">
@@ -1500,7 +1494,7 @@
 		<affectScope>SINGLE</affectScope>
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<excludedFromCheck>true</excludedFromCheck>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<isMagic>2</isMagic> <!-- Static Skill -->
 		<effects>
 			<effect name="Ride">
@@ -1799,7 +1793,7 @@
 		<blockedInOlympiad>true</blockedInOlympiad>
 		<effectPoint>1</effectPoint>
 		<hitCancelTime>0</hitCancelTime>
-		<hitTime>0</hitTime>
+		<hitTime>1000</hitTime>
 		<irreplaceableBuff>true</irreplaceableBuff>
 		<isMagic>2</isMagic>
 		<magicCriticalRate>5</magicCriticalRate>

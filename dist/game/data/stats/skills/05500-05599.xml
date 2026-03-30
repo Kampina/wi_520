@@ -28,14 +28,10 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2616</value>
-	</power>
+				<power>2616</power>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">52</value>
-	</power>
+				<power>52</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -67,9 +63,7 @@
 		<effects>
 			<effect name="BlockActions" />
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -97,9 +91,7 @@
 		<effects>
 			<effect name="BlockActions" />
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -171,9 +163,7 @@
 		<mpConsume>85</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2319</value>
-	</power>
+				<power>2319</power>
 			</effect>
 		</effects>
 	</skill>
@@ -196,9 +186,7 @@
 		<mpConsume>85</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2319</value>
-	</power>
+				<power>2319</power>
 			</effect>
 		</effects>
 	</skill>
@@ -221,9 +209,7 @@
 		<mpConsume>85</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2319</value>
-	</power>
+				<power>2319</power>
 			</effect>
 		</effects>
 	</skill>
@@ -246,9 +232,7 @@
 		<mpConsume>85</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">2319</value>
-	</power>
+				<power>2319</power>
 			</effect>
 		</effects>
 	</skill>
@@ -387,9 +371,7 @@
 		<mpConsume>85</mpConsume>
 		<channelingEffects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</channelingEffects>
 	</skill>
@@ -412,9 +394,7 @@
 		<mpConsume>85</mpConsume>
 		<channelingEffects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">30</value>
-	</power>
+				<power>30</power>
 			</effect>
 		</channelingEffects>
 	</skill>
@@ -437,9 +417,7 @@
 		<mpConsume>85</mpConsume>
 		<channelingEffects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">30</value>
-	</power>
+				<power>30</power>
 			</effect>
 		</channelingEffects>
 	</skill>
@@ -462,9 +440,7 @@
 		<mpConsume>85</mpConsume>
 		<channelingEffects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">30</value>
-	</power>
+				<power>30</power>
 			</effect>
 		</channelingEffects>
 	</skill>
@@ -559,9 +535,7 @@
 		<effects>
 			<effect name="VampiricAttack">
 				<amount>9</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="DamageShield">
 				<amount>60</amount>
@@ -619,9 +593,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="MagicalDamageByAbnormal">
-				<power>
-		<value level="1">85</value>
-	</power>
+				<power>85</power>
 			</effect>
 		</effects>
 	</skill>
@@ -778,9 +750,7 @@
 		<mpConsume>83</mpConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">971</value>
-	</power>
+				<power>971</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1138,9 +1108,7 @@
 		</conditions>
 		<effects>
 			<effect name="Resurrection">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1217,9 +1185,7 @@
 		</conditions>
 		<effects>
 			<effect name="Resurrection">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1346,9 +1312,7 @@
 				<!-- Stun -->
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">15</value>
-	</chance>
+				<chance>15</chance>
 				<targetType>TARGET</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>ALL</allowWeapons>
@@ -1408,9 +1372,7 @@
 		<effects>
 			<effect name="BlockActions" />
 			<effect name="TargetCancel">
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1940,9 +1902,7 @@
 			</effect>
 			<effect name="VampiricAttack" fromLevel="3" toLevel="3">
 				<amount>8</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 			<effect name="CriticalDamage">
 				<amount>20</amount>
@@ -2015,9 +1975,7 @@
 		<magicLevel>81</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">71</value>
-	</power>
+				<power>71</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2117,14 +2075,10 @@
 		<magicLevel>81</magicLevel>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">418</value>
-	</power>
+				<power>418</power>
 			</effect>
 			<effect name="ManaHealByLevel">
-				<power>
-		<value level="1">73</value>
-	</power>
+				<power>73</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2213,9 +2167,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="ManaHealByLevel">
-				<power>
-		<value level="1">10</value>
-	</power>
+				<power>10</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2261,9 +2213,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">150</value>
-	</power>
+				<power>150</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2339,9 +2289,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">916</value>
-	</power>
+				<power>916</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2365,9 +2313,7 @@
 		<trait>SHOCK</trait>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">704</value>
-	</power>
+				<power>704</power>
 				<overHit>true</overHit>
 			</effect>
 			<effect name="BlockActions" /> <!-- using 1 second due abnormal don't have abnormal time -->
@@ -2396,9 +2342,7 @@
 		<reuseDelay>120000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">875</value>
-	</power>
+				<power>875</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2876,15 +2820,11 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">122</value>
-	</power>
+				<power>122</power>
 				<percentage>80</percentage>
 			</effect>
 			<effect name="MagicalDamageMp">
-				<power>
-		<value level="1">182</value>
-	</power>
+				<power>182</power>
 				<critical>true</critical>
 				<criticalLimit>1600</criticalLimit>
 			</effect>
@@ -2955,9 +2895,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>

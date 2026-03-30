@@ -2426,9 +2426,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">1</value>
-	</power>
+				<power>1</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2907,9 +2905,7 @@
 			<effect name="CallSkill">
 				<skillId>5600</skillId> <!-- Rush Impact -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -3116,9 +3112,7 @@
 				<repeatCount>2</repeatCount>
 			</effect>
 			<effect name="CallSkill" fromLevel="4" toLevel="8">
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<skillId>45182</skillId> <!-- Soul Piercing -->
 				<skillLevel>
 					<value level="4">4</value>
@@ -3239,9 +3233,7 @@
 				<overHit>true</overHit>
 			</effect>
 			<effect name="CallSkill">
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 				<skillId>45182</skillId> <!-- Soul Piercing -->
 				<skillLevel>
 					<value level="1">1</value>
@@ -4174,9 +4166,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="1" toLevel="5">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>BOW</allowWeapons>
@@ -4187,9 +4177,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="8">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>BOW</allowWeapons>
@@ -4200,9 +4188,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="9" toLevel="9">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>false</isCritical>
 				<allowWeapons>BOW</allowWeapons>
@@ -4213,9 +4199,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="1" toLevel="5">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>BOW</allowWeapons>
@@ -4226,9 +4210,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="6" toLevel="8">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>BOW</allowWeapons>
@@ -4239,9 +4221,7 @@
 			<effect name="TriggerSkillByDamageDealt" fromLevel="9" toLevel="9">
 				<attackerType>Creature</attackerType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>ENEMY</targetType>
 				<isCritical>true</isCritical>
 				<allowWeapons>BOW</allowWeapons>
@@ -4854,9 +4834,7 @@
 				<allowSkillAttack>true</allowSkillAttack>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -4895,9 +4873,7 @@
 				<allowSkillAttack>true</allowSkillAttack>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -5063,9 +5039,7 @@
 			<effect name="TriggerSkillByDamageDealt">
 				<skillId>45186</skillId> <!-- Fatal Slasher -->
 				<skillLevel>1</skillLevel>
-				<chance>
-		<value level="1">30</value>
-	</chance>
+				<chance>30</chance>
 				<allowNormalAttack>true</allowNormalAttack>
 				<allowSkillAttack>true</allowSkillAttack>
 				<allowWeapons>ALL</allowWeapons>
@@ -5086,9 +5060,7 @@
 		<reuseDelay>10000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">1345</value>
-	</power>
+				<power>1345</power>
 			</effect>
 		</effects>
 	</skill>
@@ -5752,9 +5724,7 @@
 			</effect>
 			<effect name="MpVampiricAttack">
 				<amount>3</amount>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -6025,9 +5995,7 @@
 			</effect>
 			<effect name="MpVampiricAttack">
 				<amount>3</amount>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 	</skill>

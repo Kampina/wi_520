@@ -703,9 +703,7 @@
 		<mpConsume>88</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">57742</value>
-	</power>
+				<power>57742</power>
 			</effect>
 		</effects>
 	</skill>
@@ -726,9 +724,7 @@
 		<reuseDelay>20000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">28871</value>
-	</power>
+				<power>28871</power>
 			</effect>
 		</effects>
 	</skill>

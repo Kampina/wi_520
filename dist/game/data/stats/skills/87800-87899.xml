@@ -794,9 +794,7 @@
 			<effect name="CallSkill">
 				<skillId>87860</skillId> <!-- Light Discharge -->
 				<skillLevel>3</skillLevel>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -939,9 +937,7 @@
 					<value level="2">2</value>
 				</skillLevel>
 				<targetType>SELF</targetType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 		<selfEffects>
@@ -970,17 +966,13 @@
 		<effectRange>500</effectRange>
 		<effects>
 			<effect name="PhysicalDamage" fromLevel="1" toLevel="1">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<repeatCount>2</repeatCount>
 				<pDefMod>0.75</pDefMod>
 				<criticalChance>20</criticalChance>
 			</effect>
 			<effect name="PhysicalDamage" fromLevel="2" toLevel="2">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<pDefMod>0.75</pDefMod>
 				<criticalChance>30</criticalChance>
 				<repeatCount>3</repeatCount>
@@ -992,9 +984,7 @@
 				<skillId>87816</skillId> <!-- Light Prison -->
 				<skillLevel>1</skillLevel>
 				<targetType>SELF</targetType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 	</skill>
@@ -1157,9 +1147,7 @@
 					<value level="7">7</value>
 					<value level="8">8</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>87823</skillId> <!-- Flying Leap -->
@@ -1173,9 +1161,7 @@
 					<value level="7">7</value>
 					<value level="8">8</value>
 				</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 		<selfEffects>
@@ -1269,9 +1255,7 @@
 		<reuseDelay>180000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">6000</value>
-	</power>
+				<power>6000</power>
 				<mode>DIFF</mode>
 			</effect>
 		</effects>
@@ -1323,9 +1307,7 @@
 		<staticReuse>true</staticReuse>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">1</value>
-	</power>
+				<power>1</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1692,9 +1674,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">20</value>
-	</chance>
+				<chance>20</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>87842</skillId> <!-- Light Shield -->
@@ -1716,9 +1696,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>87844</skillId> <!-- Light Shield -->
@@ -1737,9 +1715,7 @@
 		<reuseDelay>500</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">5000</value>
-	</power>
+				<power>5000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1756,9 +1732,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>87845</skillId> <!-- Light Shield -->
@@ -1779,9 +1753,7 @@
 		<effects>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>TARGET</targetType>
 				<minDamage>1</minDamage>
 				<skillId>87843</skillId> <!-- Light Reflection -->
@@ -1789,9 +1761,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>87846</skillId> <!-- Complete Process -->
@@ -2082,9 +2052,7 @@
 				</power>
 			</effect>
 			<effect name="HealOverTime">
-				<power>
-		<value level="1">150</value>
-	</power>
+				<power>150</power>
 				<ticks>3</ticks>
 			</effect>
 		</effects>
@@ -2107,9 +2075,7 @@
 				<skillId>87866</skillId> <!-- Vow -->
 				<skillLevel>1</skillLevel>
 				<targetType>TARGET</targetType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 			</effect>
 		</effects>
 		<selfEffects>
@@ -2188,25 +2154,19 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">5388</value>
-	</power>
+				<power>5388</power>
 				<pDefMod>0.9</pDefMod>
 				<criticalChance>10</criticalChance>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>87822</skillId> <!-- Flying Leap -->
 				<skillLevel>4</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>87823</skillId> <!-- Flying Leap -->
 				<skillLevel>4</skillLevel>
-				<chance>
-		<value level="1">50</value>
-	</chance>
+				<chance>50</chance>
 			</effect>
 		</effects>
 	</skill>

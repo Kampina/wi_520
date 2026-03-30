@@ -344,9 +344,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">10000</value>
-	</power>
+				<power>10000</power>
 				<pDefMod>0.8</pDefMod>
 				<criticalChance>15</criticalChance>
 			</effect>
@@ -381,9 +379,7 @@
 		</conditions>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">10000</value>
-	</power>
+				<power>10000</power>
 				<pDefMod>0.85</pDefMod>
 				<criticalChance>15</criticalChance>
 			</effect>
@@ -2915,9 +2911,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageReceived" fromLevel="4" toLevel="10">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<skillId>47293</skillId> <!-- Life Magic Harmony - Defense -->
@@ -2932,9 +2926,7 @@
 				</skillLevel>
 			</effect>
 			<effect name="TriggerSkillByKill">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>88070</skillId> <!-- Life Magic Harmony - MP Recovery -->
 				<targetType>SELF</targetType>
 				<skillLevel>
@@ -3070,9 +3062,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="4" toLevel="10">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<isCritical>false</isCritical>
@@ -3091,9 +3081,7 @@
 			</effect>
 			<effect name="TriggerSkillByDamageDealt" fromLevel="4" toLevel="10">
 				<attackerType>Creature</attackerType>
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<targetType>SELF</targetType>
 				<minDamage>1</minDamage>
 				<isCritical>true</isCritical>
@@ -3111,9 +3099,7 @@
 				<allowSkillAttack>true</allowSkillAttack>
 			</effect>
 			<effect name="TriggerSkillByKill">
-				<chance>
-		<value level="1">100</value>
-	</chance>
+				<chance>100</chance>
 				<skillId>88070</skillId> <!-- Life Magic Harmony - MP Recovery -->
 				<targetType>SELF</targetType>
 				<skillLevel>
@@ -3456,9 +3442,7 @@
 		<isMagic>0</isMagic>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">6500</value>
-	</power>
+				<power>6500</power>
 				<criticalChance>15</criticalChance>
 				<ignoreShieldDefence>true</ignoreShieldDefence>
 				<pDefMod>0.9</pDefMod>

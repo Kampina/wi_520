@@ -513,9 +513,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1051,9 +1049,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1074,9 +1070,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">3000</value>
-	</power>
+				<power>3000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1099,9 +1093,7 @@
 		<mpInitialConsume>25</mpInitialConsume>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 				<percentage>100</percentage>
 			</effect>
 		</effects>
@@ -1147,9 +1139,7 @@
 		<mpConsume>100</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">3000</value>
-	</power>
+				<power>3000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1169,9 +1159,7 @@
 		<magicLevel>81</magicLevel>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">3000</value>
-	</power>
+				<power>3000</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1191,9 +1179,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">3000</value>
-	</power>
+				<power>3000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1216,9 +1202,7 @@
 		<mpInitialConsume>16</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1297,9 +1281,7 @@
 		<magicLevel>82</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">150</value>
-	</power>
+				<power>150</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1333,9 +1315,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1366,9 +1346,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1389,9 +1367,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1455,9 +1431,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>
@@ -1489,9 +1463,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">120</value>
-	</power>
+				<power>120</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>
@@ -1530,9 +1502,7 @@
 		<trait>INFECTION</trait>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<ticks>1</ticks>
 			</effect>
 		</effects>
@@ -1553,9 +1523,7 @@
 		<magicLevel>83</magicLevel>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<percentage>100</percentage>
 			</effect>
 		</effects>
@@ -1578,9 +1546,7 @@
 		<magicLevel>83</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">150</value>
-	</power>
+				<power>150</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1614,9 +1580,7 @@
 		<magicLevel>83</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1638,9 +1602,7 @@
 		<mpInitialConsume>25</mpInitialConsume>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<percentage>100</percentage>
 			</effect>
 		</effects>
@@ -1665,9 +1627,7 @@
 		<mpInitialConsume>24</mpInitialConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1691,9 +1651,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">300</value>
-	</power>
+				<power>300</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1748,9 +1706,7 @@
 		<magicLevel>83</magicLevel>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">150</value>
-	</power>
+				<power>150</power>
 			</effect>
 		</effects>
 	</skill>
@@ -1804,9 +1760,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1827,9 +1781,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -1880,9 +1832,7 @@
 		<magicLevel>83</magicLevel>
 		<effects>
 			<effect name="HpDrain">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 				<percentage>100</percentage>
 			</effect>
 		</effects>
@@ -1930,9 +1880,7 @@
 		<reuseDelay>5000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -2090,9 +2038,7 @@
 		<magicLevel>85</magicLevel>
 		<effects>
 			<effect name="HealPercent">
-				<power>
-		<value level="1">100</value>
-	</power>
+				<power>100</power>
 			</effect>
 		</effects>
 	</skill>
@@ -2110,9 +2056,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -2133,9 +2077,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -2156,9 +2098,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -2203,9 +2143,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -2228,9 +2166,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -2251,9 +2187,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -2276,9 +2210,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -2299,9 +2231,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>
@@ -2324,9 +2254,7 @@
 		<mpConsume>80</mpConsume>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">15000</value>
-	</power>
+				<power>15000</power>
 				<criticalChance>20</criticalChance>
 			</effect>
 		</effects>

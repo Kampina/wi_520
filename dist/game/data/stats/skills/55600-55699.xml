@@ -1593,9 +1593,7 @@
 			</effect>
 			<effect name="VampiricAttack">
 				<amount>5</amount>
-				<chance>
-		<value level="1">80</value>
-	</chance>
+				<chance>80</chance>
 			</effect>
 		</effects>
 	</skill>

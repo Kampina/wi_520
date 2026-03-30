@@ -971,9 +971,7 @@
 				<allowedSkills>35016</allowedSkills>
 			</effect>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<ticks>5</ticks>
 			</effect>
 		</effects>
@@ -1141,9 +1139,7 @@
 		<reuseDelay>1000</reuseDelay>
 		<effects>
 			<effect name="DamOverTime">
-				<power>
-		<value level="1">200</value>
-	</power>
+				<power>200</power>
 				<ticks>5</ticks>
 			</effect>
 			<effect name="MagicalDamage">
@@ -1505,9 +1501,7 @@
 		<reuseDelay>40000</reuseDelay>
 		<effects>
 			<effect name="PhysicalDamage">
-				<power>
-		<value level="1">30976</value>
-	</power>
+				<power>30976</power>
 			</effect>
 			<effect name="CallSkill">
 				<skillId>48367</skillId> <!-- Ice Crystal -->

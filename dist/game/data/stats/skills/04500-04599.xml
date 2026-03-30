@@ -152,9 +152,7 @@
 		<reuseDelay>8000</reuseDelay>
 		<effects>
 			<effect name="Heal">
-				<power>
-		<value level="1">5600</value>
-	</power>
+				<power>5600</power>
 			</effect>
 		</effects>
 	</skill>
@@ -411,9 +409,7 @@
 		<reuseDelay>8000</reuseDelay>
 		<effects>
 			<effect name="MagicalDamage">
-				<power>
-		<value level="1">56</value>
-	</power>
+				<power>56</power>
 			</effect>
 		</effects>
 	</skill>
