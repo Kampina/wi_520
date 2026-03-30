@@ -25,7 +25,7 @@ import java.util.logging.Logger;
 
 import org.l2jmobius.commons.database.DatabaseFactory;
 import org.l2jmobius.commons.threads.ThreadPool;
-import org.l2jmobius.gameserver.config.custom.SevenSignsConfig;
+import org.l2jmobius.gameserver.config.custom.AltSettingsConfig;
 import org.l2jmobius.gameserver.model.StatSet;
 import org.l2jmobius.gameserver.model.World;
 import org.l2jmobius.gameserver.model.actor.Player;
@@ -156,9 +156,9 @@ public class SevenSigns
 		final long numDays = seconds / 86400;
 		LOGGER.info("SevenSigns: Next period begins in " + numDays + " days, " + numHours + " hours and " + numMins + " mins.");
 		
-		if (SevenSignsConfig.SS_ANNOUNCE_PERIOD > 0)
+		if (AltSettingsConfig.SS_ANNOUNCE_PERIOD > 0)
 		{
-			ThreadPool.schedule(new SevenSignsAnnounce(), SevenSignsConfig.SS_ANNOUNCE_PERIOD * 60000L);
+			ThreadPool.schedule(new SevenSignsAnnounce(), AltSettingsConfig.SS_ANNOUNCE_PERIOD * 60000L);
 		}
 	}
 	
@@ -177,7 +177,7 @@ public class SevenSigns
 	
 	public static long calcAncientAdenaReward(long blueCount, long greenCount, long redCount)
 	{
-		return (blueCount * SevenSignsConfig.ALT_SS_BLUE_STONE_VAL) + (greenCount * SevenSignsConfig.ALT_SS_GREEN_STONE_VAL) + (redCount * SevenSignsConfig.ALT_SS_RED_STONE_VAL);
+		return (blueCount * AltSettingsConfig.ALT_SS_BLUE_STONE_VAL) + (greenCount * AltSettingsConfig.ALT_SS_GREEN_STONE_VAL) + (redCount * AltSettingsConfig.ALT_SS_RED_STONE_VAL);
 	}
 	
 	public static int getCabalNumber(String cabal)
@@ -713,8 +713,8 @@ _greenAvaricePairScore += greenCount;
                 {
                         if (highestCabal == CABAL_DAWN)
                         {
-                                rewardAmount = (currPlayer.getInt("dawn_red_stones") * SevenSignsConfig.ALT_SS_RED_STONE_VAL) +
-                                               (currPlayer.getInt("dawn_green_stones") * SevenSignsConfig.ALT_SS_GREEN_STONE_VAL);
+								rewardAmount = (currPlayer.getInt("dawn_red_stones") * AltSettingsConfig.ALT_SS_RED_STONE_VAL) +
+								               (currPlayer.getInt("dawn_green_stones") * AltSettingsConfig.ALT_SS_GREEN_STONE_VAL);
                                 if (removeReward) {
                                         currPlayer.set("dawn_red_stones", 0);
                                         currPlayer.set("dawn_green_stones", 0);
@@ -722,8 +722,8 @@ _greenAvaricePairScore += greenCount;
                         }
                         else if (highestCabal == CABAL_DUSK)
                         {
-                                rewardAmount = (currPlayer.getInt("dusk_blue_stones") * SevenSignsConfig.ALT_SS_BLUE_STONE_VAL) +
-                                               (currPlayer.getInt("dusk_green_stones") * SevenSignsConfig.ALT_SS_GREEN_STONE_VAL);
+								rewardAmount = (currPlayer.getInt("dusk_blue_stones") * AltSettingsConfig.ALT_SS_BLUE_STONE_VAL) +
+								               (currPlayer.getInt("dusk_green_stones") * AltSettingsConfig.ALT_SS_GREEN_STONE_VAL);
                                 if (removeReward) {
                                         currPlayer.set("dusk_blue_stones", 0);
                                         currPlayer.set("dusk_green_stones", 0);
@@ -975,9 +975,9 @@ _signsPlayerData.put(charObjId, sevenDat);
 			{
 				sendCurrentPeriodMsg(player);
 			}
-			if (SevenSignsConfig.SS_ANNOUNCE_PERIOD > 0)
+			if (AltSettingsConfig.SS_ANNOUNCE_PERIOD > 0)
 			{
-				ThreadPool.schedule(new SevenSignsAnnounce(), SevenSignsConfig.SS_ANNOUNCE_PERIOD * 60000L);
+				ThreadPool.schedule(new SevenSignsAnnounce(), AltSettingsConfig.SS_ANNOUNCE_PERIOD * 60000L);
 			}
 		}
 	}

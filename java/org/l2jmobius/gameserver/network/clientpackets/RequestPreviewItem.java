@@ -209,10 +209,7 @@ public class RequestPreviewItem extends ClientPacket
 			}
 			else if (template instanceof Armor)
 			{
-				if ((player.getRace() == Race.KAMAEL) && ((template.getItemType() == ArmorType.HEAVY) || (template.getItemType() == ArmorType.MAGIC)))
-				{
-					continue;
-				}
+				
 			}
 			
 			if (itemList.containsKey(slot))

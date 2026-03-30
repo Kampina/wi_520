@@ -633,6 +633,9 @@ public class Player extends Playable
 	
 	/** The PK counter of the Player (= Number of non PvP Flagged player killed) */
 	private int _pkKills;
+	private final org.l2jmobius.gameserver.managers.custom.PvpVitality _pvpVitality = new org.l2jmobius.gameserver.managers.custom.PvpVitality(this);
+	public org.l2jmobius.gameserver.managers.custom.PvpVitality getPvpVitality() { return _pvpVitality; }
+
 	
 	/** The total kill counter of the Player */
 	private int _totalKills = 0;
@@ -2442,6 +2445,8 @@ public class Player extends Playable
 	@Override
 	public void setReputation(int value)
 	{
+		if (value < 0 && getReputation() >= 0)
+			_pvpVitality.onPkStateChange(true);
 		// Notify to scripts.
 		if (EventDispatcher.getInstance().hasListener(EventType.ON_PLAYER_REPUTATION_CHANGED, this))
 		{
@@ -5698,6 +5703,7 @@ public class Player extends Playable
 	@Override
 	public boolean doDie(Creature killer)
 	{
+		_pvpVitality.onDeath();
 		// Stop auto peel.
 		if (hasRequest(AutoPeelRequest.class))
 		{
@@ -5722,6 +5728,25 @@ public class Player extends Playable
 					}
 					
 					setTotalDeaths(getTotalDeaths() + 1);
+
+					if (pk != this)
+					{
+						if (pk.isInParty())
+						{
+							for (Player member : pk.getParty().getMembers())
+							{
+								// The killer and party members in range 1000 receive the point
+								if (member != null && member.isInsideRadius3D(pk, 1000))
+								{
+									member.getPvpVitality().onPvpKill();
+								}
+							}
+						}
+						// "При убийстве врага находясь в пати добавляется бонус". If killer is NOT in party, do they get points?
+						// "При убийстве врага находясь в пати добавляется бонус vitality/виталити:"
+						// implies ONLY if in party. So we don't do else pk.getPvpVitality().onPvpKill().
+					}
+
 					
 					if (pk != this)
 					{
@@ -7668,6 +7693,7 @@ return droppedItems;
 	 */
 	public void leaveParty()
 	{
+		_pvpVitality.onPartyLeave();
 		if (isInParty())
 		{
 			_party.removePartyMember(this, PartyMessageType.DISCONNECTED);

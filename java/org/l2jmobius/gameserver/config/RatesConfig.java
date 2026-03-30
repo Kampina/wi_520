@@ -149,15 +149,11 @@ public class RatesConfig
 		RATE_QUEST_REWARD_RECIPE = config.getFloat("RateQuestRewardRecipe", 1);
 		RATE_QUEST_REWARD_MATERIAL = config.getFloat("RateQuestRewardMaterial", 1);
 		RATE_RAIDBOSS_POINTS = config.getFloat("RateRaidbossPointsReward", 1);
-		RATE_VITALITY_EXP_MULTIPLIER = config.getFloat("RateVitalityExpMultiplier", 2);
+		RATE_VITALITY_EXP_MULTIPLIER = 1;
 		RATE_LIMITED_SAYHA_GRACE_EXP_MULTIPLIER = config.getFloat("RateLimitedSayhaGraceExpMultiplier", 2);
-		VITALITY_MAX_ITEMS_ALLOWED = config.getInt("VitalityMaxItemsAllowed", 999);
-		if (VITALITY_MAX_ITEMS_ALLOWED == 0)
-		{
-			VITALITY_MAX_ITEMS_ALLOWED = Integer.MAX_VALUE;
-		}
-		RATE_VITALITY_LOST = config.getFloat("RateVitalityLost", 1);
-		RATE_VITALITY_GAIN = config.getFloat("RateVitalityGain", 1);
+		VITALITY_MAX_ITEMS_ALLOWED = Integer.MAX_VALUE;
+		RATE_VITALITY_LOST = 1;
+		RATE_VITALITY_GAIN = 1;
 		RATE_KARMA_LOST = config.getFloat("RateKarmaLost", -1);
 		if (RATE_KARMA_LOST == -1)
 		{

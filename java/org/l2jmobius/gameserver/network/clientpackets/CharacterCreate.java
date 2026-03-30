@@ -27,13 +27,11 @@ import org.l2jmobius.commons.util.StringUtil;
 import org.l2jmobius.gameserver.config.PlayerConfig;
 import org.l2jmobius.gameserver.config.ServerConfig;
 import org.l2jmobius.gameserver.config.custom.AllowedPlayerRacesConfig;
-import org.l2jmobius.gameserver.config.custom.StartingLocationConfig;
 import org.l2jmobius.gameserver.config.custom.StartingTitleConfig;
 import org.l2jmobius.gameserver.data.enums.CategoryType;
 import org.l2jmobius.gameserver.data.sql.CharInfoTable;
 import org.l2jmobius.gameserver.data.xml.CategoryData;
 import org.l2jmobius.gameserver.data.xml.FakePlayerData;
-import org.l2jmobius.gameserver.data.xml.FractionData;
 import org.l2jmobius.gameserver.data.xml.InitialEquipmentData;
 import org.l2jmobius.gameserver.data.xml.InitialShortcutData;
 import org.l2jmobius.gameserver.data.xml.PlayerTemplateData;
@@ -44,7 +42,6 @@ import org.l2jmobius.gameserver.model.SkillLearn;
 import org.l2jmobius.gameserver.model.World;
 import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.actor.appearance.PlayerAppearance;
-import org.l2jmobius.gameserver.model.actor.enums.creature.Fraction;
 import org.l2jmobius.gameserver.model.actor.enums.player.PlayerClass;
 import org.l2jmobius.gameserver.model.actor.stat.PlayerStat;
 import org.l2jmobius.gameserver.model.actor.templates.PlayerTemplate;
@@ -370,33 +367,8 @@ public class CharacterCreate extends ClientPacket
 		}
 		
 		final PlayerTemplate template = newChar.getTemplate();
-		if (StartingLocationConfig.FACTION_STARTING_LOC)
-		{
-			final Fraction fraction = FractionData.getInstance().getFractionForRace(newChar.getRace());
-			if (fraction == Fraction.LIGHT)
-			{
-				newChar.setXYZInvisible(StartingLocationConfig.FACTION_LIGHT_LOC_X, StartingLocationConfig.FACTION_LIGHT_LOC_Y, StartingLocationConfig.FACTION_LIGHT_LOC_Z);
-			}
-			else if (fraction == Fraction.DARK)
-			{
-				newChar.setXYZInvisible(StartingLocationConfig.FACTION_DARK_LOC_X, StartingLocationConfig.FACTION_DARK_LOC_Y, StartingLocationConfig.FACTION_DARK_LOC_Z);
-			}
-			else
-			{
-				final Location createLoc = template.getCreationPoint();
-				newChar.setXYZInvisible(createLoc.getX(), createLoc.getY(), createLoc.getZ());
-			}
-		}
-		else if (StartingLocationConfig.CUSTOM_STARTING_LOC)
-		{
-			final Location createLoc = new Location(StartingLocationConfig.CUSTOM_STARTING_LOC_X, StartingLocationConfig.CUSTOM_STARTING_LOC_Y, StartingLocationConfig.CUSTOM_STARTING_LOC_Z);
-			newChar.setXYZInvisible(createLoc.getX(), createLoc.getY(), createLoc.getZ());
-		}
-		else
-		{
-			final Location createLoc = template.getCreationPoint();
-			newChar.setXYZInvisible(createLoc.getX(), createLoc.getY(), createLoc.getZ());
-		}
+		final Location createLoc = template.getCreationPoint();
+		newChar.setXYZInvisible(createLoc.getX(), createLoc.getY(), createLoc.getZ());
 		
 		newChar.setTitle(StartingTitleConfig.ENABLE_CUSTOM_STARTING_TITLE ? StartingTitleConfig.CUSTOM_STARTING_TITLE : "");
 		

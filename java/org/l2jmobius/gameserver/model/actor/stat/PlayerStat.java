@@ -884,4 +884,26 @@ public class PlayerStat extends PlayableStat
 			player.getServitors().values().forEach(servitor -> servitor.getStat().recalculateStats(broadcast));
 		}
 	}
+
+	@Override
+	public double getMul(org.l2jmobius.gameserver.model.stats.Stat stat, double defaultValue)
+	{
+		double val = super.getMul(stat, defaultValue);
+		Player player = getActiveChar();
+		if (player != null && player.getPvpVitality() != null)
+		{
+			if ((stat == org.l2jmobius.gameserver.model.stats.Stat.PVP_PHYSICAL_ATTACK_DAMAGE) ||
+				(stat == org.l2jmobius.gameserver.model.stats.Stat.PVP_PHYSICAL_SKILL_DAMAGE) ||
+				(stat == org.l2jmobius.gameserver.model.stats.Stat.PVP_MAGICAL_SKILL_DAMAGE) ||
+				(stat == org.l2jmobius.gameserver.model.stats.Stat.HEAL_EFFECT) ||
+				(stat == org.l2jmobius.gameserver.model.stats.Stat.REGENERATE_MP_RATE))
+			{
+				double bonus = player.getPvpVitality().getBonusMultiplier();
+				if (bonus > 0) val += val * bonus;
+			}
+			
+			
+		}
+		return val;
+	}
 }

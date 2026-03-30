@@ -11,7 +11,7 @@ import org.l2jmobius.gameserver.model.StatSet;
 import org.l2jmobius.gameserver.model.actor.Npc;
 import org.l2jmobius.gameserver.model.actor.Player;
 import org.l2jmobius.gameserver.model.actor.enums.creature.Fraction;
-import org.l2jmobius.gameserver.config.custom.SevenSignsConfig;
+import org.l2jmobius.gameserver.config.custom.AltSettingsConfig;
 import org.l2jmobius.gameserver.model.entity.SevenSigns;
 import org.l2jmobius.gameserver.model.item.enums.ItemProcessType;
 import org.l2jmobius.gameserver.model.script.Script;
@@ -95,7 +95,7 @@ public class SignsPriest extends Script
 		// Mammon NPCs: require Seven Signs registration (except GM)
 		if ((npcId == MAMMON_MERCHANT) || (npcId == MAMMON_BLACKSMITH))
 		{
-			if ((SevenSigns.getInstance().getPlayerCabal(player) == SevenSigns.CABAL_NULL) && !player.isGM() && !SevenSignsConfig.ALT_SS_MAMMON_ALL_ACCESS)
+			if ((SevenSigns.getInstance().getPlayerCabal(player) == SevenSigns.CABAL_NULL) && !player.isGM() && !AltSettingsConfig.ALT_SS_MAMMON_ALL_ACCESS)
                         {
                                 return null;
                         }
@@ -245,7 +245,7 @@ public class SignsPriest extends Script
 		// Merchant of Mammon (31113)
 		if (npcId == MAMMON_MERCHANT)
 		{
-			if (!player.isGM() && !SevenSignsConfig.ALT_SS_MAMMON_ALL_ACCESS)
+			if (!player.isGM() && !AltSettingsConfig.ALT_SS_MAMMON_ALL_ACCESS)
                         {
                                 if (compWinner == SevenSigns.CABAL_NULL)
                                 {
@@ -266,7 +266,7 @@ public class SignsPriest extends Script
 		// Blacksmith of Mammon (31126)
 		if (npcId == MAMMON_BLACKSMITH)
 		{
-			if (!player.isGM() && !SevenSignsConfig.ALT_SS_MAMMON_ALL_ACCESS)
+			if (!player.isGM() && !AltSettingsConfig.ALT_SS_MAMMON_ALL_ACCESS)
                         {
                                 if (compWinner == SevenSigns.CABAL_NULL)
                                 {
@@ -393,14 +393,14 @@ public class SignsPriest extends Script
 			return null;
 		}
 
-		if (SevenSignsConfig.ALT_SS_JOIN_COST > 0)
+		if (AltSettingsConfig.ALT_SS_JOIN_COST > 0)
 		{
-			if (player.getAdena() < SevenSignsConfig.ALT_SS_JOIN_COST)
+			if (player.getAdena() < AltSettingsConfig.ALT_SS_JOIN_COST)
 			{
 				player.sendMessage("Недостаточно адены для участия.");
 				return null;
 			}
-			player.reduceAdena(ItemProcessType.FEE, SevenSignsConfig.ALT_SS_JOIN_COST, npc, true);
+			player.reduceAdena(ItemProcessType.FEE, AltSettingsConfig.ALT_SS_JOIN_COST, npc, true);
 		}
 		
 		ss.setPlayerInfo(player.getObjectId(), cabal, newSeal);
@@ -578,17 +578,17 @@ public class SignsPriest extends Script
 			case 1:
 				stoneColor = "синих";
 				stoneId = SevenSigns.SEAL_STONE_BLUE_ID;
-				stoneValue = SevenSignsConfig.ALT_SS_BLUE_STONE_VAL;
+				stoneValue = AltSettingsConfig.ALT_SS_BLUE_STONE_VAL;
 				break;
 			case 2:
 				stoneColor = "зеленых";
 				stoneId = SevenSigns.SEAL_STONE_GREEN_ID;
-				stoneValue = SevenSignsConfig.ALT_SS_GREEN_STONE_VAL;
+				stoneValue = AltSettingsConfig.ALT_SS_GREEN_STONE_VAL;
 				break;
 			case 3:
 				stoneColor = "красных";
 				stoneId = SevenSigns.SEAL_STONE_RED_ID;
-				stoneValue = SevenSignsConfig.ALT_SS_RED_STONE_VAL;
+				stoneValue = AltSettingsConfig.ALT_SS_RED_STONE_VAL;
 				break;
 			default:
 				return null;
@@ -751,14 +751,14 @@ public class SignsPriest extends Script
 			return "blkmrkt_4.htm";
 		}
 		
-		if (!SevenSignsConfig.ALT_SS_AA_TO_ADENA_ENABLED)
+		if (!AltSettingsConfig.ALT_SS_AA_TO_ADENA_ENABLED)
 		{
 			return null;
 		}
 
 		if (player.destroyItemByItemId(ItemProcessType.QUEST, SevenSigns.ANCIENT_ADENA_ID, ancientAdenaConvert, npc, true))
 		{
-			player.addAdena(ItemProcessType.QUEST, (long)(ancientAdenaConvert * SevenSignsConfig.ALT_SS_AA_TO_ADENA_RATE), npc, true);
+			player.addAdena(ItemProcessType.QUEST, (long)(ancientAdenaConvert * AltSettingsConfig.ALT_SS_AA_TO_ADENA_RATE), npc, true);
 		}
 		
 		return "blkmrkt_5.htm";

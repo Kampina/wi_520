@@ -300,6 +300,7 @@ public class EffectMasterHandler
 		EffectHandler.getInstance().registerHandler("OpenDoor", OpenDoor::new);
 		EffectHandler.getInstance().registerHandler("OpenDwarfRecipeBook", OpenDwarfRecipeBook::new);
 		EffectHandler.getInstance().registerHandler("Passive", Passive::new);
+		EffectHandler.getInstance().registerHandler("PerfectionPower", PerfectionPower::new);
 		EffectHandler.getInstance().registerHandler("PhysicalAbnormalResist", PhysicalAbnormalResist::new);
 		EffectHandler.getInstance().registerHandler("PhysicalAttack", PhysicalAttack::new);
 		EffectHandler.getInstance().registerHandler("PhysicalAttackRange", PhysicalAttackRange::new);
@@ -443,6 +444,7 @@ public class EffectMasterHandler
 		EffectHandler.getInstance().registerHandler("TeleportToSummon", TeleportToSummon::new);
 		EffectHandler.getInstance().registerHandler("TeleportToTarget", TeleportToTarget::new);
 		EffectHandler.getInstance().registerHandler("TeleportToTeleportLocation", TeleportToTeleportLocation::new);
+		EffectHandler.getInstance().registerHandler("TrackLimitedSkill", TrackLimitedSkill::new);
 		EffectHandler.getInstance().registerHandler("TransferDamageToPlayer", TransferDamageToPlayer::new);
 		EffectHandler.getInstance().registerHandler("TransferDamageToSummon", TransferDamageToSummon::new);
 		EffectHandler.getInstance().registerHandler("TransferHate", TransferHate::new);

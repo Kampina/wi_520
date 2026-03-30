@@ -44,7 +44,7 @@ import org.l2jmobius.gameserver.network.serverpackets.ExShowScreenMessage;
 import org.l2jmobius.gameserver.network.serverpackets.PopupEventHud;
 import org.l2jmobius.gameserver.util.Broadcast;
 import org.l2jmobius.gameserver.model.entity.SevenSigns;
-import org.l2jmobius.gameserver.config.custom.SevenSignsConfig;
+import org.l2jmobius.gameserver.config.custom.AltSettingsConfig;
 
 /**
  * @author Mobius
@@ -117,7 +117,7 @@ public class SevenSignsDungeons extends Script
 				final Location location = ENTER_TELEPORTS.get(npc.getId());
 				if ((location != null) && _active)
 				{
-					if (SevenSignsConfig.ALT_SS_CATACOMBS_WINNER_ONLY && SevenSigns.getInstance().isSealValidationPeriod())
+					if (AltSettingsConfig.ALT_SS_CATACOMBS_WINNER_ONLY && SevenSigns.getInstance().isSealValidationPeriod())
 					{
 						final int playerCabal = SevenSigns.getInstance().getPlayerCabal(player);
 						final int winner = SevenSigns.getInstance().getCabalHighestScore();

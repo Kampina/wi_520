@@ -101,6 +101,8 @@
 	<class classId="131" name="Doombringer" parentClassId="127" />
 	<class classId="195" name="Soul Hound" parentClassId="194" />
 	<class classId="134" name="Trickster" parentClassId="130" />
+	<class classId="135" name="Inspector" parentClassId="126" />
+	<class classId="136" name="Judicator" parentClassId="135" />
 	<!-- Death Knight - Human -->
 	<class classId="196" name="Death Pilgrim" />
 	<class classId="197" name="Death Blade" parentClassId="196" />

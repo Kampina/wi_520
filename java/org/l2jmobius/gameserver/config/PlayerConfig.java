@@ -437,8 +437,8 @@ public class PlayerConfig
 		FEE_DELETE_TRANSFER_SKILLS = config.getInt("FeeDeleteTransferSkills", 10000000);
 		FEE_DELETE_SUBCLASS_SKILLS = config.getInt("FeeDeleteSubClassSkills", 10000000);
 		FEE_DELETE_DUALCLASS_SKILLS = config.getInt("FeeDeleteDualClassSkills", 20000000);
-		ENABLE_VITALITY = config.getBoolean("EnableVitality", true);
-		STARTING_VITALITY_POINTS = config.getInt("StartingVitalityPoints", 140000);
+		ENABLE_VITALITY = false;
+		STARTING_VITALITY_POINTS = 140000;
 		RAIDBOSS_USE_VITALITY = config.getBoolean("RaidbossUseVitality", true);
 		MAX_BONUS_EXP = config.getDouble("MaxExpBonus", 0);
 		MAX_BONUS_SP = config.getDouble("MaxSpBonus", 0);

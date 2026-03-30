@@ -185,7 +185,7 @@ public class NpcConfig
 		INVENTORY_MAXIMUM_PET = config.getInt("MaximumSlotsForPet", 12);
 		PET_HP_REGEN_MULTIPLIER = config.getDouble("PetHpRegenMultiplier", 100) / 100;
 		PET_MP_REGEN_MULTIPLIER = config.getDouble("PetMpRegenMultiplier", 100) / 100;
-		VITALITY_CONSUME_BY_MOB = config.getInt("VitalityConsumeByMob", 2250);
-		VITALITY_CONSUME_BY_BOSS = config.getInt("VitalityConsumeByBoss", 1125);
+		VITALITY_CONSUME_BY_MOB = 0;
+		VITALITY_CONSUME_BY_BOSS = 1125;
 	}
 }
